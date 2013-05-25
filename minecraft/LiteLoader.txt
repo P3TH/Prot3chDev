@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828109</millis>
+  <sequence>2422</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initLoader</method>
+  <thread>22</thread>
+  <message>LiteLoader 1.4.6 starting up...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828111</millis>
+  <sequence>2424</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initLoader</method>
+  <thread>22</thread>
+  <message>Java reports OS="windows vista"</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828113</millis>
+  <sequence>2426</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Mods folder found, searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\mods</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828116</millis>
+  <sequence>2428</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Found 4 mod file(s)</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828117</millis>
+  <sequence>2430</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Enumerating class path...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828117</millis>
+  <sequence>2432</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Class path separator=";"</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828117</millis>
+  <sequence>2434</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Class path entries=(
+   classpathEntry=C:\Users\ethan\Desktop\FTB_Launcher.jar
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\instMods\Atmosmobs (2).zip
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\instMods\liteloader_1.4.6.zip
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\instMods\MinecraftForge.zip
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\minecraft.jar
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\lwjgl.jar
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\lwjgl_util.jar
+   classpathEntry=C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\jinput.jar
+)</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828118</millis>
+  <sequence>2436</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Loading mods from class path...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828119</millis>
+  <sequence>2438</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching protection domain code source...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828120</millis>
+  <sequence>2440</sequence>
+  <logger>liteloader</logger>
+  <level>WARNING</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Error loading from local class path: URI is not hierarchical</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828122</millis>
+  <sequence>2442</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB_Launcher.jar...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828147</millis>
+  <sequence>2444</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\instMods\Atmosmobs (2).zip...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828171</millis>
+  <sequence>2446</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\instMods\liteloader_1.4.6.zip...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828176</millis>
+  <sequence>2448</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\instMods\MinecraftForge.zip...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828276</millis>
+  <sequence>2450</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\minecraft.jar...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828497</millis>
+  <sequence>2452</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\lwjgl.jar...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828549</millis>
+  <sequence>2454</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\lwjgl_util.jar...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828558</millis>
+  <sequence>2456</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\bin\jinput.jar...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828571</millis>
+  <sequence>2458</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\mods\lib_voxelcommon_1.4.6.litemod...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828574</millis>
+  <sequence>2460</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\mods\lib_voxelpacket_2.0.1_mc1.4.6.litemod...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828583</millis>
+  <sequence>2462</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Found 1 potential matches</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828583</millis>
+  <sequence>2464</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\mods\mod_voxelmenu_1.4.6_03.litemod...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828601</millis>
+  <sequence>2466</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Found 1 potential matches</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828602</millis>
+  <sequence>2468</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Searching C:\Users\ethan\Desktop\FTB\prot3ch\minecraft\mods\mod_voxelplayer_0.9.4_mc1.4.6.litemod...</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828619</millis>
+  <sequence>2470</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>findModClasses</method>
+  <thread>22</thread>
+  <message>Found 1 potential matches</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828619</millis>
+  <sequence>2472</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>prepareMods</method>
+  <thread>22</thread>
+  <message>Mod class discovery completed</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828619</millis>
+  <sequence>2474</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Discovered 3 total mod(s)</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828621</millis>
+  <sequence>2476</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Loading mod from com.thevoxelbox.voxelpacket.client.LiteModVoxelPacket</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828627</millis>
+  <sequence>2478</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Successfully added mod VoxelPacket version 2.0.1</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828628</millis>
+  <sequence>2480</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Loading mod from com.thevoxelbox.voxelplayer.LiteModVoxelPlayer</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828652</millis>
+  <sequence>2482</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Successfully added mod VoxelPlayer version 0.9.3</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828652</millis>
+  <sequence>2484</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Loading mod from com.voxelbox.mainmenu.LiteModVoxelMenu</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828665</millis>
+  <sequence>2486</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>loadMods</method>
+  <thread>22</thread>
+  <message>Successfully added mod VoxelMenu version 1.4.6</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828665</millis>
+  <sequence>2488</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initMods</method>
+  <thread>22</thread>
+  <message>Initialising mod VoxelPacket version 2.0.1</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828667</millis>
+  <sequence>2490</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initMods</method>
+  <thread>22</thread>
+  <message>Initialising mod VoxelPlayer version 0.9.3</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828757</millis>
+  <sequence>2494</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>initMods</method>
+  <thread>22</thread>
+  <message>Initialising mod VoxelMenu version 1.4.6</message>
+</record>
+<record>
+  <date>2013-05-25T09:17:08</date>
+  <millis>1369469828769</millis>
+  <sequence>2496</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.HookProfiler</class>
+  <method>DetectOptifine</method>
+  <thread>22</thread>
+  <message>Optifine not detected</message>
+</record>
+<record>
+  <date>2013-05-25T09:18:02</date>
+  <millis>1369469882098</millis>
+  <sequence>5209</sequence>
+  <logger>liteloader</logger>
+  <level>INFO</level>
+  <class>com.mumfrey.liteloader.core.LiteLoader</class>
+  <method>onInit</method>
+  <thread>22</thread>
+  <message>Calling late init for mod VoxelPlayer</message>
+</record>

@@ -1,0 +1,33 @@
+name:Moulin abandonné
+weight:10
+radius:10
+
+biome:forest
+biome:plains
+biome:foresthills
+
+//extraBiomes mod
+biome:forested hills
+biome:autumn woods
+biome:green hills
+biome:woodlands
+
+//plenty o'biomes mod
+biome:garden
+biome:grassland
+biome:highland
+biome:meadow
+biome:mountain
+biome:orchard
+biome:boreal forest
+biome:grove
+biome:seasonal forest
+biome:woodland
+
+biome:wasteland
+biome:dead forest
+biome:drylands
+
+
+//starting buildings:
+centre:abandonedmill

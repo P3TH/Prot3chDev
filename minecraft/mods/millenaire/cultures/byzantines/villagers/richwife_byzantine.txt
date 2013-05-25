@@ -1,0 +1,22 @@
+native_name=Plousia Gynaika
+gender=female
+familyNameList=greek_family_names
+firstNameList=greek_women_names
+baseheight=0.9
+health=20
+
+texture=/graphics/mob/byzanz/wife0.png
+texture=/graphics/mob/byzanz/wife1.png
+texture=/graphics/mob/byzanz/wife2.png
+texture=/graphics/mob/byzanz/wife3.png
+texture=/graphics/mob/byzanz/wife4.png
+
+goal=gorest
+goal=gopray
+goal=deliverResourcesShop
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+requiredFood=bread,5
+
+baseAttackStrength=3
