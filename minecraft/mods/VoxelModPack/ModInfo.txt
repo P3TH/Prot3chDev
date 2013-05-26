@@ -53,21 +53,6 @@ by ReiFNSK
 -Press "X" to toggle the large map
 -Press "M" to bring up the minimap menu
 ------------------------------------
-GlitterHaddon
-by Hurricaaane
-Minaptics
--Press "Tab" to toggle zoom
--Hold "Tab" & move your mouse up
-   or down to adjust the zoom level
-MLP Skinning In-Game
--Press "CTRL-SHIFT-P" to enable
-    Pony Edit Mode.
--Edit .minecraft/skin.png with an
-    external editor.
--Whenever you edit this file, your
-    skin will update ingame to view
--Also works with the human model
-------------------------------------
 Macro/Keybind Mod
 by Mumfrey
 -Allows for complex marcos, keybinds, and
