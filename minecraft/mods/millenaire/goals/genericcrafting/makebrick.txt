@@ -23,7 +23,7 @@ output=bricks,1
 
 //s'il y a plus d'objets dans le centre du village que ça, arrêter le but
 //if more than that number of item is present in townhall, stop goal
-townhalllimit=bricks,256
+townhalllimit=bricks,512
 
 
 //son à jouer quand un objet est fabriqué

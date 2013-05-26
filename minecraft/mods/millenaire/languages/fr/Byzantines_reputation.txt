@@ -1,10 +1,10 @@
-0;Stranger;En tant que peuple commercant nous nous devons d'accepter quiconque, sans toutefois accorder notre confiance.
-4*64;Known Face;Finalement, On vous vois souvent dans ce quartier Romain.
-16*64;Regular visitor;Xaire, $name! Enchanté de vous revoir. Comment allez vous ?
-64*64;Favourite Trader;Tout le monde ici est content de vous revoir. Avez vous quelque chose à échanger ?
-2*64*64;Friend of the village;Vous faites partie du village $name, nous vous faisons confiance maintenant !
-8*64*64;One of us;Nous vous voyons comme un citoyen Romain maintenant. Peut-être n'êtes vous pas né parmi nous, mais vous pouvez être fier d'être appellé comme un vrai Romain.
-32*64*64;Natural leader;$name, vous avez gagné la confiance et le respect des Byzantins. Ils vous suivront où que ce soit.
--64;Nuisance;Vous n'êtes pas très aimable. Faîtes attention où vous allez.
--4*64;Unpleasant outsider;Nous acceptons les commerçants, mais pas les gens de votre espèce. Soyez-en prévenu.
--16*64;Public enemy;Cela embarrasse l'empire Romain tout entier de vous laisser vivre. Si vous tenez à la vie, quittez les terres romaines et ne revenez jamais.
+0;Ã‰tranger;En tant que peuple commercant nous nous devons d'accepter quiconque, sans toutefois accorder notre confiance.
+4*64;Personne connue;Finalement, On vous vois souvent dans ce quartier Romain.
+16*64;Visiteur frÃ©quent;Xaire, $name! EnchantÃ© de vous revoir. Comment allez vous ?
+64*64;Marchant prÃ©fÃ©rÃ©;Tout le monde ici est content de vous revoir. Avez vous quelque chose Ã  Ã©changer ?
+2*64*64;Ami du village;Vous faites partie du village $name, nous vous faisons confiance maintenant !
+8*64*64;Un des nÃ´tres;Nous vous voyons comme un citoyen Romain maintenant. Peut-Ãªtre n'Ãªtes vous pas nÃ© parmi nous, mais vous pouvez Ãªtre fier d'Ãªtre appellÃ© comme un vrai Romain.
+32*64*64;Chef reconnu;$name, vous avez gagnÃ© la confiance et le respect des Byzantins. Ils vous suivront oÃ¹ que ce soit.
+-64;Nuisance;Vous n'Ãªtes pas trÃ¨s aimable. FaÃ®tes attention oÃ¹ vous allez.
+-4*64;Peste;Nous acceptons les commerÃ§ants, mais pas les gens de votre espÃ¨ce. Soyez-en prÃ©venu.
+-16*64;Ennemi public;Cela embarrasse l'empire Romain tout entier de vous laisser vivre. Si vous tenez Ã  la vie, quittez les terres romaines et ne revenez jamais.

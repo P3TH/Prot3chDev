@@ -12,9 +12,9 @@ goal=gopray
 goal=patrol
 goal=huntmonster
 goal=bringBackResourcesHome
-goal=collectCrop
-goal=plantSeeds
-goal=getTool
+goal=harvestwheathome
+goal=plantwheathome
+
 
 collectGood=seeds
 collectGood=rice

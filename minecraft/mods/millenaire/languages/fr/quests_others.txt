@@ -199,3 +199,20 @@ fishingfrenzy_1_description_success=Parfait, ce sont de très beaux poissons! Le
 fishingfrenzy_1_description_refuse=
 fishingfrenzy_1_description_timeup=Vous n'avez pas réussit à pêcher les poissons à temps.
 fishingfrenzy_1_listing=Attrapez quatre poissons et apportez les à $wife_villagername$.
+
+
+architectwife_0_label=Le repas du mari
+architectwife_0_description=Mon mari l'architecte $architect_villagername$ meurt de faim et j'ai oublié son repas! Pouvez-vous lui apporter ce poisson?
+architectwife_0_description_success=Merci, citoyen!
+architectwife_0_description_refuse=Vous n'êtes pas très aimable.
+architectwife_1_label=J'ai faim!
+architectwife_1_description=Ma femme a encore oublié mon repas! Ah, les femmes!
+architectwife_1_description_success=C'était très aimable de votre part.
+architectwife_1_description_refuse=Il ne faut jamais faire confiance aux étrangers.
+architectwife_1_description_timeup=Vous n'avez pas apportez le repas à temps. Les villageois de $architect_villagename$ n'oublieront pas.
+architectwife_1_listing=Donnez son repas à $architect_villagername$ du village de $architect_villagename$.
+
+lumbermanwine_0_label=J'ai soif!
+lumbermanwine_0_description=C'est tellement de travail de couper du bois... Si seulement une âme généreuse m'apportait du vin!
+lumbermanwine_0_description_success=Ah, ça fait du bien! Je vous remercie!
+lumbermanwine_0_description_refuse=Ne comptez pas sur moi la prochaine fois qu'il vous faut du bois!

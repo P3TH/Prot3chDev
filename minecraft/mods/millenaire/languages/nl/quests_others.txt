@@ -380,3 +380,22 @@ fishingfrenzy_1_description_timeup=Je kon de vissen niet op tijd vangen. De burg
 fishingfrenzy_1_listing=Vang vier vissen en breng ze naar $wife_villagername$
 
 
+
+
+architectwife_0_label=Echtenoot zijn lunch
+architectwife_0_description=Mijn man $architect_villagername$ de architect is  
+hongerig en ik ben vergeten zijn eten in te pakken! Kun je hem deze vis brengen?
+architectwife_0_description_success=Dank je, mijn goede man!
+architectwife_0_description_refuse=Je bent niet echt de behulpzame soort.
+architectwife_1_label=Hongerig!
+architectwife_1_description=Mijn vrouw is m'n eten weer eens vergeten, vrouwen hè!
+architectwife_1_description_success=Dat was verschrikkelijk aardig van je!
+architectwife_1_description_refuse=Vertrouw nooit een vreemde.
+architectwife_1_description_timeup=Je hebt het eten niet op tijd geleverd. De dorpeling van $architect_villagename$ zullen het niet vergeten
+architectwife_1_listing=Geef  
+$architect_villagername$ in dorp $architect_villagename$ zijn lunch.
+
+lumbermanwine_0_label=Dorstig!
+lumbermanwine_0_description=Houthakken is zulk hard werk... Als iemand me maar een fles wijn kom brengen!
+lumbermanwine_0_description_success=Ah, dat had ik echt nodig. Bedankt goede man!
+lumbermanwine_0_description_refuse=Reken niet op mij als je hout nodig hebt!

@@ -12,7 +12,7 @@ texture=/graphics/mob/norman/ML_Armoredbandit1.png
 
 goal=gorest
 goal=goDrink
-goal=getTool
+
 goal=patrol
 goal=huntmonster
 

@@ -12,7 +12,7 @@ goal=gopray
 goal=goDrink
 goal=patrol
 goal=huntmonster
-goal=getTool
+
 
 toolNeeded=normanBroadsword
 

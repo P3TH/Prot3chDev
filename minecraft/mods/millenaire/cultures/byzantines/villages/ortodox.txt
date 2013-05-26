@@ -26,8 +26,7 @@ centre:churchbyzantine
 start:lumberbyzantine
 start:architectbyzantine
 start:farmbyzantine
-start:groveoakbyzantine
-start:grovebirchbyzantine
+start:grovebyzantine
 
 player:villa urbana
 
@@ -40,13 +39,13 @@ core:fisherbyzantine
 core:workshopbyzantine
 core:quarrybyzantine
 core:silkfarmbyzantine
+core:well
 
 //to be built after the core ones
 secondary:farmbyzantine
 
 secondary:quarrybyzantine
 secondary:basilkabyzantine
-
 
 never:vineyardbyzantine
 never:tavernbyzantine

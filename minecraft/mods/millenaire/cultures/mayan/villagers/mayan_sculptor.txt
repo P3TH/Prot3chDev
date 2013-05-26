@@ -7,8 +7,8 @@ texture=/graphics/mob/mayan/mayan_Sculptor0.png
 
 goal=gorest
 goal=gopray
-goal=sculptMayan
-goal=makeGoldBlock
+goal=makemayanstatue
+goal=makemayangoldblock
 
 requiredGood=stone,20
 requiredGood=sandstone,20

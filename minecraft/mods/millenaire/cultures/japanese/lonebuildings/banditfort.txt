@@ -1,6 +1,7 @@
 name:Zokuto no Bakusha
 carriesraid:true
 
+mindistancefromspawn:2000
 
 weight:10
 radius:50
@@ -8,13 +9,6 @@ biome:extreme hills
 biome:foresthills
 biome:forest
 biome:taiga
-
-biome:alps
-biome:mountain
-biome:highland
-biome:arctic
-biome:bamboo forest
-biome:cherry blossom grove
 
 //starting buildings:
 centre:banditfort

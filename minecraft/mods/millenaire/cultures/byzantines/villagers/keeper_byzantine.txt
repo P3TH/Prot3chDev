@@ -11,4 +11,6 @@ goal=goDrink
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
 
+tag=helpInAttacks
+
 baseAttackStrength=6

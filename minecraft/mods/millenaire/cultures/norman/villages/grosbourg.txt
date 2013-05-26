@@ -14,15 +14,9 @@ biome:plains
 biome:river
 
 //extraBiomes mod
+biome:autumn woods
 biome:green hills
-
-//plenty o'biomes mod
-biome:garden
-biome:grassland
-biome:highland
-biome:meadow
-biome:mountain
-biome:orchard
+biome:forested hills
 
 //hamlets to be generated around:
 hameau:hameau_agricole
@@ -34,6 +28,7 @@ centre:fort
 start:guardhouse
 start:guardhouse
 start:inn
+start:carpenterhouse
 
 player:playersmallfield
 player:playersmallhouse
@@ -50,7 +45,7 @@ core:tavern
 core:market
 core:fountain
 core:largefountain
-core:carpenterhouse
+
 
 //to be built after the core ones
 secondary:archives

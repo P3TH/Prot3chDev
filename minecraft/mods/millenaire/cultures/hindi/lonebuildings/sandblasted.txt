@@ -6,8 +6,6 @@ biome:deserthills
 
 //extraBiomes mod
 biome:mountain desert
-biome:dunes
-biome:lush desert
-biome:mesa
+
 //starting buildings:
 centre:sandblasted

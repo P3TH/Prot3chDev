@@ -11,15 +11,14 @@ texture=/graphics/mob/japanese/japanese_Peasant_Wife1.png
 goal=gorest
 goal=gopray
 goal=bringBackResourcesHome
-goal=collectCrop
-goal=plantSeeds
+goal=harvestwheathome
+goal=plantwheathome
 goal=plantRice
 goal=makethatch
 goal=getHouseTHResources
 goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
 
 collectGood=seeds
 collectGood=rice
@@ -27,9 +26,15 @@ collectGood=wheat
 
 bringBackHomeGood=wheat
 bringBackHomeGood=rice
+bringBackHomeGood=seeds
 
 startingInv=seeds,100
 startingInv=rice,50
 
-toolNeeded=steelHoe
+requiredFood=cider,1
+requiredFood=calva,1
+requiredFood=rasgulla,1
+requiredFood=wine,1
+requiredFood=feta,1
 
+toolNeeded=steelHoe

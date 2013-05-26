@@ -3,8 +3,9 @@ gender=male
 familyNameList=greek_family_names
 firstNameList=greek_men_names
 tag=HelpInAttacks
-hiringcost=0
-
+tag=raider
+tag=archer
+hiringcost=1
 texture=/graphics/mob/byzanz/soldier0.png
 
 goal=gorest
@@ -12,15 +13,37 @@ goal=gopray
 goal=goDrink
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
+
 goal=patrol
+goal=training
+goal=huntmonster
+goal=gatherGoods
+goal=bringBackResourcesHome
+
+collectGood=arrow
+collectGood=rottenflesh
+collectGood=spidereye
+collectGood=string
+
+bringBackHomeGood=string
+bringBackHomeGood=spidereye
+bringBackHomeGood=rottenflesh
+bringBackHomeGood=arrow
 
 toolNeeded=steelSword
+toolNeeded=steelhelmet
 toolNeeded=steelchest
 toolNeeded=steellegs
 toolNeeded=steelboots
 
-toolNeeded=steelsword
+toolNeeded=bow
+
+toolNeeded=byzantineMace
+toolNeeded=byzantinelegs
+toolNeeded=byzantineboots
+toolNeeded=byzantineplate
+toolNeeded=byzantinehelmet
+
 baseAttackStrength=12
 tag=helpInAttacks
 defaultweapon=woodsword

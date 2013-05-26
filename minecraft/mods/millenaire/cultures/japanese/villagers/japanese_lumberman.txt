@@ -13,7 +13,7 @@ goal=chopTrees
 goal=gatherGoods
 goal=plantSaplings
 goal=bringBackResourcesHome
-goal=getTool
+
 
 startinginv=sapling,10
 

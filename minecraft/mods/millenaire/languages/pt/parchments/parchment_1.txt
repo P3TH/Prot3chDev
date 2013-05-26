@@ -1,11 +1,11 @@
-version:1.1.4
+version:4.2.1
 Millénaire: Aldeões Normandos
 
 Chefes da Aldeia
 
 Chevalier: Cavaleiro. Vive no forte, do qual se retira para patrulhar as suas terras e visitar a taberna. Tenha cuidado ao enfrentá-lo em combate! Líder das aldeias militares e das grandes vilas.
 
-Moine: Monge. Vive na abadia, na qual ele copia arduamente livros antigos para novos pergaminhos. Uma arte, segundo ele. Líder das aldeias e aldeolas secundárias eclesiásticas.
+Abbé: Abade. Vive na abadia, supervisionando o trabalho dos monges. Líder das aldeias e aldeolas secundárias eclesiásticas.
 
 Sénéchal: Senescal. Supervisiona a produção agrícola da sua aldeia a partir do seu solar. Líder das aldeias e aldeolas secundárias agrícolas.
 
@@ -34,6 +34,8 @@ Eleveur: Criador de Gado. Vive numa quinta bovina, suína ou ovina. Recolhe dive
 Mineur: Mineiro. Vive e trabalha numa pedreira, explorando-a incansavelmente para obter pedra e areia. Quando a sua pedreira é actualizada e recebe fornos, ele funde a pedra para criar pedra lisa e a areia para criar vidro.
 
 Charpentier: Carpinteiro. Vive e trabalha numa carpintaria, onde fabrica armações de madeira para serem utilizadas na construção.
+
+Moine: Monge. Vive na abadia, na qual ele copia arduamente livros antigos para novos pergaminhos. Uma arte, segundo ele.
 
 Marchant: Comerciante. Viaja de albergaria em albergaria, negociando bens de uma aldeia para outra. Faz parte do seu destino deambular pelo bem de todos os aldeões.
 

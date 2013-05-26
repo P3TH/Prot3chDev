@@ -29,10 +29,12 @@ villager.japanese_womanservant=Ancella
 villager.japanese_merchant_food=Mercante di cibo
 villager.japanese_merchant_blacksmith=Maniscalco
 villager.japanese_bravewoman=Donna coraggiosa
-
+villager.japanese_bandit=Bandito giapponese
 
 shop.japanesetownhall=Negozio principale
 shop.forge=Utensili
 shop.armyforge=Armi e armature
 shop.japanesecrafter=Carta
 shop.kitchen=Alimentari
+shop.lonemine=Pietre
+shop.japaneseoutpost=Negozio centrale

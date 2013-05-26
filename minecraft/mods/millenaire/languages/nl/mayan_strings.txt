@@ -21,21 +21,22 @@ villager.mayan_king=Koning
 villager.mayan_merchant=Handelaar
 villager.mayan_chickenfarmer=Kippenboer
 villager.mayan_farmer=Maïs Boer
-
 villager.lonemayanfarmer=Eenzame Boer
 villager.lonemayanpeasantwife=Vrouw Van De Boer
 villager.lonemayanshaman=Shamaan
 villager.lonemayanshamanwife=Shamaan's Vrouw
 villager.mayanbanditboy=Bandietenjongen
-villager.mayanbanditwarrior=Bandietensoldaat
-villager.mayanfemalebandit=Bandietenmeisje
-
+villager.mayanbanditwarrior=Bandietensoldaatvillager.mayanfemalebandit=Bandietenmeisje
 villager.merchant_mayanfarmer=Agrarische Handelaar
 villager.merchant_mayanhunter=Jagers Handelaar
 villager.merchant_mayanshaman=Shamaan Handelaar
+villager.mayanbanditwarrior=Bandieten Soldaat
+villager.mayanfemalebandit=Bandieten Meisje
+villager.mayan_obsidiancrafter=Obsidiaan Handwerker
 
 shop.mayantownhall=Centrale winkel
 shop.mayancrafter=Werktuigen
 shop.mayanarmyforge=Pantser en wapens
 shop.mayansheepchickenfarm=Kipproducten
 shop.mayanobsidiancrafter=Obsidiaan objecten
+shop.lonemayanfarm=Boerderijproducten

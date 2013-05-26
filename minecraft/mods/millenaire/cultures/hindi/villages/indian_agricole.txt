@@ -9,15 +9,10 @@ biome:desert
 //extraBiomes mod
 
 biome:mountain desert
+biome:Jungle
+biome:lush swamplands
 biome:shrubland
-
-//Biomes o'Plenty
-biome:steppe
-biome:savanna
-biome:oasis
-biome:mangrove
-biome:lush desert
-biome:dunes
+biome:rainforest
 
 //starting buildings:
 centre:chiefhouse

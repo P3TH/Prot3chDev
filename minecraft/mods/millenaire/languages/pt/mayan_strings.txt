@@ -35,8 +35,9 @@ villager.merchant_mayanfarmer=Comerciante Agricultor
 villager.merchant_mayanhunter=Comerciante Caçador
 villager.merchant_mayanshaman=Comerciante Xamã
 
-shop.mayantownhall=Loja Central
-shop.mayancrafter=Ferramentas
+shop.lonemayanfarm=Productos Agrícolas
 shop.mayanarmyforge=Armas e Armaduras
-shop.mayansheepchickenfarm=Produtos de Aves
+shop.mayancrafter=Ferramentas
 shop.mayanobsidiancrafter=Objectos de Obsidiana
+shop.mayansheepchickenfarm=Produtos de Aves
+shop.mayantownhall=Loja Central

@@ -8,11 +8,15 @@ texture=/graphics/mob/japanese/japanese_Fisherman0.png
 
 goal=gorest
 goal=gopray
-goal=fish
+goal=goDrink
 goal=bringBackResourcesHome
-goal=getTool
+goal=fish
+goal=cookFish
 
 bringBackHomeGood=fishraw
+bringBackHomeGood=fishcooked
+
+requiredGood=wood_any,20
 
 toolNeeded=tachiSword
 baseAttackStrength=5

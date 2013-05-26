@@ -12,10 +12,12 @@ goal=gorest
 goal=gopray
 goal=bringBackResourcesHome
 goal=getResourcesForBuild
-goal=getTool
+goal=construction
+
 goal=slaughterChicken
 goal=harvestMaize
 goal=plantMaize
+goal=cookchicken
 
 toolNeeded=stonehoe
 toolNeeded=stonesword

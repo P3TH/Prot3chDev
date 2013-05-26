@@ -12,20 +12,25 @@ texture=/graphics/mob/japanese/japanese_Peasant_Wife1.png
 texture=/graphics/mob/japanese/japanese_Peasant_Wife2.png
 texture=/graphics/mob/japanese/japanese_Peasant_Wife3.png
 
-
 goal=gorest
 goal=gopray
 goal=getHouseTHResources
 goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
+
 goal=harvestRice
 goal=plantRice
-goal=cookfish
 goal=makeudon
 
+requiredGood=wheat,2
+requiredGood=chickenmeatcooked,1
 
+requiredFood=cider,1
+requiredFood=calva,1
+requiredFood=rasgulla,1
+requiredFood=wine,1
+requiredFood=feta,1
 
 toolNeeded=steelHoe
 

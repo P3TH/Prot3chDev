@@ -7,7 +7,12 @@ texture=/graphics/mob/mayan/mayan_ArmySmith0.png
 
 goal=gorest
 goal=gopray
-goal=makestonetools
+goal=makestonesword
+goal=makestoneaxe
+goal=makestonepickaxe
+goal=makestoneshovel
+goal=makestonehoe
+goal=makebow
 
 requiredGood=cobblestone,10
 requiredGood=wool_white,2

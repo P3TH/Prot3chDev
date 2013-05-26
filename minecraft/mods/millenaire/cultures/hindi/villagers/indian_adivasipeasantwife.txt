@@ -22,7 +22,7 @@ goal=getHouseTHResources
 goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
+
 goal=plantRice
 goal=harvestRice
 goal=plantTurmeric

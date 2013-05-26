@@ -1,10 +1,11 @@
-native_name=Eleveuse
+native_name=Eleveuse bovine
 gender=female
 familyNameList=family_names
 firstNameList=women_names
 baseheight=0.9
 malechild=boy
 femalechild=girl
+tag=seller
 
 texture=/graphics/mob/norman/ML_CattleFarmerFemale0.png
 
@@ -13,38 +14,31 @@ goal=gopray
 goal=goDrink
 goal=gatherGoods
 goal=bringBackResourcesHome
-goal=butcher
-goal=makeBoudin
-goal=makeTripes
+goal=slaughtercownorman
 goal=deliverResourcesShop
 goal=GetHouseTHResources
+goal=construction
+goal=makeBread
+goal=makeCider
+goal=makeCalva
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
 
 requiredFood=cider,5
-requiredFood=calva,5
+requiredFood=calva,2
+requiredFood=rasgulla,1
+requiredFood=wine,1
+requiredFood=feta,1
 
-collectGood=egg
-collectGood=feather
 collectGood=leather
 collectGood=porkchops
 collectGood=beefraw
-collectGood=wool_white
-collectGood=wool_gray
-collectGood=wool_lightgray
-collectGood=wool_black
-collectGood=wool_brown
-collectGood=wool_pink
+collectGood=beefcooked
+collectGood=tripes
 
-bringBackHomeGood=egg
-bringBackHomeGood=feather
-bringBackHomeGood=leather
-bringBackHomeGood=porkchops
 bringBackHomeGood=beefraw
-bringBackHomeGood=wool_white
-bringBackHomeGood=wool_gray
-bringBackHomeGood=wool_lightgray
-bringBackHomeGood=wool_black
-bringBackHomeGood=wool_brown
-bringBackHomeGood=wool_pink
+bringBackHomeGood=beefcooked
+bringBackHomeGood=leather
 bringBackHomeGood=tripes
 
 defaultweapon=woodaxe

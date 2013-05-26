@@ -8,11 +8,8 @@ biome:swampland
 
 //extraBiomes mod
 biome:lush swampland
-
-biome:bayou
-biome:bog
-biome:mangrove
-biome:wetland
+biome:jungle
+biome:rainforest
 
 //starting buildings:
 centre:mayanobservatory

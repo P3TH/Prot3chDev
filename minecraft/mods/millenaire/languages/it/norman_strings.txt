@@ -30,6 +30,13 @@ villager.seneschal=Siniscalco
 villager.smith=Fabbro
 villager.wife=Donna del villaggio
 
+villager.innkeeperfemale=Oste
+villager.innkeepermale=Oste
+villager.lonemiller=Mugnaio
+villager.merchant_weapons=Mercante d'armi
+villager.robberbaron=Barone fourilegge
+villager.robberleader=Capo dei ladri
+
 villager.lonelumberman=Boscaiolo solitario
 villager.lonelumbermantaiga=Boscaiolo solitario
 villager.loneminer=Minatore solitario
@@ -54,3 +61,10 @@ shop.pigfarm=Prodotti suini
 shop.sheepchickenfarm=Pollame e ovini
 shop.tavern=Alcohol
 shop.lumberman=Mele da sidro
+shop.lonemine=Pietre
+shop.alchemyworkshop=Prodotti alchemici
+shop.lonelumberman=Legname e mele
+shop.lonemill=Pane
+shop.loneinn=Cibo e bevande
+shop.lonelumbermantaiga=Legname
+shop.loneabbey=Prodotti dell'abazia

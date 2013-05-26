@@ -7,9 +7,12 @@ texture=/graphics/mob/mayan/mayan_Crafter0.png
 
 goal=gorest
 goal=gopray
-goal=makeobsidiantools
-goal=makeobsidianflakes
-goal=getTool
+goal=makemayanmace
+goal=makemayanaxe
+goal=makemayanpickaxe
+goal=makemayanshovel
+goal=makemayanhoe
+goal=makeobsidianflake
 
 toolNeeded=obsidian
 

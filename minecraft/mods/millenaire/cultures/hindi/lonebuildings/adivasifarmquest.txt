@@ -6,11 +6,6 @@ biome:swampland
 //extraBiomes mod
 biome:lush swamplands
 
-biome:bayou
-biome:bog
-biome:mangrove
-biome:wetland
-
 requiredtag:sadhu_5b_start
 max:1
 keyLoneBuilding:true

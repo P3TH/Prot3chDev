@@ -9,11 +9,5 @@ biome:autumn woods
 biome:forested island
 biome:forested hills
 
-//plenty o'biomes mod
-biome:boreal forest
-biome:grove
-biome:seasonal forest
-biome:woodland
-
 //starting buildings:
 centre:lonelumbermanhut

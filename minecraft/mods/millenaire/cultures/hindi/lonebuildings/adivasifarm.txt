@@ -5,11 +5,6 @@ biome:swampland
 //extraBiomes mod
 biome:lush swamplands
 
-biome:bayou
-biome:bog
-biome:mangrove
-biome:wetland
-
 //starting buildings:
 centre:adivasifarm
 

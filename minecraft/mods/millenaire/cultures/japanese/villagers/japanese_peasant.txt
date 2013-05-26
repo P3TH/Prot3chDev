@@ -11,8 +11,9 @@ goal=gorest
 goal=gopray
 goal=bringBackResourcesHome
 goal=getResourcesForBuild
+goal=construction
 goal=plantRice
-goal=getTool
+goal=breed
 goal=slaughterChicken
 goal=harvestRice
 
@@ -22,6 +23,7 @@ toolNeeded=tachiSword
 bringBackHomeGood=chickenmeat
 bringBackHomeGood=Rice
 
+requiredGood=seeds,10
 
 tag=helpInAttacks
 defaultweapon=woodhoe

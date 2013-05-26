@@ -5,8 +5,12 @@
 priority=25
 
 //en/in millisecondes
-duration=50000
+duration=25000
 
+//objets tenus par le villageois
+heldItems=wool_white,painting
+
+input=silk,1
 
 //chaque action consome tous les objets "input" et produit tous les "output"
 //each action will require and use all the inputs and produce all the outputs
@@ -15,6 +19,7 @@ output=painting,1
 //s'il y a plus d'objets dans le centre du village que ça, arrêter le but
 //if more than that number of item is present in townhall, stop goal
 townhalllimit=painting,3
+buildinglimit=painting,2
 
 
 //son à jouer quand un objet est fabriqué

@@ -11,7 +11,7 @@ fallback_language=en
 //Config
 //Keys to use for the village and quest listings
 village_list_key=V
-quest_list_key=B
+quest_list_key=M
 
 //automatically switch to the 64x texture pack if the Minecraft texture pack is 64x or above
 dynamic_textures=true
@@ -29,6 +29,9 @@ block_earth_id=1518
 block_stone_id=1519
 block_crops_id=1520
 block_panes_id=1521
+block_byzantine_brick_id=1522
+block_byzantine_slab_id=1523
+block_byzantine_mixedbrick_id=1524
 
 //ID of the first Millénaire item (the others are in sequence after it)
 //New ids for 3.0
@@ -67,8 +70,8 @@ display_names=true
 
 villagers_names_distance=20
 
-//distance from the player up to which villages stay active:
-active_radius=300
+//distance from the player up to which Millénaire will attempt to keep villages' chunks loaded
+keep_active_radius=200
 
 //Whether languages need to be "learned" (translations will only appear after the player interacts enough with a culture)
 language_learning=true

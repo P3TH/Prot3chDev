@@ -2,14 +2,16 @@
 
 //Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
 
-priority=75
+priority=50
 
 //en/in millisecondes
 duration=5000
 
+maxsimultaneousinbuilding=1
+
 
 //objets tenus par le villageois
-heldItems=grapes
+heldItems=grapes,wine
 
 //chaque action consome tous les objets "input" et produit tous les "output"
 //each action will require and use all the inputs and produce all the outputs
@@ -18,11 +20,11 @@ output=wine,1
 
 //s'il y a plus d'objets dans le centre du village que ça, arrêter le but
 //if more than that number of item is present in townhall, stop goal
-townhalllimit=wine,128
+buildinglimit=wine,16
 
 
 //son à jouer quand un objet est fabriqué
 //sound to play once an object is done
-sound=wood
+sound=glass
 
 buildingTag=tavern

@@ -121,7 +121,7 @@ ui.outsideradius=خارج حدود القرية
 ui.wrongelevation=تجاوز الإرتفاع المسموح به
 ui.danger=كتلة ضارة
 ui.notreachable=غير قادر للوصول للمنطقة
-ui.unknownerror=مشكلة غير معروفى
+ui.unknownerror=مشكلة غير معروفة
 ui.controlbuildingprojects=إدارة مشاريع البناء
 ui.forbidupgrades=اوقف التطوير
 ui.allowupgrades=اسمح بالتطوير
@@ -159,6 +159,23 @@ ui.cropoktolearn=القرية تستطيع تعليمك كيفية زراعة <0
 ui.croplearn=تعلم (<0>)
 ui.croplearned=<0>: لقد تعلمت اسرار زراعة <1>!
 ui.raider=مهاجم
+
+ui.communicationexplanations=للتواصل مع القرويين، انقر زر الماوس الأيمن. إذا كان عمل ما ممكن مع القروي مثل (تجارة، مناقشة مع رئيس القرية، التعاقد معه بشكل مؤقت، بدء مهمة) ستفتح نافذة.
+ui.helpbutton=تعليمات Millénaire
+
+help.tab_1=عموميات على القرى
+help.tab_2=المتاجرة
+help.tab_3=السمعة و رئيس القرية
+help.tab_4=نمو القرية
+help.tab_5=المعارك والغارات
+help.tab_6=إنشاء أو تدمير قرية
+help.tab_7=المهام
+help.tab_8=النورمان
+help.tab_9=الهنود
+help.tab_10=المايا
+help.tab_11=اليابانين
+help.tab_12=البيزنطينين
+help.tab_13=أسئلة وأجوبة
 
 
 quest.obtained=تم الحصول عليها
@@ -302,6 +319,26 @@ item.japanesevillagers=القرويين اليبانين
 item.japaneseitems=الأدوات اليبانية
 item.japanesebuildings=المباني اليابانية
 item.japanesefull=لفافة كاملة عن اليبانين
+
+item.emptysilkwormblock=كتلة دودة قز فارغة
+item.fullsilkwormblock=كتلة دودة القز
+item.byzantinebrick=بلاط بيزنطيني
+item.byzantineslab=لوح بلاط بيزنطيني
+item.byzantinemixedbrick=باط حجر بيزنطيني
+item.grapes=عنب
+item.wine=نبيذ مالفاسيا
+item.silk=حرير
+item.byzantineiconsmall=رمز بيزنطيني صغير
+item.byzantineiconmedium=رمز بيزنطيني متوسط
+item.byzantineiconlarge=رمز بيزنطيني كبير
+item.byzantineboots=حذاء بيزنطيني
+item.byzantinelegs=سروال بيزنطيني
+item.byzantinePlate=صفيحة صدر بيزنطينية
+item.byzantineHelmet=خوذة بيزنطينية
+item.byzantinemace=صولجان بيزنطيني
+item.vine=كروم
+
+
 
 error.unknownitem=اسم أداة غير معروف
 
@@ -447,31 +484,79 @@ goal.SlaughterChicken=يذبح الدجاج
 goal.PlantSugarCane=يزرع قصب السكر
 goal.HarvestSugarCane=يحصد قصب السكر
 goal.MakeRasgulla=يصنع راسجولات
-goal.MakeIndianTools=يصنع الادوات
-goal.MakeIndianWeapons=يصنع الاسلحة
-goal.scult=ينحت تمثال
-goal.performpujas=يقوم بإداء البوجا
+goal.Makesteelaxe=يصنع فأس من الفلاذ
+goal.Makesteelpickaxe=يصنع معول من الفلاذ
+goal.Makesteelshovel=يصنع مجرفة من الفولاذ
+goal.Makesteelhoe=يصنع معزقة من الفولاذ
+goal.Makesteelsword=يصنع سيف من الفولاذ
+
+goal.makesteelchest=يصنع صفيحة صدر من الفولاذ
+goal.makesteelhelmet=يصنع خوذة من الفولاذ
+goal.makesteellegs=يصنع سروال من الفولاذ
+goal.makesteelboots=يصنع حذاء من الفولاذ
+
+goal.makeindianstatue=ينحت تمثال
+goal.performpujas=يقوم بأداء البوجا
 goal.bepujaperformer=متاح للبوجا
 
 goal.PlantMaize=يزرع الذُرة
 goal.HarvestMaize=يحصد الذُرة
-goal.makeGoldBlock=يصنع زخارف ذهبية
-goal.sculptMayan=ينحت تمثال
-goal.makeobsidiantools=يصنع أدوات من السبج
-goal.makeobsidianflakes=يحطم السبج إلى رقائق
+goal.makemayanGoldBlock=يصنع زينة من الذهب
+goal.makemayanstatue=ينحت تمثال
+goal.Makestoneaxe=يصنع فأس من الحجر
+goal.Makestonepickaxe=يصنع معول من الحجر
+goal.Makestoneshovel=يصنع مجرفة من الحجر
+goal.Makestonehoe=يصنع معزقة من الحجر
+goal.Makestonesword=يصنع سيف من الحجر
+goal.makemayanaxe=يصنع فأس من السبج
+goal.makemayanpickaxe=يصنع معول من السبج
+goal.makemayanshovel=يصنع مجرفة من السبج
+goal.makemayanhoe=يصنع معزقة من السبج
+goal.makemayanmace=يصنع صولجان من السبج
+goal.makeobsidianflake=يحطم السبج إلى رقائق
+
 
 goal.fish=يصيد
 goal.makethatch=يكون علاقات
 goal.makepaper=يصنع الورق
+goal.makepaperrice=يصنع الورق
+goal.makepaperwoodpulp=يصنع الورق
 goal.makepaperwall=يصنع ورق للحائط
 goal.cookfish=يطبخ السمك
 goal.makeudon=يصنع اودون
+goal.maketachi=يصنع سيف تاتشي
 goal.makejapaneseweapons=يصنع اسلحة يابانية
 
 goal.brewpotions=يخمر الجرع
 goal.harvestwarts=يحصد الثآليل
 goal.makeglassbottles=يصنع عبوات زجاجية
 goal.plantwarts=يزرع الثآليل
+
+goal.plantvines=يغرس الكروم
+goal.harvestgrapes=يحصد العنب
+goal.gathersilk=يجمع الحرير
+goal.makeicon=يرسم الرموز
+goal.makewine=ينتج النبيذ
+goal.makebookshelves=يصنع ارفف الكتب
+goal.makebyzantinetiles=يصنع البلاط
+goal.makebrick=يصنع الطوب
+goal.training=يتدرب
+goal.paintpainting=رسم إطار
+goal.makebook=يكتب كتاب
+goal.makebyzantinemace=يصنع صولجان بيزنطيني
+goal.makebyzantinechest=يصنع صفيحة صدر بيزنطينية
+goal.makebyzantinelegs=يصنع سروال بيزنطيني
+goal.makebyzantinehelmet=يصنع خوذة بيزنطينية
+goal.makebyzantineboots=يصنع حذاء بيزنطيني
+
+goal.makebow=يصنع سهم
+goal.makerottenflesh=يصنع لحم فاسد
+goal.makearrow=يصنع أسهم
+goal.makesteak=يطبخ شرائح اللحم
+
+
+goal.sleep=ينام
+goal.sleep_travelling=يذهب للنوم
 
 //other
 other.west= غرباً
@@ -507,6 +592,11 @@ other.exploredbuilding=لقد استكشفت مبنى: <0>.
 
 other.malevillager=قروي-Millénaire
 other.femalevillager=قروية-Millénaire
+
+other.buildinghealing=<0> يستعيد صحتك.
+
+
+other.localmerchantinteract=هذا التاجر تاجر محلي. ينقل السلع من قرسة إلى قريةأخرى. لا يمكنك التفاعل معه.
 
 hire.health=صحة
 hire.strength=قوة
@@ -608,11 +698,13 @@ raid.historyfailure=غزو على <0> فشل.
 raid.historydefended= تصدى بنجاح لغارة شنها <0>.
 
 hof.hof=قاعة المشاهير
-hof.modcreator=مصمم الموج
+hof.modcreator=مصمم المود
 hof.creatorofmayan1=مصمم
 hof.creatorofmayan2=حضارة المايا
 hof.creatorofjapanese1=مصمم
 hof.creatorofjapanese2=حضارة اليبانين
+hof.creatorofbyzantine1=مصمم
+hof.creatorofbyzantine2=حضارة البيزنطينين
 hof.creatorofindianskins1=مصمم
 hof.creatorofindianskins2=بشرة الهنود
 
@@ -639,9 +731,11 @@ hof.forgehelp1=ساعد على
 hof.forgehelp2=Forge Sprite API
 hof.hofidea1=قاعة المشاهير
 hof.hofidea2=افكار
-hof.donor=المانح
+hof.donor=المناحيين
+hof.variousimprovements1=المختلف
+hof.variousimprovements2=التحسينات
 
-pujas.invanme=بيوجس
+pujas.invanme=بوجا
 pujas.panditfee=رسوم البانديت
 pujas.offering=تُقدم
 pujas.god0=لهانومان - لأجل السرعة
@@ -679,5 +773,9 @@ import.errorupgradeleveltoohigh=مستوى الترقية المطلوب اعل�
 import.doublevertical=تضاعف الارتفاع العمودي
 import.buildinglevel=مستوى البناء : <0>
 
-
+effect.towncentre=مركز القرية
+effect.shop=متجر: <0>
+effect.irrigation=سقي: <0>% محاصيل إضافية
+effect.pujalocation=موقع بوجا
+effect.healing=يسعف لاعب
 

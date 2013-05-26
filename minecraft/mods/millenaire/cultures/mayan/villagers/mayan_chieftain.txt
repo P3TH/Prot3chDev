@@ -12,7 +12,7 @@ goal=gorest
 goal=gopray
 goal=patrol
 goal=huntmonster
-goal=getTool
+
 
 toolNeeded=stoneSword
 toolNeeded=mayanmace

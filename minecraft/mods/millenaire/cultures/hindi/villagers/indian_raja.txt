@@ -9,7 +9,7 @@ texture=/graphics/mob/indian/ML_raja1.png
 
 goal=gorest
 goal=gopray
-goal=getTool
+
 
 toolNeeded=steelSword
 

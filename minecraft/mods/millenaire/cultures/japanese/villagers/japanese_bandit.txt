@@ -15,7 +15,7 @@ texture=/graphics/mob/japanese/japanese_bandit.png
 
 goal=gorest
 goal=goDrink
-goal=getTool
+
 goal=patrol
 goal=huntmonster
 

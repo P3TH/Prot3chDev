@@ -7,7 +7,10 @@ texture=/graphics/mob/indian/ML_Smith0.png
 
 goal=gorest
 goal=gopray
-goal=makeIndianTools
+goal=makesteelpickaxe
+goal=makesteelaxe
+goal=makesteelshovel
+goal=makesteelhoe
 
 requiredGood=iron,10
 

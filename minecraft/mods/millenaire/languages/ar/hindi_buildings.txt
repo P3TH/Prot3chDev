@@ -32,6 +32,7 @@ playerlargefield_A0=قطعة ارض كبيرة
 playersmallfield_A0=قطعة ارض صغيرة
 playersmallhouse_A0=قطعة ارض صغيرة
 bazaar_A0=دكان
+tank_A0=خزان
 
 //extra buildings:
 well_A0=بئر

@@ -1,11 +1,11 @@
-version:1.1.4
+version:4.2.1
 Millénaire: Norman Inhabitants
 
 Village heads
 
 Chevalier: Knight. Lives in the fort, from which he goes out to patrol his land and visit the tavern. Beware meeting him in battle! Head of the Military and Gros Bourg villages.
 
-Moine: Monk. Lives in the abbey, in which he painstakingly copies ancient books on new parchments. An art, according to him. Head of the ecclesiastic hamlets and villages.
+Abbé: Abbot. Lives in the abbey, supervising the work of the monks. Head of the ecclesiastic hamlets and villages.
 
 Sénéchal : Seneschal. Oversees the agricultural production of his village from his manor house. Head of the agricultural hamlets and villages.
 
@@ -34,6 +34,8 @@ Eleveur : Animal farmer. Lives in a cattle farm, a pig farm, or a chicken farm. 
 Mineur : Miner. Lives and works in a quarry, tirelessly mining stone and sand. When his quarry gets upgraded with furnaces, he smelts them into smooth stone and glass as well.
 
 Charpentier : Carpenter. Lives and works in a carpenter's house, where he makes timberframes to use in building construction.
+
+Moine : Monk. Lives in the abbey, in which he painstakingly copies ancient books on new parchments. An art, according to him.
 
 Marchant : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his job to roam for the good of all the villagers.
 

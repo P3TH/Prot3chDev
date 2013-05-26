@@ -14,20 +14,15 @@ biome:plains
 biome:river
 
 //extraBiomes mod
+biome:autumn woods
 biome:green hills
-
-//plenty o'biomes mod
-biome:garden
-biome:grassland
-biome:highland
-biome:meadow
-biome:mountain
-biome:orchard
+biome:forested hills
 
 //starting buildings:
 centre:guildhouse
 start:lumbermanhut
 start:cattlefarm
+start:carpenterhouse
 start:quarry
 start:grove
 start:grove
@@ -48,7 +43,6 @@ core:tavern
 core:inn
 core:fountain
 core:largefountain
-core:carpenterhouse
 core:alchemyworkshop
 
 //to be built after the core ones

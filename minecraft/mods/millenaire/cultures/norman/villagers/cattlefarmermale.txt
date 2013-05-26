@@ -1,4 +1,4 @@
-native_name=Eleveur
+native_name=Eleveur bovin
 gender=male
 familyNameList=family_names
 firstNameList=men_names
@@ -10,14 +10,21 @@ goal=gopray
 goal=goDrink
 goal=gatherGoods
 goal=bringBackResourcesHome
-goal=butcher
-goal=makeBoudin
-goal=makeTripes
-goal=deliverResourcesShop
-goal=GetHouseTHResources
+goal=slaughtercownorman
+goal=slaughterpignorman
+goal=shearsheep
+goal=breed
+goal=cooksteak
+goal=cookpork
+goal=cookchicken
+
+requiredGood=wheat,16
+requiredGood=seeds,8
+requiredGood=wood_any,16
 
 collectGood=egg
 collectGood=feather
+collectGood=chickenmeat
 collectGood=leather
 collectGood=porkchops
 collectGood=beefraw
@@ -30,6 +37,7 @@ collectGood=wool_pink
 
 bringBackHomeGood=egg
 bringBackHomeGood=feather
+bringBackHomeGood=chickenmeat
 bringBackHomeGood=leather
 bringBackHomeGood=porkchops
 bringBackHomeGood=beefraw
@@ -40,6 +48,7 @@ bringBackHomeGood=wool_black
 bringBackHomeGood=wool_brown
 bringBackHomeGood=wool_pink
 bringBackHomeGood=tripes
+bringBackHomeGood=boudin
 
 toolNeeded=normanBroadsword
 

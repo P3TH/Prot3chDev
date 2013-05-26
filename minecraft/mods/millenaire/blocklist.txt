@@ -34,10 +34,26 @@ logjunglehor;-1;0;;54/43/40
 
 
 
-woodstairsTop;-1;0;;100/0/0
-woodstairsBottom;-1;0;;101/0/0
-woodstairsLeft;-1;0;;102/0/0
-woodstairsRight;-1;0;;103/0/0
+woodstairsOakTop;-1;0;;100/0/0
+woodstairsOakBottom;-1;0;;101/0/0
+woodstairsOakLeft;-1;0;;102/0/0
+woodstairsOakRight;-1;0;;103/0/0
+
+woodstairsPineTop;-1;0;;100/0/50
+woodstairsPineBottom;-1;0;;101/0/50
+woodstairsPineLeft;-1;0;;102/0/50
+woodstairsPineRight;-1;0;;103/0/50
+
+woodstairsBirchTop;-1;0;;100/0/60
+woodstairsBirchBottom;-1;0;;101/0/60
+woodstairsBirchLeft;-1;0;;102/0/60
+woodstairsBirchRight;-1;0;;103/0/60
+
+woodstairsJungleTop;-1;0;;100/0/70
+woodstairsJungleBottom;-1;0;;101/0/70
+woodstairsJungleLeft;-1;0;;102/0/70
+woodstairsJungleRight;-1;0;;103/0/70
+
 stonestairsTop;-1;0;;120/0/0
 stonestairsBottom;-1;0;;121/0/0
 stonestairsLeft;-1;0;;122/0/0
@@ -55,10 +71,27 @@ sandstonestairsBottom;-1;0;;151/5/0
 sandstonestairsLeft;-1;0;;152/5/0
 sandstonestairsRight;-1;0;;153/5/0
 
-woodstairsInvTop;-1;0;;100/0/102
-woodstairsInvBottom;-1;0;;101/0/202
-woodstairsInvLeft;-1;0;;102/0/102
-woodstairsInvRight;-1;0;;103/0/202
+woodstairsOakInvTop;-1;0;;100/0/102
+woodstairsOakInvBottom;-1;0;;101/0/202
+woodstairsOakInvLeft;-1;0;;102/0/102
+woodstairsOakInvRight;-1;0;;103/0/202
+
+
+woodstairsPineInvTop;-1;0;;100/0/112
+woodstairsPineInvBottom;-1;0;;101/0/112
+woodstairsPineInvLeft;-1;0;;102/0/112
+woodstairsPineInvRight;-1;0;;103/0/112
+
+woodstairsBirchInvTop;-1;0;;100/0/122
+woodstairsBirchInvBottom;-1;0;;101/0/122
+woodstairsBirchInvLeft;-1;0;;102/0/122
+woodstairsBirchInvRight;-1;0;;103/0/122
+
+woodstairsJungleInvTop;-1;0;;100/0/132
+woodstairsJungleInvBottom;-1;0;;101/0/132
+woodstairsJungleInvLeft;-1;0;;102/0/132
+woodstairsJungleInvRight;-1;0;;103/0/132
+
 stonestairsInvTop;-1;0;;120/0/102
 stonestairsInvBottom;-1;0;;121/0/202
 stonestairsInvLeft;-1;0;;122/0/102
@@ -174,17 +207,28 @@ doubleslab;43;0;false;150/150/150
 
 stoneslab;44;0;false;160/160/160
 sandstoneslab;44;1;false;195/200/50
-woodenslab;44;2;false;120/80/45
+woodenslabold;44;2;false;120/80/45
 cobblestoneslab;44;3;false;85/85/85
 bricksslab;44;4;false;150/0/0
 stonebricksslab;44;5;false;110/110/110
 
+woodenslaboak;126;0;false;120/80/40
+woodenslabpine;126;1;false;120/80/50
+woodenslabbirch;126;2;false;120/80/60
+woodenslabjungle;126;3;false;120/80/70
+
+
 stoneslabInv;44;8;false;160/160/161
 sandstoneslabInv;44;9;false;195/200/51
-woodenslabInv;44;10;false;120/80/46
+woodenslaboldInv;44;10;false;120/80/46
 cobblestoneslabInv;44;11;false;85/85/86
 bricksslabInv;44;12;false;150/0/1
 stonebricksslabInv;44;13;false;110/110/111
+
+woodenslaboakInv;126;8;false;120/80/41
+woodenslabpineInv;126;9;false;120/80/51
+woodenslabbirchInv;126;10;false;120/80/61
+woodenslabjungleInv;126;11;false;120/80/71
 
 brick;45;0;false;128/0/0
 bookshelf;47;0;false;128/64/35
@@ -221,6 +265,7 @@ mud brick;block_stone_id;1;false;166/156/136
 cooked brick;block_stone_id;0;false;219/216/207
 
 maizesoil;-1;0;;64/128/40
+carrotsoil;-1;0;;64/128/50
 mayanstatue;-1;0;;179/154/118
 fishingspot;-1;0;;0/0/120
 

@@ -7,7 +7,7 @@ texture=/graphics/mob/indian/ML_Scultor0.png
 
 goal=gorest
 goal=gopray
-goal=scult
+goal=makeindianstatue
 
 toolNeeded=steelSword
 

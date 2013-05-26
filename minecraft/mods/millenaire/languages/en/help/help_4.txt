@@ -1,12 +1,10 @@
 version:3.4
-<darkblue>Expansion du village
+<darkblue>Village expansion
 
-<darkred>This section will soon be translated to English in a new update
+All villages start off small around a central building (of varying nature: fort, palace, monastery, etc ... commonly referred to as the "town hall"), with a few houses or other buildings. The villagers' main goal is to expand their village by selecting new buildings to build and improvements to existing buildings. For that reason, they need resources - they can produce some themselves (lumbermen harvest wood, and miners stone ...) but depend on the player for others. Their material needs for the planned construction are displayed in the main building. You can help by selling these resources first.
 
-Les villages commencent petits, autour d’un bâtiment central (de type variable : fort, palais, monastère, etc... généralement désignés sous le nom de « mairie »), avec quelques maisons ou autres bâtiments. Le but principal des villageois est d’agrandir leur village, en choisissant de nouveaux bâtiments à construire et des améliorations aux bâtiments existants. Pour ça ils ont besoin de ressources  - ils peuvent en produire certaines eux-mêmes (les bûcherons ramènes du bois, les mineurs de la pierre…) mais dépendent du joueur pour d’autres. Leurs besoins en matériaux pour la construction prévue sont affichés dans le bâtiment central. Vous pouvez les aider en leur vendant ces ressources en priorité.
+The village population will also increase over time - at night, married villagers can have children. Once grown, these children move into new homes if available and become adults.
 
-La population du village augmente également – la nuit, les couples de villageois peuvent avoir des enfants. Une fois grandis, ces enfants emménageront  dans des maisons libres si disponible et deviendront adultes.
+The expansion of a village will cease in general two ways: either because the village has completed all buildable structures, or because it has no place. In the latter case, you can look at the village map to see which areas are unbuildable. It is sometimes possible to make them buildable, for example by filling in a lake.
 
-L’expansion d’un village s’arrête en générale de deux manières : ou parce que le village a terminé tous les bâtiments qu’il peut construire, ou parce qu’il n’a plus de place. Dans ce dernier cas, vous pouvez regarder la carte du village pour voir quels terrains sont inconstructibles. C’est parfois possible de les rendre constructibles en comblant un lac par exemple.
-
-Parfois, un village a besoin d'un type de bloc que vous ne pouvez pas produire, comme les colombages des normands et japonais. Vous devez attendre que le village construire un atelier pour un artisan en fabriquant et qu'un enfant s'y installe.
+Sometimes, a village needs a block type that you can't craft yourself, such as Norman and Japanese timber frames. You must wait until the village builds a workshop and settles a child there as a craftsman.

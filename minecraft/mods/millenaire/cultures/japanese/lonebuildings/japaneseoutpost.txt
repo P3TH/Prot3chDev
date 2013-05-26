@@ -1,6 +1,9 @@
 name:Zenshou
 weight:10
 radius:70
+
+mindistancefromspawn:2000
+
 biome:plains
 
 //starting buildings:

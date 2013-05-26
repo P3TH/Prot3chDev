@@ -7,15 +7,10 @@ biome:desert
 
 //extraBiomes mod
 biome:mountain desert
+biome:jungle
+biome:lush swampland
 biome:shrubland
-
-//Biomes o'Plenty
-biome:steppe
-biome:savanna
-biome:oasis
-biome:mangrove
-biome:lush desert
-
+biome:rainforest
 
 //hamlets to be generated around:
 hameau:indian_agricole_hamlet

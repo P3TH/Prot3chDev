@@ -9,7 +9,7 @@ texture=/graphics/mob/mayan/mayan_King1.png
 
 goal=gorest
 goal=gopray
-goal=getTool
+
 
 toolNeeded=stonesword
 toolNeeded=mayanmace

@@ -6,8 +6,6 @@ biome:taigahills
 
 //extraBiomes mod
 biome:taiga mountain
-biome:boreal forest
-biome:snow forest
 
 //starting buildings:
 centre:lonelumbermantaigahut

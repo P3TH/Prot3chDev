@@ -1,4 +1,5 @@
-﻿Millénaire Inwoners
+version:4.2.1
+Millénaire Inwoners
 
 Chevalier: Ridder. Woont in het fort, van waaruit hij naar zijn land gaat om te patrouilleren en de taveerne te bezoeken. Kijk uit, met hem wil je niet vechten! Hoofd van de military en gros bourg dorpen.
 

@@ -8,8 +8,13 @@ texture=/graphics/mob/indian/ML_ArmySmith0.png
 
 goal=gorest
 goal=gopray
-goal=makeIndianWeapons
-goal=getTool
+goal=makesteelsword
+goal=makesteelchest
+goal=makesteelboots
+goal=makesteellegs
+goal=makesteelhelmet
+goal=makebow
+
 
 toolNeeded=steelSword
 

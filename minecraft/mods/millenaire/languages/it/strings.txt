@@ -147,6 +147,7 @@ ui.relationlist=Relazioni con gli altri villaggi
 ui.relationpraise=Encomiabile
 ui.relationslander=Maldicevole
 ui.relationpoints=Punti diplomatici disponibili: <0>
+ui.villagerelationsnobutton=Devi avere punti e una buona reputazione per influenzare il villaggio.
 ui.relationhelp=Relations help<ret><ret>Le relazioni tra villaggi determinano se quei villaggi collaboreranno oppure no.<ret><ret>Commercio locale (mercanti che trasportano le risorse) accadrà tra villaggi in buone relazioni della stessa cultura o eccelenti relazioni di culture diverse.<ret><ret>Villaggi di culture diverse in relazioni molto buone avranno mercati che ospiteranno mercanti provenienti da altre culture.<ret><ret>Villaggi della stessa cultura con eccelenti relazioni accetteranno  reciprocamente ragazzi se hanno lavori disponibili.<ret><ret>Le relazioni tra villaggi partono come eccellenti tra  villaggio e un villaggio-madre, buoni per villaggi della stessa cultura, e neutrali altrimenti.<ret><ret>Ogni giorno, un giocatore ottiene cinque punti diplomazia con cui influenzare le relazioni tra villaggi. L'efficacia dell'elogio o della calunnia dipende dalla sua reputazione in quel villaggio.
 ui.relationfriendly=Recenti sviluppi tra i villaggi di <0> e <1> hanno migliorato le relazione tra loro. Loro sono adesso <2>.
 ui.relationunfriendly=Recenti scontri tra i villaggi <0> e <1> hanno peggiorato le relazioni fra loro. Loro sono adesso <2>.
@@ -174,7 +175,8 @@ help.tab_8=I Normanni
 help.tab_9=Gli Indiani
 help.tab_10=I Maya
 help.tab_11=I Giapponesi
-help.tab_12=FAQ
+help.tab_12=I Bizantini
+help.tab_13=FAQ
 
 
 quest.obtained=Ottenuto
@@ -327,7 +329,14 @@ item.byzantinemixedbrick=Pietre bizzantina
 item.grapes=Uva
 item.wine=Vino Malvasia
 item.silk=Seta
-item.byzantineicon=Icona bizzantina
+item.byzantineiconsmall=Icona bizzantina piccola
+item.byzantineiconmedium=Icona bizzantina media
+item.byzantineiconlarge=Icona bizzantina grande
+item.byzantineboots=Stivali bizzantini
+item.byzantinelegs=Gambali bizzantini
+item.byzantinePlate=Pettorale bizzantini
+item.byzantineHelmet=Elmo bizzantini
+item.byzantinemace=Mazza bizzantini
 item.vine=Vigneto
 
 goal.plantvines=Piantando vigne
@@ -341,7 +350,10 @@ goal.makebrick=Costruendo Mattoni
 goal.training=Esercitando
 goal.paintpainting=Dipingendo un quadro
 goal.makebook=Scrivendo un libro
+goal.makebyzantineweapons=Creando armi bizantine
 
+goal.sleep=Dormendo
+goal.sleep_travelling=Coricandosi
 
 error.unknownitem=Nome oggetto sconosciuto
 
@@ -549,6 +561,9 @@ other.malevillager=Paesano di Millénaire
 other.femalevillager=Paesana di Millénaire
 
 other.buildinghealing=<0> ti sta risanando.
+
+
+other.localmerchantinteract=Questo è un mercante locale, trasporta le merci tra i villaggi. Non è possibile interagirci.
 
 hire.health=Vita
 hire.strength=Forza

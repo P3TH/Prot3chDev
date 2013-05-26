@@ -4,19 +4,19 @@ familyNameList=greek_family_names
 firstNameList=greek_women_names
 baseheight=0.9
 health=20
+model=femalesymmetrical
 
-texture=/graphics/mob/byzanz/wife0.png
-texture=/graphics/mob/byzanz/wife1.png
-texture=/graphics/mob/byzanz/wife2.png
-texture=/graphics/mob/byzanz/wife3.png
-texture=/graphics/mob/byzanz/wife4.png
+texture=/graphics/mob/byzanz/noblefemale/byz.rich.female.A.png
+texture=/graphics/mob/byzanz/noblefemale/byz.rich.female.B.png
+texture=/graphics/mob/byzanz/noblefemale/byz.rich.female.C.png
+
+clothes=free,/graphics/mob/byzanz/noblefemale/clothes/byz.richf.1.A.png
+clothes=free,/graphics/mob/byzanz/noblefemale/clothes/byz.richf.1.B.png
+
+toolNeeded=clothes_byz_silk
 
 goal=gorest
 goal=gopray
-goal=deliverResourcesShop
-goal=getGoodsHousehold
-goal=deliverGoodsHousehold
-
-requiredFood=bread,5
+goal=goDrink
 
 baseAttackStrength=3

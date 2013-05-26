@@ -7,9 +7,11 @@ texture=/graphics/mob/mayan/mayan_Crafter0.png
 
 goal=gorest
 goal=gopray
-goal=makestonetools
-goal=makegoldblock
-goal=getTool
+goal=makestoneaxe
+goal=makestonepickaxe
+goal=makestoneshovel
+goal=makestonehoe
+goal=makemayangoldblock
 
 requiredGood=cobblestone,10
 requiredGood=stone,10

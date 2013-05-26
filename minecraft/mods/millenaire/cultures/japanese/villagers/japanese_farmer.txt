@@ -10,20 +10,19 @@ goal=gorest
 goal=gopray
 goal=goDrink
 goal=bringBackResourcesHome
-goal=collectCrop
-goal=plantSeeds
-goal=getTool
+goal=harvestwheathome
+goal=plantwheathome
 
 collectGood=seeds
 collectGood=wheat
 
 bringBackHomeGood=wheat
+bringBackHomeGood=seeds
 
 startingInv=seeds,100
 
 toolNeeded=steelHoe
 toolNeeded=tachiSword
-
 
 tag=helpInAttacks
 defaultweapon=woodhoe

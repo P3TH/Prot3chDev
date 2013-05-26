@@ -22,13 +22,14 @@ villager.indian_rani=Rainha
 villager.indian_merchant=Comerciante
 villager.indian_lonetrader=Comerciante
 villager.indian_adivasipeasant=Camponês Adivasi
+villager.indian_adivasipeasantwife=Camponesa Adivasi
 villager.indian_sadhu=Sadhu
 villager.merchant_oriental=Comerciante Persa
 villager.merchant_adivasi=Comerciante Adivasi
 villager.merchant_villagewoman=Aldeã Comerciante
 
-villager.indian_adivasipeasantwife=Esposa do Camponês Adivasi
-
-shop.townhall=Loja Central
-shop.forge=Ferramentas
+shop.adivasifarm=Produtos Adivasi
 shop.armyforge=Armas e Armaduras
+shop.deserttradeoutpost=Mercadorias Preciosas
+shop.forge=Ferramentas
+shop.townhall=Loja Central

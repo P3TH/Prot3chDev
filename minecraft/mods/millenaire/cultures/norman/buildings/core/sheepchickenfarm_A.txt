@@ -1,4 +1,4 @@
-max:1;priority:1500;french:Elevage Ovin;around:4;startLevel:-1;orientation:3;male:ml_CattleFarmer;female:ml_Wife;width:12;length:16;shop:sheepchickenfarm;minDistance:50;tag:sheeps
+max:1;priority:1500;french:Elevage Ovin;around:4;startLevel:-1;orientation:3;male:shepherd;female:shepherdF;width:12;length:16;shop:sheepchickenfarm;minDistance:50;tag:sheeps;tag:chicken
 
 
 

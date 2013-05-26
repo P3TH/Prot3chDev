@@ -29,13 +29,16 @@ basilkabyzantine_A0=Marché
 barracksbyzantine_A0=Caserne
 barracksbyzantine_A_bed_A0=Lit
 presbyterybyzantine_A0=Presbytère
+fortbyzantine_A_forge_A0=Forge
+playerfortbyzantine_A_forge_A0=Forge
+well_A0=Puit
 
 oaktower_A0=Tour de guet
 birchtower_A0=Tour de guet
 pinetower_A0=Tour de guet
 jungletower_A0=Tour de guet
 
-placebyzantine_a_basilica_a0=Chapelle du village
+placebyzantine_a_basilica_a0=Forum
 vineyardbyzantine_a0=Vignes
 grovebirchbyzantine_a0=Bosquet de bouleaux
 silkfarmbyzantine_a0=Ferme à soie

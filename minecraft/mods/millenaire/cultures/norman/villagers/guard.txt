@@ -15,7 +15,7 @@ texture=/graphics/mob/norman/ML_Guard1.png
 goal=gorest
 goal=gopray
 goal=goDrink
-goal=getTool
+
 goal=patrol
 goal=huntmonster
 

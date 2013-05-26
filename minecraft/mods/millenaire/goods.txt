@@ -37,12 +37,16 @@ byzantinetileslab;1523;0;
 cactus;81;0;Cactus
 cake;92;0;Cake
 calva;mln5;0;
+carrot;391;0;Carrot
 chickencurry;mln31;0;
 chickenmeat;365;0;Raw Chicken
+chickenmeatcooked;366;0;Cooked Chicken
 cider;mln4;0;
 ciderapple;mln3;0;
 clay;337;0;Clay
 clock;347;0;Clock
+clothes_byz_silk;mln86;1;
+clothes_byz_wool;mln86;0;
 coal;263;0;Coal
 cobblestone;4;0;Cobblestone
 compass;345;0;Compass
@@ -71,6 +75,7 @@ dye_gray;351;8;Gray Dye
 dye_green;351;2;Cactus Green
 dye_lightblue;351;12;Light Blue Dye
 dye_lightgray;351;7;Light Gray Dye
+dye_lime;351;10;Lime Dye
 dye_magenta;351;13;Magenta Dye
 dye_orange;351;14;Orange Dye
 dye_pink;351;9;Pink Dye
@@ -81,6 +86,7 @@ dye_yellow;351;11;Dandelion Yellow
 egg;344;0;Egg
 enderpearl;368;0;Ender Pearl
 feather;288;0;Feather
+feta;mln90;0;
 fishcooked;350;0;Cooked Fish
 fishraw;349;0;Raw Fish
 flint;318;0;Flint
@@ -105,6 +111,8 @@ japanesewarriorredboots;mln66;0;
 japanesewarriorredhelmet;mln64;0;
 japanesewarriorredlegs;mln63;0;
 japanesewarriorredplate;mln65;0;
+lambcooked;mln89;0;
+lambraw;mln88;0;
 leather;334;0;Leather
 leatherboots;301;0;Leather Boots
 leatherchest;299;0;Leather Tunic
@@ -161,6 +169,8 @@ planks_jungle;5;3;Jungle Wood Planks
 planks_oak;5;0;Oak Wood Planks
 planks_pine;5;1;Spruce Wood Planks
 porkchops;319;0;Raw Porkchop
+porkchopscooked;320;0;Cooked Porkchop
+potato;392;0;Potato
 pumpkin;86;0;Pumpkin
 pumpkinseeds;361;0;Pumpkin Seeds
 rasgulla;mln33;0;
@@ -183,6 +193,7 @@ silkwormblockfull;1517;4;
 skollhatiamulet;mln26;0;
 slimeball;341;0;Slimeball
 snow;78;0;Snow
+souvlaki;mln91;0;
 spidereye;375;0;Spider Eye
 steelaxe;258;0;Iron Axe
 steelboots;309;0;Iron Boots
@@ -219,6 +230,7 @@ vishnuamulet;mln23;0;
 wah;mln41;0;
 wheat;296;0;Wheat
 wine;mln76;0;
+winebasic;mln87;0;
 wood;17;0;
 wood_any;17;-1;
 wood_birch;17;2;
@@ -238,6 +250,7 @@ wool_gray;35;7;Gray Wool
 wool_green;35;13;Green Wool
 wool_lightblue;35;3;Light Blue Wool
 wool_lightgray;35;8;Light Gray Wool
+wool_limegreen;35;5;Lime Wool
 wool_magenta;35;2;Magenta Wool
 wool_orange;35;1;Orange Wool
 wool_pink;35;6;Pink Wool

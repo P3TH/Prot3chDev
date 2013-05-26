@@ -9,9 +9,20 @@ texture=/graphics/mob/japanese/japanese_ArmySmith0.png
 
 goal=gorest
 goal=gopray
-goal=makeJapaneseWeapons
-goal=getTool
-
+goal=maketachi
+goal=makeyumi
+goal=makejgchest
+goal=makejglegs
+goal=makejgboots
+goal=makejghelmet
+goal=makejwchestb
+goal=makejwlegsb
+goal=makejwbootsb
+goal=makejwhelmetb
+goal=makejwchestr
+goal=makejwlegsr
+goal=makejwbootsr
+goal=makejwhelmetr
 
 toolNeeded=tachiSword
 

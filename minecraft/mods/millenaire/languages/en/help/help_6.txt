@@ -1,16 +1,14 @@
 version:3.4
-<darkblue>Création d’un village
+<darkblue>Spawning villages
 
-<darkred>This section will soon be translated to English in a new update
+You can spawn a village type of your choice to the location of your choice with a Summoning Wand, an object that you can buy in any village whenever you have a sufficiently high reputation. To use the wand, put a gold block where you want to spawn a village and right-click the block with the wand. The subsequent screen allows you to choose the desired type of village.
 
-Il vous est possible de générer un village du type de votre choix à l’emplacement de votre choix grâce à une <darkblue>baguette d’invocation<black>, objet que vous pouvez acheter dans n’importe quel village à condition d’avoir une réputation suffisante. Pour utiliser la baguette, placer un bloc d’or à l’endroit où vous souhaitez faire apparaître un village et utilisez la baguette dessus. Un écran vous permettra de choisir le type de village souhaité.
+<darkblue>Destruction of a village or lone building
 
-<darkblue>Destruction d’un village ou d’un bâtiment isolé
+The inhabitants of a village or building respawn every night, even if you destroy all the buildings in the village. To prevent this (if you want to occupy the buildings yourself, for example), you must use the <darkblue>Wand of Negation<black>: you will find it in the chests of the main building once all the inhabitants are dead. Please note that the destruction of a village is irreversible.
 
-Les habitants d’un village ou bâtiment ressuscitent  toutes les nuits, même si vous détruisez tous les bâtiments du village. Pour empêcher ça (si vous souhaitez occuper les bâtiments eux-mêmes, par exemple),  vous devez utilisez la <darkblue>baguette de négation<black> : vous la trouverez dans les coffres d’un village ou bâtiment dont tous les habitants sont morts. Attention, la destruction d’un village est irreversible.
+<darkblue>Player-controlled Villages
 
-<darkblue>Villages contrôlés
+It is possible to create a village with you as the leader, in which you can pick the locations of the buildings. To do this, you need to either be recognised as a leader in the culture of the village or to have completed the Creation Quest (see quests section), or to have increased your reputation to "natural leader" in a village and talk to its leader. You will then see an option to create player-controlled villages in the interface of the Summoning Wand.
 
-Il est possible de créer un village dont vous êtes le chef et où vous pourrez choisir l’emplacement de tous les bâtiments. Pour cela, vous devez être reconnu comme chef dans la culture du village : ou grâce à la <darkblue>quête de la création<black> (voir section quêtes) ou en atteignant la réputation « chef reconnu » dans un village et en parlant à son chef. Vous verrez ensuite une option pour créer un village contrôlé dans l’interface de la baguette d’invocation.
-
-Dans un village contrôlé, vous pouvez demander la construction d’un nouveau bâtiment en utilisant la baguette à l’endroit désiré. Une interface s’ouvrira pour vous permettre de choisir la bâtiment souhaité. Vous pouvez également contrôler  les améliorations aux bâtiments existants via le panneau « projets ». Il n’est pas possible de commercer avec les villageois dans un de ces villages – vous pouvez simplement utiliser les coffres.
+In player-controlled villages, you can order the construction of a new building using the wand at the desired location. An interface will open to allow you to choose the desired building. You can also allow or stop improvements to existing buildings via the "projects" panels. Trading resources with the villagers is unnecessary in these villages - just place items in the chests.

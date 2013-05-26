@@ -115,7 +115,7 @@ mayanlumbermanaxe_0_description_refuse=عدد للعمل إذاً.
 
 
 
-losttapestry_0_label=القماس المفقود
+losttapestry_0_label=القماش المفقود
 losttapestry_0_description=مرحباً يا $name! لقد وجدت قماش ملقى بالحقول. هل تستطيع معرفة صاحبه؟
 losttapestry_0_description_success=شكراً $name!
 losttapestry_0_description_refuse=أنت فظيع! سوف أخبر أمي عنك!
@@ -200,3 +200,18 @@ fishingfrenzy_1_description_timeup=لم تقم بجلب السمك بالوقت 
 fishingfrenzy_1_listing=أجلب اربعة أسماك إلى $wife_villagername$
 
 
+architectwife_0_label=غداء الزوج
+architectwife_0_description=زوجي $architect_villagername$ المهندس المعماري جائع لقد نسيت أن اعطيه غداءه! هل تستطيع إيصال هذه السمكة له?
+architectwife_0_description_success=شكراً لك!
+architectwife_0_description_refuse=حقاً أنت لست من النوع المساعد.
+architectwife_1_label=جائع!
+architectwife_1_description=زوجتي نست وجبتي مرة أخرة! أه, النساء!
+architectwife_1_description_success=هذا حقاً حقاً كرم كبير.
+architectwife_1_description_refuse=حقاً لاتثق بالغرباء.
+architectwife_1_description_timeup=لم تقم بإيصال الوجبة في الوقت المناسب. قرويين $architect_villagename$ لن ينسوا هذا.
+architectwife_1_listing=أعطي $architect_villagername$ في قرية $architect_villagename$ غداءه.
+
+lumbermanwine_0_label=عطشان!
+lumbermanwine_0_description=قطع الأخشاب حقاً عمل متعب... لو أحد ما يجلب لي زجاجة نبيذ!
+lumbermanwine_0_description_success=أه, كنت بحاجة ماسة لهذا شكراً جزيلاً, يالك من رجل طيب!
+lumbermanwine_0_description_refuse=لاتعتمد علي في المرة القادمة التي تحتاج فيها إلى الخشب!

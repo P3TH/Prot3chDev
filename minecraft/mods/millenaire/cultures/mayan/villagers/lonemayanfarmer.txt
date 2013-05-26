@@ -11,7 +11,7 @@ goal=goDrink
 goal=gatherGoods
 goal=huntmonster
 goal=plantMaize
-goal=getTool
+
 
 bringBackHomeGood=chickenmeat
 bringBackHomeGood=maize

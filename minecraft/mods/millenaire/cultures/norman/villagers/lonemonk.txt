@@ -11,11 +11,11 @@ goal=gorest
 goal=gopray
 goal=goDrink
 goal=makeBooks
-goal=collectcrop
-goal=plantseeds
+goal=harvestwheathome
+goal=plantwheathome
 goal=bringbackresourceshome
-goal=butcher
-goal=maketripes
+goal=slaughtercownorman
+goal=breed
 goal=makebread
 
 startingInv=seeds,100

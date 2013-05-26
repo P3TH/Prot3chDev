@@ -7,7 +7,10 @@ priority=50
 //en/in millisecondes
 duration=5000
 
-
+//spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makebrick
+labelkey=makebrick
 
 //objets tenus par le villageois
 heldItems=clay,byzantinetiles
@@ -19,7 +22,7 @@ output=byzantinetiles,1
 
 //s'il y a plus d'objets dans le centre du village que ça, arrêter le but
 //if more than that number of item is present in townhall, stop goal
-townhalllimit=byzantinetiles,64
+townhalllimit=byzantinetiles,1024
 
 
 //son à jouer quand un objet est fabriqué

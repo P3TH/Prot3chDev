@@ -29,3 +29,12 @@ villager.japanese_womanservant=خادم
 villager.japanese_merchant_food=تاجر طعام
 villager.japanese_merchant_blacksmith=تاجر أدوات
 villager.japanese_bravewoman=أمرأة شجاعة
+villager.japanese_bandit=قاطع طريق ياباني
+
+shop.japanesetownhall=سوق مركزي
+shop.forge=أدوات
+shop.armyforge=دروع وأسلحة
+shop.japanesecrafter=ورق
+shop.kitchen=طعام
+shop.lonemine=حجر
+shop.japaneseoutpost=سوق مركزي

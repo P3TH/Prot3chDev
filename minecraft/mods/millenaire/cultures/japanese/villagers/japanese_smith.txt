@@ -8,8 +8,10 @@ texture=/graphics/mob/japanese/japanese_Smith0.png
 
 goal=gorest
 goal=gopray
-goal=makeindiantools
-goal=getTool
+goal=makesteelaxe
+goal=makesteelpickaxe
+goal=makesteelshovel
+goal=makesteelhoe
 
 toolNeeded=tachiSword
 

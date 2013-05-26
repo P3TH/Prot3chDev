@@ -188,7 +188,7 @@ sweettrader_1_description_success=Obrigado! Obrigado! Obrigado!
 sweettrader_1_description_refuse=Ninguém gosta de mim.
 sweettrader_1_listing=Preciso de entregar o bolo a $girl_villagername$ em $startvillager_villagename$ para o seu aniversário.
 
-fishingfrenzy_0_label=Loucura da Ppesca
+fishingfrenzy_0_label=Loucura da Pesca
 fishingfrenzy_0_description=Olá, o meu nome é $startvillager_villagername$. A pesca aqui é uma tarefa árdua e eu não sei se vou conseguir atingir o meu objectivo para hoje. Acha que poderia ajudar-me?
 fishingfrenzy_0_description_success=Obrigado, quatro peixes crus serão suficientes. Devolva-os à minha esposa, ela dar-lhe-á a sua recompensa.
 fishingfrenzy_0_description_refuse=Eu compreendo, estamos todos muito ocupados hoje em dia.
@@ -198,3 +198,20 @@ fishingfrenzy_1_description_success=Fantástico, estes peixes parecem ser delici
 fishingfrenzy_1_description_refuse=Não é um pescador habilidoso? Enfim, não faz mal, pode ser que seja útil para outra coisa qualquer.
 fishingfrenzy_1_description_timeup=Não apanhou o peixe a tempo. Os aldeões de $startvillager_villagename$ não se esquecerão.
 fishingfrenzy_1_listing=Preciso de apanhar quatro peixes cru e entregá-los a $wife_villagername$.
+
+
+architectwife_0_label=Almoço do Marido
+architectwife_0_description=O meu marido $architect_villagername$, o arquitecto, deve estar esfomeado e eu esqueci-me de lhe fazer o almoço! Poderia levar-lhe este peixe?
+architectwife_0_description_success=Muito obrigado!
+architectwife_0_description_refuse=Você não é muito prestável, realmente.
+architectwife_1_label=Esfomeado!
+architectwife_1_description=A minha mulher esqueceu-se do meu almoço outra vez! Mulheres!
+architectwife_1_description_success=Isso foi bastante gentil da sua parte.
+architectwife_1_description_refuse=Nunca confie num estranho.
+architectwife_1_description_timeup=Não entregou o almoço a tempo. Os aldeões de $architect_villagename$ não se esquecerão.
+architectwife_1_listing=Preciso de entregar o almoço a $architect_villagername$ na aldeia de $architect_villagename$.
+
+lumbermanwine_0_label=Que sede!
+lumbermanwine_0_description=Cortar lenha é trabalho pesado... Se ao menos alguém me pudesse trazer uma garrafinha de vinho!
+lumbermanwine_0_description_success=Estava mesmo a precisar disso! Muitíssimo obrigado, meu caro!
+lumbermanwine_0_description_refuse=Não conte comigo da próxima vez que precisar de lenha!

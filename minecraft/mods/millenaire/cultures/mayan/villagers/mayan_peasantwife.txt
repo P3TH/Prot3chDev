@@ -6,6 +6,7 @@ malechild=mayan_boy
 femalechild=mayan_girl
 baseHeight=0.9
 model=femaleasymmetrical
+tag=seller
 
 texture=/graphics/mob/mayan/mayan_Peasant_Wife0.png
 texture=/graphics/mob/mayan/mayan_Peasant_Wife1.png
@@ -21,12 +22,22 @@ goal=getHouseTHResources
 goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
+
 goal=harvestMaize
 goal=plantMaize
-
+goal=makewah
+goal=makemasa
 
 toolNeeded=stonehoe
 toolNeeded=mayanhoe
 
 defaultweapon=woodhoe
+
+requiredGood=maize,9
+requiredGood=chickenmeatcooked,1
+
+requiredFood=cider,1
+requiredFood=calva,1
+requiredFood=rasgulla,1
+requiredFood=wine,1
+requiredFood=feta,1

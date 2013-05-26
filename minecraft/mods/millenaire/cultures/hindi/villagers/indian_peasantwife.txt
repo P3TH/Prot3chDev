@@ -21,7 +21,7 @@ goal=getHouseTHResources
 goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
+
 goal=plantRice
 goal=harvestRice
 goal=plantTurmeric
@@ -32,6 +32,14 @@ goal=makeRasgulla
 
 toolNeeded=steelHoe
 
+requiredGood=rice,1
+requiredGood=turmeric,1
+requiredGood=chickenmeatcooked,1
+
 requiredFood=rasgulla,5
+requiredFood=cider,1
+requiredFood=calva,1
+requiredFood=wine,1
+requiredFood=feta,1
 
 defaultweapon=woodhoe

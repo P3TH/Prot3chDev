@@ -19,7 +19,7 @@ goal=goDrink
 goal=bringBackResourcesHome
 goal=harvestMaize
 goal=plantMaize
-goal=getTool
+
 
 bringBackHomeGood=maize
 

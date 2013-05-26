@@ -1,5 +1,5 @@
 name:Apomonomeno Boske Probaton
-weight:100
+weight:20
 radius:10
 biome:forest
 biome:plains

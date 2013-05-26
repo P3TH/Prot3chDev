@@ -12,11 +12,18 @@ villager.BecomeAdult=Telos tha ginei mia romaiki politi! / Je suis enfin devenu 
 villager.calltoarms=Ae Romaikae Autokratoria dexetai epithesi ! Gia ta opla ! / L'empire romain est attaqué! Aux armes!
 villager.GoPlay=Nomizo oti tha pao na paixoun exo. / Je pense que je vais aller jouer dehors.
 
-artisan_byzantine.construction= Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / Je suis vraiment un artiste, pour créer d'aussi belles structures!
-artisan_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / Notre architecture est incomparable.
+architect_byzantine.construction=Staen pragmatikotita eimai enas kallitechnis otan ylopoisi ton en logo epexergasia domes. / Je suis vraiment un artiste, pour créer d'aussi belles structures!
+architect_byzantine.construction=Ae architektonikae aemas den borei na synkrithei me kamia alli. / Notre architecture est incomparable.
 artisan_byzantine.greeting=Ae zoae mou einai poly kalyteri apo tae zoae ton allon anthropon edo. / Ma vie est bien meilleure que celle des autres villageois.
 artisan_byzantine.makePainting=Romanikaes technaes aemas einai ae kalyterae ston kosmo. / L'art romain est le plus avançé au monde.
 
+merchant_art.greeting=Kamia poli ston kosmo boroun na synkrithoun me tin Konstantinoupoli/ No city in the world can compare with Constantinople.
+merchant_art.greeting=Eimaste Byzantinoi einai to teleutaio alaethino Romaious. Bask stae doxa tou politismou mas. / We Byzantines are the last true Romans.
+
+
+smith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / Byzantine tools are the finest in the world.
+armysmith_byzantine.MakeIndianTools=Vyzantini̱ ergaleia einai ta kalytera ston kosmo. / Byzantine tools are the finest in the world.
+armysmith_byzantine.MakeByzantineMace=Mi̱n prospathi̱sete katapolemi̱si̱ enan andra oplismeno me mena. / Don't try fighting a man armed by me.
 
 wife_byzantine.greeting=To kathikon mas einai na elenchei tous andreous aemas. / Notre tâche est de contrôler nos hommes.
 wife_byzantine.greeting=Os gynaika sas , den yparchoun polla pou sas epitrepete na edo... / Les femmes n'ont le droit de rien faire ici...
@@ -29,6 +36,7 @@ miner_byzantine.Mining=Se afti tin dynami kai tin antochi douleia einai aparaiti
 miner_byzantine.Mining=Eimai perifanos pou Romaiki kai ergazontai gia afto to Empire doxa , akoma kai se afto to dyskolo ergo . / Je suis fier d'être un citoyen romain et de travailler pour ce glorieux empire, même dans ce dur métier.
 
 patriarch_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Mes livres sont parmi les meilleurs manuscrits ici.
+pastor_byzantine.makebooks=Ta biblia mou einai merika apo ta kalytera cheirografa ekei exo. / Mes livres sont parmi les meilleurs manuscrits ici.
 
 lumberman_byzantine.BringBackResourcesHome=Ae gynaikos mou prepei na einai perifanoi giati ola ta xyla pou echo pira . / Ma femme sera fière de tout ce bois que je ramène.
 lumberman_byzantine.ChopTrees=Kathe domi tou xylou mas anankes , kai na parei afti einai ae douleia mou! / Tous nos bâtiments ont besoin de bois, et c'est mon métier de le trouver!

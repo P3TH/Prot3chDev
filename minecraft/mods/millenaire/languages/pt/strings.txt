@@ -107,7 +107,7 @@ ui.extraresneeded1=<0> outros materiais
 ui.extraresneeded2=necessários
 ui.woodforplanks=Madeira (qualquer)
 ui.woodoak=Madeira (carvalho)
-ui.woodpine=Madeira (pinho)
+ui.woodpine=Madeira (abeto)
 ui.woodbirch=Madeira (bétula)
 ui.woodjungle=Madeira (tropical)
 ui.anyenchanted=Objecto encantado
@@ -147,6 +147,7 @@ ui.relationlist=Relações Diplomáticas
 ui.relationpraise=Elogiar
 ui.relationslander=Difamar
 ui.relationpoints=Pontos diplomáticos disponíveis: <0>
+ui.villagerelationsnobutton=Necessita de pontos diplomáticos suficientes e uma reputação positiva com a aldeia para poder influenciá-la.
 ui.relationhelp=Ajuda sobre relações<ret><ret>As relações diplomáticas entre aldeias determinam se as mesmas podem cooperar entre si ou não.<ret><ret>O comércio local (comerciantes que transportam materiais entre aldeias) dar-se-á apenas entre aldeias da mesma cultura com um bom nível diplomático, ou entre aldeias de culturas diferentes com um excelente nível diplomático.<ret><ret>As aldeias de culturas diferentes que tenham um nível diplomático muito bom e que tenham ambas um mercado aceitarão comerciantes umas das outras.<ret><ret>As aldeias da mesma cultura que tenham um excelente nível diplomático aceitarão adolescentes entre si, desde que haja vagas disponíveis.<ret><ret>As relações diplomáticas iniciam-se num nível excelente para as grandes vilas com aldeolas secundárias, num nível bom para aldeias da mesma cultura e num nível mau para aldeias de culturas diferentes.<ret><ret>Todos os dias, o jogador recebe cinco pontos diplomáticos que poderá utilizar para influenciar as relações diplomáticas. A reputação do jogador nos locais em questão afectará a eficácia dos seus elogios ou das suas difamações.
 ui.relationfriendly=Acontecimentos recentes entre as aldeias de <0> e <1> melhoraram a sua relação diplomática para <2>.
 ui.relationunfriendly=Conflitos recentes entre as aldeias de <0> e <1> pioraram a sua relação diplomática para <2>.
@@ -174,6 +175,7 @@ help.tab_8=Os Normandos
 help.tab_9=Os Hindus
 help.tab_10=Os Maias
 help.tab_11=Os Japoneses
+help.tab_12=Os Bizantinos
 help.tab_13=Perguntas Frequentes
 
 
@@ -237,7 +239,7 @@ item.normanShovel=Pá Normanda
 item.normanHoe=Enxada Normanda
 item.normanBroadsword=Espada Normanda
 item.normanHelmet=Elmo Normando
-item.normanPlate=Armadura Normanda
+item.normanPlate=Peito Normando
 item.normanLegs=Perneiras Normandas
 item.normanBoots=Botas Normandas
 item.rice=Arroz
@@ -301,17 +303,17 @@ item.yumibow=Arco Yumi
 
 item.japaneseWarriorBlueLegs=Perneiras Ō-yoroi Azuis
 item.japaneseWarriorBlueHelmet=Elmo Ō-yoroi Azul
-item.japaneseWarriorBluePlate=Armadura Ō-yoroi Azul
+item.japaneseWarriorBluePlate=Peito Ō-yoroi Azul
 item.japaneseWarriorBlueBoots=Botas Ō-yoroi Azuis
 
 item.japaneseWarriorRedLegs=Perneiras Ō-yoroi Vermelhas
 item.japaneseWarriorRedHelmet=Elmo Ō-yoroi Vermelho
-item.japaneseWarriorRedPlate=Armadura Ō-yoroi Vermelha
+item.japaneseWarriorRedPlate=Peito Ō-yoroi Vermelho
 item.japaneseWarriorRedBoots=Botas Ō-yoroi Vermelhas
 
 item.japaneseGuardLegs=Perneiras Keikō
 item.japaneseGuardHelmet=Elmo Keikō
-item.japaneseGuardPlate=Armadura Keikō
+item.japaneseGuardPlate=Peito Keikō
 item.japaneseGuardBoots=Botas Keikō
 
 item.japanesevillagers=Aldeões Japoneses
@@ -327,20 +329,22 @@ item.byzantinemixedbrick=Ladrilho de Pedra Bizantino
 item.grapes=Uvas
 item.wine=Vinho Malvasia
 item.silk=Seda
-item.byzantineicon=Ícone Bizantino
-item.vine=Vinha
+item.byzantineiconsmall=Ícone Bizantino Pequeno
+item.byzantineiconmedium=Ícone Bizantino Médio
+item.byzantineiconlarge=Ícone Bizantino Grande
+item.byzantineboots=Botas Bizantinas
+item.byzantinelegs=Perneiras Bizantinas
+item.byzantinePlate=Peito Bizantino
+item.byzantineHelmet=Elmo Bizantino
+item.byzantinemace=Maça Bizantina
+item.rawlamb=Cordeiro Cru
+item.cookedlamb=Costeletas de Cordeiro Grelhadas
+item.feta=Feta
+item.wineBasic=Vin
+item.clothes_byz_wool=Roupas Bizantinas de Lã
+item.clothes_byz_silk=Roupas Bizantinas de Seda
 
-goal.plantvines=A plantar vinhas
-goal.harvestgrapes=A colher uvas
-goal.gathersilk=A recolher seda
-goal.makeicon=A pintar ícone
-goal.makewine=A produzir vinho
-goal.makebookshelves=A fabricar estantes
-goal.makebyzantinetiles=A produzir ladrilhos
-goal.makebrick=A produzir tijolos
-goal.training=A treinar
-goal.paintpainting=A pintar moldura
-goal.makebook=A escrever livro
+item.souvlaki=Souvlaki
 
 
 error.unknownitem=Nome Desconhecido
@@ -434,21 +438,21 @@ panels.nameand=<0> e
 
 //Objectivos (texto visualizado acima do aldeão quando está a executá-lo)
 goal.gorest=A descansar
-goal.godrink=A ir beber um copo
-goal.gopray=A ir rezar
+goal.godrink=A beber um copo
+goal.gopray=A rezar
 goal.GatherGoods=A recolher materiais
 goal.BringBackResourcesHome=A trazer materiais para casa
-goal.GetTool=A ir buscar ferramentas
+goal.GetTool=A recolher ferramentas
 goal.huntMonster=A combater uma criatura
 goal.GetGoodsHousehold=A adquirir materiais para a sua casa
-goal.DeliverGoodsHousehold=A entregar materiais para a sua casa
+goal.DeliverGoodsHousehold=A entregar materiais a sua casa
 goal.GetHouseTHResources=A retirar materiais da sua casa
 goal.DeliverResourcesShop=A entregar materiais
-goal.raidvillage=A invadir aldeia
+goal.raidvillage=A invadir uma aldeia
 goal.defendvillage=A defender a aldeia
 goal.hide=A abrigar-se
 
-goal.CollectCrop=A colher plantações
+goal.CollectCrop=A recolher colheitas
 goal.PlantSeeds=A plantar sementes
 goal.ChopTrees=A serrar árvores
 goal.PlantSaplings=A plantar rebentos
@@ -460,13 +464,13 @@ goal.MakeCalva=A produzir calva
 goal.Construction=A construir
 goal.GoPlay=A brincar
 goal.BecomeAdult=A instalar-se
-goal.MakeNormanTools=A fabricar ferramentas
-goal.MakeNormanWeapons=A fabricar armas
+goal.MakeNormanTools=A produzir ferramentas
+goal.MakeNormanWeapons=A forjar armas
 goal.Patrol=A patrulhar
 goal.Butcher=A abater animais
 goal.MakeBoudin=A fazer boudin noir
 goal.MakeTripes=A fazer tripes
-goal.Mining=A cavar
+goal.Mining=A escavar
 goal.Cooking=A cozinhar
 goal.MakeBooks=A fazer pergaminhos
 goal.MakeTapestry=A fazer tapeçarias
@@ -480,38 +484,102 @@ goal.DryBrick=A secar tijolos
 goal.GatherBrick=A recolher tijolos secos
 goal.CookBrick=A cozinhar tijolos
 goal.PlantRice=A plantar arroz
-goal.HarvestRice=A colher arroz
+goal.HarvestRice=A recolher arroz
 goal.PlantTurmeric=A plantar açafrão
-goal.HarvestTurmeric=A colher açafrão
+goal.HarvestTurmeric=A recolher açafrão
 goal.SlaughterChicken=A abater frangos
 goal.PlantSugarCane=A plantar cana
-goal.HarvestSugarCane=A colher cana
+goal.HarvestSugarCane=A recolher cana
 goal.MakeRasgulla=A fazer rasgullās
-goal.MakeIndianTools=A fabricar ferramentas
-goal.MakeIndianWeapons=A forjar armas
-goal.scult=A esculpir
+goal.Makesteelaxe=A produzir machados de aço
+goal.Makesteelpickaxe=A produzir picaretas de aço
+goal.Makesteelshovel=A produzir pás de aço
+goal.Makesteelhoe=A produzir enxadas de aço
+goal.Makesteelsword=A forjar espadas de aço
+
+goal.makesteelchest=A forjar peitos de aço
+goal.makesteelhelmet=A forjar elmos de aço
+goal.makesteellegs=A forjar perneiras de aço
+goal.makesteelboots=A forjar botas de aço
+
+goal.makeindianstatue=A esculpir estátuas
 goal.performpujas=A realizar um ritual
 goal.bepujaperformer=Disponível para rituais
 
 goal.PlantMaize=A plantar milho
-goal.HarvestMaize=A colher milho
-goal.makeGoldBlock=A produzir ornamentos dourados
-goal.sculptMayan=A esculpir
-goal.makeobsidiantools=A produzir ferramentas de obsidiana
-goal.makeobsidianflakes=A partir obsidiana em flocos
+goal.HarvestMaize=A recolher milho
+goal.makemayanGoldBlock=A produzir ornamentos dourados
+goal.makemayanstatue=A esculpir estátuas
+goal.Makestoneaxe=A produzir machados de pedra
+goal.Makestonepickaxe=A produzir picaretas de pedra
+goal.Makestoneshovel=A produzir pás de pedra
+goal.Makestonehoe=A produzir enxadas de pedra
+goal.Makestonesword=A produzir espadas de pedra
+goal.makemayanaxe=A produzir machados de obsidiana
+goal.makemayanpickaxe=A produzir picaretas de obsidiana
+goal.makemayanshovel=A produzir pás de obsidiana
+goal.makemayanhoe=A produzir enxadas de obsidiana
+goal.makemayanmace=A produzir maças de obsidiana
+goal.makeobsidianflake=A quebrar obsidiana em flocos
 
 goal.fish=A pescar
-goal.makethatch=A produzir colmo
-goal.makepaper=A produzir papel
-goal.makepaperwall=A produzir papel de arroz
+goal.makethatch=A fazer colmo
+goal.makepaper=A fazer papel
+goal.makepaperrice=A fazer papel
+goal.makepaperwoodpulp=A fazer papel
+goal.makepaperwall=A fazer papel de arroz
 goal.cookfish=A cozinhar peixe
-goal.makeudon=A produzir udon
-goal.makejapaneseweapons=A forjar armas Japonesas
+goal.cooksteak=A cozinhar bifes
+goal.cooklamb=A cozinhar cordeiro
+goal.cookpork=A cozinhar costeletas de porco
+goal.cookchicken=A cozinhar frango
+goal.makeudon=A fazer udon
+goal.maketachi=A forjar espadas Tachi
+goal.makejapaneseweapons=A forjar armamentos Japoneses
 
-goal.brewpotions=A fabricar poções
-goal.harvestwarts=A colher fungos
+goal.brewpotions=A fazer poções
+goal.harvestwarts=A recolher fungos
 goal.makeglassbottles=A produzir frascos
 goal.plantwarts=A plantar fungos
+
+goal.plantvines=A plantar vinhas
+goal.harvestvines=A recolher uvas
+goal.gathersilk=A recolher seda
+goal.makeicon=A pintar ícones
+goal.makewine=A produzir vinho
+goal.makebookshelves=A fabricar estantes
+goal.makebyzantinetiles=A produzir ladrilhos
+goal.makebrick=A produzir tijolos
+goal.training=A treinar
+goal.paintpainting=A pintar molduras
+goal.makebook=A escrever livros
+goal.makebyzantinemace=A forjar maças Bizantina
+goal.makebyzantinechest=A forjar peitos Bizantino
+goal.makebyzantinelegs=A forjar perneiras Bizantinas
+goal.makebyzantinehelmet=A forjar elmos Bizantino
+goal.makebyzantineboots=A forjar botas Bizantinas
+
+goal.makebow=A produzir arcos
+goal.makerottenflesh=A fazer carne podre
+goal.makearrow=A produzir flechas
+
+goal.sleep=A dormir
+goal.sleep_travelling=A ir dormir
+
+
+goal.makeclothes_byz_wool=A tecer roupas
+goal.makemasa=A preparar masa
+goal.slaughterpig=A abater porcos
+goal.makesouvlaki=A preparar souvlaki
+goal.makewah=A preparar wah
+goal.makecurry=A preparar caril vegetariano
+goal.makeclothes_byz_silk=A tecer roupas de seda
+goal.slaughtersheep=A abater ovelhas
+goal.slaughtercow=A abater vacas
+goal.breed=A reproduzir animais
+goal.shearsheep=A tosquiar ovelhas
+goal.makemurgh=A preparar caril de frango
+goal.getitemtokeep=A recolher um objecto
 
 //other
 other.west=Oeste
@@ -549,6 +617,9 @@ other.malevillager=Aldeão do Millénaire
 other.femalevillager=Aldeã do Millénaire
 
 other.buildinghealing=Está a ser regenerado por: <0>.
+
+
+other.localmerchantinteract=Este comerciante é um comerciante local. Ele transporta bens entre aldeias. Não é possível interagir directamente com ele.
 
 hire.health=Vitalidade
 hire.strength=Força
@@ -684,6 +755,8 @@ hof.forgehelp2=Forge Sprite API
 hof.hofidea1=Ideia para o
 hof.hofidea2=Corredor da Fama
 hof.donor=Doador
+hof.variousimprovements1=Melhorias
+hof.variousimprovements2=Diversas
 
 pujas.invanme=Rituais
 pujas.panditfee=Taxa do Sacerdote

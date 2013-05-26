@@ -6,8 +6,6 @@ radius:20
 biome:forest
 biome:foresthills
 
-biome:bamboo forest
-biome:cherry blossom grove
 
 //starting buildings:
 centre:lonemine

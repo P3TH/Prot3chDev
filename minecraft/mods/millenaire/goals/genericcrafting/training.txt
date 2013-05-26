@@ -2,7 +2,7 @@
 
 //Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
 
-priority=100
+priority=50
 
 //en/in millisecondes
 duration=2500

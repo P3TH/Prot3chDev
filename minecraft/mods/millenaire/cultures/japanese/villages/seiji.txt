@@ -9,14 +9,10 @@ biome:extreme hills
 
 
 //extraBiomes mod
-
 biome:green hills
 biome:ice mountains
-
-//biomes o'plenty
-
-biome:mountain
-biome:grassland
+biome:birch forest
+biome:autumn woods
 
 //starting buildings:
 centre:japanesepalace

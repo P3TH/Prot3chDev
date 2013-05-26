@@ -19,7 +19,7 @@ goal=makenormanchest
 goal=makenormanlegs
 goal=makenormanboots
 goal=makenormansword
-goal=makenormanbow
+goal=makebow
 
 requiredGood=iron,10
 requiredGood=wool_white,2

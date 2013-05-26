@@ -5,12 +5,29 @@ firstNameList=greek_men_names
 tag=raider
 hiringcost=15
 
-texture=/graphics/mob/byzanz/farmer0.png
+texture=/graphics/mob/byzanz/male/byz.peasant.A.png
+texture=/graphics/mob/byzanz/male/byz.peasant.B.png
+texture=/graphics/mob/byzanz/male/byz.peasant.C.png
+texture=/graphics/mob/byzanz/male/byz.peasant.D.png
+texture=/graphics/mob/byzanz/male/byz.peasant.E.png
+texture=/graphics/mob/byzanz/male/byz.peasant.F.png
+texture=/graphics/mob/byzanz/male/byz.peasant.G.png
+texture=/graphics/mob/byzanz/male/byz.peasant.H.png
+texture=/graphics/mob/byzanz/male/byz.peasant.I.png
+texture=/graphics/mob/byzanz/male/byz.peasant.J.png
+texture=/graphics/mob/byzanz/male/byz.peasant.K.png
 
+clothes=free,/graphics/mob/byzanz/male/clothes/byz.lumber.1.A.png
+clothes=free,/graphics/mob/byzanz/male/clothes/byz.lumber.1.B.png
+
+clothes=clothes_byz_wool,/graphics/mob/byzanz/male/clothes/byz.lumber.2.A.png
+clothes=clothes_byz_wool,/graphics/mob/byzanz/male/clothes/byz.lumber.2.B.png
+
+toolNeeded=clothes_byz_wool
 goal=gorest
 goal=gopray
 goal=goDrink
-goal=getTool
+
 goal=bringBackResourcesHome
 goal=chopTrees
 goal=gatherGoods
@@ -19,16 +36,19 @@ goal=plantSaplings
 collectGood=wood
 collectGood=wood_pine
 collectGood=wood_birch
+collectGood=wood_jungle
 collectGood=sapling
 collectGood=sapling_pine
 collectGood=sapling_birch
+collectGood=sapling_jungle
 
 bringBackHomeGood=wood
 bringBackHomeGood=wood_pine
 bringBackHomeGood=wood_birch
-bringBackHomeGood=ciderapple
+bringBackHomeGood=wood_jungle
 
 startingInv=sapling,10
+startingInv=sapling_birch,10
 
 toolNeeded=steelAxe
 

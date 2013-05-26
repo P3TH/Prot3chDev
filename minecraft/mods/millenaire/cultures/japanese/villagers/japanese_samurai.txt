@@ -14,7 +14,7 @@ texture=/graphics/mob/japanese/japanese_Warrior1.png
 goal=gorest
 goal=gopray
 goal=goDrink
-goal=getTool
+
 goal=patrol
 goal=huntmonster
 

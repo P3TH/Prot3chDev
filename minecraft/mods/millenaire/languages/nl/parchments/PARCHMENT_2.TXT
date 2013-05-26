@@ -1,4 +1,5 @@
-﻿Millénaire Gebouwen
+version:1.1.4
+Millénaire Gebouwen
 
 Fort. In military dorpen vervangt dit kleine houten fort het gemeentehuis. Een ridder en zijn vrouw wonen hier. Met genoeg toegang tot steen zullen de dorpelingen het in een machtig kasteel veranderen.
 

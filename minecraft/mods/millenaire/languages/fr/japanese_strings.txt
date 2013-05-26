@@ -29,9 +29,13 @@ villager.japanese_womanservant=Servante
 villager.japanese_merchant_food=Marchant de nourriture
 villager.japanese_merchant_blacksmith=Marchant d'outils
 villager.japanese_bravewoman=Femme courageuse
+villager.japanese_bandit=Bandit japonais
 
 shop.japanesetownhall=Magasin central
 shop.forge=Outils
 shop.armyforge=Armes & armures
 shop.japanesecrafter=Papier
 shop.kitchen=Nourriture
+shop.lonemine=Minerais
+shop.japaneseoutpost=Magasin central
+shop.fishery=Poisson

@@ -14,15 +14,15 @@ texture=/graphics/mob/japanese/japanese_BraveWoman2.png
 goal=gorest
 goal=gopray
 goal=bringBackResourcesHome
-goal=collectCrop
-goal=plantSeeds
+goal=harvestwheathome
+goal=plantwheathome
 goal=plantRice
 goal=makethatch
 goal=getHouseTHResources
 goal=deliverResourcesShop
 goal=getGoodsHousehold
 goal=deliverGoodsHousehold
-goal=getTool
+
 
 collectGood=seeds
 collectGood=rice
@@ -35,6 +35,12 @@ startingInv=seeds,100
 startingInv=rice,50
 startingInv=bow,1
 tag=helpInAttacks
+
+requiredFood=cider,1
+requiredFood=calva,1
+requiredFood=rasgulla,1
+requiredFood=wine,1
+requiredFood=feta,1
 
 toolNeeded=yumibow
 toolNeeded=steelHoe

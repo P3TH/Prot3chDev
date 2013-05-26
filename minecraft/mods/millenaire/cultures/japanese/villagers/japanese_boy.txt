@@ -14,8 +14,22 @@ goal=gopray
 goal=becomeAdult
 goal=goPlay
 
-requiredFood=rice,2
+requiredFood=udon,3
+requiredFood=rice,3
+requiredFood=bread,1
+requiredFood=beefcooked,1
+requiredFood=porkchopscooked,1
+requiredFood=chickenmeatcooked,2
 requiredFood=fishcooked,3
-
+requiredFood=egg,3
+requiredFood=wah,1
+requiredFood=masa,1
+requiredFood=chickencurry,1
+requiredFood=vegcurry,1
+requiredFood=boudin,1
+requiredFood=tripes,1
+requiredFood=lambcooked,1
+requiredFood=souvlaki,1
 
 defaultweapon=woodsword
+baseAttackStrength=1

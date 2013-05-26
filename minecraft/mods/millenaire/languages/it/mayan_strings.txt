@@ -21,6 +21,7 @@ villager.mayan_king=Re
 villager.mayan_merchant=Mercante
 villager.mayan_chickenfarmer=Allevatore di polli
 villager.mayan_farmer=Coltivatore di mais
+villager.mayan_obsidiancrafter=Artigiano dell'ossidiana
 
 villager.lonemayanfarmer=Contadino solitario
 villager.lonemayanpeasantwife=Moglie del contadino
@@ -39,3 +40,4 @@ shop.mayancrafter=Utensili
 shop.mayanarmyforge=Armi e armature
 shop.mayansheepchickenfarm=Pollame
 shop.mayanobsidiancrafter=Oggetti d'ossidiana
+shop.lonemayanfarm=Prodotti agricoli

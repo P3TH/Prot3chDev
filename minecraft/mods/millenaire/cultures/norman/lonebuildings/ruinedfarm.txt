@@ -4,9 +4,6 @@ radius:10
 biome:forest
 biome:taiga
 
-biome:wasteland
-biome:dead forest
-biome:drylands
 
 //starting buildings:
 centre:ruinedfarm

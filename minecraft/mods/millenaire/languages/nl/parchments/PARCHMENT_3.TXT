@@ -1,4 +1,5 @@
-﻿Millénaire Items
+version:1.1.4
+Millénaire Items
 
 Denier. Middeleeuws betaalmiddel in gebruik bij de dorpelingen. Komt voor in 3 waarden: normaal (brons), argent (zilver) is 64 normale munten waard, en or (goud) is 64 argent waard.
 

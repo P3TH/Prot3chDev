@@ -1,4 +1,4 @@
-native_name=Voleur baron
+native_name=Baron criminel
 gender=male
 familyNameList=family_names
 firstNameList=men_names
@@ -12,7 +12,7 @@ texture=/graphics/mob/norman/ML_BaronFelon0.png
 
 goal=gorest
 goal=goDrink
-goal=getTool
+
 goal=patrol
 goal=huntmonster
 

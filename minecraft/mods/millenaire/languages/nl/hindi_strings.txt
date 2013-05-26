@@ -22,12 +22,14 @@ villager.indian_rani=Rani
 villager.indian_merchant=Handelaar
 villager.indian_lonetrader=Eenzame Handelaar
 villager.indian_adivasipeasant=Adivasi Dorpeling
+villager.indian_adivasipeasantwife=Adivasi Boerin
 villager.indian_sadhu=Sadhu
-villager.merchant_oriental=Persiese Handelaar
+villager.merchant_oriental=Persische Handelaar
 villager.merchant_adivasi=Adivasi Handelaar
 villager.merchant_villagewoman=Dorpshandelaar
 
 shop.townhall=Centrale winkel
 shop.forge=Werktuigen
 shop.armyforge=Pantsers en wapens
-
+shop.adivasifarm=Adivasi producten
+shop.deserttradeoutpost=Luxe goederen

@@ -12,10 +12,11 @@ goal=gorest
 goal=gopray
 goal=bringBackResourcesHome
 goal=getResourcesForBuild
-goal=getTool
+goal=construction
+
 goal=dryBrick
 goal=gatherBrick
-goal=cookBrick
+goal=cookindianbrick
 goal=plantRice
 goal=harvestRice
 goal=plantTurmeric
@@ -23,6 +24,9 @@ goal=harvestTurmeric
 goal=slaughterChicken
 goal=plantSugarCane
 goal=harvestSugarCane
+goal=slaughterchicken
+goal=breed
+goal=cookchicken
 
 toolNeeded=steelHoe
 toolNeeded=steelSword
@@ -32,7 +36,10 @@ bringBackHomeGood=rice
 bringBackHomeGood=turmeric
 bringBackHomeGood=chickenmeat
 bringBackHomeGood=sugarcane
+bringBackHomeGood=chickenmeatcooked
 
+requiredGood=rice,10
+requiredGood=wood_any,10
 
 tag=helpInAttacks
 defaultweapon=woodhoe

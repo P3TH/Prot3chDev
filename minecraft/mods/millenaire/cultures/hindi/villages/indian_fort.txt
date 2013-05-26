@@ -12,14 +12,6 @@ biome:jungle
 biome:lush swampland
 biome:shrubland
 
-//Biomes o'Plenty
-biome:steppe
-biome:savanna
-biome:oasis
-biome:mangrove
-biome:lush desert
-
-
 //starting buildings:
 centre:fort
 start:largepeasanthouse

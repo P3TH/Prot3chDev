@@ -11,9 +11,9 @@ texture=/graphics/mob/mayan/mayan_Lumberman3.png
 goal=gorest
 goal=gopray
 goal=mining
-goal=cooking
+goal=cookstone
+goal=cooksand
 goal=bringBackResourcesHome
-goal=getTool
 
 bringBackHomeGood=cobblestone
 bringBackHomeGood=sandStone
@@ -27,10 +27,7 @@ toolNeeded=mayanpickaxe
 toolNeeded=mayanshovel
 toolNeeded=mayanmace
 
-requiredGood=wood,64
-requiredGood=wood_pine,64
-requiredGood=wood_birch,64
-requiredGood=wood_jungle,64
+requiredGood=wood_any,64
 
 baseAttackStrength=5
 tag=helpInAttacks

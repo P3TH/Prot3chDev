@@ -29,10 +29,13 @@ villager.japanese_womanservant=Servant
 villager.japanese_merchant_food=Food Merchant
 villager.japanese_merchant_blacksmith=Tools Merchant
 villager.japanese_bravewoman=Courageous Woman
-
+villager.japanese_bandit=Japanese Bandit
 
 shop.japanesetownhall=Central Store
 shop.forge=Tools
 shop.armyforge=Armours & weapons
 shop.japanesecrafter=Paper
 shop.kitchen=Food
+shop.lonemine=Stone
+shop.japaneseoutpost=Central Store
+shop.fishery=Cooked

@@ -13,7 +13,7 @@ goal=gorest
 goal=gopray
 goal=patrol
 goal=huntmonster
-goal=getTool
+
 
 toolNeeded=tachiSword
 toolNeeded=yumibow

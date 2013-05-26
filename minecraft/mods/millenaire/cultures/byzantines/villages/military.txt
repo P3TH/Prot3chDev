@@ -23,33 +23,31 @@ biome:steppe
 
 //starting buildings:
 centre:fortbyzantine
-start:grovebirchbyzantine
-start:groveoakbyzantine
+start:grovebyzantine
 start:lumberbyzantine
 start:lumberbyzantine
 start:architectbyzantine
 start:fisherbyzantine
 
-
 player:villa urbana
 
 //to be built in priority
 core:sheepbyzantine
-core:forgebyzantine
 core:tavernbyzantine
 core:vineyardbyzantine
 core:watchtowerbyzantine
 core:quarrybyzantine
 core:innbyzantine
 core:workshopbyzantine
+core:well
 
 //to be built after the core ones
 secondary:barracksbyzantine
 secondary:watchtowerbyzantine
 secondary:basilkabyzantine
 secondary:quarrybyzantine
-secondary:architectbyzantine
 
+never:forgebyzantine
 never:chapelbyzantine
 never:farmbyzantine
 never:bakerybyzantine

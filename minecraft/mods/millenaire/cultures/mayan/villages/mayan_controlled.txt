@@ -8,7 +8,6 @@ start:mayanhouse
 start:mayanlumber
 start:mayangrove
 
-
 //just a list for the new building screen
 core:mayanhouse
 core:mayanlargepeasanthouse
@@ -24,7 +23,6 @@ core:mayanarmyforge
 core:mayanguard
 core:mayanshamangrounds
 core:mayanalter
-core:mayanbakery
 core:mayanballcourt
 core:mayancalendar
 core:mayancave
@@ -38,4 +36,3 @@ core:mayanwatchtower
 core:mayanplayersmallhouse
 core:mayanplayerlargehouse
 core:mayanplayerestate
-

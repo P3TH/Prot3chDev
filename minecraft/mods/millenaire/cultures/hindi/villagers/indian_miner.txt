@@ -11,9 +11,10 @@ texture=/graphics/mob/indian/ML_Lumberman3.png
 goal=gorest
 goal=gopray
 goal=mining
-goal=cooking
+goal=cookstone
+goal=cooksand
 goal=bringBackResourcesHome
-goal=getTool
+
 
 bringBackHomeGood=cobblestone
 bringBackHomeGood=sandStone

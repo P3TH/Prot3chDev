@@ -1,1 +1,2 @@
-sells=leather,beefraw,tripes
+sells=leather,beefraw,beefcooked,tripes
+buys=wheat

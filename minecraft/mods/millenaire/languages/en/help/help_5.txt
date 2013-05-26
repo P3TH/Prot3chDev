@@ -1,30 +1,28 @@
 version:3.4
-<darkblue>Combats et raids
+<darkblue>Combat and raiding
 
-<darkred>This section will soon be translated to English in a new update
+Millénaire is not always a peaceful mod: you can fight villagers, villages may conduct raids against each other, monsters can attack villages, and some isolated buildings are occupied by bandits. Whatever the circumstances, certain principles do not change: <darkblue>villagers are vulnerable only to direct attacks (melee, arrows and potions)<black>. They are not affected by fire, fall damage, or cactus. This restriction is intended to prevent the player from killing them without them being aware that the player is attacking them.
 
-Millénaire n’est pas toujours un mod pacifique : vous pouvez combattre les villageois, les villages peuvent mener des raids les uns contre les autres, les monstres peuvent attaquer les villages et certains bâtiments isolés sont occupés par des bandits. Quelque soit les circonstances, certains principes ne changent pas : <darkblue>les villageois ne sont vulnérables qu’aux attaques directes (corps à corps, flèches et potions)<black>. Ils ne sont pas affectés par le feu, les chutes ou les cactus. Cette restriction est voulue, pour empêcher le joueur de les tuer sans qu’ils soient conscients que l’attaque vient de lui.
+Villagers vary in strength, and the equipment they wear can make them much more dangerous.
 
-Différents types de villageois sont plus ou moins forts, et surtout l’équipement qu’ils portent peut les rendre beaucoup plus dangereux .
+<darkblue>Respawning of villagers
 
-<darkblue>Résurrection des villageois
+Once killed, a villager is temporarily dead. Dead villagers are respawned in their homes (but they will lose their equipment). After all, the player can respawn as well...
 
-Un villageois tué, par vous ou un autre villageois ou monstre, n’est mort que temporairement. A la tombé de la nuit, tous les villageois renaissent dans leur maison (mais ils perdent leur équipement). Après tout, le joueur ressuscite bien lui aussi…
+<darkblue>Attack by players
 
-<darkblue>Attaque par le joueur
-
-Vous pouvez à tout moment attaquer un villageois. Les autres hommes du village viendront alors l’aider à vous combattre. Si vous parvenez à tuer tous les villageois d’un village ou bâtiment isolé, ses coffres s’ouvriront et vous pourrez voler leurs contenus.
+You can always attack a villager, but other men of the village will then help to fight you. Should you manage to kill all the villagers of a village or lone building, the village's coffers will open and you can steal their contents.
 
 <darkblue>Bandits
 
-Ces villageois habitants certains bâtiments isolés vous attaqueront sans avertissement si vous vous approchez. Votre réputation avec leur culture ne baissera pas si vous les tuez. Comme les autres villageois, ils ressuscitent à la nuit tombée – regarder la section « <darkblue>détruire un village<black> » pour voir comment empêcher ça.
+Some inhabitants of lone buildings will attack you without warning if you approach. Your reputation with their culture will not drop if you kill them. Like other villagers, they respawn at night - look under "<darkblue>destroy a village<black>" to see how to prevent it.
 
-<darkblue>Raids entre villages
+<darkblue>Raids between villages
 
-Les villages Millénaires ont des relations positives ou négatives avec les villages proches. Ces relations changent aléatoirement et peuvent être influencées par le joueur en parlant au chef d’un des villages. Si elles sont trop mauvaises et qu’un des villages dispose d’assez de soldats, il peut lancer un raid sur un autre village. Vous serez prévenu par un message. Lors d’un raid, les soldats du village attaquant tentent de tuer les hommes du village attaqué. S’ils y arrivent, ils prennent une partie des ressources comme butin. Vous pouvez aider un camp ou l’autre pendant un raid.
+Millénaire villages have positive or negative relations with nearby villages. These relations change randomly and may be influenced by the player talking to the chiefs of any of the villages. If their relations are very bad and one of the villages has enough fighters, it can launch a raid on other villages. You will be notified by a message. During a raid, the fighters attacking the town will be trying to kill the menfolk of the village they are attacking. If they do, they will take some of the resources as spoils. You can help one side or the other during a raid.
 
-Il peut être utile d’encourager un village auquel vous tenez à attaquer ses voisins pour augmenter ses ressources. Cyniquement, encourager les raids peut aussi vous permettre d’aller vous-même piller un village en profitant de ce que les défenseurs sont morts.
+It may be useful to encourage a village that you like to attack its neighbours to increase its resources. More cynically, encouraging raids can also allow you to help yourself to some of the loot once the defencers are dead.
 
-<darkblue>Embaucher un villageois
+<darkblue>Hiring a villager
 
-Pour vous aider dans vos combats, il est possible d’embaucher certains villageois, comme les soldats ou les bûcherons. Ils vont suivront et combattront vos ennemies avec vous.
+It is possible to hire some villagers such as the soldiers and lumbermen to help you in battles. They will follow and fight your enemies with you.

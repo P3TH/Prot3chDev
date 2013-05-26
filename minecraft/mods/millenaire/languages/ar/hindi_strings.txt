@@ -26,3 +26,10 @@ villager.indian_sadhu=سادهو
 villager.merchant_oriental=تاجر فارسي
 villager.merchant_adivasi=تاجر اديفازي
 villager.merchant_villagewoman=تاجرة
+villager.merchant_villagewoman = تاجر القرية
+
+shop.townhall=المتجر المركزي
+shop.forge=أدوات
+shop.armyforge=دروع وأسلحة
+shop.adivasifarm=منتجات أديفازي
+shop.deserttradeoutpost=بضائع ثمينة

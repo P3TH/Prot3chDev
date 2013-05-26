@@ -107,7 +107,7 @@ ui.extraresneeded1=<0> other resources
 ui.extraresneeded2=required
 ui.woodforplanks=Wood (any)
 ui.woodoak=Oak Wood
-ui.woodpine=Pine Wood
+ui.woodpine=Spruce Wood
 ui.woodbirch=Birch Wood
 ui.woodjungle=Tropical Wood
 ui.anyenchanted=Enchanted object
@@ -147,6 +147,7 @@ ui.relationlist=Relations with other villages
 ui.relationpraise=Praise
 ui.relationslander=Slander
 ui.relationpoints=Diplomactic points available: <0>
+ui.villagerelationsnobutton=You must have points and a positive reputation to influence the village.
 ui.relationhelp=Relations help<ret><ret>Relations between villages determines whether those villages will cooperate or not.<ret><ret>Local trade (merchants carrying resources) will happen between villages with good relations of the same culture or excellent relations of different cultures.<ret><ret>Villages of different cultures with very good relations that both have markets will host merchants from the other culture.<ret><ret>Villages of the same culture with excellent relations will accept each others' teenagers if they have jobs available.<ret><ret>Relations between villages start at excellent for hamlets of a parent village, good for villages of the same culture, and neutral otherwise.<ret><ret>Each day, a player gets five diplomatic points with which to influence villages' relations. The effectiveness of the praise or slander depends on his reputation in that village.
 ui.relationfriendly=Recent developments between the villages of <0> and <1> have improved relations between them. They are now <2>.
 ui.relationunfriendly=Recent clashes between the villages of <0> and <1> have worsened relations between them. They are now <2>.
@@ -162,6 +163,8 @@ ui.raider=Raider
 
 ui.communicationexplanations=To communicate with the villagers, do a right-click. If an action is possible with the villager in question (trading, discussing with the head of the village, hiring him temporarily, starting a quest) a window will open.
 ui.helpbutton=Millénaire Help
+ui.chunkbutton=Map of chunks
+ui.serverimportforbidden=Only admin users can import buildings on a server.
 
 help.tab_1=Generalities on villages
 help.tab_2=Trading
@@ -326,22 +329,26 @@ item.byzantinebrick=Byzantine Tiles
 item.byzantineslab=Byzantine Tile Slab
 item.byzantinemixedbrick=Byzantine Stone Tile
 item.grapes=Grapes
+item.vine=Vines
 item.wine=Malvasia Wine
 item.silk=Silk
-item.byzantineicon=Byzantine Icon
-item.vine=Vine
+item.byzantineiconsmall=Small Byzantine Icon
+item.byzantineiconmedium=Medium Byzantine Icon
+item.byzantineiconlarge=Large Byzantine Icon
+item.byzantineboots=Byzantine Boots
+item.byzantinelegs=Byzantine Leggings
+item.byzantinePlate=Byzantine Chestplate
+item.byzantineHelmet=Byzantine Helmet
+item.byzantinemace=Byzantine Mace
+item.lambraw=Raw lamb
+item.lambcooked=Grilled lambchops
+item.feta=Feta
+item.wineBasic=Vin
+item.clothes_byz_wool=Wool Byzantine clothes
+item.clothes_byz_silk=Silk Byzantine clothes
 
-goal.plantvines=Planting vines
-goal.harvestgrapes=Harvesting grapes
-goal.gathersilk=Gathering silk
-goal.makeicon=Painting icon
-goal.makewine=Producing wine
-goal.makebookshelves=Making bookshelves
-goal.makebyzantinetiles=Making tiles
-goal.makebrick=Making bricks
-goal.training=Training
-goal.paintpainting=Painting a frame
-goal.makebook=Writing a book
+item.souvlaki=Souvlaki
+item.purse=Bourse à deniers
 
 
 error.unknownitem=Unknown Item Name
@@ -488,31 +495,95 @@ goal.SlaughterChicken=Slaughtering chicken
 goal.PlantSugarCane=Planting sugar cane
 goal.HarvestSugarCane=Harvesting sugar cane
 goal.MakeRasgulla=Making rasgullas
-goal.MakeIndianTools=Making tools
-goal.MakeIndianWeapons=Making weapons
-goal.scult=Carving statue
+goal.Makesteelaxe=Crafting a steel axe
+goal.Makesteelpickaxe=Crafting a steel pickaxe
+goal.Makesteelshovel=Crafting a steel shovel
+goal.Makesteelhoe=Crafting a steel hoe
+goal.Makesteelsword=Crafting a steel sword
+
+goal.makesteelchest=Crafting a steel chestplate
+goal.makesteelhelmet=Crafting a steel helmet
+goal.makesteellegs=Crafting steel leggings
+goal.makesteelboots=Crafting steel boots
+
+goal.makeindianstatue=Carving statue
 goal.performpujas=Performing a puja
 goal.bepujaperformer=Available for pujas
 
 goal.PlantMaize=Planting maize
 goal.HarvestMaize=Harvesting maize
-goal.makeGoldBlock=Making gold ornements
-goal.sculptMayan=Carving statue
-goal.makeobsidiantools=Crafting obsidian tools
-goal.makeobsidianflakes=Breaking obsidian into flakes
+goal.makemayanGoldBlock=Making gold ornements
+goal.makemayanstatue=Carving statue
+goal.Makestoneaxe=Crafting a stone axe
+goal.Makestonepickaxe=Crafting a stone pickaxe
+goal.Makestoneshovel=Crafting a stone shovel
+goal.Makestonehoe=Crafting a stone hoe
+goal.Makestonesword=Crafting a stone sword
+goal.makemayanaxe=Crafting obsidian axe
+goal.makemayanpickaxe=Crafting obsidian pickaxe
+goal.makemayanshovel=Crafting obsidian shovel
+goal.makemayanhoe=Crafting obsidian hoe
+goal.makemayanmace=Crafting obsidian mace
+goal.makeobsidianflake=Breaking obsidian into flakes
 
 goal.fish=Fishing
 goal.makethatch=Making thatch
 goal.makepaper=Making paper
+goal.makepaperrice=Making paper
+goal.makepaperwoodpulp=Making paper
 goal.makepaperwall=Making paper walls
 goal.cookfish=Cooking fish
+goal.cooksteak=Cooking steaks
+goal.cooklamb=Cooking lamb
+goal.cookpork=Cooking porkchops
+goal.cookchicken=Cooking chicken
 goal.makeudon=Making udon
-goal.makejapaneseweapons=Making Japanese weapons
+goal.maketachi=Crafting a Tachi sword
+goal.makejapaneseweapons=Crafting Japanese armement
 
 goal.brewpotions=Brewing potions
 goal.harvestwarts=Harvesting warts
 goal.makeglassbottles=Making glass bottles
 goal.plantwarts=Planting warts
+
+goal.plantvines=Planting vines
+goal.harvestvines=Harvesting grapes
+goal.gathersilk=Gathering silk
+goal.makeicon=Painting icon
+goal.makewine=Producing wine
+goal.makebookshelves=Making bookshelves
+goal.makebyzantinetiles=Making tiles
+goal.makebrick=Making bricks
+goal.training=Training
+goal.paintpainting=Painting a frame
+goal.makebook=Writing a book
+goal.makebyzantinemace=Crafting Byzantine mace
+goal.makebyzantinechest=Crafting Byzantine chestplate
+goal.makebyzantinelegs=Crafting Byzantine leggings
+goal.makebyzantinehelmet=Crafting Byzantine helmet
+goal.makebyzantineboots=Crafting Byzantine boots
+
+goal.makebow=Crafting a bow
+goal.makerottenflesh=Making rotten flesh
+goal.makearrow=Crafting arrows
+
+goal.sleep=Sleeping
+goal.sleep_travelling=Off to sleep
+
+
+goal.makeclothes_byz_wool=Weaving clothes
+goal.makemasa=Preparing masa
+goal.slaughterpig=Slaughtering a pig
+goal.makesouvlaki=Preparing souvlaki
+goal.makewah=Preparing wah
+goal.makecurry=Preparing a vegetarian curry
+goal.makeclothes_byz_silk=Weaving silk clothes
+goal.slaughtersheep=Slaughtering a sheep
+goal.slaughtercow=Slaughtering a cow
+goal.breed=Breeding animals
+goal.shearsheep=Shearing a sheep
+goal.makemurgh=Preparing a chicken curry
+goal.getitemtokeep=Picking up an item
 
 //other
 other.west=West
@@ -550,6 +621,9 @@ other.malevillager=Millénaire villager
 other.femalevillager=Millénaire villager
 
 other.buildinghealing=<0> is healing you.
+
+
+other.localmerchantinteract=This merchant is a local merchant. He transports goods from villages to villages. You cannot interact with him.
 
 hire.health=Health
 hire.strength=Strength
@@ -604,6 +678,7 @@ info.culture=<0> Culture
 info.culturereputation=Reputation: <0>
 info.culturelanguage=Language level: <0>
 
+culturereputation.scourgeofgod=Scourge of God
 culturereputation.dreadful=Dreadful
 culturereputation.bad=Bad
 culturereputation.stellar=Stellar
@@ -685,6 +760,8 @@ hof.forgehelp2=Forge Sprite API
 hof.hofidea1=Hall of Fame
 hof.hofidea2=idea
 hof.donor=Donor
+hof.variousimprovements1=Various
+hof.variousimprovements2=Improvements
 
 pujas.invanme=Pujas
 pujas.panditfee=Pandit's fee
@@ -703,6 +780,7 @@ culture.norman=Norman
 culture.hindi=Hindi
 culture.japanese=Japanese
 culture.mayan=Mayan
+culture.byzantines=Byzantine
 
 export.errornoname=You must give the building plan's name on the first line.
 export.errornoendsigneast=Could not find the closure sign to the east. It must be in a straight line from the starting one within 256 blocks.
@@ -730,3 +808,58 @@ effect.irrigation=Irrigation: <0>% extra crops
 effect.pujalocation=Pujas held
 effect.healing=Heals Player
 
+chunk.chunkmap=Map of chunks
+chunk.caption=Caption
+chunk.captiongeneral=Each chunk is displayed as a 2x2 pixels square
+chunk.captiongreen=Green dots indicate a loaded chunk.
+chunk.captionblue=Blue dots indicate a chunk part of a village's area.
+chunk.captionpurple=Purple dots indicate a chunk part of a lone building's area.
+chunk.captionwhite=White dots indicate a chunk which is being kept loaded by a mod (Millénaire or another Forge mod)
+chunk.playerposition=Coordinates of the player: <0>
+chunk.settings=Village loading radius: <0> metres. Maximum number of chunks preserving allowed by Forge: <1>.
+chunk.explanations=Millénaire villages are only active if all their chunks are loaded. The inhabitants of other villages are frozen. Millénaire attempts to force Minecraft to keep the chunks of villages within 200 metres of a player loaded (that value can be changed). The Forge mechanism used for this is limited by default to 200 chunks. You can configure this value in minecraft/config/forgeChunkLoading.cfg. Warning: increasing the number of chunks kept loaded will decrease performance.
+chunk.chunkcoords=Chunk: <0>
+chunk.village=<0>
+chunk.chunkforced=Force-loaded
+
+achievementpage.name=Millénaire
+achievement.firstcontact.name=First contact
+achievement.firstcontact.desc=Meet a villager
+achievement.cresus.name=Croesus
+achievement.cresus.desc=Earn a denier or
+achievement.summoningwand.name=Summoning
+achievement.summoningwand.desc=Buy a Wand of Summoning and generate a village with it
+achievement.villageleader.name=Village leader
+achievement.villageleader.desc=Become leader in a culture and create a controlled village
+achievement.thequest.name=The Quest
+achievement.thequest.desc=Complete a quest given by a villager
+achievement.maitreapenser.name=Maître à penser
+achievement.maitreapenser.desc=Meet the Sadhu or the Alchemist
+achievement.forbiddenknwoledge.name=Forbidden knowledge
+achievement.forbiddenknwoledge.desc=Complete the two chapters of the Creation Quest
+achievement.puja.name=A little help from the Gods
+achievement.puja.desc=Pay a pandit to perform a puja
+achievement.explorer.name=Explorer
+achievement.explorer.desc=Explore a lone building
+achievement.marcopolo.name=Marco Polo
+achievement.marcopolo.desc=Visit villages of three cultures in the same world
+achievement.magellan.name=Fernand de Magellan
+achievement.magellan.desc=Visit villages of all cultures in the same world
+achievement.selfdefense.name=Self-defense
+achievement.selfdefense.desc=Kill a bandit
+achievement.pantheon.name=The Panthéon
+achievement.pantheon.desc=Visit the mysterious Panthéon
+
+achievement.darkside.name=The dark side
+achievement.darkside.desc=Kill a villager
+achievement.scipio.name=Carthago delenda est
+achievement.scipio.desc=Destroy a village with the Negation Wand
+achievement.attila.name=Attila
+achievement.attila.desc=Gain the "Scourge of God" reputation in three cultures
+
+achievement.cheers.name=Three cheers for Minecraft!
+achievement.cheers.desc=Drink a Millénaire alcohol
+achievement.hired.name=Hired hand
+achievement.hired.desc=Hire a villager
+achievement.masterfarmer.name=Expert farmer
+achievement.masterfarmer.desc=Plant a Millénaire crop

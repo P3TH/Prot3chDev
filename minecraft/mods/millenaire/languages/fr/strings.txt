@@ -147,6 +147,7 @@ ui.relationlist=Relations avec les autre villages
 ui.relationpraise=Dire du bien
 ui.relationslander=Calomnier
 ui.relationpoints=Points diplomatiques disponibles: <0>
+ui.villagerelationsnobutton=Vous devez avoir des points et une réputation positive pour influencer le village.
 ui.relationhelp=Explications sur les relations<ret><ret>Les relations entre les villages déterminent s'ils coopéreront ou pas.<ret><ret>Le commerce local (les marchands transportant des resources entre les villages) n'aura lieu qu'entre villages de même culture avec de bonnes relations ou entre villages de différentes cultures avec des relations excellentes.<ret><ret>Les villages de cultures différentes dont les relations sont très bonnes et ayant tous les deux des marchés acceuilleront des marchands de l'autre culture.<ret><ret>Les villages de la même culture ayant d'excellentes relations accepteront leurs adolescents s'ils ont des postes disponibles.<ret><ret>Les relations entre villages débutent à "excellentes" pour les hameaux d'un village, "bonnes" pour les villages de la même culture, et neutres autrement.<ret><ret>Chaque jour, le joueur reçoit cinq points diplomatiques qu'il peut utiliser pour influencer les relations d'un village. L'efficacité des compliments ou des calmonies dépent de sa réputation dans le village.
 ui.relationfriendly=Des évenements récents entre les villages de <0> et de <1> ont amélioré leurs relations. Elles sont maintenant <2>.
 ui.relationunfriendly=Des heurts récents entre les villages de <0> et de <1> ont envenimé leurs relations. Elles sont maintenant <2>.
@@ -161,6 +162,9 @@ ui.croplearned=<0>: Les secrets de la culture du <1> vont ont étés révélés!
 ui.raider=Raider
 ui.communicationexplanations=Pour communiquer avec les villageois, faites un clic-droit. Si une action est possible avec le villageois en question (commercer, discuter avec le chef du village, l'embaucher temporairement, commencer une mission) une fenêtre s'ouvrira.
 ui.helpbutton=Aide Millénaire
+ui.chunkbutton=Carte des tronçons
+ui.serverimportforbidden=Il faut être administrateur pour pouvoir importer des bâtiments sur un serveur.
+
 
 help.tab_1=Généralité sur les villages
 help.tab_2=Commerce
@@ -322,22 +326,27 @@ item.byzantinebrick=Tuiles byzantines
 item.byzantineslab=Dale de tuiles byzantines
 item.byzantinemixedbrick=Tuiles byzantines mixes
 item.grapes=Raisin
+item.vine=Vigne
 item.wine=Vin Malvasia
 item.silk=Soie
-item.byzantineicon=Icône byzantine
-item.vine=Vigne
+item.byzantineiconsmall=Petite icône byzantine
+item.byzantineiconmedium=Icône byzantine moyenne
+item.byzantineiconlarge=Grande icône byzantine
+item.byzantineboots=Bottes byzantines
+item.byzantinelegs=Jambières byzantines
+item.byzantinePlate=Plastron byzantin
+item.byzantineHelmet=Casque byzantin
+item.byzantinemace=Masse d'arme byzantine
 
-goal.plantvines=Plante des vignes
-goal.harvestgrapes=Vendange
-goal.gathersilk=Récolte de la soie
-goal.makeicon=Peint une icône
-goal.makewine=Produit du vin
-goal.makebookshelves=Fabrique des bibliothèques
-goal.makebyzantinetiles=Fabrique des tuiles
-goal.makebrick=Fabrique des briques
-goal.training=S'entrene
-goal.paintpainting=Peint un tableau
-goal.makebook=Ecrit un livre
+item.clothes_byz_wool=Vêtements byzantins en laine
+item.clothes_byz_silk=Vêtements byzantins en soie
+
+item.lambcooked=Agneau grillé
+item.lambraw=Agneau cru
+item.feta=Féta
+item.wineBasic=Vin
+item.souvlaki=Souvláki
+item.purse=Bourse à deniers
 
 error.unknownitem=Nom d'object inconnu
 
@@ -481,31 +490,98 @@ goal.SlaughterChicken=Abat un poulet
 goal.PlantSugarCane=Plante de la canne à sucre
 goal.HarvestSugarCane=Récolte de la canne à sucre
 goal.MakeRasgulla=Prépare des rasgullas
-goal.MakeIndianTools=Fabrique des outils
-goal.MakeIndianWeapons=Fabrique des armes
-goal.scult=Sculpte
+goal.Makesteelaxe=Fabrique une hache de fer
+goal.Makesteelpickaxe=Fabrique une pioche de fer
+goal.Makesteelshovel=Fabrique une pelle de fer
+goal.Makesteelhoe=Fabrique une houe de fer
+goal.Makesteelsword=Fabrique une épée de fer
+goal.makeindianstatue=Sculpte
 goal.performpujas=Fait un puja
 goal.bepujaperformer=Disponible pour les pujas
 
 goal.PlantMaize=Plante du maïs
 goal.HarvestMaize=Récolte du maïs
-goal.makeGoldBlock=Fabrique des décorations en or
-goal.sculptMayan=Sculpte
-goal.makeobsidiantools=Fabrique des outils d'obsidienne
-goal.makeobsidianflakes=Casse de l'obsidienne
+goal.makemayanGoldBlock=Fabrique des décorations en or
+goal.makemayanstatue=Sculpte
+goal.makeobsidianflake=Casse de l'obsidienne
+goal.makemayanaxe=Fabrique une hache d'obsidienne
+goal.makemayanpickaxe=Fabrique une pioche d'obsidienne
+goal.makemayanshovel=Fabrique une pelle d'obsidienne
+goal.makemayanhoe=Fabrique une houe d'obsidienne
+goal.makemayanmace=Fabrique une massue d'obsidienne
 
 goal.fish=Pêche
 goal.makethatch=Fabrique de la chaume
 goal.makepaper=Fabrique du papier
+goal.makepaperrice=Fabrique du papier
+goal.makepaperwoodpulp=Fabrique du papier
 goal.makepaperwall=Fabrique des parois de papier
 goal.cookfish=Cuit du poisson
 goal.makeudon=Fait des udons
-goal.makejapaneseweapons=Fabrique des armes japonaises
 
 goal.makeglassbottles=Fabrique des fioles
 goal.harvestwarts=Récolte des verrues
 goal.plantwarts=Plante des verrues
 goal.brewpotions=Prépare des potions
+
+goal.sleep=Dort
+goal.sleep_travelling=Va dormir
+
+goal.plantvines=Plante des vignes
+goal.gathersilk=Récolte de la soie
+goal.makeicon=Peint une icône
+goal.makewine=Produit du vin
+goal.makebookshelves=Fabrique des bibliothèques
+goal.makebyzantinetiles=Fabrique des tuiles
+goal.makebrick=Fabrique des briques
+goal.training=S'entrene
+goal.paintpainting=Peint un tableau
+goal.makebook=Ecrit un livre
+
+goal.makebyzantinemace=Fabrique une masse d'arme
+goal.makebyzantinechest=Fabrique un plastron
+goal.makebyzantinelegs=Fabrique des jambières
+goal.makebyzantinehelmet=Fabrique un casque
+goal.makebyzantineboots=fabrique des bottes
+
+
+goal.makearrow=Fabrique des flèches
+goal.makebow=Fabrique un arc
+goal.makerottenflesh=Fabrique de la chair putréfiée
+goal.makesteelboots=Fabrique des bottes de fer
+goal.makesteelchest=Fabrique un plastron de fer
+goal.makesteelhelmet=Fabrique un casque de fer
+goal.makesteellegs=Fabrique des jambières de fer
+goal.makestoneaxe=Fabrique une hache de pierre
+goal.makestonehoe=Fabrique une houe de pierre
+goal.makestonepickaxe=Fabrique une pioche de pierre
+goal.makestoneshovel=Fabrique une pelle de pierre
+goal.makestonesword=Fabrique une épée de pierre
+goal.maketachi=Fabrique une épée tachi
+goal.makejapaneseweapons=Fabrique de l'armement japonais
+
+goal.cookchicken=Cuit du poulet
+goal.cooklamb=Cuit de l'agneau
+goal.cookpork=Cuit du porc
+goal.cooksteak=Cuit du bœuf
+goal.harvestvines=Vendange
+
+goal.makeclothes_byz_wool=Tisse des vêtements
+goal.makemasa=Prépare une masa
+goal.slaughterpig=Abat un porc
+goal.makesouvlaki=Prépare du souvláki
+goal.makewah=Prépare une wah
+goal.makecurry=Prépare un cari végétarien
+goal.makeclothes_byz_silk=Tisse des vêtements de soie
+goal.slaughtersheep=Abat un mouton
+goal.slaughtercow=Abat une vache
+goal.breed=Elève des animaux
+goal.shearsheep=Tond un mouton
+goal.makemurgh=Prépare un cari de poulet
+goal.getitemtokeep=Va chercher un objet
+
+
+
 
 //other
 other.west=ouest
@@ -543,6 +619,8 @@ other.malevillager=villageois Millénaire
 other.femalevillager=villageoise Millénaire
 
 other.buildinghealing=<0> restaure votre santé.
+
+other.localmerchantinteract=Ce marchand est un marchand local. Il transporte des marchandises de village en village. Vous ne pouvez pas interagir avec lui.
 
 hire.health=Vie
 hire.strength=Force
@@ -600,6 +678,7 @@ info.culture=Culture <0>
 info.culturereputation=Réputation: <0>
 info.culturelanguage=Niveau de langue: <0>
 
+culturereputation.scourgeofgod=Fléau de Dieu
 culturereputation.dreadful=Epouventable
 culturereputation.bad=Mauvaise
 culturereputation.stellar=Stellaire
@@ -679,6 +758,8 @@ hof.forgehelp2=Forge Sprite API
 hof.hofidea1=Idée du
 hof.hofidea2=Panthéon
 hof.donor=Donateur
+hof.variousimprovements1=Améliorations
+hof.variousimprovements2=Diverses
 
 pujas.invanme=Pujas
 pujas.panditfee=Pour le pandit
@@ -697,6 +778,7 @@ culture.norman=Normande
 culture.hindi=Hindi
 culture.japanese=Japonaise
 culture.mayan=Maya
+culture.byzantines=Byzantine
 
 export.errornoname=Vous devez donner le nom du plan de bâtiment sur la première ligne.
 export.errornoendsigneast=Impossible de trouver le panneau de fermeture à l'est. Il doit être en ligne droite par rapport à celui de départ à moins de 256 blocs.
@@ -724,3 +806,60 @@ effect.shop=Commerce: <0>
 effect.irrigation=Irrigation: <0>% de récoltes en plus
 effect.pujalocation=Tenue de pujas
 effect.healing=Guérison du joueur
+
+chunk.chunkmap=Carte des tronçons (chunks)
+chunk.caption=Légende
+chunk.captiongeneral=Chaque tronçon est représenté par quatre pixels (carré 2x2).
+chunk.captiongreen=Les points verts indiquent un tronçon actuellement chargé.
+chunk.captionblue=Les points bleus indiquent un tronçon faisant parti du territoire d'un village.
+chunk.captionpurple=Les points violents indiquent un tronçon faisant parti du territoire d'un bâtiment isolé.
+chunk.captionwhite=Les points blancs indiquent un tronçon dont le chargement est forcé par un mod (Millénaire ou autre mod Forge).
+chunk.playerposition=Position du joueur: <0>
+chunk.settings=Rayon de maintien des villages: <0> mètres. Nombre maximum de tronçons forcés autorisé par Forge: <1>.
+chunk.explanations=Seuls les villages Millénaire dont tous les tronçons sont chargés sont actifs. Les habitants des autres ne font rien. Millénaire essaye d'obliger Minecraft à garder charger les tronçons des villages dans un rayon de 200 mètres (valeur configurable). Le méchanisme de Forge utilisé est limité par défaut à 200 tronçons. Vous pouvez modifier cette valeur dans minecraft/config/forgeChunkLoading.cfg.
+chunk.chunkcoords=Tronçon: <0>
+chunk.village=<0>
+chunk.chunkforced=Forçé
+
+
+achievementpage.name=Millénaire
+achievement.firstcontact.name=Premier contact
+achievement.firstcontact.desc=Rencontrez un villageois
+achievement.cresus.name=Crésus
+achievement.cresus.desc=Obtenez un denier or
+achievement.summoningwand.name=Invocation
+achievement.summoningwand.desc=Achetez une baguette d’invocation et utilisez-la pour créer un village
+achievement.villageleader.name=Chef de village
+achievement.villageleader.desc=Devenez chef dans une culture et fondez un village contrôlé
+achievement.thequest.name=La Quête
+achievement.thequest.desc=Accomplissez une quête pour un villageois
+achievement.maitreapenser.name=Maître à penser
+achievement.maitreapenser.desc=Rencontrez le Sadhu ou l'Alchimiste
+achievement.forbiddenknwoledge.name=Connaissances interdites
+achievement.forbiddenknwoledge.desc=Terminez les deux chapitres de la quête de la création
+achievement.puja.name=Un peu d'aide des dieux
+achievement.puja.desc=Faites faire un puja à un pandit
+achievement.explorer.name=Explorateur
+achievement.explorer.desc=Visitez un bâtiment isolé
+achievement.marcopolo.name=Marco Polo
+achievement.marcopolo.desc=Visitez des villages de trois cultures dans un seul monde
+achievement.magellan.name=Fernand de Magellan
+achievement.magellan.desc=Visitez des villages de toutes les cultures dans un seul monde
+achievement.selfdefense.name=Légitime défense
+achievement.selfdefense.desc=Tuez un bandit
+achievement.pantheon.name=Le Panthéon
+achievement.pantheon.desc=Trouvez le mystérieux Panthéon
+
+achievement.darkside.name=Le côté obscur
+achievement.darkside.desc=Tuez un villageois
+achievement.scipio.name=Carthago delenda est
+achievement.scipio.desc=Détruisez un village avec la baguette de négation
+achievement.attila.name=Attila
+achievement.attila.desc=Atteignez la réputation "fléau de Dieu" dans trois cultures
+
+achievement.cheers.name=A la santé de Minecraft!
+achievement.cheers.desc=Buvez un alcool Millénaire
+achievement.hired.name=Main d'œuvre
+achievement.hired.desc=Embauchez un villageois
+achievement.masterfarmer.name=Maître fermier
+achievement.masterfarmer.desc=Cultivez une plante Millénaire

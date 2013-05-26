@@ -12,11 +12,8 @@ biome:extreme hills
 
 biome:green hills
 biome:ice mountains
-
-//biomes o'plenty
-
-biome:mountain
-biome:grassland
+biome:birch forest
+biome:autumn woods
 
 //starting buildings:
 centre:japanesefarmbig

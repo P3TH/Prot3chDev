@@ -27,8 +27,26 @@ villager.playersoldier_byzantine=Soldato
 villager.smith_byzantine=Fabbro
 villager.merchant_byzantine=Mercante
 villager.pastor_byzantine=Pastore
+villager.artwife_byzantine=Moglie dell'artigiano
+villager.architect_byzantine=Architetto
+villager.silkfarmer_byzantine=Produttore di seta
+villager.silkfarmerwife_byzantine=Moglie del produttore di seta
+
+villager.smuggler_silk=Contrabbandiera di seta
+villager.merchant_art=Mercante d'arte
+villager.merchant_food=Mercante di alimentari
+villager.merchant_materials=Mercante di materiali
 
 villager.keeperOak_byzantine=Guardia
 villager.keeperBirch_byzantine=Guardia
 villager.keeperTropical_byzantine=Guardia
 villager.keeperPine_byzantine=Guardia
+villager.loneshepherd_byzantine=Pastore
+villager.loneshepherdf_byzantine=Pastore
+villager.keeper_byzantine=Custode del faro
+
+shop.townhall=Negozio centrale
+shop.forge=Utensili, armi e armature
+shop.lonetower=Alimentari
+shop.tavernbyz=Vino
+shop.lonesheep=Lana

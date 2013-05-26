@@ -14,8 +14,15 @@ goal=gopray
 goal=becomeAdult
 goal=goPlay
 
-requiredFood=rice,5
-requiredFood=turmeric,2
-requiredFood=chickenmeat,2
+requiredFood=chickencurry,3
+requiredFood=vegcurry,3
+requiredFood=bread,1
+requiredFood=rice,2
+requiredFood=chickenmeatcooked,2
+requiredFood=fishcooked,1
+requiredFood=egg,3
+requiredFood=wah,1
+requiredFood=masa,1
+requiredFood=udon,1
 
-
+baseAttackStrength=1
