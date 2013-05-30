@@ -1,0 +1,101 @@
+Name: prot3ch private server modpack (Open to whitelisting but the code is completely private and given out individually).
+Version: 1.4.7
+Version: 1.2.3
+
+Description:
+This modpack is made for the members of a server called prot3ch,
+it includes mods that no other modpack includes. 
+Lockit, atmosmobs and millanaire are very rare to come by
+in a modpack. We update our modpack and have a bug report
+section for anyone that needs help.
+https://github.com/profjb/Prot3ch/issues?labels=&page=1&state=open
+Other than that, check the site if you run on mac/linux.
+On windows your free to go!
+
+IMPORTANT: 
+Mods:                            |Permissions:                       |Credit
+CodeChickenCore (Chicken_Bones) - *Spreadsheet*                       http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
+Forestry (SirSengir) - http://i.imgur.com/UZYqx7t.png                 http://www.minecraftforum.net/topic/700588-forestry-for-minecraft-trees-bees-and-more-1702-updated-08012013/
+Buildcraft 3 (SpaceToad/Krapht/SirSengir) - *Spreadsheet*             http://www.mod-buildcraft.com/
+ChickenChunks (Chicken_Bones) - *Spreadsheet                          http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
+Computercraft (dan200) - *Spreadsheet*                                http://computercraft.info/wiki/Main_Page
+ExtraBiomesXL (MisterFiber) - *Spreadsheet                            http://www.minecraftforum.net/topic/1090288-extrabiomesxl-380-supports-147/
+Industrialcraft 2 (http://tinyurl.com/bqv5luf) *Spreadsheet*          http://wiki.industrial-craft.net/index.php?title=Main_Page
+Not Enough Items (Chicken_Bones) - *Spreadsheet*                      http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
+Nuclear Control (Shedar) - http://i.imgur.com/IKOMWob.png             http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
+RailCraft (CovertJaguar) - *Spreadsheet*                              http://railcraft.wikispaces.com/
+Thaumcraft 3 (Azanor) - *Spreadsheet*                                 http://www.minecraftforum.net/topic/1585216-thaumcraft-301c-updated-22122012/
+Twilight Forest (Benimatic) - *Spreadsheet*                           http://www.minecraftforum.net/topic/561673-147-the-twilight-forest-v1150-updated-to-mc-147/
+Rei's Minimap (ReiFNSK) - *Spreadsheet*                               http://www.minecraftforum.net/topic/482147-146-dec22-reis-minimap-v32-06/
+MFFS Forcefields (Thunderdark) - http://i.imgur.com/cvEwG0x.png       http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292
+Iron Chests (cpw) - *Spreadsheet*                                     http://www.minecraftforum.net/topic/981855-146-forge-universal-ironchests-45-cats-146/
+Forge Mod Loader (cpw) - *Spreadsheet*                                http://www.minecraftforge.net/forum/
+OmniTools (KingLemmingCoFH) - *Spreadsheet*                           http://thermalexpansion.wikispaces.com/OmniTools
+ChocolateCraft (infina) - http://i.imgur.com/ZcaG9gS.png              http://www.minecraftforum.net/topic/1578980-146forgechocolatecraft-v120/
+ExtraBee's (Binnie) - *Spreadsheet*                                   http://www.minecraftforum.net/topic/1324321-145sspsmpforestry-extra-bees-141x-dev-build-revolutionize-your-bee-breeding/
+Thermal Expansion (KingLemmingCoFH) - *Spreadsheet*                   http://www.minecraftforum.net/topic/1297506-146-thermal-expansion-216-liquiducts-have-arrived/
+Advanced Machines (AtomicStryker) - *Spreadsheet*                     http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
+Traincraft (Spitfire4466) - http://i.imgur.com/BF6nM3p.png            http://www.minecraftforum.net/topic/1587267-146sspsmplanforgetraincraft-formerly-trains-zeppelin-mod/
+Mystcraft - (XCompWiz) - *Spreadsheet*                                http://www.minecraftforum.net/topic/918541-146-mystcraft-09500/
+Soulshards/Recipe Remover (ShadwDrgn) - *Spreadsheet*                 http://www.minecraftforum.net/topic/1475847-146-forgeirc-v1014-soul-shards-v126-and-recipe-remover-v11-updated-122013/
+Recipe Remover (ShadwDrgn) - http://i.imgur.com/J0PWcS9.png           http://www.minecraftforum.net/topic/1475847-146-forgeirc-v1014-soul-shards-v126-and-recipe-remover-v11-updated-122013/
+All the WR-CBE's (Chicken_bones) - *Spreadsheet*                      http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/
+Redpower (eloraam) - http://i.imgur.com/LccVSsf.png                   http://www.eloraam.com/
+Liteloader (mumfrey) - http://i.imgur.com/olL879U.png                 http://www.minecraftforum.net/topic/467504-146-macro-keybind-mod-0973-and-liteloader-for-146/page__st__3180
+PowerCrystalsCore (power crystals) - http://i.imgur.com/G2LtomE.png   http://www.minecraftforum.net/topic/1629898-146-powercrystals-mods-powerconverters2-is-here-mfr-and-more/
+PowerConverters (power crystals) - http://i.imgur.com/G2LtomE.png     http://www.minecraftforum.net/topic/1629898-146-powercrystals-mods-powerconverters2-is-here-mfr-and-more/
+PetroGen (DrCeph) - *Spreadsheet*                                     http://forum.feed-the-beast.com/threads/petroleum-generator-a-forestry-esque-bc-ic-crossover-mod.2246/
+Thermal Expansion NEI (KingLemmingCoFH) - *Spreadsheet*               http://thermalexpansion.wikispaces.com/home
+InventoryTweaks (jimeowan) - *Spreadsheet*                            http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/ 
+Additional buildcraft objects (Flow86) - http://i.imgur.com/s9QhnGe.png - http://www.minecraftforum.net/topic/682821-146bc33x095-additional-buildcraft-objects/
+Lockit (hypercross) - http://i.imgur.com/qMxcaEB.png                  http://www.minecraftforum.net/topic/1575883-146lockit-a-lock-mod-for-forge-servers
+OpenCCsensors (Cloudhunter,Mikeemoo,Orwell1984,Lyqyd,Nietsnie) - http://i.imgur.com/AIE8YQU.png - http://www.computercraft.info/forums2/index.php?/topic/5996-146-cc-148-openccsensors/
+MineChem 2 (ljdp) - http://i.imgur.com/HIarEqG.png                    http://www.minecraftforum.net/topic/1611745-minechem-2-pr61-now-with-chemistry-turtles-8th-jan-tue/
+ChargePads (Myrathi) - *Spreadsheet*                                  http://forum.industrial-craft.net/index.php?page=Thread&threadID=7892
+PetBat (AtomicStryker) - http://i.imgur.com/iB2IGQ9.png               http://www.atomicstryker.net/petbat.html
+Millenaire (Kinniken)- http://i.imgur.com/92FzRvM.png                 http://millenaire.org/
+TrailMix (Ichun) - http://i.imgur.com/452jzPR.png                     http://ichun.us/
+Steve's Carts (Vswe) - http://i.imgur.com/CTmskON.png                 http://www.minecraftforum.net/topic/680276-147-steves-carts-2-v200a44/
+Atmosmobs (Saveyx0) -  http://i.imgur.com/21ggLGw.png                 http://www.minecraftforum.net/topic/1126195-147forge-atmosmobs-v132b-extrabiomesxl-support-is-back/
+PlayerAPI (Divisor) - http://i.imgur.com/GB1lvGh.png                  http://www.minecraftforum.net/topic/1261354-147api-render-player-api/
+DenLib (denoflionsx) - Open to redistribute                           https://github.com/denoflionsx/denLib
+NEI plugins (mistaqur) - *Spreadsheet*                                https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
+Advanced Solar panels (SeNtiMeL) - *Spreadsheet*                      http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291
+EE3(Pahimar) - *SpreadSheet*                                          http://www.minecraftforum.net/topic/1540010-equivalent-exchange-3-pre1f/
+Gravitation Suite (SeNtiMeL) - *Spreadsheet*                          http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915&pageNo=1
+AtmoicStykers mods (AtmoicStryker) - http://i.imgur.com/iB2IGQ9.png   http://www.atomicstryker.net/                   
+VoxelModpack mods e.g mindcracks GUI - http://i.imgur.com/yWsPg4S.png http://www.minecraftforum.net/topic/467504-147-macro-keybind-mod-098-and-liteloader-for-147/
+Factorization (Neptunepink) - http://i.imgur.com/IAZRsBX.png          http://www.minecraftforum.net/topic/1351802-146-factorization-0710/
+MiscPeripherals (RichardG867) - http://i.imgur.com/5Dse6lf.png        http://www.computercraft.info/forums2/index.php?/topic/4587-cc1481mc146-miscperipherals-30/
+
+         
+For Version 1.1:
+Thaumicbee's (MysteriousAges) - http://i.imgur.com/1fnGDkB.png        http://www.minecraftforum.net/topic/1627856-thaumicbees-crossover-mod-for-forestry-thaumcraft-updated-feb-3/
+Modular powersuites (MachineMuse) - http://i.imgur.com/I0mOA2J.png    http://machinemuse.net/download.php
+NOW WORKS!- SmartMoving (Divisor) - http://i.imgur.com/TT6Vr1j.png    http://www.minecraftforum.net/topic/361430-147smp-smart-moving/
+
+
+For version 1.2:
+XReliquary 1.05d (x3n0ph0b3) -http://i.imgur.com/HeB3DiX.png     http://www.minecraftforum.net/topic/1596973-147-xenos-reliquary-v105d/
+Secretrooms mod (Abrarsyed) - http://i.imgur.com/F2BQT4o.png  http://www.minecraftforum.net/topic/546192-147v450secretroomsmodsmpforge-now-where-is-that-door/
+Gregslighting (Greg_Ewing) - http://i.imgur.com/njX3SmJ.png    http://www.minecraftforum.net/topic/1357011-gregs-lighting-171-for-minecraft-146/
+
+For version 2.0:
+Wool++ mod (Poursa {Is a member of the server}) - http://i.imgur.com/JPgMtqz.png   http://www.minecraftforum.net/topic/1565891-wool-mod-v-075-minecraft-147download-availablenow-with-config/
+Dimensional doors (stevenrs11) - http://i.imgur.com/soqkSJ2.png                    http://www.minecraftforum.net/topic/1650007-147smpssplan-dimensional-doors-v121-physics-what-physics-the-dungeon-update/
+Chococraft (Torojima) - http://i.imgur.com/0RmO3IR.png                             http://www.minecraftforum.net/topic/1119809-147sspsmpforge-torojimas-chococraft-253-explore-your-worlds-riding-chocobos/
+Bibliocraft (Nuchaz) - http://i.imgur.com/B9xch8B.png                              http://www.minecraftforum.net/topic/1680480-147forge-bibliocraft-v110-bookcases-armor-stands-shelves-and-more-updated-02222013/
+Applied energistics mod (AlgorithmX2) - http://i.imgur.com/Hlxfwej.png             http://www.minecraftforum.net/topic/1625015-147-applied-energistics-rv-9-f/
+SGcraft (Greg Ewing) - http://i.imgur.com/MhR1joA.png                              http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/SGCraft/
+
+For version 2.1.0:
+Campfire mod (JSOne_Studios) - http://i.imgur.com/4nQZ77C.png    http://www.minecraftforum.net/topic/1017719-151-sspsmp-forge-campfire-mod-v251/
+Parachute mod (crackedEgg) - http://i.imgur.com/4nQZ77C.png      http://www.minecraftforum.net/topic/585469-151forge-crackedeggs-mods-reptiles-parachute-walkingdead/
+Liquidxp (immibis) - http://i.imgur.com/S4ln99e.png              http://www.minecraftforum.net/topic/1001131-15-immibiss-mods-smp-tubestuff-5400-core-5401-da-5400-infinitubes-5400-liquid-xp-5401-microblocks-5405/
+Tubestuffs (immibis) - http://i.imgur.com/S4ln99e.png            http://www.minecraftforum.net/topic/1001131-15-immibiss-mods-smp-tubestuff-5400-core-5401-da-5400-infinitubes-5400-liquid-xp-5401-microblocks-5405/
+Immibis Core (immibis) - http://i.imgur.com/S4ln99e.png          http://www.minecraftforum.net/topic/1001131-15-immibiss-mods-smp-tubestuff-5400-core-5401-da-5400-infinitubes-5400-liquid-xp-5401-microblocks-5405/
+Portalgun (IChun) - http://i.imgur.com/KZ0WH4g.png               http://ichun.us/
+Gravitygun (IChun) - http://i.imgur.com/KZ0WH4g.png              http://ichun.us/
+
+For version 2.1.3:
+(All changelogs have moved to www.prot3ch.net/modpack)
