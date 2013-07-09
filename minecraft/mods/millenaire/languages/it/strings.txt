@@ -3,6 +3,7 @@ startup.loadproblem=Si è verificato un errore durante il caricamento di <0>.
 startup.checkload=Verifica che la cartella "culture" sia nella cartella "millenaire" nella cartella "minecraft".
 startup.millenaireloaded=<0> è attivo. Esplora e premi '<1>' per localizzare i villaggi.
 startup.radiuswarning=ATTENZIONE: non è necessario impostare un valore così elevato del raggio del villaggio: ciò causerà molta più lag. Valori superiori a 70 non sono raccomandati.
+startup.bonus=Contenti Bonus abilitati.
 
 command.nogenerate=<0> non genererà più villaggi in nuovi chunks in questo mondo.
 command.willgenerate=<0> genererà ora villaggi in nuovi chunks in questo mondo.
@@ -33,6 +34,7 @@ ui.noneininventory=Non hai nulla nel tuo inventario.
 ui.selling=Vendendo
 ui.buying=Comprando
 ui.buybuilding=Compro <0> (<1>)
+ui.buybonusbuilding=Bonus richiesto: <0>
 ui.sellercoming=<0>: Sarò esattamente lì, $name!
 ui.tradecomplete=<0>: Spero che ti sia piaciuto commerciare con noi! Buona giornata.
 ui.sellerboycott=<0>: Non commerceremmo mai più con voi, fuorilegge!
@@ -48,6 +50,7 @@ ui.alreadybuilt=Già costruito
 ui.alreadyrequested=Già richiesto
 ui.notavailableyet=Non ancora disponibile
 ui.available=Disponibile
+ui.bonusavailable=Disponibile (regalo)
 ui.youaremissing=Ti manca: <0>
 ui.scrollsnoreputation=La tua reputazione non è sufficiente per acquistare la pergamena del villaggio.
 ui.scrollsnotenoughmoney=Ti mancano <0> denier(s) per una pergamena del villaggio.
@@ -163,8 +166,11 @@ ui.raider=Bandito
 
 ui.communicationexplanations=Per comunicate con gli abitanti del villagio clicca col tasto destro. Se è possibile eseguire una azione (commerciare, discutere col capo villaggio, arroulare temporaneamente, cominciare una missione) si aprirà una finestra.
 ui.helpbutton=Aiuto di Millénaire
+ui.chunkbutton=Mappa dei chunk
+ui.configbutton=Impostazioni
+ui.serverimportforbidden=Solo gli admin possono importare edifici sul server.
 
-help.tab_1=Generalities on villages
+help.tab_1=Generalità sui villaggi
 help.tab_2=Commercio
 help.tab_3=Reputazione e capi villaggio
 help.tab_4=Sviluppo del villaggio
@@ -327,6 +333,7 @@ item.byzantinebrick=Mattoni bizzantini
 item.byzantineslab=lastra bizzantina
 item.byzantinemixedbrick=Pietre bizzantina
 item.grapes=Uva
+item.vine=Vigneto
 item.wine=Vino Malvasia
 item.silk=Seta
 item.byzantineiconsmall=Icona bizzantina piccola
@@ -336,24 +343,23 @@ item.byzantineboots=Stivali bizzantini
 item.byzantinelegs=Gambali bizzantini
 item.byzantinePlate=Pettorale bizzantini
 item.byzantineHelmet=Elmo bizzantini
-item.byzantinemace=Mazza bizzantini
-item.vine=Vigneto
+item.byzantinemace=Mazza bizzantina
+item.lambraw=Agnello crudo
+item.lambcooked=Agnello cotto
+item.feta=Feta
+item.wineBasic=Vino
+item.clothes_byz_wool=vestiti bizzantini
+item.clothes_byz_silk=vestiti bizzantini di seta
 
-goal.plantvines=Piantando vigne
-goal.harvestgrapes=Raccogliendo uva
-goal.gathersilk=Raccogliendo seta
-goal.makeicon=Dipingendo icone
-goal.makewine=Producendo vino
-goal.makebookshelves=Costruendo scaffali di libri
-goal.makebyzantinetiles=Costruendo blocchi
-goal.makebrick=Costruendo Mattoni
-goal.training=Esercitando
-goal.paintpainting=Dipingendo un quadro
-goal.makebook=Scrivendo un libro
-goal.makebyzantineweapons=Creando armi bizantine
+item.souvlaki=Souvlaki
+item.purse=borsa di denier
 
-goal.sleep=Dormendo
-goal.sleep_travelling=Coricandosi
+item.pathdirt=Strada sterrata
+item.pathgravel=Ghiaione
+item.pathslabs=Strada Lastricata
+item.pathsandstone=Strada Lastricata
+item.pathochretiles=Strada pavè
+item.pathgravelslabs=Strada Ghiaione Lastricato
 
 error.unknownitem=Nome oggetto sconosciuto
 
@@ -499,31 +505,101 @@ goal.SlaughterChicken=Macellando polli
 goal.PlantSugarCane=Piantando zucchero di canna
 goal.HarvestSugarCane=Raccogliendo zucchero di canna
 goal.MakeRasgulla=Producendo rasgulla
-goal.MakeIndianTools=Producendo strumenti
-goal.MakeIndianWeapons=Producendo armi
-goal.scult=Intagliando statue
+goal.Makesteelaxe=Producendo ascia d'acciao
+goal.Makesteelpickaxe=Producendo piccone d'acciao
+goal.Makesteelshovel=Producendo vanga d'acciao
+goal.Makesteelhoe=Producendo zappa d'acciao
+goal.Makesteelsword=Producendo spada d'acciao
+
+goal.makesteelchest=Producendo pettorale d'acciao
+goal.makesteelhelmet=Producendo elmo d'acciao
+goal.makesteellegs=Producendo gambali d'acciao
+goal.makesteelboots=Producendo stivali d'acciao
+
+goal.makeindianstatue=Intagliando statue
 goal.performpujas=Eseguendo puja
 goal.bepujaperformer=Disponibile per pujas
 
 goal.PlantMaize=Piantando mais
 goal.HarvestMaize=Raccogliendo mais
-goal.makeGoldBlock=Producendo ornamenti d'oro
-goal.sculptMayan=Intaglianto statua
-goal.makeobsidiantools=Producendo strumenti d'ossidiana
-goal.makeobsidianflakes=Rompendo d'ossidiana in punte
+goal.makemayanGoldBlock=Producendo ornamenti d'oro
+goal.makemayanstatue=Intaglianto statua
+goal.Makestoneaxe=Producendo ascia di pietra
+goal.Makestonepickaxe=Producendo piccone di pietra
+goal.Makestoneshovel=Producendo vanga di pietra
+goal.Makestonehoe=Producendo zappa di pietra
+goal.Makestonesword=Producendo spada di pietra
+goal.makemayanaxe=Producendo ascia d'ossidiana
+goal.makemayanpickaxe=Producendo piccone d'ossidiana
+goal.makemayanshovel=Producendo vanga d'ossidiana
+goal.makemayanhoe=Producendo zappa d'ossidiana
+goal.makemayanmace=Producendo mazza d'ossidiana
+goal.makeobsidianflake=Rompendo ossidiana in punte
 
 goal.fish=Pescando
 goal.makethatch=Producendo thatch
 goal.makepaper=Producendo carta
+goal.makepaperrice=Producendo carta
+goal.makepaperwoodpulp=Producendo carta
 goal.makepaperwall=Producendo muri di carta
 goal.cookfish=Cuocendo pesce
+goal.cooksteak=Cuocendo bovini
+goal.cooklamb=Cuocendo ovini
+goal.cookpork=Cuocendo suini
+goal.cookchicken=Cuocendo pollame
 goal.makeudon=Preparando udon
+goal.maketachi=Producendo spada Tachi
 goal.makejapaneseweapons=Producendo armi giapponesi
 
 goal.brewpotions=Distillando pozioni
 goal.harvestwarts=Raccogliendo warts
 goal.makeglassbottles=Creando bottiglie di vetro
 goal.plantwarts=Piantando warts
+
+goal.plantvines=Piantando vigne
+goal.harvestvines=Raccogliendo uva
+goal.gathersilk=Raccogliendo seta
+goal.makeicon=Dipingendo icone
+goal.makewine=Producendo vino
+goal.makebookshelves=Costruendo librerie
+goal.makebyzantinetiles=Producendo mosaici
+goal.makebrick=Producendo Mattoni
+goal.training=Allnenandosi
+goal.paintpainting=Dipingendo quadro
+goal.makebook=Scrivendo un libro
+goal.makebyzantinemace=Producendo mazza Bizantina
+goal.makebyzantinechest=Producendo pettorali Bizantina
+goal.makebyzantinelegs=Producendo gambali Bizantina
+goal.makebyzantinehelmet=Producendo elmo Bizantina
+goal.makebyzantineboots=Producendo stavali Bizantina
+
+goal.makebow=Costruendo un arco
+goal.makerottenflesh=Creando carne putrefatta
+goal.makearrow=Costruendo freccie
+
+goal.sleep=Dormendo
+goal.sleep_travelling=A riposo
+
+
+goal.makeclothes_byz_wool=Cucendo vestiti
+goal.makemasa=Preparando masa
+goal.slaughterpig=Macellando un suino
+goal.makesouvlaki=Preparando souvlaki
+goal.makewah=Preparando wah
+goal.makecurry=Preparando curry vegetariano
+goal.makeclothes_byz_silk=Cucendo vestiti di seta
+goal.slaughtersheep=Macellando un ovino
+goal.slaughtercow=Macellando un bovino
+goal.breed=Allevando animali
+goal.shearsheep=Tosando una pecora
+goal.makemurgh=Preparando pollo al curry
+goal.getitemtokeep=Raccogliendo un oggetto
+
+goal.buildpath=Tracciando un sentiero
+goal.clearoldpath=Rirpistinando un sentiero
+
+goal.gosocialise=A chattare
+goal.chat=Chattando
 
 //other
 other.west=Ovest
@@ -564,6 +640,8 @@ other.buildinghealing=<0> ti sta risanando.
 
 
 other.localmerchantinteract=Questo è un mercante locale, trasporta le merci tra i villaggi. Non è possibile interagirci.
+
+other.chattosomeone=<0> a <1>
 
 hire.health=Vita
 hire.strength=Forza
@@ -618,6 +696,7 @@ info.culture=Cultura <0>
 info.culturereputation=Reputazione: <0>
 info.culturelanguage=Conoscenza lingua: <0>
 
+culturereputation.scourgeofgod=Flagello di Dio
 culturereputation.dreadful=Pessima
 culturereputation.bad=Cattiva
 culturereputation.stellar=Stellare
@@ -699,6 +778,8 @@ hof.forgehelp2=Forge Sprite API
 hof.hofidea1=Idea della
 hof.hofidea2=Hall of Fame
 hof.donor=Donatore
+hof.variousimprovements1=Varie
+hof.variousimprovements2=Migliorie
 
 pujas.invanme=Pujas
 pujas.panditfee=Tariffa del Pandit
@@ -717,6 +798,7 @@ culture.norman=Normanna
 culture.hindi=Indiana
 culture.japanese=Giapponese
 culture.mayan=Maya
+culture.byzantines=Bizantina
 
 export.errornoname=Metti il nome per il progetto dell'edificio sulla prima linea.
 export.errornoendsigneast=Non riesco a trovare il cartello di chiusura a Est. Deve essere in linea retta dall'origine ed entro 256 blocchi.
@@ -743,3 +825,176 @@ effect.shop=Negozio: <0>
 effect.irrigation=Irrigazione: <0>% raccolto extra
 effect.pujalocation=Pujas in corso
 effect.healing=Guarisce il giocatore
+
+chunk.chunkmap=Mappa dei chunk
+chunk.caption=Titolo
+chunk.captiongeneral=Ogni chunk è mostrato come un quadrato di 2x2 pixels
+chunk.captiongreen=Punti verdi indicano chunk caricati.
+chunk.captionblue=Punti blu sono chunk di un villaggio.
+chunk.captionpurple=Punti viola indicano chunk parte di edifici solitari.
+chunk.captionwhite=Punti bianchi sono i chunk mantenuti attivi da una mod (Millénaire o altra mod Forge)
+chunk.playerposition=Coordinate del giocatore: <0>
+chunk.settings=Raggio di caricamento dei villaggi: <0> metri. Numero massimo di chunk permessi da Forge: <1>.
+chunk.explanations=Villaggi di Millénaire solo se tutti i loro chunks sono attivi. Gli abitanti degli altri villaggi sono ibernati. Millénaire tenta di mantenere attivi i chunk di villaggi entro 200 metri dal giocatore (valore configurabile).Il meccanismo di default è limitato a 200 chunk. Il valore può essere modificato in minecraft/config/forgeChunkLoading.cfg. Attenzione: aumentando il numero di chunks attivi peggiorerà le prestazioni.
+chunk.chunkcoords=Chunk: <0>
+chunk.village=<0>
+chunk.chunkforced=Forzato-attivo
+
+achievementpage.name=Millénaire
+achievement.firstcontact.name=Primo contacto
+achievement.firstcontact.desc=Incontra un abitante di villaggio
+achievement.cresus.name=Creso
+achievement.cresus.desc=Guadagna un denier oro
+achievement.summoningwand.name=Evocazione
+achievement.summoningwand.desc=Acquista una Bacchetta dell'evocazione e genera un villaggio
+achievement.villageleader.name=Capo villaggio
+achievement.villageleader.desc=diventa leader di una cultura e crea un villaggio controllato
+achievement.thequest.name=La missione
+achievement.thequest.desc=completa la missione data un abitante
+achievement.maitreapenser.name=Maître à penser
+achievement.maitreapenser.desc=Incontra il Sadhu oi l'Alchemista
+achievement.forbiddenknwoledge.name=Conoscenza proibita
+achievement.forbiddenknwoledge.desc=Completa i due capitoli della Missione della creazione
+achievement.puja.name=Un po di aiuto divino
+achievement.puja.desc=Paga un sacerdote per una puja
+achievement.explorer.name=Esploratore
+achievement.explorer.desc=Esplora un edificio solitario
+achievement.marcopolo.name=Marco Polo
+achievement.marcopolo.desc=Visita villagi di tre culture nello stesso mondo
+achievement.magellan.name=Fernand de Magellan
+achievement.magellan.desc=Visita villagi di tutte le culture nello stesso mondo
+achievement.selfdefense.name=Auto-difesa
+achievement.selfdefense.desc=Uccidi un bandito
+achievement.pantheon.name=Il Panthéon
+achievement.pantheon.desc=Visita il misterioso Panthéon
+
+achievement.darkside.name=Il lato oscuro
+achievement.darkside.desc=Uccidi un abitante
+achievement.scipio.name=Carthago delenda est
+achievement.scipio.desc=Distruggi un villaggio con la Bacchetta della Negazione
+achievement.attila.name=Attila
+achievement.attila.desc=Ottieni la reputazione "Flagello di Dio" in tree culture
+
+achievement.cheers.name=Tre brindisi per Minecraft!
+achievement.cheers.desc=Bevi dell'alcohol di Millénaire 
+achievement.hired.name=Mercenario
+achievement.hired.desc=Assumi un abitante
+achievement.masterfarmer.name=Agricoltore esperto
+achievement.masterfarmer.desc=Coltiva una pianta di Millénaire
+
+
+config.pagetitle=Impostazioni Millénaire
+config.page.uisettings=Impostazioni UI
+config.page.worldgeneration=Generazione mondo
+config.page.worldgeneration.desc=Le impostazioni hanno effetto solo in mondi locali (non sui server a cui ti colleghi).
+config.page.villagebehaviour=Comportamento Villaggi
+config.page.villagebehaviour.desc=Le impostazioni hanno effetto solo in mondi locali (non sui server a cui ti colleghi).
+config.page.devtools=Dev Tools
+
+
+config.village_list_key.label=Tasto lista villaggi
+config.village_list_key.desc=Tasto per mostrare i villaggi vicini. Default: <0>.
+
+config.quest_list_key.label=Tasto Informazioni
+config.quest_list_key.desc=Tasto per mostrare informazioni su Millénaire. Default: <0>.
+
+config.escort_key.label=Tasto Aggressività scorta
+config.escort_key.desc=Tasto per cambiare la modalità del mercenario tra aggressiva e difensiva. Default: <0>.
+
+
+config.fallback_language.label=Lingua secondaria
+config.fallback_language.desc=Lingua da usare se quella primaria non + disponibile.
+
+config.dynamic_textures.label=Texture dinamica
+config.dynamic_textures.desc=Usa automaticamente texture 64x se Minecraft usa un pack a 64x o superiore.
+
+config.language_learning.label=Apprendimento linguaggi
+config.language_learning.desc=Se le lungue devono essere "imparate" (le traduzioni appariranno dopo alcune interazioni).
+
+config.load_all_languages.label=Carica tutte le lingue
+config.load_all_languages.desc=Carica tutte le traduzioni per fornirle ai client se necessarie.
+
+config.display_start.label=Mostra messaggio iniziale
+config.display_start.desc=Mostra la versione di Millénaire e lo stato della Creation Quest all'avvio.
+
+config.display_names.label=Mostra nomi nei villaggi
+config.display_names.desc=Mostra nomi, occupazione e task sopra gli abitanti.
+
+config.villagers_names_distance.label=Distanza visualizzazione
+config.villagers_names_distance.desc=Distanza fino a cui i nomi sono visibili. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Frasi in Chat (MP)
+config.villagers_sentence_in_chat_distance_client.desc=Distanza fino a cui sono visibili i messaggi degli abitanti in multi player. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Frasi in Chat (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=Distanza fino a cui sono visibili i messaggi degli abitanti single player. Default: <0>.
+
+config.generate_villages.label=Genera villaggi
+config.generate_villages.desc=Se generare villaggi di Millénaire in nuovi chunks.
+
+config.generate_lone_buildings.label=Genera edifici solitari
+config.generate_lone_buildings.desc=Se generare edifici solitari di Millénaire in nuovi chunks.
+
+config.keep_active_radius.label=Distanza Chunk attivi
+config.keep_active_radius.desc=Distanza fino a cui Millénaire manterrà i villaggi attivi. Default: <0>.
+
+config.min_village_distance.label=Distanza tra villaggi
+config.min_village_distance.desc=Distanza minima tra villaggi. Default: <0>.
+
+config.min_village_lonebuilding_distance.label=Distanza tra villaggi e edifici solitari
+config.min_village_lonebuilding_distance.desc=Distanza minima tra villaggi e edifici solitari. Default: <0>.
+
+config.min_lonebuilding_distance.label=Distanza tra edifici solitari
+config.min_lonebuilding_distance.desc=Distanza minima tra edifici solitari. Default: <0>.
+
+config.spawn_protection_radius.label=Protezione Spawn
+config.spawn_protection_radius.desc=Area intorno allo Spawn Point in cui Millénaire non genererà edifici. Default: <0>.
+
+config.village_radius.label=Raggio dei Villaggi
+config.village_radius.desc=Raggio dei villagi normali (non hamlets). Default: <0>.
+
+config.min_distance_between_buildings.label=Distanza tra edifici
+config.min_distance_between_buildings.desc=Distanza tra edifici in un villaggio. Default: <0>.
+
+config.village_paths.label=Genera strade
+config.village_paths.desc=Genera strade nei villaggi e falle migliorare dagli abitanti.
+
+config.max_children_number.label=Max bambini
+config.max_children_number.desc=Massimo numero di bambini per villaggio. Default: <0>.
+
+config.background_radius.label=Raggio relazioni tra villaggi
+config.background_radius.desc=Raggio in cui i villaggi avranno relazioni (diplomazia, smabi, attacchi). Default: <0>. 
+
+config.bandit_raid_radius.label=Raggio attacchi banditi
+config.bandit_raid_radius.desc=Raggio in cui i banditi faranno incursioni. Default: <0>.
+
+config.raiding_rate.label=Probabilità di attacchi
+config.raiding_rate.desc=Percentuale per cui villagi e banditi faranno un attacco durante la notte. Default: <0>.
+
+
+
+config.generate_colour_chart.label=Genera mappa colori
+config.generate_colour_chart.desc=Genera mappa colori da usare negli schemi.
+
+config.generate_building_res.label=Genera elenco risorse
+config.generate_building_res.desc=Genera elenco risorse necessarie per ogni edificio.
+
+config.generate_translation_gap.label=Genera stato traduzioni
+config.generate_translation_gap.desc=Genera lista di traduzioni mancanti per ogni lingua caricata.
+
+config.generate_goods_list.label=Genera elenco oggetti
+config.generate_goods_list.desc=Genera elenco oggetti noti in Millénaire.
+
+config.valuetrue=Si
+config.valuefalse=No
+
+
+config.page.bonus=Bonus Contributori
+config.page.bonus.desc=Bonus per coloro che hanno aiutato Millénaire (traduzioni, schemi edifici, dialoghi, textures, contenuti wiki ect.) or donato: una piccola casa diponibile presso i Capi villaggio.
+
+config.bonus_code.label=Codice Bonus
+config.bonus_code.desc=Codice per abilitare il bonus. Scaricato automaticamente da internet se possibile.
+
+config.validbonuscode=Codice valido! Bonus attivato.
+config.invalidbonuscode=Codice non valido. Ricontrollare.
+

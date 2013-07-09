@@ -1,4 +1,4 @@
-culture.mayan=Mayaans
+culture.mayan=Maya
 
 villager.mayan_boy=Jongen
 villager.mayan_girl=Meisje
@@ -30,9 +30,16 @@ villager.mayanbanditwarrior=Bandietensoldaatvillager.mayanfemalebandit=Bandieten
 villager.merchant_mayanfarmer=Agrarische Handelaar
 villager.merchant_mayanhunter=Jagers Handelaar
 villager.merchant_mayanshaman=Shamaan Handelaar
+villager.questfallenking=Gevallen Koning
+villager.questkingelitewarrior=Elite Krijger
+villager.questkinglieutnant=Luitenant
+villager.questkingscout=Verkenner
+villager.questkingwarrior=Krijger
+villager.questshaman=Shaman
 villager.mayanbanditwarrior=Bandieten Soldaat
 villager.mayanfemalebandit=Bandieten Meisje
 villager.mayan_obsidiancrafter=Obsidiaan Handwerker
+villager.mayan_cocoafarmer=Cacaoboer
 
 shop.mayantownhall=Centrale winkel
 shop.mayancrafter=Werktuigen
@@ -40,3 +47,4 @@ shop.mayanarmyforge=Pantser en wapens
 shop.mayansheepchickenfarm=Kipproducten
 shop.mayanobsidiancrafter=Obsidiaan objecten
 shop.lonemayanfarm=Boerderijproducten
+shop.mayancocoa=Cacao & cacauhaa

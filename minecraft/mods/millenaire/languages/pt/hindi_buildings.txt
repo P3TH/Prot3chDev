@@ -48,3 +48,5 @@ sandblasted_A0=Posto de Comércio Abandonado
 indiandesertedfarm_A0=Quinta Hindu Arruinada
 loneshrine_A0=Santuário Hindu
 sadhutree_A0=Árvore do Sadhu
+
+gifthouse_a0=Casa do Contribuidor

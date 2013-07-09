@@ -1,5 +1,10 @@
 name:Shiyuuchi
 playerControlled:true
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
 
 //starting buildings:
 centre:japaneseplayerpalace
@@ -12,6 +17,7 @@ start:japanesepeasanth
 core:japaneselmh
 core:japanesepeasanth
 core:japanesefarm
+core:chickenfarm
 core:japanesefishery
 core:japanesequarry
 core:japanesecrafter
@@ -22,6 +28,7 @@ core:japanesesamuraih
 core:japanesegrove
 core:japanesepaddy
 core:japanesekitchen
+core:squidfarm
 core:japaneseshintoshrine
 core:japanesepagoda
 core:japanesearchive

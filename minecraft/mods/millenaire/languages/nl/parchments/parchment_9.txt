@@ -1,9 +1,9 @@
-version:1.1.4
+version:4.8.0
 Millénaire: Mayaanse Dorpelignen
 
 Dorpsleiders:   
 
-Ajaw of Chanan: Mayaanse konignen. Mayaanse koningen waren goden zij waren het machtscentrum voor de Mayaanse beschaving. Elke Mayaanse stadstaat werdt geregeerd door een dynastie van konignen die samen het rijk vooruit stuwden. Elke Mayaanse koning bouwde een monument om zijn macht te bewijzen, sommigen staan nu nog terwijl andere nu ruines zijn. Er werd van ze verwacht dat ze hun macht legitimizeerden, een van de manieren om dit te doen was een pyramide of tempel bouwen.
+Ajaw of Chanan: Mayaanse koningen. Mayaanse koningen waren goden zij waren het machtscentrum voor de Mayaanse beschaving. Elke Mayaanse stadstaat werdt geregeerd door een dynastie van konignen die samen het rijk vooruit stuwden. Elke Mayaanse koning bouwde een monument om zijn macht te bewijzen, sommigen staan nu nog terwijl andere nu ruines zijn. Er werd van ze verwacht dat ze hun macht legitimizeerden, een van de manieren om dit te doen was een pyramide of tempel bouwen.
 
 NEW_PAGE
 Vrouwen:
@@ -36,6 +36,7 @@ Uxul: Kerver. Deze mayas hadden de unieke vaardigheid om de meer gedetailleerde 
 
 Aj K'in: Shamaan. De traditionele mayas hebben hun eigen religieuze functionarissen, die de taak hadden om te bidden en te offeren voor enkelingen, lokale groepen of de hele gemeenschap. De Mayaanse dorpelingen zullen bij de shamaan zoeken naar begeleiding.
 
+Ka'kau' We'matz: Cacaoboer. Deze gespecialiseerde boeren verbouwen cacoplanten op hun landen. Ze gebruiken de bonen om Cacauhaa te maken, een chocoladedrank.
 
 NEW_PAGE
 Kinderen:

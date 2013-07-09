@@ -147,6 +147,7 @@ ui.relationlist=العلاقات مع القرى الأخرى
 ui.relationpraise=تحسين العلاقات
 ui.relationslander=إساءة العلاقات
 ui.relationpoints=النقاط الدبلوماسية المتوفرة: <0>
+ui.villagerelationsnobutton=يجب أن يكون لديك نقطة وسمعة إيجابية للتأثير على القرية.
 ui.relationhelp=إدارة العلاقات<ret><ret>العلاقة مع اي قرية تحدد ,هل هذه القرية ستتعاون مع قريتك أو غير ذلك..<ret><ret>التجارة المحلية (توريد وتصدير) سوف تحدث بين القريتين من نفس الحضارة بشرط انت تكون علاقت قريتك معهم "جيدة".اما القرية من حضارة مختلفة  يجب ان تكون العلاقة "ممتازة" حتى يحدث تبادل تجاري !.<ret><ret>قرية اخرى كونت صداقة او علاقة بمستوى ممتاز جدا سوف يحدث بينهم تبادل تجاري ايضاً.<ret><ret>قرى من نفس الحضارة يجمع بينهم علاقة "ممتازة" سوف يقبلون شبانهم وشاباتهم لو كان لديهم اعمال متوفرة لهم.<ret><ret>العلاقات بين القرى تبدأ من "ممتازة" ,وهي مفيدة للقرى الناشئة او الصغيرة من القرية الأم , وايضا جيدة للقرى من الحضارة نفسها,ومحايدة بخلاف ذلك.<ret><ret>كل يوم , اللاعب يحصل على خمسة نقاط دبلوماسية ,ويمكن للاعب من خلا لها تحسين علاقات قريته مع قرى اخرى او العكس , التأثير يحدث حسب حسن العلاقة أو العكس.
 ui.relationfriendly=مؤخراً حدثت علاقات دبلوماسية مع قرية <0> و <1> وتطورت العلاقات فيما بينهم. وعلاقتهم الأن <2>.
 ui.relationunfriendly=مؤخراً حدث تشاحن بين قرية <0> و <1> وتدهورت العلاقات بينهم. وعلاقتهم الأن <2>.
@@ -162,6 +163,8 @@ ui.raider=مهاجم
 
 ui.communicationexplanations=للتواصل مع القرويين، انقر زر الماوس الأيمن. إذا كان عمل ما ممكن مع القروي مثل (تجارة، مناقشة مع رئيس القرية، التعاقد معه بشكل مؤقت، بدء مهمة) ستفتح نافذة.
 ui.helpbutton=تعليمات Millénaire
+ui.chunkbutton=خريطة القطع
+ui.serverimportforbidden=فقط الأدمن بإمكانهم أدخال المباني لهذا السيرفر.
 
 help.tab_1=عموميات على القرى
 help.tab_2=المتاجرة
@@ -326,6 +329,7 @@ item.byzantinebrick=بلاط بيزنطيني
 item.byzantineslab=لوح بلاط بيزنطيني
 item.byzantinemixedbrick=باط حجر بيزنطيني
 item.grapes=عنب
+item.vine=كروم
 item.wine=نبيذ مالفاسيا
 item.silk=حرير
 item.byzantineiconsmall=رمز بيزنطيني صغير
@@ -336,8 +340,15 @@ item.byzantinelegs=سروال بيزنطيني
 item.byzantinePlate=صفيحة صدر بيزنطينية
 item.byzantineHelmet=خوذة بيزنطينية
 item.byzantinemace=صولجان بيزنطيني
-item.vine=كروم
+item.lambraw=لحم خروف
+item.lambcooked=ضلع خروف مشوي
+item.feta=فيتا
+item.wineBasic=كروم
+item.clothes_byz_wool=ملابس الصوف البيزنطية
+item.clothes_byz_silk=ملابس الحرير البيزنطي
 
+item.souvlaki=سوفلاكي
+item.purse=منحة أموال
 
 
 error.unknownitem=اسم أداة غير معروف
@@ -515,14 +526,17 @@ goal.makemayanhoe=يصنع معزقة من السبج
 goal.makemayanmace=يصنع صولجان من السبج
 goal.makeobsidianflake=يحطم السبج إلى رقائق
 
-
 goal.fish=يصيد
-goal.makethatch=يكون علاقات
+goal.makethatch=يصنع القش
 goal.makepaper=يصنع الورق
 goal.makepaperrice=يصنع الورق
 goal.makepaperwoodpulp=يصنع الورق
 goal.makepaperwall=يصنع ورق للحائط
 goal.cookfish=يطبخ السمك
+goal.cooksteak=يطبخ شرائح اللحم
+goal.cooklamb=يطبخ لحم الخروف
+goal.cookpork=يطبخ شرائح لحم الخنزير
+goal.cookchicken=يطبخ الدجاج
 goal.makeudon=يصنع اودون
 goal.maketachi=يصنع سيف تاتشي
 goal.makejapaneseweapons=يصنع اسلحة يابانية
@@ -552,11 +566,24 @@ goal.makebyzantineboots=يصنع حذاء بيزنطيني
 goal.makebow=يصنع سهم
 goal.makerottenflesh=يصنع لحم فاسد
 goal.makearrow=يصنع أسهم
-goal.makesteak=يطبخ شرائح اللحم
-
 
 goal.sleep=ينام
 goal.sleep_travelling=يذهب للنوم
+
+
+goal.makeclothes_byz_wool=حياكة الملابس
+goal.makemasa=تحضير ماسا
+goal.slaughterpig=ذبح خنزير
+goal.makesouvlaki=إعداد سوفلاكي
+goal.makewah=إعداد واه
+goal.makecurry=إعداد الكاري نباتي
+goal.makeclothes_byz_silk=حياكة ملابس الحرير
+goal.slaughtersheep=ذبح الخروف
+goal.slaughtercow=ذبح بقرة
+goal.breed=تربية الحيوانات
+goal.shearsheep=قص الأغنام
+goal.makemurgh=إعداد كاري الدجاج
+goal.getitemtokeep=التقاط أداة
 
 //other
 other.west= غرباً
@@ -651,6 +678,7 @@ info.culture=حضارة <0>
 info.culturereputation=السمعة: <0>
 info.culturelanguage=مستوى اللغة: <0>
 
+culturereputation.scourgeofgod=آفة من الله
 culturereputation.dreadful=فظيع
 culturereputation.bad=سيئ
 culturereputation.stellar=لابأس
@@ -731,7 +759,7 @@ hof.forgehelp1=ساعد على
 hof.forgehelp2=Forge Sprite API
 hof.hofidea1=قاعة المشاهير
 hof.hofidea2=افكار
-hof.donor=المناحيين
+hof.donor=المانحيين
 hof.variousimprovements1=المختلف
 hof.variousimprovements2=التحسينات
 
@@ -752,6 +780,7 @@ culture.norman=النورمان
 culture.hindi=الهنود
 culture.japanese=اليبانيين
 culture.mayan=المايا
+culture.byzantines=البيزنطينين
 
 export.errornoname=يجب إعطاء إسم لخطة البناء بالسطر الأول.
 export.errornoendsigneast=تعذر العثور على علامة الإغلاق إلى الشرق. يجب أن تكون في خط مستقيم من بداية بلوك واحد داخل  256 بلوك.
@@ -779,3 +808,58 @@ effect.irrigation=سقي: <0>% محاصيل إضافية
 effect.pujalocation=موقع بوجا
 effect.healing=يسعف لاعب
 
+chunk.chunkmap=خريطة القطع
+chunk.caption=شرح
+chunk.captiongeneral=كل قطعة يتم عرضها عبارة عن 2*2 بكسل مربع
+chunk.captiongreen=النقاط الخضراء تشير إلى وجود قطعة محملة.
+chunk.captionblue=النقاط الزرقاء تشير إلى وجود قطعة كجزء من منطقة القرية.
+chunk.captionpurple=النقاط الأرجوانية تشير إلى وجود قطعة كجزء من منطقة مبنى وحيد .
+chunk.captionwhite=النقاط البيضاء تشير إلى وجود قطعة والتي يتم الاحتفاظ بتحميلها من قبل المود (Millénaireأو مود فورج أخر)
+chunk.playerposition=إحداثيات اللاعب: <0>
+chunk.settings=نصف قطر تحميل لقرية: <0> مترا. أقصى عدد من القطع المسموح بها الحفاظ على المسموح به عن طريق القوة: <1>.
+chunk.explanations=Millénaire القرى تنشط إلا إذا يتم تحميل كل ما لديهم قطع. يتم تجميد سكان قرى أخرى. Millénaire يحاول فرض Minecraft للحفاظ على أجزاء من قرى على بعد 200 متر من تحميل لاعب (التي يمكن تغييرها القيمة). يقتصر آلية فورج تستخدم لهذا افتراضيا إلى 200 قطع. يمكنك تكوين هذه القيمة في minecraft /Millénaire القرى تنشط إلا إذا يتم تحميل كل ما لديهم قطع. يتم تجميد سكان قرى أخرى. Millénaire يحاول فرض Minecraft للحفاظ على أجزاء من قرى على بعد 200 متر من تحميل لاعب (التي يمكن تغييرها القيمة). يقتصر آلية فورج تستخدم لهذا افتراضيا إلى 200 قطع. يمكنك تكوين هذه القيمة في minecraft /config/ forgeChunkLoading.cfg. تحذير: زيادة عدد القطع أبقى تحميل إنقاص الأداء. / forgeChunkLoading.cfg. تحذير: زيادة عدد القطع أبقى تحميل إنقاص الأداء.
+chunk.chunkcoords=قطعة: <0>
+chunk.village=<0>
+chunk.chunkforced=قوة محملة
+
+achievementpage.name=Millénaire
+achievement.firstcontact.name=أول إتصال
+achievement.firstcontact.desc=مقابلة قروي
+achievement.cresus.name=كرويسوس
+achievement.cresus.desc=كسب دينار
+achievement.summoningwand.name=استدعاء
+achievement.summoningwand.desc=شراء عصا إستدعاء وبناء قرية بها
+achievement.villageleader.name=قائد القرية
+achievement.villageleader.desc=أصبح زعيماً في حضارة وأنشيء لك قرية اخرى تحت سيطرتك
+achievement.thequest.name=المهمة
+achievement.thequest.desc=أكمل مهمة أعطيت لك من قبل  قروي
+achievement.maitreapenser.name=المعلم
+achievement.maitreapenser.desc=قابل السادهو او الكيميائي
+achievement.forbiddenknwoledge.name=المعرفة المحرمة
+achievement.forbiddenknwoledge.desc=أكمل فصلين من مهام الإنشاء
+achievement.puja.name=القليل من المساعدة من الآلهة
+achievement.puja.desc=دفع بانديت لتنفيذ بوجا
+achievement.explorer.name=مستكشف
+achievement.explorer.desc=أستكشف مبنى منعزل او وحيد
+achievement.marcopolo.name=ماركو بولو
+achievement.marcopolo.desc=زر قرى ثلاثة حضارات بالعالم نفسه
+achievement.magellan.name=فرناند دي ماجلان
+achievement.magellan.desc=زر قرى كل الحضارات بالعالم نفسه
+achievement.selfdefense.name=الدفاع عن النفس
+achievement.selfdefense.desc=أقتل قاطع طريق او لص
+achievement.pantheon.name=البانثيون
+achievement.pantheon.desc=قم بزيارة بانتيون الغامض
+
+achievement.darkside.name=الجانب المظلم
+achievement.darkside.desc=أقتل قروي
+achievement.scipio.name=Carthago delenda est
+achievement.scipio.desc=دمر قرية بعصا النفي
+achievement.attila.name=أتيلا
+achievement.attila.desc=اكتساب سمعة "آفة من الله" في الثقافات الثلاث
+
+achievement.cheers.name=ثلاثة هتافات لماين كرافت!
+achievement.cheers.desc=أشرب كحول Millénaire
+achievement.hired.name=وظف يد للخدمة
+achievement.hired.desc=وظف قروي
+achievement.masterfarmer.name=مزارع خبير
+achievement.masterfarmer.desc=أزرع محصول Millénaire

@@ -1,4 +1,4 @@
-version:1.1.4
+version:4.8.0
 Millénaire: Objectos Maias
 
 Alimentos
@@ -8,6 +8,8 @@ Milho: O milho era o componente central da dieta da civilização Maia antiga e 
 Masa: A tortilha Maia era produzida com um tipo especial de farinha de milho tratada via nixtamalização, que viria a ser um tipo principal de alimentação para a região Maia desde os tempos pré-Colombianos. A tortilha era um pouco mais grossa do que nos tempos de hoje. Os Maias produzem as tortilhas moendo três maçarocas juntas em linha recta numa base plana. Se obtiver milho, será capaz de recriar a masa para si próprio.
 
 Wah: Também conhecido como tamale, este prato tradicional Maia era produzido com masa enrolada num tipo de carne e cozinhada a vapor. Os tamales originaram na Mesoamérica entre 8000 a 5000 a.C., tendo sido utilizados como alimento fácil de transportar tanto pelas civilizações Astecas e Maias como pelos Olmeca e Tolteca antes delas, principalmente para sustentar os seus exércitos mas também para caçadores e viajantes. Esta é a iguaria que os Maias utilizaram para se transformarem numa forte civilização. Produzida de forma semelhante à masa, o wah era fabricado a partir de carne de frango entre duas maçarocas de milho numa superfície plana. Se quiser, poderá assim recriar este prato Maia.
+
+Cacahuá: Esta bebida amarga é produzida a partir de grãos de cacau, baunilha e especiarias. Em tempos antigos, era uma iguaria para os Maias e utilizada em cerimónias religiosas.
 
 NEW_PAGE
 Construção e Decoração

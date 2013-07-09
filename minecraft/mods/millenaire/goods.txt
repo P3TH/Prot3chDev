@@ -3,7 +3,7 @@
 
 akwardpotion;373;16;Potion
 alchemistamulet;mln24;0;
-alchimistexplosive;1519;3;
+alchimistexplosive;1527;3;
 arrow;262;0;Arrow
 beefcooked;364;0;Steak
 beefraw;363;0;Raw Beef
@@ -21,7 +21,7 @@ brickmould;mln32;0;
 bricks;45;0;Bricks
 bucketempty;325;0;Bucket
 bucketlava;327;0;Lava Bucket
-bucketmilk;335;0;Milk
+bucketmilk;335;0;
 bucketwater;326;0;Water Bucket
 byzantineboots;mln84;0;
 byzantinehelmet;mln82;0;
@@ -31,13 +31,18 @@ byzantineiconsmall;mln78;0;
 byzantinelegs;mln81;0;
 byzantinemace;mln85;0;
 byzantineplate;mln83;0;
-byzantinestonetiles;1524;0;
-byzantinetiles;1522;0;
-byzantinetileslab;1523;0;
+byzantinestonetiles;1532;0;
+byzantinetiles;1530;0;
+byzantinetileslab;1531;0;
+cacauhaa;mln94;0;
 cactus;81;0;Cactus
 cake;92;0;Cake
 calva;mln5;0;
 carrot;391;0;Carrot
+chainboots;305;0;Chain Boots
+chainchest;303;0;Chain Chestplate
+chainhelmet;302;0;Chain Helmet
+chainlegs;304;0;Chain Leggings
 chickencurry;mln31;0;
 chickenmeat;365;0;Raw Chicken
 chickenmeatcooked;366;0;Cooked Chicken
@@ -50,7 +55,7 @@ clothes_byz_wool;mln86;0;
 coal;263;0;Coal
 cobblestone;4;0;Cobblestone
 compass;345;0;Compass
-cookedbrick;1519;0;
+cookedbrick;1527;0;
 cookie;357;0;Cookie
 denier;mln0;0;
 denierargent;mln2;0;
@@ -66,7 +71,7 @@ diamondpickaxe;278;0;Diamond Pickaxe
 diamondshovel;277;0;Diamond Shovel
 diamondsword;276;0;Diamond Sword
 dirt;3;0;Dirt
-dirtwall;1518;1;
+dirtwall;1526;1;
 dye_black;351;0;Ink Sac
 dye_blue;351;4;Lapis Lazuli
 dye_brown;351;3;Cocoa Beans
@@ -91,11 +96,23 @@ fishcooked;350;0;Cooked Fish
 fishraw;349;0;Raw Fish
 flint;318;0;Flint
 flintandsteel;259;0;Flint and Steel
+ghasttear;370;0;Ghast Tear
 glass;20;0;Glass
 gold;266;0;Gold Ingot
+goldaxe;286;0;Golden Axe
+goldboots;317;0;Golden Boots
+goldchest;315;0;Golden Chestplate
+goldhelmet;314;0;Golden Helmet
+goldhoe;294;0;Golden Hoe
+goldlegs;316;0;Golden Leggings
 goldore;14;0;Gold Ore
+goldpickaxe;285;0;Golden Pickaxe
+goldshovel;284;0;Golden Shovel
+goldsword;283;0;Golden Sword
 grapes;mln75;0;
+gravel;13;0;Gravel
 gunpowder;289;0;Gunpowder
+ikayaki;mln96;0;
 indianstatue;mln34;0;
 iron;265;0;Iron Ingot
 ironore;15;0;Iron Ore
@@ -119,17 +136,18 @@ leatherchest;299;0;Leather Tunic
 leatherhelmet;298;0;Leather Cap
 leatherlegs;300;0;Leather Pants
 maize;mln40;0;
-masa;mln42;0;
+masa;mln41;0;
 mayanaxe;mln55;0;
-mayangold;1519;2;
+mayangold;1527;2;
 mayanhoe;mln57;0;
 mayanmace;mln53;0;
 mayanpickaxe;mln54;0;
+mayanquestcrown;mln95;0;
 mayanshovel;mln56;0;
 mayanstatue;mln39;0;
 melonseeds;362;0;Melon Seeds
 melonslice;360;0;Melon
-mudbrick;1519;1;
+mudbrick;1527;1;
 mushroombrown;39;0;Mushroom
 mushroomred;40;0;Mushroom
 netherwart;372;0;Nether Wart
@@ -146,7 +164,7 @@ obsidian;49;0;Obsidian
 obsidianflake;mln52;0;
 painting;321;0;Painting
 paper;339;0;Paper
-paperwall;1521;0;
+paperwall;1529;0;
 parchmentbuildings;mln18;0;
 parchmentcomplete;mln20;0;
 parchmentindianbuildings;mln36;0;
@@ -164,6 +182,30 @@ parchmentmayanitems;mln45;0;
 parchmentmayanvillagers;mln43;0;
 parchmentsadhu;mln47;0;
 parchmentvillagers;mln17;0;
+pathdirt;1533;0;
+pathdirt_slab;1534;0;
+pathdirt_slab_stable;1534;8;
+pathdirt_stable;1533;8;
+pathgravel;1533;1;
+pathgravel_slab;1534;1;
+pathgravel_slab_stable;1534;9;
+pathgravel_stable;1533;9;
+pathgravelslabs;1533;5;
+pathgravelslabs_slab;1534;5;
+pathgravelslabs_slab_stable;1534;13;
+pathgravelslabs_stable;1533;13;
+pathochretiles;1533;4;
+pathochretiles_slab;1534;4;
+pathochretiles_slab_stable;1534;12;
+pathochretiles_stable;1533;12;
+pathsandstone;1533;3;
+pathsandstone_slab;1534;3;
+pathsandstone_slab_stable;1534;11;
+pathsandstone_stable;1533;11;
+pathslabs;1533;2;
+pathslabs_slab;1534;2;
+pathslabs_slab_stable;1534;10;
+pathslabs_stable;1533;10;
 planks_birch;5;2;Birch Wood Planks
 planks_jungle;5;3;Jungle Wood Planks
 planks_oak;5;0;Oak Wood Planks
@@ -173,12 +215,14 @@ porkchopscooked;320;0;Cooked Porkchop
 potato;392;0;Potato
 pumpkin;86;0;Pumpkin
 pumpkinseeds;361;0;Pumpkin Seeds
+purse;mln92;0;
 rasgulla;mln33;0;
 redflower;38;0;Rose
 redstone;331;0;Redstone
 rice;mln28;0;
 rottenflesh;367;0;Rotten Flesh
 saddle;73;0;Redstone Ore
+sake;mln93;0;
 sand;12;0;Sand
 sandstone;24;0;Sandstone
 sapling;6;0;Oak Sapling
@@ -188,8 +232,8 @@ sapling_pine;6;1;Spruce Sapling
 seeds;295;0;Seeds
 shears;359;0;Shears
 silk;mln77;0;
-silkwormblockempty;1517;3;
-silkwormblockfull;1517;4;
+silkwormblockempty;1525;3;
+silkwormblockfull;1525;4;
 skollhatiamulet;mln26;0;
 slimeball;341;0;Slimeball
 snow;78;0;Snow
@@ -215,9 +259,9 @@ string;287;0;String
 sugarcane;338;0;Sugar Canes
 tachisword;mln50;0;
 tapestry;mln22;0;
-thatched;1517;2;
-timberframe_cross;1517;1;
-timberframe_plain;1517;0;
+thatched;1525;2;
+timberframe_cross;1525;1;
+timberframe_plain;1525;0;
 tnt;46;0;TNT
 tripes;mln6;0;
 turmeric;mln29;0;
@@ -227,7 +271,7 @@ vegcurry;mln30;0;
 villagewand;mln11;0;
 vines;106;0;Vines
 vishnuamulet;mln23;0;
-wah;mln41;0;
+wah;mln42;0;
 wheat;296;0;Wheat
 wine;mln76;0;
 winebasic;mln87;0;

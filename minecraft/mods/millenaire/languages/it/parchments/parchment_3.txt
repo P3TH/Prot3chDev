@@ -1,7 +1,7 @@
 version:1.1.4
 Millénaire: Oggetti normanni
 
-Denier. Moneta medievale utilizzata dagli abitanti del villaggio. Disponibile in tre differenti tagli: normale, argent (d'argento) che vale 64 monete normali, e o (oro) del valore di 64 monete d'argento.
+Denier. Moneta medioevale utilizzata dagli abitanti del villaggio. Disponibile in tre differenti tagli: normale, argent (d'argento) che vale 64 monete normali, e or (oro) del valore di 64 monete d'argento.
 
 Mela per il sidro. Questa mela non commestibile è raccolta dal boscaiolo e viene usata per fare il sidro e il calvados. Può essere acquistata dal giocatore, ma l'unico utilizzo è quello di venderla ad altri villaggi.
 NEW_PAGE

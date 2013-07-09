@@ -40,6 +40,8 @@ mayansheepchickenfarm_A0=Chicken Farm
 mayantemple_A0=Temple
 mayanwatchtower_A0=Watch Tower
 mayanmarket_A0=Market
+mayancacaofarm_A0=Cocoa Plantation
+mayancacaofarm_B0=Cocoa Plantation
 
 mayanplayerpyramid_A0=Player's Pyramid
 
@@ -53,3 +55,24 @@ lonemayanruin_A0=Lost Mayan Home
 lonemayancornfarm_A0=Lost Mayan Corn Farm
 lonemayanmining_A0=Lost Stone Mine
 mayanpyramid_A0=Pyramid
+
+gifthouse_a0=Gift House
+
+questpyramid_A0=Cursed Pyramid
+questpyramid_pit_A0=Cursed Pyramid
+questpyramid_guards_A0=Cursed Pyramid
+questpyramid_jail_A0=Cursed Pyramid
+
+questguardtower_A0=Guard tower
+questcamphouse_A0=Barrack
+questbarrack_A0=Barrack
+
+mayancamp_A0=Mayan Camp
+mayancamp_outerguard_A0=Mayan Camp
+mayancamp_dig_A0=Mayan Camp
+mayancamp_wall_A0=Mayan Camp
+mayancamp_jail_A0=Mayan Camp
+mayancamp_innerguard_A0=Mayan Camp
+
+questcave_door_A0=Mayan Cave
+questcave_A0=Mayan Cave

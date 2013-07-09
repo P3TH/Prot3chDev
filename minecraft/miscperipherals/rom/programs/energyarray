@@ -1,3 +1,5 @@
+os.loadAPI("rom/apis/miscperipheralsutil")
+
 if not term.isColor() then
   print("This program requires an advanced computer")
   return
@@ -28,15 +30,7 @@ function writeBar(title, amount, maximum)
   print("")
 end
 
-nuclearReaders = {}
-nuclearReaderSides = {}
-for i, side in pairs(rs.getSides()) do
-  if peripheral.getType(side) == "nuclearReader" then
-    table.insert(nuclearReaders, peripheral.wrap(side))
-    table.insert(nuclearReaderSides, side)
-  end
-end
-
+nuclearReaders, nuclearReaderSides = miscperipheralsutil.getPeripherals("nuclearReader")
 if #nuclearReaders < 1 then
   print("No Nuclear Info Reader peripherals found")
   return

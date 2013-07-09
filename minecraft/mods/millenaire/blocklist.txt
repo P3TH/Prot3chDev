@@ -11,10 +11,13 @@ sellingPos;-1;0;;200/0/0
 craftingPos;-1;0;;200/125/0
 defendingPos;-1;0;;200/150/0
 shelterPos;-1;0;;200/175/0
+pathStartPos;-1;0;;200/250/0
+leasurePos;-1;0;;50/50/250
 soil;-1;0;;64/128/0
 ricesoil;-1;0;;64/128/10
 turmericsoil;-1;0;;64/128/20
 sugarcanesoil;-1;0;;64/128/30
+potatosoil;-1;0;;64/128/100
 lockedchest;-1;0;;135/30/0
 
 
@@ -159,6 +162,7 @@ cowspawn;-1;0;;100/10/10
 pigspawn;-1;0;;120/10/10
 sheepspawn;-1;0;;140/10/10
 chickenspawn;-1;0;;160/10/10
+squidspawn;-1;0;;50/10/200
 oakspawn;-1;0;;0/100/0
 pinespawn;-1;0;;34/53/34
 birchspawn;-1;0;;162/201/101
@@ -170,6 +174,7 @@ spawnerzombie;-1;0;;80/0/121
 spawnerspider;-1;0;;80/0/122
 spawnercavespider;-1;0;;80/0/123
 spawnercreeper;-1;0;;80/0/124
+spawnerblaze;-1;0;;80/0/125
 dispenserunknownpowder;-1;0;;200/200/0
 netherwartsoil;-1;0;;100/10/62
 plainSignGuess;-1;0;;0/0/225
@@ -193,6 +198,9 @@ planks pine;5;1;false;66/47/27
 planks birch;5;2;false;200/183/22
 planks jungle;5;3;false;177/128/92
 saplings;6;0;false;0/50/0
+saplings pine;6;1;false;0/50/10
+saplings birch;6;2;false;0/50/20
+saplings jungle;6;3;false;0/50/30
 water;9;0;true;0/255/255
 sand;12;0;false;228/231/113
 gravel;13;0;false;50/50/50
@@ -264,7 +272,22 @@ colombages cross;block_wood_id;1;false;36/21/6
 mud brick;block_stone_id;1;false;166/156/136
 cooked brick;block_stone_id;0;false;219/216/207
 
+pathdirt;block_path_id;8;false;200/200/200
+pathgravel;block_path_id;9;false;205/205/205
+pathslabs;block_path_id;10;false;210/210/210
+pathsandstone;block_path_id;11;false;215/215/215
+pathochretiles;block_path_id;12;false;220/220/220
+pathgravelslabs;block_path_id;13;false;225/225/225
+
+pathdirt_half;block_path_slab_id;8;false;150/150/100
+pathgravel_half;block_path_slab_id;9;false;155/155/100
+pathslabs_half;block_path_slab_id;10;false;160/160/100
+pathsandstone_half;block_path_slab_id;11;false;165/165/100
+pathochretiles_half;block_path_slab_id;12;false;170/170/100
+pathgravelslabs_half;block_path_slab_id;13;false;175/175/100
+
 maizesoil;-1;0;;64/128/40
+cacaospot;-1;0;;58/23/9
 carrotsoil;-1;0;;64/128/50
 mayanstatue;-1;0;;179/154/118
 fishingspot;-1;0;;0/0/120
@@ -276,6 +299,7 @@ mayan gold;block_stone_id;2;false;255/213/1
 ice;79;0;false;150/255/255
 snowblock;80;0;false;230/255/255
 lava;10;0;true;232/57/16
+lavastill;11;0;true;232/57/17
 netherrack;87;0;false;253/56/11
 tnt;46;0;false;253/52/6
 oak leaves;18;0;false;40/107/14
@@ -304,6 +328,13 @@ redstone torch;76;0;true;174/18/18
 redstone torch lit;76;5;true;255/18/18
 stone button;77;0;true;111/111/111
 snow;78;0;true;58/177/188
+snow;78;1;true;58/177/189
+snow;78;2;true;58/177/190
+snow;78;3;true;58/177/191
+snow;78;4;true;58/177/192
+snow;78;5;true;58/177/193
+snow;78;6;true;58/177/194
+snow;78;7;true;58/177/195
 jukebox;84;0;true;201/153/49
 soul sand;88;0;false;179/136/43
 glowstone;89;0;false;227/207/35
@@ -353,3 +384,5 @@ vinesoil;-1;0;;0/256/256
 chiseled stone brick;98;3;false;88/88/88
 smooth sandstone;24;2;false;195/178/51
 cobblestone wall;139;0;false;74/74/74
+
+portal;90;0;true;128/0/255

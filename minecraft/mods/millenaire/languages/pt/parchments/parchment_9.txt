@@ -1,4 +1,4 @@
-version:1.1.4
+version:4.8.0
 Millénaire: Aldeões Maias
 
 Chefes da Aldeia
@@ -36,6 +36,8 @@ Ah tz'on: Ferreiro Militar. A função deste ferreiro era forjar armas para os M
 Uxul: Escultor. Estes Maias eram dotados de habilidades únicas que lhes permitiam produzir os relevos mais detalhados e ornamentados que decoravam as mais magnânimes estruturas Maias. Os escultores fabricarão um elaborado ornamento de ouro que será utilizado para decorar as aldeias Maias mais avançadas. Também são capazes de esculpir complexos relevos que contam a História do povo Maia e que poderão ser encontrados nas construções mais salientes da aldeia.
 
 Aj K'in: Xamã. A tradição Maia inclui os seus próprios funcionários religiosos, geralmente organizados numa hierarquia, e encarregados das obrigações da oração e do sacrifício em nome de linhagens, grupos locais ou comunidades inteiras. Os aldeões Maias procuram o xamã para orientação.
+
+Ka'kau' We'matz: Agricultor de Cacau. Estes agricultores especializados cultivam a planta do cacau nos seus bosques. Eles utilizam os grãos para produzir o cacahuá, uma bebida de chocolate.
 
 NEW_PAGE
 Crianças

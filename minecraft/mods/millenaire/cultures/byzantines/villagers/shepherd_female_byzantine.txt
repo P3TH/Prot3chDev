@@ -33,6 +33,8 @@ clothes=clothes_byz_wool,/graphics/mob/byzanz/female/clothes/byz.sheepf.2.C.png
 toolNeeded=clothes_byz_wool
 
 goal=gorest
+goal=gosocialise
+goal=chat
 goal=gopray
 goal=goDrink
 goal=deliverResourcesShop
@@ -65,10 +67,14 @@ bringBackHomeGood=wool_black
 bringBackHomeGood=wool_brown
 bringBackHomeGood=wool_pink
 
-requiredFood=wine,5
-requiredFood=feta,5
-requiredFood=cider,1
-requiredFood=calva,1
+requiredFood=cider,5
+requiredFood=calva,2
 requiredFood=rasgulla,1
+requiredFood=wine,1
+requiredFood=feta,1
+requiredFood=cake,1
+requiredFood=cookie,5
+requiredFood=cacauhaa,1
+requiredFood=sake,1
 
 baseAttackStrength=2

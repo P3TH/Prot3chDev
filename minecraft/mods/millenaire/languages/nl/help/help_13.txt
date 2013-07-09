@@ -3,7 +3,7 @@ version:3.4
 
 <darkblue>De dorpelingen spreken een andere taal dan ik. Is dat normaal?
 
-Millénaire dorpelingen spreken allemaal in 'hun' taal, zoals Hindi voor de Indiërs en Frans voor de Normanen. Als je met een andere taal speelt kun je de taal 'leren' door met de dorpelingen om te gaan (handelen, quests e.d.). Als je hun taal 'leert', zal Millénaire vertalingen geven. Eerst de namen van de gebouwen, dan de dorpelingen en dan pas hun gesprekken.
+Millénaire dorpelingen spreken allemaal in 'hun' taal, zoals Hindi voor de Indiërs en Frans voor de Normandiërs. Als je met een andere taal speelt kun je de taal 'leren' door met de dorpelingen om te gaan (handelen, quests e.d.). Als je hun taal 'leert', zal Millénaire vertalingen geven. Eerst de namen van de gebouwen, dan de dorpelingen en dan pas hun gesprekken.
 
 <darkblue>Mijn Normandische dorp heeft houten frames nodig maar die kan ik niet maken. Wat moet ik doen?
 

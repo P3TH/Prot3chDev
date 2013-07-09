@@ -8,7 +8,6 @@ chiefhouse_B0=Casa del capo
 fort_A0=Fortezza
 fort_A_forge_A0=Fucina della fortezza
 fort_A_soldierhouse_A0=Caserma
-pandithouse_A0=Casa del sacerdote
 peasanthouse_A0=Casa del contadino
 peasanthouse_B0=Casa del contadino
 peasanthouse_C0=Casa del contadino
@@ -32,7 +31,7 @@ playerhugefield_A0=Terreno enorme
 playerlargefield_A0=Terreno grande
 playersmallfield_A0=Terreno piccolo
 playersmallhouse_A0=Piccola casa
-bazaar_A0=bazaar
+bazaar_A0=Bazaar
 tank_A0=Serbatoio
 
 //extra buildings:
@@ -43,7 +42,12 @@ adivasifarm_A0=Fattoria Adivasi
 adivasifarm_B0=Fattoria Adivasi 
 deserttradeoutpost_A0=Base commerciale del deserto
 ruinedfort_A0=Forte diroccato
-sandblasted_A0=Relais de poste abbandonata
+sandblasted_A0=Base commerciale abbandonata
 indiandesertedfarm_A0=Fattoria indiana distrutta
 loneshrine_A0=Santuario indù isolato
 sadhutree_A0=Albero di Sadhu
+
+gifthouse_a0=Casa Bonus
+
+//missing in EN
+pandithouse_A0=Casa del sacerdote

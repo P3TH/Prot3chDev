@@ -12,13 +12,15 @@ goal=gopray
 goal=bringBackResourcesHome
 goal=getResourcesForBuild
 goal=construction
+goal=buildpath
+goal=clearoldpath
 goal=plantRice
 goal=breed
 goal=slaughterChicken
 goal=harvestRice
 
-toolNeeded=steelHoe
-toolNeeded=tachiSword
+toolneededclass=hoes
+toolneededclass=meleeweapons
 
 bringBackHomeGood=chickenmeat
 bringBackHomeGood=Rice

@@ -7,12 +7,17 @@ forestQualifier:la-fôret
 lavaQualifier:le-volcan
 lakeQualifier:le-lac
 oceanQualifier:l'océan
+carriesraid:true
 
 //starting buildings:
 centre:playerfort
 start:lumbermanhut
 start:lumbermanhut
 start:grove
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathslabs
 
 //just a list for the new building screen
 core:lumbermanhut

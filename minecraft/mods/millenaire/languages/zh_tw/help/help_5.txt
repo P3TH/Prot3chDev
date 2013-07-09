@@ -1,30 +1,65 @@
 version:3.4
-<darkblue>Combats et raids
+<darkblue>戰鬥與戰爭
 
-<darkred>This section will soon be translated to English in a new update
+Millénaire 並不是一個和平的mod：你
+可以與村民戰鬥，村與村之間也可以互相
+進行戰爭，怪物也會攻擊村莊，一些獨立
+建築物也會遭到盜匪的洗劫。無論甚麼情
+況，都會遵循一些永遠不會改變的原則： 
 
-Millénaire n’est pas toujours un mod pacifique : vous pouvez combattre les villageois, les villages peuvent mener des raids les uns contre les autres, les monstres peuvent attaquer les villages et certains bâtiments isolés sont occupés par des bandits. Quelque soit les circonstances, certains principes ne changent pas : <darkblue>les villageois ne sont vulnérables qu’aux attaques directes (corps à corps, flèches et potions)<black>. Ils ne sont pas affectés par le feu, les chutes ou les cactus. Cette restriction est voulue, pour empêcher le joueur de les tuer sans qu’ils soient conscients que l’attaque vient de lui.
+<darkblue>村民只會受到直接攻擊<black>。
+(包括近戰、弓箭和毒藥)他們不會受到燃
+燒、跌落或仙人掌的傷害。這個限制是為
+了防止玩家用這些方式殺掉他們而他們卻
+不知道是玩家攻擊了他們。
 
-Différents types de villageois sont plus ou moins forts, et surtout l’équipement qu’ils portent peut les rendre beaucoup plus dangereux .
+村民們有不同的強度，他們身上穿的裝備
+會讓他們更加的危險。
 
-<darkblue>Résurrection des villageois
+<darkblue>村民的重生
 
-Un villageois tué, par vous ou un autre villageois ou monstre, n’est mort que temporairement. A la tombé de la nuit, tous les villageois renaissent dans leur maison (mais ils perdent leur équipement). Après tout, le joueur ressuscite bien lui aussi…
+要是被殺了，村民的死亡也只是一時的，
+死亡的村民會重生在他們的家裡(但是他們
+會失去他們的裝備)。畢竟，玩家也能重生...
 
-<darkblue>Attaque par le joueur
+<darkblue>攻擊村民與洗劫村莊
 
-Vous pouvez à tout moment attaquer un villageois. Les autres hommes du village viendront alors l’aider à vous combattre. Si vous parvenez à tuer tous les villageois d’un village ou bâtiment isolé, ses coffres s’ouvriront et vous pourrez voler leurs contenus.
+玩家當然可以隨意攻擊任何的村民，但是
+村子裡的其他人會嘗試來一起痛扁你一頓。 
+你應該要殺掉一個村莊或獨立建築中的所有
+村民，然後這個村莊的物資箱會全部解鎖，
+接著你就可以痛快地進行掠奪。
 
-<darkblue>Bandits
+<darkblue>盜匪
 
-Ces villageois habitants certains bâtiments isolés vous attaqueront sans avertissement si vous vous approchez. Votre réputation avec leur culture ne baissera pas si vous les tuez. Comme les autres villageois, ils ressuscitent à la nuit tombée – regarder la section « <darkblue>détruire un village<black> » pour voir comment empêcher ça.
+一些獨立建築裡的居民會毫無原因的攻擊
+你。如果你殺了他們，你與他們文化間的
+聲譽並不會下降。和其他村民一樣，他們
+會在晚上重生，請查看
+「<darkblue>摧毀一個村莊<black>」
+來找到阻止他們重生的方法。
 
-<darkblue>Raids entre villages
+<darkblue>村莊之間的戰爭
 
-Les villages Millénaires ont des relations positives ou négatives avec les villages proches. Ces relations changent aléatoirement et peuvent être influencées par le joueur en parlant au chef d’un des villages. Si elles sont trop mauvaises et qu’un des villages dispose d’assez de soldats, il peut lancer un raid sur un autre village. Vous serez prévenu par un message. Lors d’un raid, les soldats du village attaquant tentent de tuer les hommes du village attaqué. S’ils y arrivent, ils prennent une partie des ressources comme butin. Vous pouvez aider un camp ou l’autre pendant un raid.
+Millénaire的村莊與附近的其他村莊有正
+面或者負面的關係。所有村莊的關係會隨
+機變化，或者受玩家與村長交談(讚美或
+毀謗)的影響。
+如果他們(村莊)之間的關係非常糟糕並且
+其中一個村莊有足夠的戰士，那麼它會發動
+一次對另一個村莊的攻擊。你將會收到消息
+通知。在戰爭中，戰士們攻擊城鎮時會嘗試
+去殺死對手村莊的男人。如果他們成功了，
+他們將會取得一些資源作為戰利品。
+玩家則可以在戰爭中選擇幫助其中一方。
 
-Il peut être utile d’encourager un village auquel vous tenez à attaquer ses voisins pour augmenter ses ressources. Cyniquement, encourager les raids peut aussi vous permettre d’aller vous-même piller un village en profitant de ce que les défenseurs sont morts.
+鼓勵一個你喜歡的村莊來攻擊他們的鄰居
+來獲取資源也很不錯。更為諷刺的是，鼓
+動一場侵略戰爭也允許玩家為自己獲取一
+些戰利品，只要防禦者們都死了。
 
-<darkblue>Embaucher un villageois
 
-Pour vous aider dans vos combats, il est possible d’embaucher certains villageois, comme les soldats ou les bûcherons. Ils vont suivront et combattront vos ennemies avec vous.
+<darkblue>僱用一個村民
+
+你可以僱用一些村民如士兵和伐木工來幫
+助你戰鬥。他們會跟隨你並且與你的敵人戰鬥。

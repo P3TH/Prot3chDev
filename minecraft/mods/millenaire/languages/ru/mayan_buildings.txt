@@ -40,7 +40,10 @@ mayansheepchickenfarm_A0=Куриная ферма
 mayantemple_A0=Храм
 mayanwatchtower_A0=Смотровая башня
 mayanmarket_A0=Рынок
-mayanobsidiancrafter_A0=Ремесленная обсидиана
+mayanobsidiancrafter_A0=Мастер по обсидиану
+mayancacaofarm_A0=Какао плантация
+mayancacaofarm_B0=Какао плантация
+
 mayanplayerpyramid_A0=Пирамида странника
 
 lonemayancave_A0=Пещера майя
@@ -51,5 +54,8 @@ mayanruinedpyramid_A0=Потерянная пирамида
 mayanbandithome_A0=Логово бандитов
 lonemayanruin_A0=Заброшенный дом майя
 lonemayancornfarm_A0=Заброшенная ферма маиса
-lonemayanmining_A0=Заброшеная шахта майя
-mayanpyramid_A0=Пирамида
+lonemayanmining_A0=Заброшенная шахта майя
+lonemayanpyramid_A0=Заброшенная пирамида Майя
+mayanpyramid_A0=Пирамида Майя
+
+gifthouse_a0=Подарочный Дом

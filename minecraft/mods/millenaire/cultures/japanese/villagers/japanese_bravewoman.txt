@@ -34,14 +34,19 @@ bringBackHomeGood=rice
 startingInv=seeds,100
 startingInv=rice,50
 startingInv=bow,1
+startingInv=arrow,64
 tag=helpInAttacks
 
-requiredFood=cider,1
-requiredFood=calva,1
+requiredFood=cider,5
+requiredFood=calva,2
 requiredFood=rasgulla,1
 requiredFood=wine,1
 requiredFood=feta,1
+requiredFood=cake,1
+requiredFood=cookie,5
+requiredFood=cacauhaa,1
+requiredFood=sake,2
 
-toolNeeded=yumibow
-toolNeeded=steelHoe
+toolneededclass=rangedweapons
+toolneededclass=hoes
 

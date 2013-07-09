@@ -2,6 +2,9 @@ name:Bukkyou Mura
 weight:10
 carriesraid:true
 
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
 
 biome:plains
 biome:extreme hills
@@ -29,6 +32,7 @@ player:japanesehut
 player:japanesehouse
 player:japanesehousemedium
 player:japanesehouselarge
+player:gifthouse
 
 //to be built in priority
 core:japanesepagoda
@@ -47,6 +51,8 @@ secondary:japaneseinn
 secondary:japanesemarket
 secondary:japanesearmyforge
 secondary:well
+secondary:chickenfarm
+secondary:squidfarm
 
 //not to be built
 never:japanesefort

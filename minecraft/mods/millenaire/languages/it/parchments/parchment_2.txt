@@ -7,7 +7,7 @@ Fort: Forte. Nei villaggi militari, questo piccolo forte di legno sostituisce il
 
 Abbaye : Abbazia. I villaggi ecclesiastici hanno per fulcro questo luogo di apprendimento e di devozione, dove un monaco produce instancabilmente manoscritti, conservati in scaffali ordinati. E' qui che i contadini del posto vanno a pagare le loro tasse, in beni e lavoro non retribuito per la Santa Chiesa. Verrà tutto ripagato nell'altro mondo.
 
-Manoir : Casa padronale. Al centro dei villaggi agricoli, questa casa padronale ospita un siniscalco, incaricato di fare in modo che i contadini paghino le tasse al re - e a lui.
+Manoir : Casa padronale. Al centro dei villaggi agricoli, questa casa padronale ospita un siniscalco, incaricato di fare in modo che i contadini paghino le tasse al re...e a lui.
 
 Hall de la Guilde : Casa della corporazione. Questa casa della corporazione, un vero e proprio testamento delle abilità dei lavoratori che la costruirono, serve come sede per gli artigiani locali, sotto la supervisione del severo maestro di corporazione.
 NEW_PAGE

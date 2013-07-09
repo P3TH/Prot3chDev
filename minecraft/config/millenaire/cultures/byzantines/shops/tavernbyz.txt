@@ -1,3 +1,0 @@
-sells=wine
-buys=grapes
-deliverto=grapes

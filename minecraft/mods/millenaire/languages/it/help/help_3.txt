@@ -8,11 +8,11 @@ Il modo principale per migliorare la reputazione è commerciare. Sia l'acquisto 
 
 Esiste anche una <darkblue>reputazione per cultura<black>. Questa dipende dalla reputazione dei singoli villaggi di una stessa cultura, e influenza il commercio con altri villaggi della stessa cultura. Per esempio, se hai un'ottima reputazione con un villaggio normanno, piacerai (un po') di più anche gli altri villaggi normanni. Puoi verificare la reputazione con una cultura nella schermata informazioni (di default tasto “M”).
 
-<darkblue>Azioni che richiedono un liveo di reputazione
+<darkblue>Azioni che richiedono un certo livello di reputazione
 
 <darkblue>Acquistare le pergamene del villaggio
 
-Con una buona reputazione è possibile acquistare le pergamane del villaggio. Queste contengono tutte le informazioni mostrate dai pannelli del villaggion.
+Con una buona reputazione è possibile acquistare le pergamane del villaggio. Queste contengono tutte le informazioni mostrate dai pannelli del villaggio.
 
 <darkblue>Acquistare una casa
 
@@ -24,11 +24,11 @@ E' possibile imparare a coltivare le piante specifiche di alcune culture di Mill
 
 <darkblue>Acquistare oggetti aggiuntivi
 
-Alcuni oggetti di valore richiedono una certa reputazione per essere acquistati. La schermata del commercio mostra con che reputazione sarà possibile acuistare l'oggetto.
+Alcuni oggetti di valore richiedono una certa reputazione per essere acquistati. La schermata del commercio mostra con che reputazione sarà possibile acquistare l'oggetto.
 
 <darkblue>Missioni aggiuntive
 
-Alcune mission, inclusa la missione della Creazione, possono essere cominciate solo un con reputazione positiva (vedi <darkblue>“missioni” <black>).
+Alcune missioni, inclusa la missione della Creazione, possono essere cominciate solo un con reputazione positiva (vedi <darkblue>“missioni” <black>).
 
 <darkblue>Diventa leader di una cultura
 

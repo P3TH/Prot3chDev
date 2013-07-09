@@ -1,9 +1,9 @@
-culture.mayan=瑪雅文化
+﻿culture.mayan=瑪雅文化
 
 villager.mayan_boy=男孩
 villager.mayan_girl=女孩
-villager.mayan_teenagerMale=男性青年
-villager.mayan_teenagerFemale=女性青年
+villager.mayan_teenagerMale=青年
+villager.mayan_teenagerFemale=青年
 villager.mayan_lumberman=樵夫
 villager.mayan_miner=礦工
 villager.mayan_shaman=巫師
@@ -17,9 +17,9 @@ villager.mayan_crafter=工匠
 villager.mayan_armysmith=鐵匠
 villager.mayan_sculptor=石頭雕刻師
 villager.mayan_shamanwife=巫師妻子
-villager.mayan_king=帝王
+villager.mayan_king=皇帝
 villager.mayan_merchant=商人
-villager.mayan_chickenfarmer=家禽飼養者
+villager.mayan_chickenfarmer=雞隻飼養人
 villager.mayan_farmer=玉米種植者
 
 villager.lonemayanfarmer=自足農民
@@ -34,10 +34,8 @@ villager.merchant_mayanfarmer=作物商人
 villager.merchant_mayanhunter=狩獵商人
 villager.merchant_mayanshaman=巫師商人
 
-shop.mayantownhall=中央商店
+shop.mayantownhall=儲藏中心
 shop.mayancrafter=工具
-shop.mayanarmyforge=護甲與武器
+shop.mayanarmyforge=防具與武器
 shop.mayansheepchickenfarm=雞肉產品
-shop.mayanobsidiancrafter=瑪雅祭祀工匠
 shop.mayanobsidiancrafter=黑曜石藝術品
-shop.lonemayanfarm=農場產品

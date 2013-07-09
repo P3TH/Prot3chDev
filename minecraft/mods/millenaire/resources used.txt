@@ -12,51 +12,58 @@ controlled resource use:
 Bois de chêne: 504
 Roche: 2026
 Laine blanche: 15
-Tuiles byzantines: 51
 Pierres: 2578
 Bois de bouleau: 49
-Grès: 147
 Verre: 14
+Tuiles byzantines: 51
+Grès: 147
 Bois (tous): 254
 Briques: 120
 
 emporikos resource use: 
-Bois de chêne: 920
-Laine blanche: 81
-Roche: 3833
-Pierres: 308
-Bois de bouleau: 511
-Tuiles byzantines: 672
-Grès: 1843
-Verre: 58
-Gravier: 22
-Bois (tous): 886
-Briques: 439
+Laine blanche: 90
+Roche: 4645
+Bois de sapin: 5
+Pierres: 404
+Tuiles byzantines: 845
+Bibliothèque: 50
+Gravier: 92
+Briques: 182
+Bois de chêne: 896
+Bois de bouleau: 590
+Verre: 62
+Grès: 2046
+Bois (tous): 1006
 
 military resource use: 
-Bois de chêne: 1284
-Roche: 6280
-Laine blanche: 105
-Tuiles byzantines: 501
-Pierres: 2850
-Bois de bouleau: 438
-Grès: 1579
-Verre: 53
-Bois (tous): 905
-Briques: 465
+Laine blanche: 108
+Roche: 7046
+Bois de sapin: 5
+Pierres: 2946
+Tuiles byzantines: 674
+Bibliothèque: 32
+Gravier: 92
+Briques: 208
+Bois de chêne: 1314
+Bois de bouleau: 479
+Verre: 57
+Grès: 1782
+Bois (tous): 999
 
 ortodox resource use: 
-Bois de chêne: 777
-Roche: 5173
-Laine blanche: 123
-Tuiles byzantines: 434
-Pierres: 552
-Bois de bouleau: 470
-Grès: 1769
-Verre: 55
-Bibliothèque: 12
-Bois (tous): 829
-Briques: 855
+Laine blanche: 126
+Roche: 5939
+Bois de sapin: 5
+Pierres: 648
+Tuiles byzantines: 607
+Bibliothèque: 44
+Gravier: 92
+Briques: 598
+Bois de chêne: 807
+Bois de bouleau: 511
+Verre: 59
+Grès: 1972
+Bois (tous): 923
 
 
 ancienttemple resource use: 
@@ -72,8 +79,8 @@ Bois (tous): 31
 lighthouse resource use: 
 Bois de chêne: 9
 Laine blanche: 3
-Grès: 388
 Verre: 11
+Grès: 388
 Sable: 15
 Luminite: 1
 Gravier: 10
@@ -84,9 +91,9 @@ lonesheepfarm resource use:
 Bois de chêne: 6
 Laine blanche: 6
 Roche: 70
+Verre: 2
 Tuiles byzantines: 24
 Grès: 44
-Verre: 2
 Bois (tous): 48
 
 OakTower resource use: 
@@ -103,15 +110,15 @@ Bois (tous): 31
 
 hindi: 
 indian_agricole resource use: 
-Bois de chêne: 534
+Bois de chêne: 539
 Laine blanche: 85
 Roche: 682
 Statue Hindoue: 3
-Pierres: 190
-Grès: 1881
-Brique cuite: 5798
-Brique de terre: 5337
-Bois (tous): 754
+Pierres: 206
+Grès: 1882
+Brique cuite: 5882
+Brique de terre: 5710
+Bois (tous): 772
 
 indian_agricole_hamlet resource use: 
 Bois de chêne: 534
@@ -119,63 +126,63 @@ Laine blanche: 85
 Roche: 682
 Statue Hindoue: 3
 Pierres: 190
-Grès: 1881
-Brique cuite: 5568
-Brique de terre: 5141
-Bois (tous): 724
+Grès: 1882
+Brique cuite: 5652
+Brique de terre: 5223
+Bois (tous): 721
 
 indian_controlled resource use: 
 Bois de chêne: 172
 Roche: 648
 Statue Hindoue: 2
-Pierres: 100
+Pierres: 180
 Grès: 4329
-Brique cuite: 1045
-Brique de terre: 804
-Bois (tous): 269
+Brique cuite: 1047
+Brique de terre: 805
+Bois (tous): 270
 
 indian_fort resource use: 
-Bois de chêne: 581
+Bois de chêne: 590
 Laine blanche: 85
 Roche: 1031
 Statue Hindoue: 3
-Pierres: 196
-Grès: 3190
-Brique cuite: 4874
-Brique de terre: 6255
-Bois (tous): 849
+Pierres: 212
+Grès: 3191
+Brique cuite: 4958
+Brique de terre: 6628
+Bois (tous): 871
 
 indian_fort_hamlet resource use: 
-Bois de chêne: 512
+Bois de chêne: 516
 Roche: 349
 Pierres: 188
-Grès: 2989
-Brique cuite: 4160
-Brique de terre: 5168
-Bois (tous): 753
+Grès: 2990
+Brique cuite: 4203
+Brique de terre: 5209
+Bois (tous): 755
 
 indian_palace resource use: 
-Bois de chêne: 254
+Bois de chêne: 259
 Roche: 648
 Statue Hindoue: 2
-Pierres: 202
-Grès: 5352
-Brique cuite: 3977
-Brique de terre: 2407
-Bois (tous): 669
+Pierres: 218
+Grès: 5353
+Brique cuite: 4018
+Brique de terre: 2738
+Bois (tous): 691
 
 
 adivasifarm resource use: 
 Bois de chêne: 145
-Brique cuite: 79
-Brique de terre: 79
-Bois (tous): 40
+Brique cuite: 120
+Brique de terre: 120
+Bois (tous): 41
 
 adivasifarmquest resource use: 
 Bois de chêne: 145
-Brique cuite: 79
-Brique de terre: 79
-Bois (tous): 40
+Brique cuite: 120
+Brique de terre: 120
+Bois (tous): 41
 
 deserttradeoutpost resource use: 
 Brique cuite: 295
@@ -213,74 +220,93 @@ Bois (tous): 6
 japanese: 
 gunji resource use: 
 Pierre taillées craquelées: 26
-Laine blanche: 279
-Roche: 9740
-Bois de sapin: 2873
-Pierres: 1362
+Laine blanche: 276
+Roche: 9940
+Bois de sapin: 3023
+Pierres: 1432
 Paroi de papier: 682
 Sable: 232
 Hautes herbes: 168
 Bibliothèque: 12
-Gravier: 2724
+Gravier: 564
 Colombages à croix: 63
-Bois de chêne: 4700
-Colombages: 3102
+Bois de chêne: 4759
+Colombages: 3145
 Lingot d'or: 54
 Fougère: 117
 Lingot de fer: 36
-Chaume: 6962
-Bois (tous): 1421
+Chaume: 7298
+Bois (tous): 1439
 
 japanese_controlled resource use: 
 Bois de chêne: 992
 Roche: 1785
 Laine blanche: 55
-Bois de sapin: 578
+Bois de sapin: 577
 Pierres: 129
 Paroi de papier: 95
 Colombages: 483
 Chaume: 1733
-Gravier: 400
+Gravier: 2
 Colombages à croix: 25
-Bois (tous): 271
+Bois (tous): 266
 
 nogyo resource use: 
-Laine blanche: 248
-Roche: 9411
-Bois de sapin: 3299
-Pierres: 1597
-Paroi de papier: 687
+Laine blanche: 180
+Roche: 9127
+Bois de sapin: 3347
+Pierres: 1350
+Paroi de papier: 610
 Hautes herbes: 168
 Sable: 232
 Bibliothèque: 12
-Gravier: 2949
+Gravier: 545
 Colombages à croix: 63
-Bois de chêne: 5088
-Colombages: 3274
+Bois de chêne: 4831
+Colombages: 3101
 Fougère: 117
 Lingot de fer: 18
-Chaume: 8556
-Bois (tous): 1619
+Chaume: 8825
+Bois (tous): 1573
 
 seiji resource use: 
 Pierre taillées craquelées: 26
-Laine blanche: 303
-Roche: 11500
-Bois de sapin: 3964
-Pierres: 1749
-Paroi de papier: 849
+Laine blanche: 302
+Roche: 12224
+Bois de sapin: 4302
+Pierres: 1946
+Paroi de papier: 864
 Hautes herbes: 168
 Sable: 232
 Bibliothèque: 12
-Gravier: 3451
+Gravier: 671
 Colombages à croix: 63
-Bois de chêne: 6318
+Bois de chêne: 6631
 Lingot d'or: 54
-Colombages: 3870
+Colombages: 4013
 Fougère: 117
 Lingot de fer: 108
-Chaume: 8378
-Bois (tous): 1837
+Chaume: 9172
+Bois (tous): 1873
+
+trading resource use: 
+Roche: 10011
+Laine blanche: 193
+Bois de sapin: 3464
+Pierres: 1231
+Paroi de papier: 655
+Hautes herbes: 168
+Sable: 232
+Bibliothèque: 12
+Gravier: 487
+Colombages à croix: 13
+Bois de chêne: 5591
+Colombages: 3125
+Lingot d'or: 54
+Fougère: 117
+Lingot de fer: 90
+Chaume: 7530
+Bois (tous): 1413
 
 
 bandit_cave resource use: 
@@ -357,63 +383,52 @@ agriculture resource use:
 Bois de chêne: 562
 Laine blanche: 27
 Sculpture Maya: 8
-Roche: 10417
-Pierres: 14727
-Bois tropical: 224
+Roche: 11243
+Pierres: 15598
+Bois tropical: 278
 Grès: 13
 Bibliothèque: 48
 Décoration en or: 147
-Bois (tous): 958
+Bois (tous): 1011
 
 mayan_controlled resource use: 
 Bois de chêne: 73
 Sculpture Maya: 3
-Roche: 2293
-Pierres: 4563
+Roche: 2365
+Pierres: 4612
 Bois tropical: 82
 Décoration en or: 91
-Bois (tous): 239
-
-mayanldogtest resource use: 
-Bois de chêne: 407
-Laine blanche: 6
-Sculpture Maya: 7
-Roche: 8347
-Pierres: 12763
-Bois tropical: 82
-Grès: 136
-Décoration en or: 141
-Bois (tous): 767
+Bois (tous): 237
 
 military resource use: 
 Bois de chêne: 502
 Laine blanche: 21
 Sculpture Maya: 3
-Roche: 10316
-Pierres: 15550
-Bois tropical: 82
+Roche: 11000
+Pierres: 16315
+Bois tropical: 136
 Grès: 5
 Bibliothèque: 48
 Décoration en or: 144
-Bois (tous): 1016
+Bois (tous): 1074
 
 religious resource use: 
 Bois de chêne: 471
 Laine blanche: 21
 Sculpture Maya: 6
-Roche: 10506
-Pierres: 14259
-Bois tropical: 124
+Roche: 11262
+Pierres: 14992
+Bois tropical: 178
 Grès: 136
 Bibliothèque: 48
 Décoration en or: 157
-Bois (tous): 916
+Bois (tous): 961
 
 
 lonemayancave resource use: 
-Roche: 413
+Roche: 423
 Pierres: 24
-Bois (tous): 20
+Bois (tous): 18
 
 lonemayancornfarm resource use: 
 Pierre taillées craquelées: 4
@@ -483,46 +498,73 @@ Pierres: 72
 Pierres taillées moussues: 298
 Bois (tous): 11
 
+questcamp resource use: 
+Roche: 802
+Obsidienne: 14
+Bois tropical: 350
+Lingot de fer: 6
+Hautes herbes: 149
+Gravier: 3
+Bois (tous): 74
+Portail: 6
+
+questcave resource use: 
+Roche: 160
+Bedrock: 5269
+Lave: 2292
+Luminite: 12
+Bois (tous): 2
+
+questpyramid resource use: 
+Pierre taillées craquelées: 179
+Roche: 7577
+Obsidienne: 3103
+Pierres: 136
+Bois tropical: 146
+Pierres taillées moussues: 102
+Lave: 356
+Lingot de fer: 1
+Hautes herbes: 26
+Décoration en or: 22
+Bois (tous): 115
+
 norman: 
 agricole resource use: 
-Bois de chêne: 2837
-Laine blanche: 178
+Bois de chêne: 2905
+Laine blanche: 181
 Roche: 4589
-Pierres: 5206
-Verre: 2
+Pierres: 5253
+Verre: 299
 Colombages: 1608
 Lingot de fer: 25
-Verre: 297
 Bibliothèque: 6
 Colombages à croix: 655
-Bois (tous): 1201
+Bois (tous): 1214
 
 artisans resource use: 
-Bois de chêne: 2163
-Laine blanche: 152
+Bois de chêne: 2231
+Laine blanche: 155
 Roche: 5464
-Pierres: 5462
-Verre: 2
+Pierres: 5509
+Verre: 303
 Colombages: 1102
 Lingot de fer: 61
-Verre: 301
 Bibliothèque: 6
 Colombages à croix: 429
-Bois (tous): 1008
+Bois (tous): 1021
 
 bourg_autonome resource use: 
-Bois de chêne: 2457
+Bois de chêne: 2525
 Tapisserie normande: 5
 Roche: 4881
-Laine blanche: 193
-Pierres: 8425
-Verre: 2
+Laine blanche: 196
+Pierres: 8472
+Verre: 317
 Colombages: 1304
 Lingot de fer: 61
-Verre: 315
 Bibliothèque: 6
 Colombages à croix: 518
-Bois (tous): 1130
+Bois (tous): 1143
 
 controlled resource use: 
 Bois de chêne: 472
@@ -530,43 +572,42 @@ Tapisserie normande: 5
 Roche: 162
 Laine blanche: 30
 Pierres: 3137
-Colombages: 152
 Verre: 26
+Colombages: 152
 Colombages à croix: 76
 Bois (tous): 192
 
 ecclesiastique resource use: 
-Bois de chêne: 2373
-Laine blanche: 163
+Bois de chêne: 2441
+Laine blanche: 166
 Roche: 4782
-Pierres: 5334
-Colombages: 1271
+Pierres: 5381
 Verre: 268
+Colombages: 1271
 Bibliothèque: 6
 Colombages à croix: 537
-Bois (tous): 1075
+Bois (tous): 1088
 
 grosbourg resource use: 
-Bois de chêne: 1306
+Bois de chêne: 1374
 Tapisserie normande: 5
 Roche: 4586
-Laine blanche: 113
-Pierres: 7218
-Verre: 2
+Laine blanche: 116
+Pierres: 7265
+Verre: 242
 Colombages: 611
 Lingot de fer: 61
-Verre: 240
 Bibliothèque: 6
 Colombages à croix: 212
-Bois (tous): 717
+Bois (tous): 730
 
 hameau_abbatiale resource use: 
 Bois de chêne: 1175
 Laine blanche: 42
 Roche: 1009
 Pierres: 2313
-Colombages: 600
 Verre: 72
+Colombages: 600
 Colombages à croix: 304
 Bois (tous): 398
 
@@ -575,8 +616,8 @@ Bois de chêne: 1310
 Laine blanche: 86
 Roche: 421
 Pierres: 1975
-Colombages: 702
 Verre: 96
+Colombages: 702
 Colombages à croix: 305
 Bois (tous): 627
 
@@ -585,24 +626,23 @@ Bois de chêne: 850
 Laine blanche: 54
 Roche: 1296
 Pierres: 1773
-Colombages: 282
 Verre: 101
+Colombages: 282
 Colombages à croix: 162
 Bois (tous): 352
 
 militaire resource use: 
-Bois de chêne: 2025
+Bois de chêne: 2093
 Tapisserie normande: 5
 Roche: 4180
-Laine blanche: 140
-Pierres: 7038
-Verre: 2
+Laine blanche: 143
+Pierres: 7085
+Verre: 209
 Colombages: 1054
 Lingot de fer: 43
-Verre: 207
 Bibliothèque: 6
 Colombages à croix: 389
-Bois (tous): 907
+Bois (tous): 920
 
 
 abandonedmine resource use: 
@@ -624,10 +664,9 @@ Bois de chêne: 54
 Roche: 668
 Laine blanche: 3
 Pierres: 32
-Verre: 24
+Verre: 45
 Pierres taillées moussues: 42
 Colombages: 60
-Verre: 21
 Bibliothèque: 26
 Colombages à croix: 16
 Bois (tous): 28
@@ -657,7 +696,7 @@ Luminite: 146
 Bois (tous): 2
 
 anomalytwo resource use: 
-Verrue du Tréfonds: 10
+Verrues du Nether: 10
 Bedrock: 1578
 Lingot de fer: 14
 Luminite: 33
@@ -681,9 +720,9 @@ Bois de chêne: 43
 Roche: 329
 Laine blanche: 9
 Pierres: 553
+Verre: 2
 Colombages: 43
 Lingot de fer: 8
-Verre: 2
 Hautes herbes: 11
 Colombages à croix: 21
 Bois (tous): 79
@@ -698,8 +737,8 @@ Bois (tous): 45
 loneinn resource use: 
 Bois de chêne: 54
 Laine blanche: 3
-Colombages: 116
 Verre: 8
+Colombages: 116
 Bois (tous): 19
 
 lonelumberman resource use: 
@@ -727,12 +766,11 @@ Bois (tous): 22
 pantheon resource use: 
 Roche: 69023
 Torche de Redstone: 136
-Verre: 376
+Verre: 570
 Bloc de lapis-lazuli: 292
 Lingot d'or: 5940
 Lampe à redstone: 136
 Lingot de fer: 37296
-Verre: 194
 Bois (tous): 153
 
 ruinedfarm resource use: 
@@ -845,11 +883,11 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|74
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|70
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|5
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|70
 |}
 
 
@@ -976,14 +1014,14 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|104
 |-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|3
+|-
 | style="text-align: center; "|Tuiles byzantines
 | style="text-align: center; "|38
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|87
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|3
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|4
@@ -1016,13 +1054,16 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|91
+| style="text-align: center; "|53
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|22
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Bois de bouleau
+| style="text-align: center; "|38
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|51
+| style="text-align: center; "|70
 |}
 
 
@@ -1072,13 +1113,16 @@ Upgrade 4
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|27
+| style="text-align: center; "|11
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|85
+| style="text-align: center; "|133
+|-
+| style="text-align: center; "|Bibliothèque
+| style="text-align: center; "|18
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|10
+| style="text-align: center; "|16
 |}
 
 
@@ -1106,16 +1150,16 @@ Upgrade 6
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|84
-|-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|54
+| style="text-align: center; "|82
 |-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|6
 |-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|54
+|-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|2
+| style="text-align: center; "|3
 |}
 
 
@@ -1220,11 +1264,11 @@ Upgrade 5
 | style="text-align: center; "|Roche
 | style="text-align: center; "|102
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|120
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|4
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|120
 |}
 
 
@@ -1275,11 +1319,11 @@ Upgrade 2
 | style="text-align: center; "|Roche
 | style="text-align: center; "|94
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|36
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|3
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|36
 |}
 
 
@@ -1353,11 +1397,11 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|31
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|25
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|25
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
@@ -1415,6 +1459,42 @@ Initial Construction
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|5
+|}
+
+
+Mikro Spiti
+playersmallhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|78
+|-
+| style="text-align: center; "|Bois de bouleau
+| style="text-align: center; "|11
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|28
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|19
+|-
+| style="text-align: center; "|Briques
+| style="text-align: center; "|64
 |}
 
 
@@ -1662,21 +1742,21 @@ Upgrade 2
 | style="text-align: center; "|Roche
 | style="text-align: center; "|21
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|2
-|-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|8
 |-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|13
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|13
 |}
 
 
-Exochike Katiokia
+Astiko Chorio
 villa urbana
 
 ==Requirements==
@@ -1693,19 +1773,34 @@ Initial Construction
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|292
+| style="text-align: center; "|980
 |-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|83
-|-
-| style="text-align: center; "|Verre
+| style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|5
 |-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|9
+| style="text-align: center; "|Bois de bouleau
+| style="text-align: center; "|12
 |-
-| style="text-align: center; "|Briques
-| style="text-align: center; "|321
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|173
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|258
+|-
+| style="text-align: center; "|Bibliothèque
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Gravier
+| style="text-align: center; "|92
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|61
 |}
 
 
@@ -1788,11 +1883,11 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|63
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|45
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|3
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|45
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|1
@@ -2083,11 +2178,11 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|160
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|75
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|8
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|75
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|3
@@ -2155,11 +2250,11 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|62
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|17
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|17
 |}
 
 
@@ -2178,6 +2273,33 @@ Initial Construction
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|31
+|}
+
+
+Doro spiti
+gifthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|29
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois de bouleau
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|23
 |}
 
 
@@ -2216,14 +2338,14 @@ Initial Construction
 | style="text-align: center; "|Laine blanche
 | style="text-align: center; "|3
 |-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|1
+|-
 | style="text-align: center; "|Tuiles byzantines
 | style="text-align: center; "|12
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|22
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|1
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|24
@@ -2246,14 +2368,14 @@ Initial Construction
 | style="text-align: center; "|Laine blanche
 | style="text-align: center; "|3
 |-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|1
+|-
 | style="text-align: center; "|Tuiles byzantines
 | style="text-align: center; "|12
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|22
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|1
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|24
@@ -2333,11 +2455,11 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|28
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|28
 |}
 
 
@@ -2420,11 +2542,11 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|27
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|22
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|22
 |}
 
 
@@ -2550,14 +2672,14 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|48
 |-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|1
+|-
 | style="text-align: center; "|Tuiles byzantines
 | style="text-align: center; "|54
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|4
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|1
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|28
@@ -2737,14 +2859,14 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|57
 |-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|4
+|-
 | style="text-align: center; "|Tuiles byzantines
 | style="text-align: center; "|31
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|25
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|4
@@ -2824,11 +2946,11 @@ Upgrade 3
 | style="text-align: center; "|Roche
 | style="text-align: center; "|1090
 |-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|56
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|1
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|56
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|13
@@ -2851,11 +2973,11 @@ Initial Construction
 | style="text-align: center; "|Laine blanche
 | style="text-align: center; "|3
 |-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|388
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|11
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|388
 |-
 | style="text-align: center; "|Luminite
 | style="text-align: center; "|1
@@ -2961,11 +3083,11 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|50
 |-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|71
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|71
 |}
 
 
@@ -3209,6 +3331,9 @@ Initial Construction
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|200
 |-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|141
+|-
 | style="text-align: center; "|Hautes herbes
 | style="text-align: center; "|71
 |-
@@ -3224,17 +3349,14 @@ Initial Construction
 | style="text-align: center; "|Pierre sculptée
 | style="text-align: center; "|174
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|141
-|-
 | style="text-align: center; "|Bois de bouleau
 | style="text-align: center; "|86
 |-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|346
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|8
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|346
 |-
 | style="text-align: center; "|Grès poli
 | style="text-align: center; "|759
@@ -3442,14 +3564,14 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|133
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|69
-|-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|43
 |-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|6
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|69
 |}
 
 
@@ -3614,11 +3736,11 @@ Upgrade 4
 | style="text-align: center; "|Roche
 | style="text-align: center; "|24
 |-
-| style="text-align: center; "|Tuiles byzantines
-| style="text-align: center; "|20
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Tuiles byzantines
+| style="text-align: center; "|20
 |}
 
 
@@ -3773,13 +3895,13 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Grès
-| style="text-align: center; "|511
+| style="text-align: center; "|512
 |-
 | style="text-align: center; "|Brique de terre
 | style="text-align: center; "|76
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|50
+| style="text-align: center; "|48
 |}
 
 
@@ -4446,9 +4568,6 @@ Initial Construction
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|544
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|2
 |}
 
 
@@ -4552,7 +4671,7 @@ Initial Construction
 | style="text-align: center; "|312
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|5
+| style="text-align: center; "|3
 |}
 
 
@@ -4598,10 +4717,10 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Brique de terre
-| style="text-align: center; "|35
+| style="text-align: center; "|70
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
+| style="text-align: center; "|4
 |}
 
 
@@ -4611,19 +4730,8 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
-| style="text-align: center; "|34
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
 | style="text-align: center; "|Brique cuite
-| style="text-align: center; "|68
+| style="text-align: center; "|70
 |}
 
 
@@ -4636,6 +4744,9 @@ Initial Construction
 {| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
 ! scope="col"|Resource
 ! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|40
 |-
 | style="text-align: center; "|Brique cuite
 | style="text-align: center; "|406
@@ -4686,7 +4797,7 @@ Upgrade 3
 | style="text-align: center; "|30
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|36
+| style="text-align: center; "|76
 |-
 | style="text-align: center; "|Grès
 | style="text-align: center; "|650
@@ -4974,10 +5085,10 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Brique de terre
-| style="text-align: center; "|39
+| style="text-align: center; "|78
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|2
+| style="text-align: center; "|4
 |}
 
 
@@ -4988,7 +5099,7 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Brique cuite
-| style="text-align: center; "|39
+| style="text-align: center; "|78
 |}
 
 
@@ -5042,10 +5153,10 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Brique de terre
-| style="text-align: center; "|20
+| style="text-align: center; "|42
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|2
+| style="text-align: center; "|1
 |}
 
 
@@ -5055,19 +5166,8 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
-| style="text-align: center; "|20
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
 | style="text-align: center; "|Brique cuite
-| style="text-align: center; "|40
+| style="text-align: center; "|42
 |}
 
 
@@ -5082,7 +5182,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|17
+| style="text-align: center; "|21
 |-
 | style="text-align: center; "|Brique de terre
 | style="text-align: center; "|266
@@ -5330,10 +5430,10 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Brique de terre
-| style="text-align: center; "|19
+| style="text-align: center; "|38
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
+| style="text-align: center; "|1
 |}
 
 
@@ -5343,19 +5443,32 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique de terre
-| style="text-align: center; "|19
+| style="text-align: center; "|Brique cuite
+| style="text-align: center; "|38
 |}
 
 
-Upgrade 2
+Uphar ghar
+gifthouse
+
+==Requirements==
+Initial Construction
 
 {| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Brique cuite
-| style="text-align: center; "|38
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Brique de terre
+| style="text-align: center; "|291
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|21
 |}
 
 
@@ -6126,9 +6239,6 @@ Upgrade 1
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|36
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|3
 |}
@@ -6176,7 +6286,7 @@ Upgrade 4
 |}
 
 
-Koya
+Mokuzoukaoku
 japanesehut
 
 ==Requirements==
@@ -6187,27 +6297,19 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|33
+| style="text-align: center; "|23
 |-
-| style="text-align: center; "|Laine blanche
-| style="text-align: center; "|3
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|9
 |-
 | style="text-align: center; "|Chaume
-| style="text-align: center; "|70
+| style="text-align: center; "|113
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|13
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|14
+| style="text-align: center; "|6
 |}
 
 
@@ -6223,18 +6325,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|9
+| style="text-align: center; "|10
 |}
 
 
@@ -6246,18 +6337,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|10
+| style="text-align: center; "|11
 |}
 
 
@@ -6269,18 +6349,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|9
+| style="text-align: center; "|11
 |}
 
 
@@ -6316,9 +6385,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|11
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|1
@@ -6384,7 +6450,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|4
+| style="text-align: center; "|2
 |}
 
 
@@ -6396,9 +6462,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|3
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|344
 |}
 
 
@@ -6583,6 +6646,101 @@ Upgrade 6
 |}
 
 
+Ika Sakuba
+squidfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|47
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|161
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|458
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|18
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|74
+|-
+| style="text-align: center; "|Gravier
+| style="text-align: center; "|22
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|207
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|17
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|15
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|98
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|524
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|1
+|}
+
+
 Ike
 japanesezen
 
@@ -6600,7 +6758,7 @@ Initial Construction
 | style="text-align: center; "|153
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|14
+| style="text-align: center; "|12
 |}
 
 
@@ -6627,7 +6785,7 @@ Initial Construction
 | style="text-align: center; "|33
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|4
+| style="text-align: center; "|2
 |}
 
 
@@ -6642,9 +6800,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|4
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|40
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
@@ -6711,9 +6866,6 @@ Initial Construction
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|117
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|15
@@ -6982,7 +7134,7 @@ Initial Construction
 | style="text-align: center; "|525
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|42
+| style="text-align: center; "|40
 |}
 
 
@@ -7097,6 +7249,113 @@ Upgrade 6
 |}
 
 
+Tsukurizakaya
+sakebrewery
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|122
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|172
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|846
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|61
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|19
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|62
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|387
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|17
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|13
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|62
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|112
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|117
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|27
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|1026
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|19
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|9
+|}
+
+
 Shoko
 japanesearchive
 
@@ -7180,9 +7439,6 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|51
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|12
 |}
@@ -7196,9 +7452,6 @@ Upgrade 2
 |-
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|22
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|108
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|16
@@ -7239,9 +7492,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|10
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|88
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
@@ -7295,9 +7545,6 @@ Initial Construction
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|68
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|213
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|32
 |}
@@ -7317,9 +7564,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|20
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|81
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|14
@@ -7349,9 +7593,6 @@ Upgrade 2
 |-
 | style="text-align: center; "|Colombages
 | style="text-align: center; "|57
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|27
@@ -7432,9 +7673,6 @@ Upgrade 2
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|42
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|104
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|7
 |}
@@ -7448,9 +7686,6 @@ Upgrade 3
 |-
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|42
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|92
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|16
@@ -7468,9 +7703,6 @@ Upgrade 4
 |-
 | style="text-align: center; "|Colombages
 | style="text-align: center; "|85
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|136
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|8
@@ -7530,11 +7762,8 @@ Initial Construction
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|522
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|157
-|-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|30
+| style="text-align: center; "|48
 |}
 
 
@@ -7547,11 +7776,8 @@ Upgrade 1
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|48
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|57
-|-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|19
+| style="text-align: center; "|1
 |}
 
 
@@ -7588,7 +7814,7 @@ Upgrade 3
 | style="text-align: center; "|201
 |-
 | style="text-align: center; "|Gravier
-| style="text-align: center; "|196
+| style="text-align: center; "|6
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|22
@@ -7623,9 +7849,6 @@ Upgrade 5
 |-
 | style="text-align: center; "|Paroi de papier
 | style="text-align: center; "|16
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|30
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|20
@@ -7802,9 +8025,6 @@ Initial Construction
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|139
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|17
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|27
 |}
@@ -7858,6 +8078,9 @@ Upgrade 3
 |-
 | style="text-align: center; "|Paroi de papier
 | style="text-align: center; "|6
+|-
+| style="text-align: center; "|Gravier
+| style="text-align: center; "|9
 |}
 
 
@@ -7897,9 +8120,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|14
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|12
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|3
@@ -7975,9 +8195,6 @@ Initial Construction
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|303
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|104
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|9
@@ -8129,6 +8346,89 @@ Initial Construction
 |}
 
 
+Youkeijou
+chickenfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|50
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|130
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|16
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|29
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|55
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|41
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|200
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|4
+|}
+
+
 Tsuribori
 japanesefishery
 
@@ -8143,6 +8443,9 @@ Initial Construction
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|1
 |-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|8
+|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|4
 |}
@@ -8153,9 +8456,6 @@ Upgrade 1
 {| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
 ! scope="col"|Resource
 ! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|8
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|142
@@ -8222,6 +8522,9 @@ Initial Construction
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|1
 |-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|8
+|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|4
 |}
@@ -8232,9 +8535,6 @@ Upgrade 1
 {| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
 ! scope="col"|Resource
 ! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|8
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|142
@@ -8299,10 +8599,13 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|5
+| style="text-align: center; "|4
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|33
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|8
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|61
@@ -8479,9 +8782,6 @@ Upgrade 1
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|1
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|6
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|11
 |}
@@ -8558,9 +8858,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|5
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
@@ -8661,9 +8958,6 @@ Upgrade 1
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|27
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|226
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
 |}
@@ -8711,9 +9005,6 @@ Upgrade 4
 |-
 | style="text-align: center; "|Roche
 | style="text-align: center; "|472
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|63
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|36
@@ -8782,9 +9073,6 @@ Upgrade 1
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|27
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|226
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
 |}
@@ -8832,9 +9120,6 @@ Upgrade 4
 |-
 | style="text-align: center; "|Roche
 | style="text-align: center; "|472
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|63
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|36
@@ -8905,9 +9190,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|72
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|588
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|90
@@ -9002,6 +9284,33 @@ Upgrade 6
 |}
 
 
+Okurimono hausu
+gifthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|43
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Chaume
+| style="text-align: center; "|163
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|14
+|}
+
+
 Noufu Ie
 japanesepeasanth
 
@@ -9052,9 +9361,6 @@ Upgrade 2
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|12
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|6
@@ -9132,9 +9438,6 @@ Upgrade 2
 |-
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|16
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|2
@@ -9219,9 +9522,6 @@ Upgrade 2
 | style="text-align: center; "|Bois de sapin
 | style="text-align: center; "|9
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|10
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|7
 |}
@@ -9252,45 +9552,6 @@ Upgrade 4
 |}
 
 
-Reinousha Ie
-japanesehousemedium
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|53
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|555
-|-
-| style="text-align: center; "|Laine blanche
-| style="text-align: center; "|4
-|-
-| style="text-align: center; "|Bois de sapin
-| style="text-align: center; "|115
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|180
-|-
-| style="text-align: center; "|Paroi de papier
-| style="text-align: center; "|28
-|-
-| style="text-align: center; "|Colombages
-| style="text-align: center; "|230
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|28
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|18
-|}
-
-
 Densha
 japaneseplayerpalace
 
@@ -9305,7 +9566,7 @@ Initial Construction
 | style="text-align: center; "|50
 |-
 | style="text-align: center; "|Bois de sapin
-| style="text-align: center; "|154
+| style="text-align: center; "|153
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|491
@@ -9329,9 +9590,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|114
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|212
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|15
@@ -9396,9 +9654,6 @@ Upgrade 4
 | style="text-align: center; "|Paroi de papier
 | style="text-align: center; "|18
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|61
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|14
 |}
@@ -9418,9 +9673,6 @@ Upgrade 5
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|12
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|49
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|20
@@ -9481,6 +9733,42 @@ Upgrade 8
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|1
+|}
+
+
+Reinousha Ie
+japanesehousemedium
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|53
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|555
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|115
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|180
+|-
+| style="text-align: center; "|Paroi de papier
+| style="text-align: center; "|28
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|230
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|18
 |}
 
 
@@ -9567,9 +9855,6 @@ Initial Construction
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|359
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|42
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|58
 |}
@@ -9589,9 +9874,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|39
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|145
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|8
@@ -9645,9 +9927,6 @@ Upgrade 3
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|81
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|229
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|10
 |}
@@ -9691,9 +9970,6 @@ Upgrade 5
 | style="text-align: center; "|Paroi de papier
 | style="text-align: center; "|36
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|99
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|10
 |}
@@ -9723,9 +9999,6 @@ Upgrade 6
 | style="text-align: center; "|Colombages
 | style="text-align: center; "|142
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|38
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|23
 |}
@@ -9744,7 +10017,7 @@ Upgrade 7
 | style="text-align: center; "|1169
 |-
 | style="text-align: center; "|Bois de sapin
-| style="text-align: center; "|11
+| style="text-align: center; "|8
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|25
@@ -9753,10 +10026,10 @@ Upgrade 7
 | style="text-align: center; "|54
 |-
 | style="text-align: center; "|Colombages
-| style="text-align: center; "|240
+| style="text-align: center; "|238
 |-
 | style="text-align: center; "|Gravier
-| style="text-align: center; "|21
+| style="text-align: center; "|2
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|28
@@ -9781,9 +10054,6 @@ Initial Construction
 |-
 | style="text-align: center; "|Chaume
 | style="text-align: center; "|281
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|9
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|13
@@ -10011,9 +10281,6 @@ Upgrade 3
 |-
 | style="text-align: center; "|Colombages
 | style="text-align: center; "|28
-|-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|8
 |}
 
 
@@ -10067,7 +10334,7 @@ Initial Construction
 |}
 
 
-Torii
+Soushi
 japaneseshintoshrine
 
 ==Requirements==
@@ -10078,10 +10345,46 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|9
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Bois de sapin
+| style="text-align: center; "|22
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|21
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|40
 |}
 
 
@@ -10116,9 +10419,6 @@ Initial Construction
 | style="text-align: center; "|Colombages
 | style="text-align: center; "|424
 |-
-| style="text-align: center; "|Gravier
-| style="text-align: center; "|64
-|-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|21
 |}
@@ -10150,152 +10450,6 @@ Upgrade 1
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|22
-|}
-
-
-Uxul Otoch
-mayansculptorhouse
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|22
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|5
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|8
-|-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|3
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|21
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|114
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|204
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|114
-|}
-
-
-Upgrade 4
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|216
-|}
-
-
-K'aax
-mayangrove
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|34
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|34
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|34
-|}
-
-
-Muul
-lonemayanpyramid
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierre taillées craquelées
-| style="text-align: center; "|189
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|6241
-|-
-| style="text-align: center; "|Pierres taillées moussues
-| style="text-align: center; "|105
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|55
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|44
 |}
 
 
@@ -10500,7 +10654,7 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|59
+| style="text-align: center; "|72
 |}
 
 
@@ -10613,29 +10767,8 @@ Upgrade 3
 |}
 
 
-Jalab
-mayanballcourt
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|920
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|416
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|2
-|}
-
-
-Sa'at Maya Maize Makan
-lonemayancornfarm
+Keban Muul
+questpyramid
 
 ==Requirements==
 Initial Construction
@@ -10645,79 +10778,28 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Pierre taillées craquelées
-| style="text-align: center; "|4
+| style="text-align: center; "|179
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|269
+| style="text-align: center; "|6997
 |-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|16
+| style="text-align: center; "|Obsidienne
+| style="text-align: center; "|3103
 |-
 | style="text-align: center; "|Pierres taillées moussues
-| style="text-align: center; "|119
+| style="text-align: center; "|102
 |-
-| style="text-align: center; "|Hautes herbes
-| style="text-align: center; "|59
+| style="text-align: center; "|Lingot de fer
+| style="text-align: center; "|1
 |-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|14
-|}
-
-
-K'as Otoch
-mayanbandithome
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierre taillées craquelées
-| style="text-align: center; "|4
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|735
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|142
+| style="text-align: center; "|Lave
+| style="text-align: center; "|356
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|13
-|}
-
-
-Sa'at Maya Otoch
-lonemayanruin
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
+| style="text-align: center; "|52
 |-
-| style="text-align: center; "|Pierre taillées craquelées
-| style="text-align: center; "|2
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|215
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|8
-|-
-| style="text-align: center; "|Bois tropical
-| style="text-align: center; "|203
-|-
-| style="text-align: center; "|Pierres taillées moussues
-| style="text-align: center; "|192
-|-
-| style="text-align: center; "|Hautes herbes
-| style="text-align: center; "|99
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|8
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|22
 |}
 
 
@@ -10924,8 +11006,8 @@ Upgrade 13
 |}
 
 
-Chak Muul
-mayanplayerlargehouse
+Sa'at Maya Otoch
+lonemayanruin
 
 ==Requirements==
 Initial Construction
@@ -10934,20 +11016,1542 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Laine blanche
-| style="text-align: center; "|6
+| style="text-align: center; "|Pierre taillées craquelées
+| style="text-align: center; "|2
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|1208
+| style="text-align: center; "|215
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|188
+| style="text-align: center; "|8
 |-
-| style="text-align: center; "|Bibliothèque
-| style="text-align: center; "|22
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|203
+|-
+| style="text-align: center; "|Pierres taillées moussues
+| style="text-align: center; "|192
+|-
+| style="text-align: center; "|Hautes herbes
+| style="text-align: center; "|99
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|45
+| style="text-align: center; "|8
+|}
+
+
+Ajaw Cah
+mayancamp
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|802
+|-
+| style="text-align: center; "|Obsidienne
+| style="text-align: center; "|14
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|204
+|-
+| style="text-align: center; "|Lingot de fer
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Hautes herbes
+| style="text-align: center; "|123
+|-
+| style="text-align: center; "|Gravier
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|43
+|-
+| style="text-align: center; "|Portail
+| style="text-align: center; "|6
+|}
+
+
+Mehen Kuuch
+mayanplayersmallfield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|64
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Cha'an Ka'nal
+mayanwatchtower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|369
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|176
+|}
+
+
+Noh Kuuch
+mayanplayerhugefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|248
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Ka'kau' Makan
+mayancacaofarm
+
+==Requirements==
+===Variation A===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|36
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|14
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|71
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|75
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|70
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|138
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|2
+|}
+
+
+===Variation B===
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|89
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|90
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|82
+|}
+
+
+Maya Makan
+lonemayanfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|23
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|640
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|93
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|39
+|}
+
+
+Ah Tz'on Si' Took
+mayanarmyforge
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|12
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|72
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|140
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|118
+|}
+
+
+Yalam Otoch
+mayanlargepeasanthouse2
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|14
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|17
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|85
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|46
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|141
+|}
+
+
+Chak
+mayanbakery
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|17
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|11
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|133
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|65
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|178
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|131
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|28
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|40
+|}
+
+
+Hach Noh Nah
+mayanlargepeasanthouse_A_secondary
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|375
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|20
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|251
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|251
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|123
+|}
+
+
+Kob Took
+mayancrafter
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|19
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|15
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|25
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|167
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|135
+|}
+
+
+Keban Muul
+questpyramid_pit
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|2
+|}
+
+
+Cha'an Ka'nal
+questguardtower
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|38
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|7
+|}
+
+
+K'u-nah
+mayantemple
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|824
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|66
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|424
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|162
+|}
+
+
+Kan Cha'an
+mayanobservatory
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|738
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|84
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|49
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|148
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|266
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|64
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|51
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|168
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|234
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|21
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|116
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|302
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|110
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|186
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|96
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 12
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|271
+|}
+
+
+Upgrade 13
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|102
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|36
+|}
+
+
+Upgrade 14
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|72
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|24
+|}
+
+
+Upgrade 15
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|89
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|44
+|}
+
+
+Zil Otoch
+gifthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|157
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|197
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|17
+|}
+
+
+Keban Muul
+questpyramid_jail
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
+|}
+
+
+Chumuk Kuuch
+mayanplayerlargefield
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|128
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Ajaw Cah
+mayancamp_outerguard
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|4
+|}
+
+
+B'aat Winik Nah
+mayanlumber
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|40
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|10
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|40
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|98
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|20
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|66
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|112
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+K'uhul Jalab
+mayanacropolis
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|928
+|-
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|184
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|53
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|106
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|440
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|4
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|296
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|17
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|378
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|220
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|176
+|}
+
+
+Upgrade 7
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|58
+|}
+
+
+Upgrade 8
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|120
+|}
+
+
+Upgrade 9
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|24
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|48
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|16
+|}
+
+
+Upgrade 10
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|58
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|30
+|}
+
+
+Upgrade 11
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|356
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|48
+|}
+
+
+Tunich In-ti'a'al
+mayanmining
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|56
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|29
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|182
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|141
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|148
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|51
+|}
+
+
+Ch'en
+mayancave
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|408
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|23
+|}
+
+
+Sa'at Muul
+mayanruinedpyramid
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Pierre taillées craquelées
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Sculpture Maya
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|654
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|72
+|-
+| style="text-align: center; "|Pierres taillées moussues
+| style="text-align: center; "|298
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|11
+|}
+
+
+Ajaw Cah
+mayancamp_dig
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|2
+|}
+
+
+Uxul Otoch
+mayansculptorhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|21
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|114
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|204
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|114
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|216
+|}
+
+
+K'aax
+mayangrove
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|1
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|70
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|70
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|70
+|}
+
+
+Jalab
+mayanballcourt
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|920
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|416
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|2
+|}
+
+
+Muul
+lonemayanpyramid
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierre taillées craquelées
+| style="text-align: center; "|189
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|6241
+|-
+| style="text-align: center; "|Pierres taillées moussues
+| style="text-align: center; "|105
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|55
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|44
+|}
+
+
+Sa'at Maya Maize Makan
+lonemayancornfarm
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierre taillées craquelées
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|269
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Pierres taillées moussues
+| style="text-align: center; "|119
+|-
+| style="text-align: center; "|Hautes herbes
+| style="text-align: center; "|59
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|14
+|}
+
+
+K'as Otoch
+mayanbandithome
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Pierre taillées craquelées
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|735
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|142
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|13
 |}
 
 
@@ -11008,6 +12612,76 @@ Upgrade 3
 |}
 
 
+Chak Muul
+mayanplayerlargehouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|1208
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|188
+|-
+| style="text-align: center; "|Bibliothèque
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|45
+|}
+
+
+K'eyem
+mayanalter
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|528
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|107
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Roche
+| style="text-align: center; "|107
+|}
+
+
 Maize Makan
 mayancornfarm
 
@@ -11037,7 +12711,7 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|66
+| style="text-align: center; "|102
 |}
 
 
@@ -11059,7 +12733,7 @@ Upgrade 3
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|46
+| style="text-align: center; "|82
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|180
@@ -11164,7 +12838,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
+| style="text-align: center; "|2
 |}
 
 
@@ -11175,7 +12849,7 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|34
+| style="text-align: center; "|68
 |}
 
 
@@ -11186,7 +12860,7 @@ Upgrade 2
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|34
+| style="text-align: center; "|68
 |}
 
 
@@ -11204,8 +12878,8 @@ Upgrade 3
 |}
 
 
-K'eyem
-mayanalter
+K'in Pak
+mayancalendar
 
 ==Requirements==
 Initial Construction
@@ -11215,35 +12889,16 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|3
+| style="text-align: center; "|30
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|390
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Grès
+| style="text-align: center; "|123
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|3
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|107
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|107
+| style="text-align: center; "|1
 |}
 
 
@@ -11274,8 +12929,8 @@ Initial Construction
 |}
 
 
-K'in Pak
-mayancalendar
+Kanan Otoch
+questbarrack
 
 ==Requirements==
 Initial Construction
@@ -11285,16 +12940,28 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|30
+| style="text-align: center; "|290
 |-
 | style="text-align: center; "|Pierres
-| style="text-align: center; "|8
-|-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|123
+| style="text-align: center; "|68
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
+| style="text-align: center; "|16
+|}
+
+
+Ajaw Cah
+mayancamp_wall
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
 |}
 
 
@@ -11335,24 +13002,6 @@ Upgrade 2
 |-
 | style="text-align: center; "|Roche
 | style="text-align: center; "|48
-|}
-
-
-Mehen Kuuch
-mayanplayersmallfield
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|64
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
 |}
 
 
@@ -11679,8 +13328,8 @@ Upgrade 4
 |}
 
 
-Cha'an Ka'nal
-mayanwatchtower
+Kanan Otoch
+questcamphouse
 
 ==Requirements==
 Initial Construction
@@ -11689,22 +13338,59 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|369
+| style="text-align: center; "|Bois tropical
+| style="text-align: center; "|16
+|-
+| style="text-align: center; "|Hautes herbes
+| style="text-align: center; "|13
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|15
+| style="text-align: center; "|5
 |}
 
 
-Upgrade 1
+Ajaw Cah
+mayancamp_innerguard
+
+==Requirements==
+Initial Construction
 
 {| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|4
+|}
+
+
+Noh Muul
+mayanplayerestate
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|6
+|-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|176
+| style="text-align: center; "|633
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|2087
+|-
+| style="text-align: center; "|Bibliothèque
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|74
+|-
+| style="text-align: center; "|Décoration en or
+| style="text-align: center; "|3
 |}
 
 
@@ -11741,8 +13427,8 @@ Initial Construction
 |}
 
 
-Noh Kuuch
-mayanplayerhugefield
+Keban Muul
+questpyramid_guards
 
 ==Requirements==
 Initial Construction
@@ -11751,41 +13437,8 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|248
-|-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Noh Muul
-mayanplayerestate
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Laine blanche
-| style="text-align: center; "|6
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|633
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|2087
-|-
-| style="text-align: center; "|Bibliothèque
-| style="text-align: center; "|18
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|74
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|3
+| style="text-align: center; "|12
 |}
 
 
@@ -11800,94 +13453,13 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|413
+| style="text-align: center; "|423
 |-
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|20
-|}
-
-
-Maya Makan
-lonemayanfarm
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|23
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|640
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|93
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|39
-|}
-
-
-Ah Tz'on Si' Took
-mayanarmyforge
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|16
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|12
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|72
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|140
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|118
+| style="text-align: center; "|18
 |}
 
 
@@ -11955,147 +13527,6 @@ Initial Construction
 |-
 | style="text-align: center; "|Décoration en or
 | style="text-align: center; "|102
-|}
-
-
-Yalam Otoch
-mayanlargepeasanthouse2
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|14
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|17
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|85
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|46
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|141
-|}
-
-
-Chak
-mayanbakery
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|17
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|8
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|11
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|133
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|65
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|178
-|}
-
-
-Upgrade 4
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|131
-|}
-
-
-Upgrade 5
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|28
-|}
-
-
-Upgrade 6
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|40
 |}
 
 
@@ -12190,376 +13621,6 @@ Upgrade 5
 |}
 
 
-Kob Took
-mayancrafter
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|19
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|24
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|15
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|25
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|167
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|135
-|}
-
-
-Hach Noh Nah
-mayanlargepeasanthouse_A_secondary
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|375
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|20
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|251
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|251
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|123
-|}
-
-
-K'u-nah
-mayantemple
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|58
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|824
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|5
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|66
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|54
-|-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|8
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Sculpture Maya
-| style="text-align: center; "|4
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|424
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|162
-|}
-
-
-Kan Cha'an
-mayanobservatory
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|738
-|-
-| style="text-align: center; "|Bois tropical
-| style="text-align: center; "|84
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|49
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|148
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|266
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|64
-|}
-
-
-Upgrade 4
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|51
-|}
-
-
-Upgrade 5
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|168
-|}
-
-
-Upgrade 6
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|234
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|21
-|}
-
-
-Upgrade 7
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|116
-|}
-
-
-Upgrade 8
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|302
-|}
-
-
-Upgrade 9
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|110
-|}
-
-
-Upgrade 10
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|186
-|}
-
-
-Upgrade 11
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|96
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|48
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|4
-|}
-
-
-Upgrade 12
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Sculpture Maya
-| style="text-align: center; "|2
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|271
-|}
-
-
-Upgrade 13
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|102
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|36
-|}
-
-
-Upgrade 14
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|72
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|24
-|}
-
-
-Upgrade 15
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|89
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|44
-|}
-
-
 Hu'um-Noh
 mayanlibrary
 
@@ -12577,12 +13638,12 @@ Initial Construction
 | style="text-align: center; "|209
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|89
+| style="text-align: center; "|87
 |}
 
 
-Chumuk Kuuch
-mayanplayerlargefield
+Kak Actun
+questcave_door
 
 ==Requirements==
 Initial Construction
@@ -12591,11 +13652,8 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|128
-|-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
+| style="text-align: center; "|8
 |}
 
 
@@ -12653,322 +13711,6 @@ Upgrade 3
 |}
 
 
-K'uhul Jalab
-mayanacropolis
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|928
-|-
-| style="text-align: center; "|Bois tropical
-| style="text-align: center; "|184
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|53
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|106
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|2
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|440
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|58
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|4
-|}
-
-
-Upgrade 4
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|296
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|17
-|}
-
-
-Upgrade 5
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|378
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|220
-|}
-
-
-Upgrade 6
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|176
-|}
-
-
-Upgrade 7
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|58
-|}
-
-
-Upgrade 8
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|120
-|}
-
-
-Upgrade 9
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Sculpture Maya
-| style="text-align: center; "|4
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|24
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|48
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|16
-|}
-
-
-Upgrade 10
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|58
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|30
-|}
-
-
-Upgrade 11
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|356
-|-
-| style="text-align: center; "|Décoration en or
-| style="text-align: center; "|48
-|}
-
-
-B'aat Winik Nah
-mayanlumber
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois tropical
-| style="text-align: center; "|40
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|10
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|40
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|98
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|20
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|66
-|}
-
-
-Upgrade 4
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|32
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Upgrade 5
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|112
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|1
-|}
-
-
-Tunich In-ti'a'al
-mayanmining
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|22
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|56
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|29
-|}
-
-
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|182
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|141
-|}
-
-
-Upgrade 3
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|148
-|}
-
-
-Upgrade 4
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|51
-|}
-
-
 Ni'Nah
 mayanlargepeasanthouse2_A_secondary
 
@@ -13023,30 +13765,6 @@ Upgrade 3
 |}
 
 
-Ch'en
-mayancave
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Roche
-| style="text-align: center; "|4
-|-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|408
-|-
-| style="text-align: center; "|Grès
-| style="text-align: center; "|2
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|23
-|}
-
-
 Hach Noh Otoch
 mayanlargepeasanthouse
 
@@ -13098,8 +13816,8 @@ Upgrade 3
 |}
 
 
-Sa'at Muul
-mayanruinedpyramid
+Kak Actun
+questcave
 
 ==Requirements==
 Initial Construction
@@ -13108,26 +13826,35 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|1
-|-
-| style="text-align: center; "|Pierre taillées craquelées
-| style="text-align: center; "|1
-|-
-| style="text-align: center; "|Sculpture Maya
-| style="text-align: center; "|4
-|-
 | style="text-align: center; "|Roche
-| style="text-align: center; "|654
+| style="text-align: center; "|160
 |-
-| style="text-align: center; "|Pierres
-| style="text-align: center; "|72
+| style="text-align: center; "|Bedrock
+| style="text-align: center; "|5269
 |-
-| style="text-align: center; "|Pierres taillées moussues
-| style="text-align: center; "|298
+| style="text-align: center; "|Lave
+| style="text-align: center; "|2292
+|-
+| style="text-align: center; "|Luminite
+| style="text-align: center; "|12
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|11
+| style="text-align: center; "|2
+|}
+
+
+K'as Maya
+mayancamp_jail
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|3
 |}
 
 
@@ -13181,16 +13908,13 @@ Initial Construction
 | style="text-align: center; "|32
 |-
 | style="text-align: center; "|Verre
-| style="text-align: center; "|24
+| style="text-align: center; "|45
 |-
 | style="text-align: center; "|Pierres taillées moussues
 | style="text-align: center; "|42
 |-
 | style="text-align: center; "|Colombages
 | style="text-align: center; "|60
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|21
 |-
 | style="text-align: center; "|Bibliothèque
 | style="text-align: center; "|26
@@ -13627,11 +14351,11 @@ Initial Construction
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|66
 |-
-| style="text-align: center; "|Colombages
-| style="text-align: center; "|23
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|8
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|23
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|13
@@ -13676,16 +14400,13 @@ Initial Construction
 | style="text-align: center; "|136
 |-
 | style="text-align: center; "|Verre
-| style="text-align: center; "|376
+| style="text-align: center; "|570
 |-
 | style="text-align: center; "|Bloc de lapis-lazuli
 | style="text-align: center; "|292
 |-
 | style="text-align: center; "|Lingot d'or
 | style="text-align: center; "|5940
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|194
 |-
 | style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|37296
@@ -14046,7 +14767,7 @@ Initial Construction
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Verrue du Tréfonds
+| style="text-align: center; "|Verrues du Nether
 | style="text-align: center; "|10
 |-
 | style="text-align: center; "|Bedrock
@@ -14595,6 +15316,30 @@ Upgrade 7
 |}
 
 
+Maison bonus
+gifthouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|68
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Pierres
+| style="text-align: center; "|47
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|14
+|}
+
+
 Tour de garde
 fort_A_righttower
 
@@ -14830,11 +15575,11 @@ Initial Construction
 | style="text-align: center; "|Roche
 | style="text-align: center; "|434
 |-
-| style="text-align: center; "|Colombages
-| style="text-align: center; "|139
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|7
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|139
 |-
 | style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|7
@@ -15089,11 +15834,11 @@ Initial Construction
 | style="text-align: center; "|Pierres
 | style="text-align: center; "|553
 |-
-| style="text-align: center; "|Colombages
-| style="text-align: center; "|43
-|-
 | style="text-align: center; "|Verre
 | style="text-align: center; "|2
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|43
 |-
 | style="text-align: center; "|Lingot de fer
 | style="text-align: center; "|8
@@ -15137,7 +15882,7 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|5
+| style="text-align: center; "|4
 |}
 
 
@@ -15153,6 +15898,33 @@ Initial Construction
 |-
 | style="text-align: center; "|Bois de chêne
 | style="text-align: center; "|3
+|-
+| style="text-align: center; "|Bois (tous)
+| style="text-align: center; "|19
+|}
+
+
+Auberge isolée
+loneinn
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Bois de chêne
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Laine blanche
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Verre
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Colombages
+| style="text-align: center; "|116
 |-
 | style="text-align: center; "|Bois (tous)
 | style="text-align: center; "|19
@@ -15312,33 +16084,6 @@ Upgrade 5
 |-
 | style="text-align: center; "|Colombages à croix
 | style="text-align: center; "|21
-|}
-
-
-Auberge isolée
-loneinn
-
-==Requirements==
-Initial Construction
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Bois de chêne
-| style="text-align: center; "|54
-|-
-| style="text-align: center; "|Laine blanche
-| style="text-align: center; "|3
-|-
-| style="text-align: center; "|Colombages
-| style="text-align: center; "|116
-|-
-| style="text-align: center; "|Verre
-| style="text-align: center; "|8
-|-
-| style="text-align: center; "|Bois (tous)
-| style="text-align: center; "|19
 |}
 
 

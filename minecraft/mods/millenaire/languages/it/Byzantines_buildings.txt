@@ -27,15 +27,18 @@ innbyzantine_A0=Locanda
 guesthousebyzantine_A0=Foresteria
 basilkabyzantine_A0=Mercato
 barracksbyzantine_A0=Armeria
-barracksbyzantine_A_bed_A0=Letto
-presbyterybyzantine_A0=Monatero
+barracksbyzantine_A_bed_A0=Dormitorio armeria
+presbyterybyzantine_A0=Monastero
+fortbyzantine_A_forge_A0=Forgia
+playerfortbyzantine_A_forge_A0=Forgia
+well_A0=Pozzo
 
 oaktower_A0=Torre di guardia
 birchtower_A0=Torre di guardia
 pinetower_A0=Torre di guardia
 jungletower_A0=Torre di guardia
 
-placebyzantine_a_basilica_a0=Cappela del villaggio
+placebyzantine_a_basilica_a0=Foro
 vineyardbyzantine_a0=Vigneto
 grovebirchbyzantine_a0=Boschetto di betulle
 silkfarmbyzantine_a0=Fattoria da seta
@@ -54,4 +57,6 @@ lonesheepfarm_b0=Fattoria ovina solitaria
 groveoakbyzantine_a0=Boschetto di querce
 
 lonecastle_a_training_a0=Area di allenamento
-lonecastle_a_praying_a0=Sala preghiere
+lonecastle_a_praying_a0=Cappella
+
+gifthouse_a0=Casa Bonus

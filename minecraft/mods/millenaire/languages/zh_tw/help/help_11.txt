@@ -1,13 +1,17 @@
 version:3.4
-<darkblue>Les Japonais
+<darkblue>日本人
 
-<darkred>This section will soon be translated to English in a new update
+他們生活在一個宗教、軍事或帝國的村莊，
+並由建築的優雅程度來區別。他們說日語，
+但是如果你多與他們交談，從而「學習」到
+他們的語言，那麼那些交談的內容就會
+被翻譯過來。
 
-Ils vivent dans des villages religieux, militaires ou impériaux et se distinguent par leurs architectures élégantes. Ils parlent japonais, mais leurs dialogues seront traduits au fur et à mesure que le joueur « apprend » leur langue en parlant avec eux.
+<darkblue>獨特的物品和方塊
 
-<darkblue>Objets et blocs uniques
-
--Ils cultivent du riz. Le joueur peut demander au chef de lui apprendre comment cultiver cette céréale
--Comme les normands, ils produisent des colombages pour leurs bâtiments
--Ils utilisent beaucoup de blocs de chaume, qu’ils fabriquent à partir de blé
--Leurs forgerons fabriquent de redoutables épées tachis et des arcs yumis à longue portée, ainsi que trois types d’armures très efficaces
+-他們種植稻米。玩家可以要求廚師教他如
+何種植穀類作物。
+-和諾曼人一樣，他們生產木框架。
+-他們使用很多用小麥製作而成的茅草塊。
+-他們的鐵匠製作強大的太刀和日本長弓，
+以及三種非常棒的盔甲。

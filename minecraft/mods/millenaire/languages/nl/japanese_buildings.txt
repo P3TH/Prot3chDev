@@ -1,4 +1,3 @@
-
 japanesegrove_A0=Park
 japanesegrove_B0=Park
 japanesegrove_C0=Park
@@ -49,7 +48,9 @@ japanesemarket_A0=Markt
 japanesearcheryrange_A0=Boogschuttersveld
 bath_A0=Badhuis
 well_A0=Put
-
+chickenfarm_a0=Kippenboerderij
+sakebrewery_A0=Sake Brouwerij
+squidfarm_A0=Inktvis Boerderij
 
 japaneseoutpost_A0=Japanse Uitkijkpst
 japanesearmyforge_A0=Legersmid
@@ -60,4 +61,4 @@ woods_shrine_A0=Houten Heiligdom
 lonemine_A0=Verlaten Japanse Mijn
 banditfort_A0=Bandietenfort
 kufun_tomb_B0=Kufun Tombe
-
+gifthouse_a0=Cadeautjeshuis

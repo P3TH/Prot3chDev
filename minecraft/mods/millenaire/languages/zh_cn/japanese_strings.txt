@@ -2,8 +2,8 @@ culture.japanese=日本文化
 
 villager.japanese_boy=男孩
 villager.japanese_girl=女孩
-villager.japanese_teenagermale=十几岁的男孩
-villager.japanese_teenagerfemale=十几岁的女孩
+villager.japanese_teenagermale=少年
+villager.japanese_teenagerfemale=少女
 villager.japanese_lumberman=伐木工
 villager.japanese_miner=矿工
 villager.japanese_loneminer=矿工
@@ -38,3 +38,4 @@ shop.japanesecrafter=纸张
 shop.kitchen=食物
 shop.lonemine=石材
 shop.japaneseoutpost=储存中心
+shop.fishery=烹饪

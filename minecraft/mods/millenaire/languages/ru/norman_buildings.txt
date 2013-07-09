@@ -40,6 +40,8 @@ fountain_A0=Фонтан
 largefountain_A0=Большой фонтан
 well_A0=Колодец
 alchemyworkshop_A0=Мастерская алхимика
+townhall_A0=Ратуша
+townhallagricole_A0=Ратуша
 
 playerfort_A0=Форт странника
 anomalyone_A0=Аномалия 1
@@ -64,3 +66,5 @@ loneinn_A0=Одинокая гостиница
 lonemill_A0=Одинокая водяная мельница
 feloncastle_A0=Замок преступников
 pantheon_A0=Пантеон
+
+gifthouse_a0=Дом подарок

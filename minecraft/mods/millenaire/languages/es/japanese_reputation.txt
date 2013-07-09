@@ -1,10 +1,10 @@
-0;Võõras;Me ei usalda võõraid lihtsasti. Ole oma parimas korras.
-4*64;Tuntud nägu;Me oleme sind näinud siin ennemgi,aga see ei tähenda,et me usaldame sind .
-16*64;Tavaline külastaja;Kuidas on su reisid olnud $name?
-64*64;Lemmik kaupleja;Ah, $name, sa oled tulnud kauge tee külanike silmis .
-2*64*64;Küla sõber;Tere sõber, mida saame me sinujaoks täna teha??
-8*64*64;Üks meist;Tere, $name, me oleme oodanud su tagasitulekut suure põnevusega.
-32*64*64;Naturaalne juht;$name, sa oled saanud trruduse ja usalduse minu inimestelt . Nad järgnevad sinuga kõikjale. 
--64;Nuhtlus;Aa see oled sina,mida sa tahad?
--4*64;Ebameeldiv autsider;Lahku meie külast kohe kaabakas!
--16*64;Avalik vaenlane;Kuidas sa julged end siin näidata. Silmitse oma karistust!
+0;Extranjero;No confiamos en los extranjeros, antes debemos conocerte mejor.
+4*64;Conocido;Ya eres más conocido, pero eso no significa que confiemos en ti.
+16*64;Visitante Regular;¿Cómo te ha ido en tus viajes $name?
+64*64;Comerciante Favorito;Ah, $name, tu llegada a nuestro pueblo nos llena de felicidad .
+2*64*64;Amigo del Pueblo;¡Hola Amigo! ¿Qué podemos hacer por ti hoy?
+8*64*64;Uno de Nosotros;Hola, $name, hemos estado esperando tu regreso con gran entusiasmo.
+32*64*64;Lider Natural;$name, usted tiene la confianza y la lealtad de mi pueblo, ellos lo seguirán a cualquier parte. 
+-64;Azote;Agh, eres tu! ¿Qué quieres?
+-4*64;Forastero Desagradable;¡Deja nuestra aldea inmediatamente, villano!
+-16*64;Enemigo Público; ¿Cómo se atreve a mostrar su cara por aqui?

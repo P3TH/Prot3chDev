@@ -1,4 +1,4 @@
-version:3.1.7
+version:4.8.0
 Millénaire: Aldeões Japoneses
 
 Chefes da Aldeia
@@ -8,6 +8,9 @@ Shuken (しゅくん): Samurai. Este homem vive numa fortaleza muralhada a parti
 Kokushi (こくし): Imperador. Ele governa a sua aldeia de dentro do palácio imperial. Ele obriga os seus aldeões a trabalhar arduamente e encoraja-os a orar, cobrando também elevados impostos. Ainda assim, por ser um homem bastante religioso e em paz consigo mesmo, os aldeões não se queixam dele.
 
 Chōkan (ちょうかん): Chefe Agricultor. Este homem é, na verdade, um camponês, mas os Japoneses necessitam de muitos alimentos, pelo que alguém tem de liderar uma aldeia agrícola. Ele é um dos anciões escolhidos para liderar a aldeia. Ele aconselha os aldeões sobre as técnicas de agricultura e ajuda a defender a sua aldeia dos monstros.
+
+Touji: Chefe Cervejeiro. Este artesão qualificado produz o saqué, e o seu renome garante a prosperidade da sua aldeia comerciante.
+
 NEW_PAGE
 Mulheres
 
@@ -15,7 +18,10 @@ Jojoufu (じょじょうふ): Mulher Corajosa. Esta é a esposa de um guarda ou 
 
 Reifujin (れいふじん): Dama. Esta mulher é a esposa de um homem abastado, geralmente o líder da aldeia. Ela passa o dia a cuidar do seu aspecto e pouco mais faz.
 
+Kuramoto: Cervejeira. Esta especialista na produção de saqué trabalha em conjunto com o seu esposo na fábrica de saqué.
+
 Tsuma (つま): Esposa. Estas mulheres executam todas as tarefas de que os homens não gostam, tais como tratar dos campos, produzir colmo ou cozinhar. São trabalhos árduos e aborrecidos, mas elas não se podem queixar sem que haja consequências. Ainda assim, sem estas mulheres, os aldeões morreriam à fome.
+
 NEW_PAGE
 Homens
 
@@ -42,6 +48,7 @@ Koufu (こうふ): Mineiro. O mineiro escava e obtém a pedra e a areia, quase q
 Souryo (そうりょ): Monge. O monge é um homem de respeito e conhece bem e aprofundadamente o Budismo. Os aldeões visitam-no para obter conselhos ou para encontrarem a paz consigo próprios.
 
 Noufu (のうふ): Camponês. Os camponeses constroem novos edifícios na aldeia e trabalham os arrozais. Matam também as galinhas para obter alimento. Não há descanso para um camponês.
+
 NEW_PAGE
 Crianças
 

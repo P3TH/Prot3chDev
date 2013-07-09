@@ -4,7 +4,7 @@ chocoboWingFlutter = false
 // hunger not yet active
 hungerEnabled = false
 riderBuffsEnabled = true
-saddledCanWander = true
+saddledCanWander = false
 
 // The default name height is 2.3 blocks from the ground. You can add height
 // up to 10 blocks by the number given as renderNameHeight.
@@ -17,11 +17,14 @@ renderNameHeight = 0.0
 // every 100th etc...
 livingSoundProbability = 100
 
-// Mutation rates of planted and grown gysahl greens. There is a gysahlGreenMutationRate procent chance
+// Mutation rates of planted and grown gysahl greens. There is a gysahlGreenMutationRate permille chance
 // the gysahl plant will mutate into a breeding gysahl. If the plant has mutated into
-// a breeding gysahl, there is a gysahlLoverlyMutationRate procent change of it being a golden Gysahl.
-gysahlGreenMutationRate = 10
-gysahlLoverlyMutationRate = 10
+// a breeding gysahl, there is a gysahlLoverlyMutationRate permille change of it being a golden Gysahl.
+gysahlGreenMutationRate = 100
+gysahlLoverlyMutationRate = 100
+
+// value between 1 and 999, with 1 for very few wild gysahl and 999 very many.
+gysahlGreenWorldGenerationRate = 160
 
 // Cool down phase between breeding
 breedingDelayFemale = 9000
@@ -41,13 +44,19 @@ hungerDelayChocobo = 3000
 penHealProbability = 20
 penHealCauldronRange = 6
 
+// Whenever or not wild Chocobos will be able to despawn if no player is around
+wildCanDespawn = false
+
+// Whenever or not the Chocopedia can be found in dungeon, jungle and desert pyramid, stronghold and mine chests
+chocopediaInDungeons = true
+
 // add any name of the following list as comma separated values to
 // the spawnBiomeskey, to have Chocobos spawn in the
 // designated biomes. Add the token 'all' to have Chocobos spawn in 
 // all biomes.
 // Possible biome names:
-// Ocean, Plains, Desert, Extreme Hills, Forest, Taiga, Swampland, River, Hell, Sky, FrozenOcean, FrozenRiver, Ice Plains, Ice Mountains, MushroomIsland, MushroomIslandShore, Beach, DesertHills, ForestHills, TaigaHills, Extreme Hills Edge, Jungle, JungleHills, Alpine, Autumn Woods, Birch Forest, Extreme Jungle, Forested Hills, Forested Island, Glacier, Green Hills, Green Swamplands, Ice Wasteland, Marsh, Meadow, Mini Jungle, Mountainous Desert, Mountain Ridge, Mountain Taiga, Pine Forest, Rainforest, Redwood Forest, Lush Redwoods, Savanna, Shrubland, Snow Forest, Snowy Rainforest, Temperate Rainforest, Tundra, Wasteland, Woodlands
-spawnBiomes = Extreme Hills,Extreme Hills Edge,Forest,ForestHills,Jungle,JungleHills,Plains,Swampland,Taiga,TaigaHills,Ice Mountains,Ice Plains
+// Ocean, Plains, Desert, Extreme Hills, Forest, Taiga, Swampland, River, Hell, Sky, FrozenOcean, FrozenRiver, Ice Plains, Ice Mountains, MushroomIsland, MushroomIslandShore, Beach, DesertHills, ForestHills, TaigaHills, Extreme Hills Edge, Jungle, JungleHills
+spawnBiomes = Extreme Hills,Extreme Hills Edge,Forest,ForestHills,Jungle,JungleHills,Plains,Swampland,Taiga,TaigaHills,Ice Mountains,Ice Plains,Hell
 
 // A group of spawnGroupMin to spawnGroupMax Yellow Chocobos will spawn with the
 // probability of spawnProbability around every player. There will be no additional

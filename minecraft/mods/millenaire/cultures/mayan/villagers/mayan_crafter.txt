@@ -12,13 +12,14 @@ goal=makestonepickaxe
 goal=makestoneshovel
 goal=makestonehoe
 goal=makemayangoldblock
+goal=gosocialise
+goal=chat
 
 requiredGood=cobblestone,10
 requiredGood=stone,10
-requiredGood=gold,10
+requiredGood=leather,10
 
-toolNeeded=stoneaxe
-toolNeeded=mayanaxe
+toolneededclass=meleeweapons
 
 tag=helpInAttacks
 defaultweapon=woodaxe

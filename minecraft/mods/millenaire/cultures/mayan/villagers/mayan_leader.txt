@@ -13,11 +13,19 @@ goal=gorest
 goal=gopray
 goal=patrol
 goal=huntmonster
+goal=gosocialise
+goal=chat
+goal=bringBackResourcesHome
 
-
-toolNeeded=stonesword
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
+toolneededclass=armour
 
 baseAttackStrength=4
 tag=helpInAttacks
 defaultweapon=woodsword
+
+bringBackHomeGood=steelsword
+bringBackHomeGood=steelhelmet
+bringBackHomeGood=steelchest
+bringBackHomeGood=steellegs
+bringBackHomeGood=steelboots

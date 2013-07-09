@@ -9,11 +9,19 @@ texture=/graphics/mob/mayan/mayan_King1.png
 
 goal=gorest
 goal=gopray
+goal=gosocialise
+goal=chat
+goal=bringBackResourcesHome
 
-
-toolNeeded=stonesword
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
+toolneededclass=armour
 
 baseAttackStrength=5
 tag=helpInAttacks
 defaultweapon=woodsword
+
+bringBackHomeGood=steelsword
+bringBackHomeGood=steelhelmet
+bringBackHomeGood=steelchest
+bringBackHomeGood=steellegs
+bringBackHomeGood=steelboots

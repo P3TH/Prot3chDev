@@ -1,4 +1,4 @@
-version:1.1.4
+version:4.2.1
 Millénaire: Abitanti normanni
 
 Capi dei villaggi
@@ -21,7 +21,7 @@ Uomini
 
 Fermier: Contadino maschio. Vive in una fattoria, dove cresce e miete il grano.
 
-Bûcheron: Boscaiolo. Vive nella casa del boscaiolo. Raccoglie legna e mele per il sidro dagli alberi nel boschetto. E' il responsabile della manutenzione del boschetto ed colui che pianta gli alberelli per produrre ancora più legna.
+Bûcheron: Boscaiolo. Vive nella casa del boscaiolo. Raccoglie legna e mele per il sidro dagli alberi nel boschetto. E' il responsabile della manutenzione del boschetto ed è colui che pianta gli alberelli per produrre ancora più legna.
 
 Garde: Guardia. Vive nella casa della guardia. Non fa nulla, eccetto bere sidro e raramente pregare, a meno che un compaesano è attaccato. Non è davvero un facile nemico con cui combattere, soprattutto se è armato con il terribile spadone normanno.
 

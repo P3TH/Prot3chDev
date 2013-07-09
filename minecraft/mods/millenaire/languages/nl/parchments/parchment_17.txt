@@ -1,4 +1,4 @@
-version:3.1.7
+version:4.8.0
 Millénaire: Japanse gebouwen
 
 Dorpscentra   
@@ -8,6 +8,9 @@ Shuudannoujou: Grote boerderij. Centrum van landbouwdorpen. De dorpelingen breng
 Bousai: Fort. Dit gebouw huist de Shuken en zijn vrouw. Wordt uitgebreid tot een machtig fort met wachttorens.
 
 Kumonjo: Imperieel kantoor. De Japanners bouwden zulke kantoren vaak als dorpscentrum. Hier woont de leider met zijn vrouw en kijkt dag en nacht over het dorp. Hier worden bouwplannen gemaakt en aanzoeken gedaan.
+
+Tsukurizakaya: Sake brouwerij. Dit complexe gebouw is toegewezen aan het produceren van de beroemd sake uit rijst. De meesterbrouwer en zijn brouw werken hier en rond de brouwerij heeft zich een handelsdorp gevestigd.
+
 NEW_PAGE
 Huizen
 
@@ -43,8 +46,10 @@ Heisha: Bewakershuis. Hier woont de bewaker met zijn vrouw.
 
 Noujou Nojo: Graanboerderij. Hier woont de graanboer met zijn vrouw. Hij verzamelt en oogst graan hier.
 NEW_PAGE
-Decorative gebouwen
+Decoratieve gebouwen
 
 Ike: Vijver. Een mooi gebouw om door te wandelen.
 
 Torii: Torri Poort. Een prachtige poortachtige structuur waar dorpelingen kunnen bidden.
+
+Soushi: Shinto altaar. Dit kleine altaar wordt door de dorpelingen gebruikt voor hun gebeden.

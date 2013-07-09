@@ -5,6 +5,8 @@ firstNameList=men_names
 
 texture=/graphics/mob/indian/ML_Smith0.png
 
+goal=gosocialise
+goal=chat
 goal=gorest
 goal=gopray
 goal=makesteelpickaxe
@@ -14,7 +16,8 @@ goal=makesteelhoe
 
 requiredGood=iron,10
 
-toolNeeded=steelSword
+
+toolneededclass=meleeweapons
 
 baseAttackStrength=5
 tag=helpInAttacks

@@ -3,6 +3,7 @@ startup.loadproblem=There was an error when trying to load <0>.
 startup.checkload=Check that the cultures directory is in the millenaire directory in the minecraft directory.
 startup.millenaireloaded=<0> is loaded. Explore and press '<1>' to locate villages.
 startup.radiuswarning=WARNING: Setting the village radius so high should not be needed and will cause much increased lag. Values above 70 are not recommended.
+startup.bonus=Bonus content enabled.
 
 command.nogenerate=<0> will no longer generate villages on new chunks in this world.
 command.willgenerate=<0>  will now generate villages on new chunks in this world.
@@ -33,6 +34,7 @@ ui.noneininventory=You have none in your inventory.
 ui.selling=Selling
 ui.buying=Buying
 ui.buybuilding=Buy <0> (<1>)
+ui.buybonusbuilding=Request bonus: <0>
 ui.sellercoming=<0>: I'll be right there, $name!
 ui.tradecomplete=<0>: I hope you liked trading with us! Have a good day.
 ui.sellerboycott=<0>: Never again will we trade with you, outlaw!
@@ -48,6 +50,7 @@ ui.alreadybuilt=already built
 ui.alreadyrequested=already requested
 ui.notavailableyet=not available yet
 ui.available=available
+ui.bonusavailable=available (gift)
 ui.youaremissing=you are missing: <0>
 ui.scrollsnoreputation=Your reputation is not sufficient to purchase village scrolls.
 ui.scrollsnotenoughmoney=You are missing <0> denier(s) for a village scroll.
@@ -164,7 +167,20 @@ ui.raider=Raider
 ui.communicationexplanations=To communicate with the villagers, do a right-click. If an action is possible with the villager in question (trading, discussing with the head of the village, hiring him temporarily, starting a quest) a window will open.
 ui.helpbutton=Millénaire Help
 ui.chunkbutton=Map of chunks
+ui.configbutton=Settings
 ui.serverimportforbidden=Only admin users can import buildings on a server.
+
+ui.controldiplomacy=Diplomacy
+ui.raidinprogress=Raid in progress!
+ui.otherraidinprogress=Other raid in progress.
+ui.otherraidplanned=Other raid planned.
+ui.raidcancel=Cancel the raid.
+ui.raidplanned=Raid planned.
+ui.relgood=Excellent
+ui.relneutral=Neutral
+ui.relbad=Conflict
+ui.raid=Plan a raid
+
 
 help.tab_1=Generalities on villages
 help.tab_2=Trading
@@ -204,6 +220,10 @@ quest.cqsadhustartexplanation=Find a villager able to guide you in an Indian vil
 
 quest.cqchapteralchemist=The Alchemist
 quest.cqalchemiststartexplanation=Find a villager able to guide you in a Norman village where you have at least "Friend of the village" as reputation.
+
+quest.cqchapterfallenking=The Fallen King
+quest.cqfallenkingstartexplanation=Find a shaman that can guide you in a Mayan village where you have at least "Friend of the village" as reputation.
+
 
 quest.cqallcompleted=Congratulations, you have completed all the Creation Quest missions currently available!
 quest.cqcheckforupdates=Check www.millenaire.org for future updates with more missions.
@@ -293,6 +313,7 @@ item.mayanAxe=Obsidian Axe
 item.mayanShovel=Obsidian Shovel
 item.mayanHoe=Obsidian Hoe
 item.obsidianflake=Obsidian Flake
+item.cacauhaa=Cacauhaa
 
 item.paperwall=Paper Wall
 item.udon=Udon
@@ -302,6 +323,8 @@ item.parchmentsadhu=Book of the Sadhu
 
 item.tachisword=Tachi
 item.yumibow=Yumi Bow
+item.sake=Sake
+item.ikayaki=Ikayaki
 
 item.japaneseWarriorBlueLegs=Blue ō-yoroi leggings
 item.japaneseWarriorBlueHelmet=Blue ō-yoroi helmet
@@ -350,6 +373,12 @@ item.clothes_byz_silk=Silk Byzantine clothes
 item.souvlaki=Souvlaki
 item.purse=Bourse à deniers
 
+item.pathdirt=Dirt path
+item.pathgravel=Gravel path
+item.pathslabs=Slabs path
+item.pathsandstone=Sandstone slabs path
+item.pathochretiles=Ochre slabs path
+item.pathgravelslabs=Slabs and gravel path
 
 error.unknownitem=Unknown Item Name
 
@@ -439,6 +468,9 @@ panels.unknownattacker=an unknown location
 panels.raidsperformed=Raids Peformed
 panels.raidssuffered=Raids Suffered
 panels.nameand=<0> and
+panels.buildingproject=Current project:
+panels.currentconstruction=Current construction:
+panels.villagesummary=Key information
 
 //Goals (text displayed above the villager when he is doing it)
 goal.gorest=Resting
@@ -509,6 +541,8 @@ goal.makesteelboots=Crafting steel boots
 goal.makeindianstatue=Carving statue
 goal.performpujas=Performing a puja
 goal.bepujaperformer=Available for pujas
+goal.performsacrifices=Making a sacrifice
+goal.besacrificeperformer=Available for sacrifices
 
 goal.PlantMaize=Planting maize
 goal.HarvestMaize=Harvesting maize
@@ -519,12 +553,19 @@ goal.Makestonepickaxe=Crafting a stone pickaxe
 goal.Makestoneshovel=Crafting a stone shovel
 goal.Makestonehoe=Crafting a stone hoe
 goal.Makestonesword=Crafting a stone sword
+goal.makeleatherboots=Crafting leather boots
+goal.makeleatherchest=Crafting a leather chestplate
+goal.makeleatherhelmet=Crafting a leather helmet
+goal.makeleatherlegs=Crafting leather leggings
 goal.makemayanaxe=Crafting obsidian axe
 goal.makemayanpickaxe=Crafting obsidian pickaxe
 goal.makemayanshovel=Crafting obsidian shovel
 goal.makemayanhoe=Crafting obsidian hoe
 goal.makemayanmace=Crafting obsidian mace
 goal.makeobsidianflake=Breaking obsidian into flakes
+goal.harvestcocoa=Picking cocoa
+goal.plantcocoa=Planting cocoa
+goal.makecacauhaa=Preparing cacauhaa
 
 goal.fish=Fishing
 goal.makethatch=Making thatch
@@ -540,6 +581,8 @@ goal.cookchicken=Cooking chicken
 goal.makeudon=Making udon
 goal.maketachi=Crafting a Tachi sword
 goal.makejapaneseweapons=Crafting Japanese armement
+goal.makesake=Fermenting sake
+goal.slaughtersquid=Fishing squids
 
 goal.brewpotions=Brewing potions
 goal.harvestwarts=Harvesting warts
@@ -585,6 +628,15 @@ goal.shearsheep=Shearing a sheep
 goal.makemurgh=Preparing a chicken curry
 goal.getitemtokeep=Picking up an item
 
+goal.buildpath=Marking a path
+goal.clearoldpath=clearing an old path
+
+goal.gosocialise=Off to chat
+goal.chat=Chatting
+
+goal.makedirtwall=Crafting dirt wall blocks
+goal.makepath=Crafting path blocks
+
 //other
 other.west=West
 other.east=East
@@ -624,6 +676,8 @@ other.buildinghealing=<0> is healing you.
 
 
 other.localmerchantinteract=This merchant is a local merchant. He transports goods from villages to villages. You cannot interact with him.
+
+other.chattosomeone=<0> to <1>
 
 hire.health=Health
 hire.strength=Strength
@@ -672,6 +726,10 @@ actions.boreholetntlit_success=You have lit the TNT. Observe the result and repo
 actions.thevoid_success=You have peered into the Void!
 
 actions.enchantmenttable_success=You have built an enchantment table close to the Sadhu.
+
+actions.mayan_siege_start=The pyramid is under attack! <0> ghasts, <1> blazes and <2> skeletons are attacking. Destroy them.
+actions.mayan_siege_success=You have defeated the forces attacking the pyramid!
+actions.mayan_siege_update=<0> ghast(s), <1> blaze(s) and <2> skeleton(s) are left.
 
 info.culturetitle=Cultures
 info.culture=<0> Culture
@@ -776,6 +834,36 @@ pujas.offeringslot2=They will not accept everything. Experiment.
 pujas.moneyslot=Put money for the pandit.
 pujas.toolslot=Put the tool to be enchanted.
 
+sacrifices.priestcoming=<0>: You need to have a sacrifice performed? It is wise to appease the Gods.
+sacrifices.panditfee=For the shaman
+sacrifices.offering=Sacrifice
+
+mayan.god0=To Ah Puch - for survival
+mayan.god1=To K'inich Ajaw - for flammes
+mayan.god2=To Cabrakan - for impacts
+mayan.god3=To Ah Tabai - for arrows
+mayan.god4=To Cum Hau - for vengence
+
+mayan.god5=To Uqux Cho - for the caiman's breath
+mayan.god6=To Uqux Palo - for work under the waves
+
+mayan.god7=To Alom - for lightness
+
+mayan.god8=To Buluc Chabtan - for violence
+mayan.god9=To Ah Puch - for fighting the deads
+mayan.god10=To Cum Hau - for fighting creatures
+
+mayan.god11=To Huracan - for the strong breath
+mayan.god12=To K'inich Ajaw - for the flamme
+mayan.god13=To Ek Chuah - for fortune
+
+mayan.god14=To Buluc Chabtan - for violence
+mayan.god15=To Huracan - for the strong breath
+mayan.god16=To K'inich Ajaw - for the flamme
+mayan.god17=To Ek Chuah - for fortune
+
+mayan.god18=To Witz - for toughness
+
 culture.norman=Norman
 culture.hindi=Hindi
 culture.japanese=Japanese
@@ -806,6 +894,7 @@ effect.towncentre=Village Centre
 effect.shop=Shop: <0>
 effect.irrigation=Irrigation: <0>% extra crops
 effect.pujalocation=Pujas held
+effect.sacrificeslocation=Sacrifices held
 effect.healing=Heals Player
 
 chunk.chunkmap=Map of chunks
@@ -863,3 +952,193 @@ achievement.hired.name=Hired hand
 achievement.hired.desc=Hire a villager
 achievement.masterfarmer.name=Expert farmer
 achievement.masterfarmer.desc=Plant a Millénaire crop
+
+
+config.pagetitle=Millénaire Settings
+config.page.uisettings=UI Settings
+config.page.worldgeneration=World Generation
+config.page.worldgeneration.desc=Those settings apply to world generation in local worlds only (not servers you might connect to).
+config.page.villagebehaviour=Village Behaviour
+config.page.villagebehaviour.desc=Those settings apply to villages in local worlds only (not servers you might connect to).
+config.page.devtools=Dev Tools
+
+config.village_list_key.label=Village List Key
+config.village_list_key.desc=Key to display the list of surrounding villages. Default: <0>.
+
+config.quest_list_key.label=Info Panel Key
+config.quest_list_key.desc=Key to display the Millénaire info pannel. Default: <0>.
+
+config.escort_key.label=Agressive Escorts Key
+config.escort_key.desc=Key to toggle hired villagers between agressive and defensive stances. Default: <0>.
+
+
+config.fallback_language.label=Fallback Language
+config.fallback_language.desc=Secondary game language, used when the main one is not available.
+
+config.dynamic_textures.label=Dynamic Textures
+config.dynamic_textures.desc=Automatically switch to the 64x texture pack if the Minecraft texture pack is 64x or above.
+
+config.language_learning.label=Language Learning
+config.language_learning.desc=Whether languages need to be "learned" (translations will only appear after the player interacts enough with a culture).
+
+config.load_all_languages.label=Load All Languages
+config.load_all_languages.desc=Whether to load all available languages, in order to provide translations to clients if needed.
+
+config.display_start.label=Display Starting Text
+config.display_start.desc=Display the Millénaire version and Creation Quest status at startup.
+
+config.display_names.label=Display Villager Names
+config.display_names.desc=Display names, occupations and current task above villagers' heads.
+
+config.villagers_names_distance.label=Name Display Distance
+config.villagers_names_distance.desc=Distance from which names are visible. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Sentences In Chat (MP)
+config.villagers_sentence_in_chat_distance_client.desc=How far villagers must be to display their sentences in the chat box in multi player. Default: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Sentences In Chat (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=How far villagers must be to display their sentences in the chat box in single player. Default: <0>.
+
+config.generate_villages.label=Generate villages
+config.generate_villages.desc=Whether to generate Millénaire villages in new chunks.
+
+config.generate_lone_buildings.label=Generate lone buildings
+config.generate_lone_buildings.desc=Whether to generate Millénaire lone buildings in new chunks.
+
+config.keep_active_radius.label=Chunk Loaded Radius
+config.keep_active_radius.desc=Radius around the player in which Millénaire will attempt to keep villages' chunks loaded. Default: <0>.
+
+config.min_village_distance.label=Min Village Distance
+config.min_village_distance.desc=Minimum distance between two generated villages. Default: <0>.
+
+config.min_village_lonebuilding_distance.label=Min Village-Lone Building Distance
+config.min_village_lonebuilding_distance.desc=Minimum distance between generated villages and lone buildings. Default: <0>.
+
+config.min_lonebuilding_distance.label=Min Lone Building Distance
+config.min_lonebuilding_distance.desc=Minimum distance between lone buildings. Default: <0>.
+
+config.spawn_protection_radius.label=Spawn Protection Radius
+config.spawn_protection_radius.desc=Area around the Spawn Point where Millénaire will not generate buildings. Default: <0>.
+
+config.village_radius.label=Radius of Villages
+config.village_radius.desc=Radius of normal villages (not hamlets). Default: <0>.
+
+config.min_distance_between_buildings.label=Min Distance Between Buildings
+config.min_distance_between_buildings.desc=Minimal distance between two buildings in a village. Default: <0>.
+
+config.village_paths.label=Build Village Paths
+config.village_paths.desc=Generate paths in new villages and have the villagers upgrade them.
+
+config.max_children_number.label=Max Children Number
+config.max_children_number.desc=Maximum number of children a village can have. Default: <0>.
+
+config.background_radius.label=Village Relation Radius
+config.background_radius.desc=Radius within which villages will have relations with each others (diplomacy, trade, raids). Default: <0>. 
+
+config.bandit_raid_radius.label=Bandit Raid Radius
+config.bandit_raid_radius.desc=Radius within which bandits will raid villages. Default: <0>.
+
+config.raiding_rate.label=Raiding % Chance
+config.raiding_rate.desc=Chance on 100 that a village/bandit building will attempt a raid each night. Default: <0>.
+
+
+
+config.generate_colour_chart.label=Generate colour chart
+config.generate_colour_chart.desc=Generate the chart of colours usable in building plans.
+
+config.generate_building_res.label=Generate resource list
+config.generate_building_res.desc=Generate the list of resources required for every building.
+
+config.generate_translation_gap.label=Generate translation gap
+config.generate_translation_gap.desc=Generate for each loaded languages a report with the list of lacking text.
+
+config.generate_goods_list.label=Generate goods list
+config.generate_goods_list.desc=Generate the list of items know to Millénaire.
+
+config.valuetrue=Oui
+config.valuefalse=Non
+
+config.page.bonus=Contributor Bonus
+config.page.bonus.desc=Bonus for people who worked on Millénaire (translations, building plans, dialogues, textures, contributions to the wiki ect.) or donated: a free small house available from the Village Chief.
+
+config.bonus_code.label=Bonus Code
+config.bonus_code.desc=Code to enable the bonus. Fetched from internet automatically if a connection is possible.
+
+config.validbonuscode=Valid code! Bonus activated.
+config.invalidbonuscode=Invalid code. Please check.
+
+
+tradehelp.title=<0> - Trading
+tradehelp.goodssold=Goods Sold
+tradehelp.goodsbought=Goods Bought
+tradehelp.buyingprice=Purchase:
+tradehelp.sellingprice=Sale:
+tradehelp.helptitle=Generalities on Trading
+tradehelp.helptext=In each store you can buy goods that the village has in stock. Apart from a few "free" blocks (such as paths) or special items (the wands), the proposed goods were produced by the village and the village"loses" the items if you buy them, unlike when trading with Minecraft villages.<ret><ret>Villagers produce most of the goods they need, but selling some to them often helps accelerate the development of the village.
+
+tradehelp.freeblock=These types of blocks are made for "free" by the village and are therefore available in unlimited quantities.
+tradehelp.wood=The villagers produce wood in groves. They use it to build.
+tradehelp.stone=The villagers produce stone and glass in quarries. If the village does not have one, it is entirely dependent on you for their needs.
+tradehelp.whitewool=White wool is used in some buildings. The villagers dye it automatically if necessary.
+tradehelp.clay=The villagers produce bricks with clay from quarries.
+tradehelp.genericfood=Access to different types of food helps children grow faster.
+tradehelp.genericfoodraw=The villagers cook meat before eating it.
+tradehelp.genericfoodsweet=Alcohol and sweets help increase the villagers' chances of conceiving children.
+tradehelp.seeds=The villagers use seeds to plant wheat and feed chickens.
+tradehelp.carrot=Villagers use carrots to feed their pigs.
+tradehelp.feathers=Feathers are used to make arrows.
+tradehelp.generictools=Tools of different levels make villagers more effective.
+tradehelp.genericweapon=Weapons and armor of different levels make villagers more powerful.
+tradehelp.purse=Bourses à deniers can store deniers and keep track of your funds. They are always available.
+tradehelp.wand=The wand of summoning allows you to create villages. They are always available.
+tradehelp.parchments=Parchments provide information about Millénaire. They are always available.
+
+tradehelp.normanwhitewool=White wool is used in some buildings and is needed to make tapestries in Norman forts.
+tradehelp.normantapestrywool=Gray, light gray, black, and brown wools are required by the lady to make tapestries.
+tradehelp.normanleather=Norman monks use leather to make books.
+tradehelp.normantools=Norman smiths use iron to make Norman weapons and tools of exceptional quality.
+tradehelp.normanbooks=Norman monks produce bookshelves with paper and books. They are used in some buildings.
+tradehelp.normanalchemy=The alchemist produces basic potions.
+tradehelp.normancider=Normans produce cider and calva in taverns from cider apples harvested by loggers. These drinks heal and regenerate the player and help the villagers to have children. Calva also provides a temporary "Strength" bonus.
+tradehelp.normantripesboudin=Normans produce tripes and boudins from cows and pigs. These foods nourish the player and help children grow. Tripes also provide a temporary "Regeneration" bonus.
+tradehelp.normantapestry=Ladies produce these decorative tapestries from white, gray, light gray, brown, and black wool.
+tradehelp.normantimberframes=Norman carpenters produce these timber frames from wood.
+tradehelp.normanwheat=Norman villagers make bread and feed their livestock with wheat.
+
+tradehelp.byzantinetools=Byzantine smiths use iron and leather to produce iron tools and Byzantine armours.
+tradehelp.byzantinefeta=The Byzantines produce feta cheeses from sheep milk. These cheeses heal and regenerate the player and help the villagers to have children.
+tradehelp.byzantinebooks=The Byzantines produce books from wood and leather.
+tradehelp.byzantinewine=The Byzantines produce wine from grapes in taverns. The wine heals the player and helps the villagers have children. It also provides a temporary "Resistance" bonus.
+tradehelp.byzantinesilk=The Byzantine produce silk and use it to make paintings, icons, and luxurious clothes for the rich Byzantines.
+tradehelp.byzantineclothes=The Byzantines produce clothing from wool and silk. They improve the appearance of the villagers who wear them.
+tradehelp.byzantinetiles=The Byzantines produce tiles from stone and clay.
+tradehelp.byzantinefood=The Byzantines cook the lamb chops and mix them with their feta cheeses to make delicious souvlakis. These foods nourish the player and help children grow. Souvlakis also give back health.
+tradehelp.byzantineweapons=Byzantine blacksmiths produce solid, formidable armor from iron and leather.
+tradehelp.byzantinewheat=The Byzantine villagers make bread and feed their livestock with wheat.
+
+tradehelp.hinditools=Indian smiths use iron to produce tools and armor.
+tradehelp.hindigenericfood=Access to different types of food helps children grow faster. Warning: Indians do not eat beef or pork.
+tradehelp.hindigenericfoodsweet=Desserts increase help villagers conceive children. Warning: Indian villagers do not drink alcohol.
+tradehelp.hindirasgulla=The Indians produce delicious rasgullas from sugar. They heal and regenerate the player and help villagers have children. They also provides a temporary "Speed" bonus.
+tradehelp.hindicurry=The Indians cook vegetarian curries with rice and turmeric as well as chicken curries by adding a chicken. These foods nourish the player and help children grow. Chicken curries also provides a temporary "Fire resistance" bonus.
+tradehelp.hindibricks=The Indians leave wet mud bricks in the sun to cook to make dry bricks. You can make them yourself by buying a mould.
+tradehelp.hindistatue=Indian sculptors produce these bas-relief of Hindu gods for adorning Indian temples.
+
+tradehelp.japanesegold=The Japanese use gold to decorate some buildings.
+tradehelp.japaneseudon=The Japanese cook udons from wheat and chicken. They nourish the player and help children grow.
+tradehelp.japanesetools=Japanese smiths use iron and leather to produce iron tools and Japanese armor.
+tradehelp.japaneseweapons=Japanese blacksmiths produce beautiful armor and formidable swords from iron, leather, and wool.
+tradehelp.japanesepaper=Japanese artisans produce paper from rice and use it to make translucent walls.
+tradehelp.japaneseframes=Japanese craftsmen produce timber frames from wood to build elegant buildings.
+tradehelp.japaneserice=The Japanese use rice to grow and nourish their children, to produce paper, and to ferment sake.
+tradehelp.japanesewheat=The Japanese cook wheat to make udons.
+tradehelp.japanesethatch=Japanese produce blocks from wheat.
+tradehelp.japanesesake=Japanese sake brewers use rice to brew sake. Sake heals and regenerates the player and helps the villagers have children. It also provides a temporary "Jump Boost" bonus.
+tradehelp.japaneseikayaki=The Japanse raise squids and grill them to make ikayakis. They nourish the player and help children grow. They also provide a temporary "Water Breathing" bonus.
+
+tradehelp.mayangold=Mayan artisans need gold to produce decorative blocks. They require players to provide the gold for them.
+tradehelp.mayanfood=The Mayan people grow corn and make masa (maize tortillas) and wah (by adding chicken) from it. They nourish the player and help children grow. Wah also provide a temporary "Haste" bonus.
+tradehelp.mayanobsidian=Mayan artisans produce tools with obsidian sold by the player. These tools are not very effective, but can be enchanted easily.
+tradehelp.mayanstonetools=Mayan artisans produce tools and swords from stone as basic tools in the absence of obsidian.
+tradehelp.mayanweapons=Mayan artisans make stone swords and leather armour. Obsidian craftsmen can make them more powerful and very enchantable obsidian maces.
+tradehelp.mayancocoa=Mayan cocoa farmers harvest cocoa pods and use them to prepare cacauhaa, a chocolate drink. Cacauhaa heals and regenerate the player and helps increase the number of villagers who will have children. It also provides a temporary "Night Vision" bonus.

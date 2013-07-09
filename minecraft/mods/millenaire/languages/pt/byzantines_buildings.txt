@@ -58,3 +58,6 @@ groveoakbyzantine_A0=Bosque de Carvalho
 
 lonecastle_A_training_A0=Área de Treinos
 lonecastle_A_praying_A0=Capela
+
+gifthouse_a0=Casa do Contribuidor
+playersmallhouse_a0=Casa Pequena

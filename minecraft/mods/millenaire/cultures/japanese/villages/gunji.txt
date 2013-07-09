@@ -2,6 +2,9 @@ name:Gunjiteki Mura
 weight:10
 carriesraid:true
 
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
 
 biome:plains
 biome:extreme hills
@@ -28,6 +31,7 @@ player:japanesehut
 player:japanesehouse
 player:japanesehousemedium
 player:japanesehouselarge
+player:gifthouse
 
 //to be built in priority
 core:japanesepaddy
@@ -42,6 +46,7 @@ core:japanesearmyforge
 secondary:japanesearchive
 secondary:japaneseinn
 secondary:japanesemarket
+secondary:chickenfarm
 
 //not to be built
 never:japanesepagoda
@@ -51,3 +56,4 @@ never:japanesefarmbig
 never:japanesekitchen
 never:bath
 never:well
+never:squidfarm

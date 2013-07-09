@@ -1,3 +1,5 @@
+os.loadAPI("rom/apis/miscperipheralsutil")
+
 function getSpeed(speed)
   if speed >= 1.7 then return "Fastest"
   elseif speed >= 1.4 then return "Faster"
@@ -20,16 +22,7 @@ function getLifespan(lifespan)
   else return "Shortest" end
 end
 
-beeAnalyzer = nil
-beeAnalyzerSide = nil
-for i, side in pairs(rs.getSides()) do
-  if peripheral.getType(side) == "beeAnalyzer" then
-    beeAnalyzer = peripheral.wrap(side)
-    beeAnalyzerSide = side
-    break
-  end
-end
-
+beeAnalyzer, beeAnalyzerSide = miscperipheralsutil.getPeripheral("beeAnalyzer")
 if beeAnalyzer == nil then
   print("No Bee Analyzer peripheral found")
   return

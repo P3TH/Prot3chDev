@@ -1,4 +1,4 @@
-version:3.1.7
+version:4.8.0
 Millénaire: Japanse objecten
 
 Denier. Toen de Japanners in dit land kwamen hebben ze de valuta naar de denier verander. Hij komt in 3 waarden: Denier (brons), Denier Argent (zilver) met een waarde van 64 bronzen en een Denier Or (goud) met een waarde van 64 zilveren.
@@ -8,6 +8,9 @@ Voedsel
 Rijst. Blank en smakeloos, maar de Japanners oogsten het alsof er geen morgen is. Rijst in de kisten zorgt voor meer kinderen en er wordt papier van gemaakt.
 
 Udon. Dit mysterieuse voedsel wordt door de Japanners in hun keuken gemaakt.
+
+Sake. Deze alcholische drank van rijst wordt alleen in handelsdorpen gemaakt en geeft leven terug aan de speler. Ook verhoogt het de kans op kinderen in het dorp.
+
 NEW_PAGE
 Werktuigen en wapens
 

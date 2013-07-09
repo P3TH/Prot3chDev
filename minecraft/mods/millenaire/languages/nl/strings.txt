@@ -3,6 +3,7 @@ startup.loadproblem=Er was een fout tijdens het laden <0>.
 startup.checkload=Check dat de culturen map in de millenaire map is.
 startup.millenaireloaded=<0> is geladen. Verken en druk op '<1>' om dorpen te vinden.
 startup.radiuswarning=WARNING: Het zo hoog zetten van de village radius  hoeft niet en zal zeer veel vertraging veroorzaken. Waarden boven 70 zijn niet aan te raden.
+startup.bonus=Bonus materiaal geactiveerd.
 
 command.nogenerate=<0> zal niet meer dorpen maken in nieuwe chunks in deze wereld.
 command.willgenerate=<0> zal nu dorpen maken in nieuwe chunks in deze wereld.
@@ -105,7 +106,6 @@ ui.generatenotenoughspacevillage=Kon geen ruimte vinden voor het dorp.
 ui.lackingresources=Te weinig spullen
 ui.lockedchestwarning=WAARSCHUWING: het vernietigen van gesloten kisten zal dorpen laten stoppen goed te werken. Doe het alleen als je het dorp wilt vernietigen.
 ui.villagerelationsnobutton=Je moet punten en een positieve relatie hebben om dit dorp te beïnvloeden.
-
 ui.extraresneeded1=<0> andere middelen
 ui.extraresneeded2=benodigd
 ui.woodforplanks=Hout (alle)
@@ -126,7 +126,7 @@ ui.danger=gevaarlijk blok
 ui.notreachable=onbereikbaar gebied
 ui.unknownerror=onbekend probleem
 ui.controlbuildingprojects=Beheren van gebouw projecten
-ui.forbidupgrades=Stop upgradesn
+ui.forbidupgrades=Stop upgraden
 ui.allowupgrades=Upgraden toestaan
 ui.cancelbuilding=Verwijder gebouw
 ui.level=level
@@ -149,8 +149,8 @@ ui.relationpraise=Eer
 ui.relationslander=Afkraken
 ui.relationpoints=Diplomatieke punten beschikbaar: <0>
 ui.relationhelp=Relatie hulp<ret><ret>Relaties tussen dorpen bepalen of die dorpen zullen samenwerken of niet.<ret><ret>Locale handel (handelaren die goederen vervoeren) zal gebeuren tussen dorpen met een goede relatie van dezelfde cultuur of een geweldige relatie van verschillende culturen.<ret><ret>Dorpen van verschillende culturen met een erg goede relatie die beide een markt hebben zullen handelaren van de andere culturen ontvangen.<ret><ret>Dorpen van dezelfde cultuur met een geweldige relatie zullen tieners van het andere dorp accepteren als ze banen over hebben.<ret><ret>Relaties tussen dorpen starten met geweldig voor gehuchten en hun dorp, goede voor dorpen van dezelfde cultuur, en gewoon tegenovergesteld.<ret><ret>Elke dag, krijgt een speler 5 punten met de invloed op de dorpen hun relatie. De effectiteit van het prijzen en afkraken slaat op de relatie met het dorp
-ui.relationfriendly=Recente ontwikkelingen tussen dorpen van <0> en <1> hebben een veranderde relatie. Ze zijn nu <2>.
-ui.relationunfriendly=Recente gevechten tussen de dorpen van <0> en <1> verslechterd zijn in hun onderlinge betrekkingen. Ze zijn nu <2>.
+ui.relationfriendly=Recente ontwikkelingen tussen dorpen van <0> en <1> zorgden voor een verbeterde relatie. Ze zijn nu <2>.
+ui.relationunfriendly=Recente gevechten tussen de dorpen van <0> en <1> hebben hun relatie verschlechterd. Ze zijn nu <2>.
 ui.cropplantingknowledge=Je weet nog niet hoe <0> te planten. Je moet het de dorp leider vragen.
 ui.cropsknown=Planten bekend aan deze cultuur
 ui.cropknown=Je hebt geleerd hoe <0> te planten.
@@ -159,10 +159,27 @@ ui.cropnotenoughmoney=Je hebt <1> meer nodig om te kunnen betalen om <0> te verb
 ui.cropoktolearn=Het dorp kan jou leren <0> te verbouwen.
 ui.croplearn=Leer (<0>)
 ui.currentlyempty1=Op dit moment
- ui.currentlyempty2=leeg
+ui.currentlyempty2=leeg
 ui.croplearned=<0>: De mysteries van het verbouwen van  <1> zijn aan jou onthuld!
 ui.raider=Plunderaar
 ui.communicationexplanations=Om met een dorpeling te communiceren, klik met de rechter muisknop. Als een actie mogelijk is met de dorpeling in kwestie (handelen, discussiëren met het doprshoofd, de dorpeling inhuren of een quest starten) zal er een scherm openen.
+ui.chunkbutton=kaart van de chunks
+ui.serverimportforbidden=Alleen admin gebruikers kunnen gebouwen importeren in deze server.
+ui.bonusavailable=beschikbaar (cadeau)
+ui.buybonusbuilding=Verzoek bonus: <0>
+ui.configbutton=Instellingen
+ui.controldiplomacy=Diplomatie
+ui.raidinprogress=Overval bezig!
+ui.otherraidinprogress=Andere overval bezig.
+ui.otherraidplanned=Andere overval gepland.
+ui.raidcancel=Annuleer de overval.
+ui.raidplanned=Overval gepland.
+ui.relgood=Geweldig
+ui.relneutral=Neutraal
+ui.relbad=Conflict
+ui.raid=Plan een overval
+
+
 quest.obtained=Verkregen
 quest.lackingcondition=Je mist:
 quest.lackinghiddengoods=Je hebt niet de goederen voor deze taak.
@@ -184,6 +201,8 @@ quest.cqsadhustartexplanation=Vind een dorpeling die je wil leiden in een Indisc
 
 quest.cqchapteralchemist=De Alchemist
 quest.cqalchemiststartexplanation=Vind een dorpeling die je wil leiden in een Normandisch dorp wanneer je minstens de titel "Vriend van het Dorp" hebt voor de eerste missie.
+quest.cqchapterfallenking=De Gevallen Koning
+quest.cqfallenkingstartexplanation=Vind een shaman die je kan leiden in een Maya dorp waar je minimaal "Vriend van het dorp" als reputatie hebt.
 
 quest.cqallcompleted=Gefeliciteerd, je hebt alle missie van de Creatie Quest die tot nu toe beschikbaar zijn!
 quest.cqcheckforupdates=Check www.millenaire.org voor verdere updates met meer missies.
@@ -314,14 +333,23 @@ item.byzantinePlate=byzantijnse Borstplaat
 item.byzantineHelmet=byzantijnse Helm
 item.byzantinemace=byzantijnse Morgenster
 item.vine=Druivenplant
-item.rawlamb=Rauwe lam
-item.cookedlamb=Gegrilde lamskoteletjes
+item.lambraw=Rauwe lam
+item.lambcooked=Gegrilde lamskoteletjes
 item.feta=Feta
 item.wineBasic=Wijn
 item.clothes_byz_wool=Wollen Byzantijnse kleding
 item.clothes_byz_silk=Zijden Byzantijnse kleding
 item.souvlaki=Souvlaki
-
+item.purse=Portemonnee
+item.pathdirt=Zandpad
+item.pathgravel=Grindpad
+item.pathslabs=Stenen pad
+item.pathsandstone=Sandstenen pad
+item.pathochretiles=Ochre pad
+item.pathgravelslabs=Steen- en grindpad
+item.sake=Sake
+item.ikayaki=Ikayaki
+item.cacauhaa=Cacauhaa
 
 ui.helpbutton=Millénaire Hulp
 
@@ -345,10 +373,10 @@ panels.awayraiding=Weg om te Plunderen
 panels.invaderincoming=Binnenkomend
 panels.missing=MIST!
 panels.multiple=TEGENWOORDIG <0> KEREN!
-panels.currentoccupation=Momenteel overheersd
+panels.currentoccupation=Momenteel bezig met
 panels.visitors=Bezoekers
 panels.constructions=Gebouwen
-panels.upgrade=verbeteren
+panels.upgrade=Verbeteren
 panels.buildingprojects=Bouwprojecten
 panels.notyetbuilt=nog niet gebouwd
 panels.nbupgradesleft=<0> verbeteringen over om te bouwen.
@@ -359,7 +387,7 @@ panels.woman=Vrouw
 panels.children=Kinderen
 panels.nofemaleresident=Dit huis zal nooit een vrouwelijke bewoner hebben.
 panels.bachelor=De man die hier leeft is een vrijgezel. Een meisje dat oud genoeg is zal bij hem in trekken.
-panels.nameand=<0>en
+panels.nameand=<0> en 
 panels.nomaleresident=Dit huis zal nooit een mannelijke bewoner hebben.
 panels.spinster=De vrouw die hier woont is alleen. Een jongen die oud genoeg is zal bij haar in komen wonen.
 panels.resources=Goederen
@@ -382,24 +410,24 @@ panels.capacity=Ruimte
 panels.nbnightsin=In het dorp sinds <0> nacht(en).
 panels.storedexports=<0> heeft het volgende opgeslagen voor export:<1>
 panels.broughtimport=<0>heeft het volgende  gebracht naar het dorp:<1>
-panels.startedtrading=<0> (<1>) is aangekomen in de handels mogelijkheid.
+panels.startedtrading=<0> (<1>) is begonnen met de handel.
 panels.merchantmovedout=<0> (<1>) verhuisd naar <2> na <3> dagen in het dorp.
 panels.merchantarrived=<0> (<1>) aangekomen van <2>.
-panels.childarrived=<0> aangekomen van <1> zoekt voor werk.
+panels.childarrived=<0> aangekomen van <1> zoekt werk.
 panels.resourcesneeded=Goederen nodig voor het project
 panels.resourcesavailable=Goederen op voorraad
 panels.villageculture=Dorpen van de <0> cultuur
 panels.military=Militair
 panels.planningraid=Geplande plunderingen
 panels.raidinprogress=Plunderingen bezig
-panels.underattack=Onder aanval!
+panels.underattack=Wordt aangevallen!
 panels.offense=Aanval: <0>
 panels.defense=verdediging: <0>
 panels.offenselong=Aanvalskracht: <0>
 panels.defenselong=Verdedigingskracht: <0>
 panels.raidinprogresslong=Plunderingen bezig <0>. De aanval is <1> uur gestart.
 panels.planningraidlong=Geplande plundering op <0>. De plundering is gestart <1> uur gelededen.
-panels.underattacklong=Onder aanval door <0> vijanden met de kracht van <1> uit <2>!
+panels.underattacklong=Aangevallen door <0> vijanden met de kracht van <1> uit <2>!
 panels.villagefighters=Dorpskrijgers
 panels.attackers=Aanvallers
 panels.defender=Verdediger
@@ -411,6 +439,10 @@ panels.militarystrength=Militaire kracht
 panels.unknownattacker=een onbekende locatie
 panels.raidsperformed=Plunderingen Volbracht
 panels.raidssuffered=Plunderingen gestopt
+panels.villagesummary= Hoofdinformatie
+
+panels.currentconstruction=Huidige bouwwerkzaamheden:
+panels.buildingproject=Huidig Project:
 
 //Doelen (tekst boven de dorpeling als hij dit doet)
 goal.gorest=Rusten
@@ -422,7 +454,7 @@ goal.GetTool=Een werktuig halen
 goal.huntMonster=Vechten met een monster
 goal.getGoodsHousehold=Spullen halen voor het huishouden
 goal.DeliverGoodsHousehold=Spullen brengen voor het huishouden
-goal.GetHouseTHResources=Spullen brengen van huis
+goal.GetHouseTHResources=Spullen halen van huis
 goal.DeliverResourcesShop=Goederen brengen
 goal.raidvillage=Dorp plunderen
 goal.defendvillage=Verdedigen van het dorp
@@ -440,7 +472,7 @@ goal.GoPlay=Spelengoal.BecomeAdult=Verhuizen
 goal.MakeTools=Werktuigen maken
 goal.Patrol=Bewaken
 goal.Butcher=Slachten
-goal.MakeBoudin=Boudinmaken
+goal.MakeBoudin=Boudin maken
 goal.MakeTripes=Tripes maken
 goal.Mining=Delven
 goal.Cooking=Goederen koken
@@ -469,9 +501,11 @@ goal.MakeIndianWeapons=Wapens maken
 goal.BecomeAdult=Intrekken
 goal.MakeNormanTools=Werktuigen maken
 goal.MakeNormanWeapons=Wapens maken
-goal.scult=Beelden maken
+goal.sculpt=Beelden maken
 goal.performpujas=Het uitvoeren van een puja
 goal.bepujaperformer=Beschikbaar voor pujas
+goal.performsacrifices=Maak een offer
+goal.besacrificeperformer=Beschikbaar voor offers
 goal.PlantMaize=Maïs planten
 goal.HarvestMaize=Maïs oogsten
 goal.makeGoldBlock=Gouden ornament maken
@@ -559,6 +593,22 @@ goal.cookpork=Speklappen koken
 goal.cookchicken=Kip koken
 goal.harvestvines=Druiven oogsten
 goal.maketachi=Tachi zwaard maken
+goal.buildpath=Pad markeren
+goal.clearoldpath=Oud pad verwijderen
+goal.gosocialise=Weg om te praten
+goal.chat=Praten
+goal.makeleatherboots=Leren laarzen maken
+goal.makeleatherchest=Leren borstplaat maken
+goal.makeleatherhelmet=Leren helm maken
+goal.makeleatherlegs=Leren legging maken
+goal.harvestcocoa=Cacao plukken
+goal.plantcocoa=Cacao planten
+goal.makecacauhaa=Cacauhaa maken
+goal.makesake=Sake fermenteren
+goal.slaughtersquid=Inktvis vissen
+goal.makepath=Pad blokken maken
+goal.makedirtwall=Aarde muur blokken maken
+
 help.tab_1=Basisdingen omtrent dorpen
 help.tab_2=Handelen
 help.tab_3=Reputatie & dorpsleider
@@ -611,6 +661,7 @@ other.buildinghealing=<0> geneest je.
 other.exploredbuilding=Je hebt een gebouw geëxploteerd: <0>.
 
 other.localmerchantinteract=Deze handelaar is een lokale handelaar. Hij transporteert goederen van dorp naar dorp. Je kan niet met hem communiceren.
+other.chattosomeone=<0> met <1>
 
 hire.health=Leven
 hire.strength=Kracht
@@ -648,11 +699,15 @@ actions.boreholetnt_nbtnt=<0> TNT blokken zijn geplaatst en overlapt met obsidia
 actions.boreholetntlit_success=Je hebt de TNT ontstoken. Let op het resultaat en meldt het aan de Alchemist.
 actions.thevoid_success=Je bent gevallen in de oneindigheid!
 actions.enchantmenttable_success=Je hebt een enchantment table dichtbij de Sadhu gemaakt.
+actions.mayan_siege_start=De piramide wordt aangevallen! <0> ghasts, <1> blazes en <2> skeletons vallen aan. Vernietig ze.
+actions.mayan_siege_success=Je hebt de troepen die de piramide aanvielen verslagen!
+actions.mayan_siege_update=<0> ghast(s), <1> blaze(s) en <2> skeleton(s) zijn nog over.
 info.culturetitle=Culturen
 info.culture=<0> Cultuur
 info.culturereputation=Reputatie: <0>
 info.culturelanguage=Taal level: <0>
 
+culturereputation.scourgeofgod=Gesel van God
 culturereputation.dreadful=Vreselijk
 culturereputation.bad=Slecht
 culturereputation.stellar=Steller
@@ -738,7 +793,7 @@ hof.variousimprovements2=Verbeteringen
 pujas.invanme=Pujas
 pujas.panditfee=Pandit's kosten
 pujas.offering=Offer
-pujas.god0=To Hanuman - voor snelheid
+pujas.god0=Naar Hanuman - voor snelheid
 pujas.god1=Naar Shiva - voor kracht
 pujas.god2=Naar Lakshmi - voor geluk
 pujas.god3=Naar Ganesh - voor vaardigheden
@@ -748,6 +803,30 @@ pujas.offeringslot2=Ze zullen niet alles accepteren. Experiment.
 pujas.moneyslot=Zet geld voor de pandit.
 pujas.toolslot=Zet de werktuigen neer om enchanted te worden.
 
+sacrifices.priestcoming=<0>: Wil je dat er een offer wordt uitgevoerd? Het is slim om de goden gunstig te stemmen.
+sacrifices.panditfee=Voor de shaman
+sacrifices.offering=Offer
+
+mayan.god0=Aan Ah Puch - voor survival
+mayan.god1=Naar K'inich Ajaw - voor vlammen
+mayan.god2=Naar Cabrakan - voor stoten
+mayan.god3=Naar Ah Tabai - voor pijlen
+mayan.god4=Naar Cum Hau - voor wraak
+mayan.god5=Naar Uqux Cho - voor kaaimannen adem
+mayan.god6=Naar Uqux Palo - voor werk onder de golven
+mayan.god7=Naar Alom - voor lichtheid
+mayan.god8=Naar Buluc Chabtan - voor geweld
+mayan.god9=Naar Ah Puch - voor vechten met doden
+mayan.god10=Naar Cum Hau - voor vechten met schepselen
+mayan.god11=Naar Huracan - voor de sterke adem
+mayan.god12=Naar K'inich Ajaw - voor de vlammen
+mayan.god13=Naar Ek Chuah - voor geluk
+mayan.god14=Naar Buluc Chabtan - voor geweld
+mayan.god15=Naar Huracan - voor de sterke adem
+mayan.god16=Naar K'inich Ajaw - voor de vlammen
+mayan.god17=Naar Ek Chuah - voor geluk
+
+mayan.god18=Naar Witz - voor sterkte
 culture.norman=Normandisch
 culture.hindi=Hindoestaans
 culture.japanese=Japans
@@ -779,10 +858,252 @@ effect.towncentre=Dorpscentrum
 effect.shop=Winkel: <0>
 effect.irrigation=Irrigatie: <0>% extra gewassen 
 effect.pujalocation=Pujas gehouden
+effect.sacrificeslocation=Offers gehouden
 effect.healing=Geneest de speler
+
+chunk.chunkmap=Kaart van de chunks
+chunk.caption=Caption
+chunk.captiongeneral=Elke chunk wordt weergegeven als een vierkant met 2x2 pixels.
+chunk.captiongreen=Groene puntjes geven een geladen chunk aan.
+chunk.captionblue=Blauwe puntjes geven een chunk van een dorpsgebied aan.
+chunk.captionpurple=Paarse puntjes geven het gebied van een geïsoleerd gebouw aan.
+chunk.captionwhite=Witte puntjes geven een chunk aan die geladen blijft door een mod(Millénaire of een andere Forge mod).
+chunk.playerposition=Coordinaten van de speler: <0>
+chunk.settings=Dorps laad gebied: <0> meter. Maximaal aantal chunks behouden volgens de instellingen van forge: <1>.
+chunk.explanations=Millénaire dorpjes zijn alleen actief als al hun chunks geladen zijn. De inwoners van andere dorpen zijn bevroren. Millénaire probeert om Minecraft te forceren die gebieden binnen 200 meter van de speler geladen te houden (die waarde kan veranderd worden). Het Forge mechanisme dat gebruikt wordt is gelimiteerd aan 200 chunks. Je kan dit aanpassen in minecraft/config/forgeChunkloading.cfg. Waarschuwing: Het verhogen van de hoeveelheid geladen chunks zal de prestaties verminderen.
+chunk.chunkcoords=Chunk: <0>
+chunk.village=<0>
+chunk.chunkforced=Geforceerd-geladen
+
+achievementpage.name=Millénaire
+achievement.firstcontact.name=Eerste contact
+achievement.firstcontact.desc=Ontmoet een dorpeling
+achievement.cresus.name=Croesus
+achievement.cresus.desc=Verdien een denier or
+achievement.summoningwand.name=Verschijning
+achievement.summoningwand.desc=Koop een oproepstaf en creeër een dorp
+achievement.villageleader.name=Dorpsleider
+achievement.villageleader.desc=Wordt leider in een cultuur en maak een bestuurd dorp
+achievement.thequest.name=De Quest
+achievement.thequest.desc=Voltooi een Quest gegeven door een dorpeling
+achievement.maitreapenser.name=Maître à penser
+achievement.maitreapenser.desc=Ontmoet de Sadhu of de Alchemist
+achievement.forbiddenknwoledge.name=Verboden kennis
+achievement.forbiddenknwoledge.desc=Voltooi 2 hoofdstukken van de creatie quest
+achievement.puja.name=Een beetje hulp van de goden
+achievement.puja.desc=Betaal een priester en doe een gebed
+achievement.explorer.name=Verkenner
+achievement.explorer.desc=Verken een geïsoleerd gebouw
+achievement.marcopolo.name=Marco Polo
+achievement.marcopolo.desc=Bezoek 3 dorpen van 3 culturen in het spel
+achievement.magellan.name=Fernand de Magellan
+achievement.magellan.desc=Bezoek dorpen van alle culturen in dezelfde wereld
+achievement.selfdefense.name=Zelfverdediging
+achievement.selfdefense.desc=Vermoord een bandiet
+achievement.pantheon.name=The Panthéon
+achievement.pantheon.desc=Bezoek het mysterieuze Panthéon
+
+achievement.darkside.name=De donkere kant
+achievement.darkside.desc=Vermoord een dorpeling
+achievement.scipio.name=Carthago delenda est
+achievement.scipio.desc=Vernietig een dorp met de staf der negatievering
+achievement.attila.name=Attila
+achievement.attila.desc=Verkrijg de "Gesel van God" reputatie in 3 culturen
+
+achievement.cheers.name=Diemaal proost voor minecraft!
+achievement.cheers.desc=Drink alcohol in millénaire
+achievement.hired.name=Gehuurde hulp
+achievement.hired.desc=Huur een dorpeling
+achievement.masterfarmer.name=Professioneel boer
+achievement.masterfarmer.desc=Plant een Millénaire gewas.
+
 
 quest.close=Sluiten
 quest.accept=Neem quest aan
 quest.reputationlost=Reputatie verloren
 quest.cqcheckquestlistandhelp=Druk '<0>' voor meer informatie of om de Millénaire hulp te openen.
 
+config.pagetitle=Millénaire Instellingen
+config.page.uisettings=UI instellingen
+config.page.worldgeneration=Wereldgeneratie
+config.page.worldgeneration.desc=Deze instellingen werken alleen op wereldgeneratie in lokale werelden (geen servers waar je mogelijk mee verbindt)
+config.page.villagebehaviour=Dorpsgedrag
+config.page.villagebehaviour.desc=Deze instellingen werken alleen op dorpen in lokale werelden (geen servers waar je mogelijk mee verbindt).
+config.page.devtools=Dev werktuigen
+
+config.village_list_key.label=Dorpslijst toets
+config.village_list_key.desc=Toets om een lijst van omliggende dorpen te zien. Standaard: <0>.
+
+config.quest_list_key.label=Infopaneel toets
+config.quest_list_key.desc=Toets om het Millènaire info paneel te zien. Standaard: <0>.
+
+config.escort_key.label=Agressieve begeleidings toets
+config.escort_key.desc=Toets om ingehuurde dorpelingen te wisselen tussen agressieve en passieve modus te wisselen. Standaard: <0>.
+
+
+config.fallback_language.label=Terugvaltaal
+config.fallback_language.desc=Secundaire taal. Wordt gebruikt als de hoofdtaal niet beschikbaar is.
+
+config.dynamic_textures.label=Dynamische Textures
+config.dynamic_textures.desc=schakel automatisch naar het 64x texture pack als het Minecraft texture pack 64x of hoger is.
+
+config.language_learning.label=Taal leren
+config.language_learning.desc=Of talen wel of niet "geleerd" moeten worden(vertalingen zullen alleen verschijnen als een speler genoeg met de cultuur omgaat).
+
+config.load_all_languages.label=Laad alle talen
+config.load_all_languages.desc=Of alle beschikbare talen wel of niet geladen moeten worden, om vertalingen te geven voor clients indien nodig.
+
+config.display_start.label=Geef startteskst weer
+config.display_start.desc=Laat de Millénaire versie en creatie quest status zien bij het opstarten.
+
+config.display_names.label=Geef namen dorpelingen weer
+config.display_names.desc=Laat namen, bezettingen en taken zien boven de hoofden van de dorpelingen.
+
+config.villagers_names_distance.label=Naam weergave afstand
+config.villagers_names_distance.desc=Afstand waarvanaf de namen zichtbaar zijn. Standaard: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=Zinnen in de chat (MP)
+config.villagers_sentence_in_chat_distance_client.desc=Hoe ver dorpelingen weg moeten zijn om hun zinnen in de chatbox weer te geven in multi-player. Standaard: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=Zinnen in de chat (SP)
+config.villagers_sentence_in_chat_distance_sp.desc=Hoe ver dorpelingen weg moeten zijn om hun zinnen in de chatbox weer te geven in single-player. Standaard: <0>.
+
+config.generate_villages.label=Dorpen genereren
+config.generate_villages.desc=Of Millénaire dorpen wel of niet op nieuwe chunks worden geladen.
+config.generate_lone_buildings.label=Geïsoleerde gebouwen genereren
+config.generate_lone_buildings.desc=Of Millénaire wel of niet geïsoleerde gebouwen genereerd op chunks.
+config.keep_active_radius.label=Geladen chunk radius
+config.keep_active_radius.desc=Radius rond de speler waarin Millénaire de dorpschunks geladen houd. Standaard: <0>.
+
+config.min_village_distance.label=Minimale dorpsafstand
+config.min_village_distance.desc=Minimale afstand tussen gegenereerde dorpen. Default: <0>.
+
+config.min_village_lonebuilding_distance.label=Minimale dorps-geïsoleerd gebouw afstand
+config.min_village_lonebuilding_distance.desc=Minimale afstand tussen gegenereerd dorp en een geïsoleerd gebouw. Standaard: <0>.
+
+config.min_lonebuilding_distance.label=Minimale geïsoleerd gebouw afstand
+config.min_lonebuilding_distance.desc=Minimale afstand tussen geïsoleerde gebouwen. Standaard: <0>.
+
+config.spawn_protection_radius.label=Spawn beschermings radius
+config.spawn_protection_radius.desc=Gebied rond het span punt waar Millénaire geen gebouwen neerzet. Standaard: <0>.
+
+config.village_radius.label=Dorpsradius
+config.village_radius.desc=Gebied van normale dorpen (geen gehuchten). Standaard: <0>.
+
+config.min_distance_between_buildings.label=Minimale afstand tussen gebouwen
+config.min_distance_between_buildings.desc=Minimale afstand tussen 2 gebouwen in een dorp. Standaard: <0>.
+
+config.village_paths.label=Bouw dorpspaden
+config.village_paths.desc=Genereer paden in de dorpen en laat de dorpelingen ze uitbreiden.
+
+config.max_children_number.label=Maximum kinderen aantal
+config.max_children_number.desc=Maximum aantal kinderen dat een dorp kan krijgen. Standaard: <0>.
+
+config.background_radius.label=Dorps relatie radius
+config.background_radius.desc=Radius waarin dorpen relaties met elkaar hebben (diplomatie, handel, overvallen). Standaard: <0>. 
+
+config.bandit_raid_radius.label=Bandieten overvals radius
+config.bandit_raid_radius.desc=Radius waarin bandieten dorpen overvallen. Standaard: <0>.
+
+config.raiding_rate.label=Overvallen % kans
+config.raiding_rate.desc=Kans op 100 dat een dorp/bandietengebouw een overval plant elke nacht. Standaard: <0>.
+
+
+
+config.generate_colour_chart.label=Genereer kleuren kaart
+config.generate_colour_chart.desc=Genereer een kaart met kleuren te gebruiken in gebouwplannen.
+
+config.generate_building_res.label=Genereer grondstoffenlijst
+config.generate_building_res.desc=Genereer een lijst met grondstoffen nodig voor elk gebouw.
+
+config.generate_translation_gap.label=Genereer vertalingsgat
+config.generate_translation_gap.desc=Genereer een rapport voor elke geladen taal met missende tekst.
+
+config.generate_goods_list.label=Genereer goederen lijst
+config.generate_goods_list.desc=Genereer de lijst van items bekend in Millénaire.
+
+config.valuetrue=Ja
+config.valuefalse=Nee
+
+config.page.bonus=Medewerker bonus
+config.page.bonus.desc=Bonus voor mensen die hebben gewerkt aan Millénaire (vertalingen, bouwplannen, dialogen, textures, toevoegen aan de wiki etc.) of gedoneerd hebben: een gratis klein huisje verkrijgbaar bij de dorpsleider.
+
+config.bonus_code.label=Bonus Code
+config.bonus_code.desc=Code om de bonus vrij te stellen. Automatisch van het internet als een verbinding mogelijk is.
+
+config.validbonuscode=Geldige code! Bonus geactiveerd.
+config.invalidbonuscode=Ongeldige code. Alsjeblieft controleren.
+
+tradehelp.title=<0> - Handelen
+tradehelp.goodssold=Goederen verkocht
+tradehelp.goodsbought=Goederen gekocht
+tradehelp.buyingprice=Kopen:
+tradehelp.sellingprice=Verkopen:
+tradehelp.helptitle=Standaard dingen rond handelen
+tradehelp.helptext=In elke winkel kan je goederen kopen die het dorp in voorraad heeft. Afgezien van een paar 'gratis' blokken (zoals paden) of speciale dingen (de staffen), worden de blokken allemaal gemaakt door het dorp en raakt het dorp ze kwijt als je ze koopt, in tegenstelling tot handel met minecraft dorpen.<ret><ret>Dorpelingen produceren de meeste goederen die ze nodig hebben zelf, maar door spullen te verkopen help je vaak met de ontwikkeling van het dorp.
+
+tradehelp.freeblock=Deze blocktypen worden 'gratis' gemaakt in het dorp en zijn in onbeperkte hoeveelheid beschikbaar.
+tradehelp.wood=De dorpelingen produceren hout in bossen. Ze gebruiken het voor de bouw.
+tradehelp.stone=De dorpelingen produceren steen en glas in groeves. Als het dorp er geen heeft is het van jou afhankelijk voor deze grondstoffen.
+tradehelp.whitewool=Witte wol wordt gebruikt in sommige gebouwen. De dorpelingen verven het vanzelf als dat nodig is.
+tradehelp.clay=De dorpelingen produceren bakstenen met klei uit de groeve.
+tradehelp.genericfood=Toegang tot verschillende voedseltypen helpt kinderen groeien.
+tradehelp.genericfoodraw=De dorpelingen koken vlees voor ze het eten.
+tradehelp.genericfoodsweet=Alcohol en zoetigheid vergroot de kans dat dorpelingen kinderen krijgen.
+tradehelp.seeds=De dorpelingen gebruiken zaad om graan te planten en kippen te voeren.
+tradehelp.carrot=Dorpelingen gebruiken wortels om hun varkens te voeren.
+tradehelp.feathers=Veren worden gebruikt om pijlen te maken.
+tradehelp.generictools=Werktuigen van verschillende niveaus maken dorpelingen effectiever.
+tradehelp.genericweapon=Wapens en pantser van verschillende niveaus maken dorpelingen krachtiger.
+tradehelp.purse=Bourses à deniers kunnen deniers opslaan en je financiën in de gaten houden. Ze zijn altijd beschikbaar
+tradehelp.wand=De oproepstaf staat je toe dat je zelf dorpen kan genereren. Ze zijn altijd beschikbaar.
+tradehelp.parchments=Rollen geven informatie over Millénaire. Ze zijn altijd beschikbaar.
+
+tradehelp.normanwhitewool=Witte wol wordt gebruikt in sommige gebouwen en om schilderijen te maken in het fort.
+tradehelp.normantapestrywool=Grijze, licht grijze, zwarte en bruine wol worden gebruikt door de dame om schilderijen te maken.
+tradehelp.normanleather=Normandische monniken gebruiken leer om boeken te maken.
+tradehelp.normantools=Normandische smeden gebruiken ijzer om Normandische wapens en werktuigen van goeie kwaliteit te maken.
+tradehelp.normanbooks=Normandische monniken maken boekenkasten van boeken en papier. Ze worden in sommige gebouwen gebruikt..
+tradehelp.normanalchemy=De alchemist produceert basale dranken.
+tradehelp.normancider=Normandiërs produceren cider en calva van appels verzameld door de houthakkers. Deze dranken helen en de speler en helpen dorpelingen met kinderen krijgen. Calva geeft ook een tijdelijke "kracht" bonus.
+tradehelp.normantripesboudin=Normandiërs maken tripes and bloedworsten van koeien en varkens. Deze gerechten vullen de speler en helpen kinderen groeien. Tripes geven ook een "hergeneratie" bonus.
+tradehelp.normantapestry=Dames maken deze decoratie van witte, bruine, zwarte, grijze en licht grijze wol.
+tradehelp.normantimberframes=Normandische timmermannen maken deze frames van hout.
+tradehelp.normanwheat=Normandische dorpelingen maken brood en voeren hun vee met graan.
+
+tradehelp.byzantinetools=Byzantijnse smeden gebruiken ijzer voor Byzantijnse Werktuigen.
+tradehelp.byzantinefeta=De Byzantijnen maken feta van schapenmelk. Het heelt de speler en helpt met kinderen krijgen.
+tradehelp.byzantinebooks=De Byzantijnen produceren boeken van leer en hout.
+tradehelp.byzantinewine=De Byzantijnen produceren wijn van druiven in de taveerne. De wijn heelt te speler en helpt met kinderen krijgen. Het geeft ook een tijdelijke "weerstand" bonus.
+tradehelp.byzantinesilk=De Byzantijnen produceren zijde voor schilderijen, iconen en luxe kleding voor de rijkeren.
+tradehelp.byzantineclothes=De Byzantijnen produceren kleding van zijde. Het verbeterd het uiterlijk van de dorpelingen.
+tradehelp.byzantinetiles=De Byzantijnen produceren tegels van klei.
+tradehelp.byzantinefood=De Byzantijnen koken de lamskoteletjes en mixen ze met de feta voor heerlijke souvlakis. Deze gerechten vullen de speler en helpen kinderen te groeien. Souvlakis geeft ook wat gezondheid terug.
+tradehelp.byzantineweapons=Byzantijnse smeden produceren geweldig pantser van ijzer.
+tradehelp.byzantinewheat=De Byzantijnen maken brood en voeren hun vee met graan.
+
+tradehelp.hinditools=Indiaanse smeden gebruiken ijzer voor werktuigen en pantser.
+tradehelp.hindigenericfood=Verschillende voedseltypen vergroten de groei van kinderen. Waarschuwing: Indiërs eten geen varken of bief.
+tradehelp.hindigenericfoodsweet=Toetjes helpen met kinderen krijgen. Waarschuwing: Indiërs drinken geen Alcohol.
+tradehelp.hindirasgulla=De Indiërs maken heerlijke rasgullas. Ze helen de speler en helpen met kinderen krijgen. Ze geven ook een tijdelijke "snelheids" bonus.
+tradehelp.hindicurry=De Indiërs koken vegetarische curry met kurkuma en rijst en kipcurry met kip. Deze gerechten vullen de speler en helpen kinderen met groeien. Kipcurry geeft ook een tijdelijk "weerstand tegen vuur" bonus.
+tradehelp.hindibricks=De Indiërs laten natte modderbakstenen in de zon drogen om droge bakstenen te maken. Je kan ze zelf maken door een mal te kopen.
+tradehelp.hindistatue=Indiase beeldhouwers maken beeldjes voor in de tempels.
+
+tradehelp.japanesegold=De Japanners genruiken goud om sommige gebouwen te decoreren.
+tradehelp.japaneseudon=De Japanners maken udons van graan en kip. Ze vullen de speler en helpen kinderen groeien. Ze geven ook een tijdelijk "sprong boost" bonus.
+tradehelp.japanesetools=Japanse smeden gebruiken leer en ijzer voor werktuigen en pantser.
+tradehelp.japaneseweapons=Japanse smeden maken mooi pantser en goeie wapens van ijzer, leer en wol.
+tradehelp.japanesepaper=Japanse werklieden maken papier van rijst en produceren daarmee muren.
+tradehelp.japaneseframes=Japanse werklieden maken frames van hout om elegante gebouwen te bouwen.
+tradehelp.japaneserice=De Japanners gebruiken rijst om kinderen te eten te geven, papier te maken en sake te fermenteren.
+tradehelp.japanesewheat=De Japanners koken graan om udons te maken.
+tradehelp.japanesethatch=Japanners produceren blokken van graan.
+tradehelp.japanesesake=Japanse sake brouwers brouwen sake uit rijst. Sake heelt de speler en helpt met klinderen krijgen. Ook geeft het de tijdelijke "wateradem" bonus.
+tradehelp.japaneseikayaki=The Japanners kweken inktvissen en grillen ze om ikayakis te maken. Ze voeden de speler en helpen kinderen te groeien. Ze leveren ook een tijdelijke "Water ademhaling" bonus.
+tradehelp.mayangold=Maya werklieden maken decoratieve blokken uit goud. De speler moet dit goud aan het dorp verkopen.
+tradehelp.mayanfood=De maya's verbouwen mais en maken masa (mais tortillas) en wah (door kip toe te voegen) ervan. Ze vullen de speler en helpen kinderen groeien. Wah geeft ook de tijdelijke "haast" bonus.
+tradehelp.mayanobsidian=Maya werklieden produceren werktuigen uit obsidiaan verkocht door de speler. Deze werktuigen zijn niet effectief, maar je kunt ze gemakkelijk bewerken
+tradehelp.mayanstonetools=Maya werklieden produceren werktuigen en wapens van steen als er geen obsidiaan aanwezig is.
+tradehelp.mayanweapons=Maya werklieden maken stenen pantser en wapens. Obisidiaan werklieden maken ze krachtiger en de zeer krachtige obsidiaanse morgenster.
+tradehelp.mayancocoa=Maya cacaoboeren oogsten cacaobonen en maken cacauhaa, een chocolade drankje. Cacauhaa heelt de speler en helpt met kinderen krijgen. Het geeft ook een tijdelijk "nachtvisie" bonus.

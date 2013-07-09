@@ -8,6 +8,7 @@ chiefhouse_B0=Дом вождя
 fort_A0=Форт
 fort_A_forge_A0=Оружейная
 fort_A_soldierhouse_A0=Казарма
+pandithouse_A0=Дом священника
 peasanthouse_A0=Дом крестьянина
 peasanthouse_B0=Дом крестьянина
 peasanthouse_C0=Дом крестьянина
@@ -32,7 +33,7 @@ playerlargefield_A0=Большое поле
 playersmallfield_A0=Малое поле
 playersmallhouse_A0=Малый дом
 bazaar_A0=Базар
-pandithouse_A0=Дом жреца
+tank_A0=Колодец
 
 //extra buildings:
 well_A0=Колодец
@@ -46,3 +47,5 @@ sandblasted_A0=Заброшенный торговый пост
 indiandesertedfarm_A0=Разоренная индийская ферма
 loneshrine_A0=Одинокая индийская святыня
 sadhutree_A0=Древо мудреца
+
+gifthouse_a0=Дом подарок

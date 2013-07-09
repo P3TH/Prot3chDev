@@ -2,6 +2,8 @@ name:Milpa
 weight:10
 carriesraid:true
 
+pathmaterial:pathdirt
+pathmaterial:pathslabs
 
 biome:plains
 biome:swampland
@@ -25,12 +27,14 @@ player:mayanplayerlargefield
 player:mayanplayerhugefield
 player:mayanplayerestate
 player:mayanplayerlargehouse
+player:gifthouse
 
 //to be built in priority
 core:mayansheepchickenfarm
 core:mayanhouse
 core:mayanlargepeasanthouse2
 core:mayanmining
+core:mayancacaofarm
 
 //to be built after the core ones
 secondary:mayangrove
@@ -40,11 +44,11 @@ secondary:mayansculptorhouse
 secondary:mayanmarket
 secondary:mayancrafter
 secondary:mayanobsidiancrafter
+secondary:mayanshamangrounds
 
 //never for this type of village
 never:mayanarmyforge
 never:mayanballcourt
 never:mayanlargepeasanthouse
-never:mayanshamangrounds
 never:mayancalendar
 never:mayanwatchtower

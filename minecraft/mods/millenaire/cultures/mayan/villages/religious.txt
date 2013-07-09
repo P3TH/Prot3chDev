@@ -11,6 +11,9 @@ biome:lush swampland
 biome:jungle
 biome:rainforest
 
+pathmaterial:pathdirt
+pathmaterial:pathslabs
+
 //starting buildings:
 centre:mayanobservatory
 start:mayanhouse
@@ -26,12 +29,14 @@ player:mayanplayerlargefield
 player:mayanplayerhugefield
 player:mayanplayerestate
 player:mayanplayerlargehouse
+player:gifthouse
 
 //to be built in priority
 core:mayanmining
 core:mayancornfarm
 core:mayangrove
 core:mayantemple
+core:mayancacaofarm
 
 //to be built after the core ones
 secondary:mayanlargepeasanthouse2

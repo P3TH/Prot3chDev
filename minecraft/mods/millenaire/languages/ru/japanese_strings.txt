@@ -1,7 +1,7 @@
-culture.japanese=Ниппон
+culture.japanese=Японцы
 
 villager.japanese_boy=Мальчик
-villager.japanese_girl=Деовчка
+villager.japanese_girl=Девочка
 villager.japanese_teenagermale=Юноша
 villager.japanese_teenagerfemale=Девушка
 villager.japanese_lumberman=Дровосек
@@ -13,7 +13,7 @@ villager.japanese_peasantwife=Жена крестьянина
 villager.japanese_samuraigeneral=Сегун
 villager.japanese_richwoman=Знатная дама
 villager.japanese_samurai=Самурай
-villager.japanese_emperor=Тэннно
+villager.japanese_emperor=Император
 villager.japanese_crafter=Ремесленник
 villager.japanese_armysmith=Мастер оружейник
 villager.japanese_sculptor=Скульптор
@@ -28,3 +28,16 @@ villager.japanese_farmwife=Жена фермера
 villager.japanese_womanservant=Гейша
 villager.japanese_merchant_food=Торговец пищей
 villager.japanese_merchant_blacksmith=Продавец инструментов
+villager.japanese_bravewoman=Мужественная женщина
+villager.japanese_bandit=Японский бандит
+villager.japanese_brewer=Главный пивовар
+villager.japanese_brewerwife=Жена пивовара
+
+shop.japanesetownhall=Главный магазин
+shop.forge=Инструменты
+shop.armyforge=Броня и оружие
+shop.japanesecrafter=Бумага
+shop.kitchen=Еда
+shop.lonemine=Камень
+shop.japaneseoutpost=Главный магазин
+shop.fishery=Жареная рыба

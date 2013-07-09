@@ -9,20 +9,24 @@ firstNameList=low_caste_women_names
 texture=/graphics/mob/indian/ML_girl0.png
 texture=/graphics/mob/indian/ML_girl1.png
 
+goal=gosocialise
+goal=chat
 goal=gorest
 goal=gopray
 goal=becomeAdult
 goal=goPlay
 
-requiredFood=chickencurry,3
-requiredFood=vegcurry,3
-requiredFood=bread,1
-requiredFood=rice,2
+requiredFood=bread,2
 requiredFood=chickenmeatcooked,2
-requiredFood=fishcooked,1
+requiredFood=fishcooked,2
 requiredFood=egg,3
 requiredFood=wah,1
 requiredFood=masa,1
+requiredFood=chickencurry,3
+requiredFood=vegcurry,3
 requiredFood=udon,1
+requiredFood=ikayaki,1
+requiredFood=lambcooked,1
+requiredFood=souvlaki,1
 
 baseAttackStrength=1

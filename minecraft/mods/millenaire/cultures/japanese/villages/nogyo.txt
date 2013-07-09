@@ -2,6 +2,9 @@ name:Nouji Mura
 weight:10
 carriesraid:true
 
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
 
 biome:plains
 biome:extreme hills
@@ -30,25 +33,29 @@ player:japanesehut
 player:japanesehouse
 player:japanesehousemedium
 player:japanesehouselarge
+player:gifthouse
 
 //to be built in priority
+core:squidfarm
 core:japanesefishery
-core:japaneselookout
 core:japanesecrafter
-core:japanesesamuraih
 core:japanesequarry
-core:japaneseforge
 core:japanesekitchen
 core:japanesemarket
+core:chickenfarm
 core:well
 
 //to be built after the core ones
 secondary:japanesearchive
 secondary:japaneseshintoshrine
 secondary:japaneseinn
+secondary:japaneselookout
+secondary:japaneseforge
+secondary:japanesesamuraih
 
 //not to be built
 never:japanesepalace
 never:japanesefort
 never:japanesepagoda
 never:japanesearmyforge
+never:bath

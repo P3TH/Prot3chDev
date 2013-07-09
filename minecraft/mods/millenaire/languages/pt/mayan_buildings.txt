@@ -40,6 +40,8 @@ mayansheepchickenfarm_A0=Aviário
 mayantemple_A0=Templo
 mayanwatchtower_A0=Torre de Vigia
 mayanmarket_A0=Mercado
+mayancacaofarm_A0=Plantação de Cacau
+mayancacaofarm_B0=Plantação de Cacau
 
 mayanguesthouse_A0=Estalagem
 mayanobsidiancrafter_A0=Oficina de Obsidiana
@@ -56,3 +58,24 @@ lonemayanruin_A0=Casa Maia Abandonada
 lonemayancornfarm_A0=Quinta Maia Abandonada
 lonemayanmining_A0=Pedreira Maia Abandonada
 lonemayanpyramid_A0=Pirâmide Abandonada
+
+gifthouse_a0=Casa do Contribuidor
+
+questpyramid_A0=Pirâmide Amaldiçoada
+questpyramid_pit_A0=Pirâmide Amaldiçoada
+questpyramid_guards_A0=Pirâmide Amaldiçoada
+questpyramid_jail_A0=Pirâmide Amaldiçoada
+
+questguardtower_A0=Torre de Vigia
+questcamphouse_A0=Quartel
+questbarrack_A0=Quartel
+
+mayancamp_A0=Posto Maia
+mayancamp_outerguard_A0=Posto Maia
+mayancamp_dig_A0=Posto Maia
+mayancamp_wall_A0=Posto Maia
+mayancamp_jail_A0=Posto Maia
+mayancamp_innerguard_A0=Posto Maia
+
+questcave_door_A0=Gruta Maia
+questcave_A0=Gruta Maia

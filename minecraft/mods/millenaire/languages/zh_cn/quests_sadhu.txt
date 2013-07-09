@@ -134,7 +134,7 @@ sadhu_9_underwater_1_label=汇报发现
 sadhu_9_underwater_1_description=在海浪之下你看到了什么?
 sadhu_9_underwater_1_description_success=你说在如此之深的地方并没有发现生命<ret>的迹象... 没有鱼, 也没有水生植物?<ret>这需要我进一步思考.
 sadhu_9_underwater_1_description_refuse=我会呆在这里并祈祷你会改变想法, $name.
-sadhu_9_underwater_1_listing=潜水到至少距离海平面15米以下的地方.
+sadhu_9_underwater_1_listing=潜水到至少距离海平面12米以下的地方.
 
 sadhu_10_underwaterglass_0_label=深度之窗
 sadhu_10_underwaterglass_0_description=关于你的汇报我想了很久, $name.<ret>或许在那稍纵即逝的潜水过程中你看到<ret>的还不够. 我需要你返回那片海洋并在<ret>尽可能深的地方建立一个观察室,<ret>这样你就可以研究深度所蕴含的平和.
@@ -144,7 +144,7 @@ sadhu_10_underwaterglass_1_label=汇报发现
 sadhu_10_underwaterglass_1_description=你看到那些从未被人看到过的东西了吗?
 sadhu_10_underwaterglass_1_description_success=所以据你观察深海的确是一个贫瘠的地方,<ret>没有生命可以超越那些神秘的乌贼.<ret>这不可能... 没有哪个海洋会如此空虚,<ret>有如此庞大的动物生活却没有任何捕食者?<ret><ret>你给我带来的消息足以让我深思良久,<ret>$name. 过一段时间再回来,<ret>我希望能获得答案解答你的疑惑.
 sadhu_10_underwaterglass_1_description_refuse=我会呆在这里并祈祷你会改变想法, $name.
-sadhu_10_underwaterglass_1_listing=在距离海平面20米以下的地方,<ret>用玻璃建造一个观察室.
+sadhu_10_underwaterglass_1_listing=在距离海平面15米以下的地方,<ret>用玻璃建造一个观察室.
 
 sadhu_11_pujas_0_label=知识和礼仪
 sadhu_11_pujas_0_description=在你探索了大海之后, 我把所有的精力放<ret>在你了留给我的那个神秘的附魔台上. 我<ret>一直在努力破译这些书本和附魔台本身所<ret>蕴含的秘密, 但是却一无所获. 然而冥想<ret>中知识告诉我: 附魔台和书都不重要. 重<ret>要的是有一个像你这样需要它的人, 并且<ret>有足够的物质支持. 这力量并不蕴含在附<ret>魔台或是书本上, 而是在你和世界里. 一<ret>定还有其他的方式可以利用它.   <ret><ret>我相信村子里的博学者经过训练后也能做<ret>到同样的事. 我想让你去拜访最近的印度<ret>村庄并吧这个羊皮纸交给村里的牧师. 我<ret>已经把颂歌写在了羊皮纸上, 牧师会向神<ret>明祷告来护佑你交给他的工具, 只要你给<ret>牧师适当的东西献祭给神明.

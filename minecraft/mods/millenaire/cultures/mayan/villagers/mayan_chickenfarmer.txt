@@ -13,6 +13,8 @@ goal=bringBackResourcesHome
 goal=breed
 goal=slaughterchicken
 goal=cookchicken
+goal=gosocialise
+goal=chat
 
 collectGood=egg
 collectGood=feather
@@ -29,10 +31,7 @@ bringBackHomeGood=chickenmeat
 bringBackHomeGood=chickenmeatcooked
 bringBackHomeGood=maize
 
-toolNeeded=stoneaxe
-toolNeeded=stonesword
-toolNeeded=mayanaxe
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
 
 requiredGood=maize,10
 requiredGood=wood_any,10

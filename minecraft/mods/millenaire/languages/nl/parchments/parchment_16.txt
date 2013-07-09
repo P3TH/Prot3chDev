@@ -1,4 +1,4 @@
-version:3.1.7
+version:4.8.0
 Millénaire: Japanse inwoners
 
 Dorpshoofden   
@@ -8,6 +8,9 @@ Shuken しゅくん: Heer. Deze man leeft in zijn fort. Hij komt naar buiten om 
 Kokushi こくし: Leider. Deze man beheert zijn dorp vanuit het imperiële kantoor. Hij zorgt ervoor dat de dorpelingen hard werken en dat ze bidden. Ook vraagt hij hoge belastingen. Maar de inwoners zijn zeer religieus en vredelievend dus zullen ze niet klagen.
 
 Chōkan ちょうかん: Chef. Deze man is een echte boer want de Japanners hebben erg veel voedsel nodig dus iemand moet een landbouwdorp leiden. Hij is door de oudsten gekozen als leider. Hij geeft de dorpelingen instructies over landbouwtechnieken en verdedigd het tegen monsters.
+
+Touji: Meesterbrouwer. Deze gequalificeerde werkman produceert sake in de brouwerij, waarvan de bekendheid veel uitmaakt voor de welvaart van het dorp.
+
 NEW_PAGE
 Vrouwen
 
@@ -16,6 +19,9 @@ Jojoufu じょじょうふ: Dappere vrouw. De vrouw van een soldaat of bewaker. 
 Reifujin れいふじん: Dame. Deze vrouw is de vrouw van een rijke man die meestal ook de dorpsleider is. Ze zorgt ervoor dat ze er altijd mooi uitziet. Niet veel meer...
 
 Tsuma つま: Vrouw. Deze vrouwen doen de taken die de mannen niet willen doen. Zoals de velden bijhouden en koken. Het is slopend werk maar ze kunnen niet klagen zonder consequenties. Zonder deze vrouwen zou het dorp verhongeren.
+
+Kuramoto: Vrouwelijke brouwer. Deze specialist in sake productie werkt met haar man in de brouwerij.
+
 NEW_PAGE
 Mannen
 

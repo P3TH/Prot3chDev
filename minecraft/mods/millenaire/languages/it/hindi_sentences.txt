@@ -33,7 +33,7 @@ indian_peasant.GatherBrick=Aaj suraj teez hai, inth jaldi sookh rahaien hain. / 
 indian_peasant.CookBrick= Dekho, aag mein kaisi badhiyan pakti hai yeh intein. / Guarda quanto bene si cuociono questi mattoni nel fuoco.
 villager.PlantRice=Is saal barish achchi hui toh phasal accha hoga. / Se piove molto, il raccolto sarà eccellente quest'anno.
 villager.HarvestRice=Is baar barish acchi honey sey phasal bhi acchi hui hai. / Le piogge sono state abbondanti e quindi anche il raccolto è ottimo.
-villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Dopo tutto, tutti hanno bisogno della curcuma.
+villager.PlantTurmeric=Haldi toh sabhi ko chahiyein. / Dopotutto, tutti hanno bisogno della curcuma.
 villager.HarvestTurmeric=Haldi ki kheti kartey kartey merey haath peeley ho gayein hain. / Questa raccolta di curcuma ha tinto le mie mani di giallo.
 indian_peasant.SlaughterChicken=Bahut kha liya ghas-phoos. / Ho già abbastanza curry vegetariano!
 

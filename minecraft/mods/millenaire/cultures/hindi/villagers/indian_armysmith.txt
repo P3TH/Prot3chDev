@@ -6,6 +6,8 @@ tag=raider
 
 texture=/graphics/mob/indian/ML_ArmySmith0.png
 
+goal=gosocialise
+goal=chat
 goal=gorest
 goal=gopray
 goal=makesteelsword
@@ -16,7 +18,8 @@ goal=makesteelhelmet
 goal=makebow
 
 
-toolNeeded=steelSword
+
+toolneededclass=meleeweapons
 
 requiredGood=iron,10
 requiredGood=wool_white,2

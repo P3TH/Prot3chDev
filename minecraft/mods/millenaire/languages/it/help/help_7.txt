@@ -9,4 +9,4 @@ Per sapere le missioni in corso e l'attività da svolgere premere "M".
 
 Questo insieme di missioni comprende due capitoli indipendenti, focalizzati sulle culture normanne e indiane. La prima missione di ogni capitolo viene assegnata da un abitante indiano o normanno una volta raggiunta la reputazione di "Amico del villaggio" (l'attivazione delle missioni è casuale, e potrebbe non essere disponibile immediatamente) .
 
-Entrambe le missioni richiedono di trovare un un edificio solitario particolare. Continua ad esplorare finchè non lo trovi. A differenza degli altri edifici solitari questi compaiono premendo  il tasto "V".
+Entrambe le missioni richiedono di trovare un edificio solitario particolare. Continua ad esplorare finchè non lo trovi. A differenza degli altri edifici solitari questi luoghi particolari sono segnalati, premendo il tasto "V".

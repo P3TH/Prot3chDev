@@ -6,6 +6,7 @@ tag=heavydrinker
 tag=hostile
 tag=archer
 tag=raider
+tag=noteleport
 health=60
 
 texture=/graphics/mob/norman/ML_Bandit0.png
@@ -17,10 +18,11 @@ goal=goDrink
 goal=patrol
 goal=huntmonster
 
-toolNeeded=normanBroadsword
+toolneededclass=meleeweapons
 
 baseAttackStrength=3
 tag=helpInAttacks
 defaultweapon=woodsword
 experiencegiven=10
 startingInv=bow,1
+startingInv=arrow,64

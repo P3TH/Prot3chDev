@@ -14,18 +14,17 @@ goal=mining
 goal=cookstone
 goal=cooksand
 goal=bringBackResourcesHome
+goal=gosocialise
+goal=chat
 
 bringBackHomeGood=cobblestone
 bringBackHomeGood=sandStone
 bringBackHomeGood=stone
 bringBackHomeGood=sand
 
-toolNeeded=stonepickaxe
-toolNeeded=stoneshovel
-toolNeeded=stonesword
-toolNeeded=mayanpickaxe
-toolNeeded=mayanshovel
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
+toolneededclass=pickaxes
+toolneededclass=shovels
 
 requiredGood=wood_any,64
 

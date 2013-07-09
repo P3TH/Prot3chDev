@@ -47,6 +47,7 @@ japaneseplayerpalace_A0=Palazzo del giocatore
 japaneseinn_A0=Locanda
 japanesemarket_A0=Mercato
 japanesearcheryrange_A0=Campo di tiro
+chickenfarm_a0=Allevamento pollame
 bath_A0=Bagni pubblici
 well_A0=Pozzo
 
@@ -59,3 +60,5 @@ kufun_tomb_B0=Il sepolcro di Kufun
 woods_shrine_A0=Santuario di legno
 lonemine_A0=Miniera giapponese isolata
 banditfort_A0=Forte dei Banditi
+
+gifthouse_a0=Casa Bonus

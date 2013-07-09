@@ -1,50 +1,77 @@
-version:3.1.7
+version:4.8.0
 Millénaire: 日本建筑
 
 村庄中心
 
-Shuudannoujou: 大农场. The center of an Agricultural village where the farmer and his wife live. The Villagers bring crops, wood, and stone to the Shuudannoujou.
+Shuudannoujou: 大农场. 农夫以及其妻子生产
+和生活的中心，村民将石头，木材和庄稼带到大
+农场来。
 
-Bousai: 要塞. This building houses the Shuken and his wife and can be upgraded into a mighty stronghold with walls and watchtowers.
+Bousai: 要塞. 这里居住着领主和他的妻子，可
+以升级为带着围墙和瞭望塔的强大要塞。
 
-Kumonjo: 帝国办公室.The Japanese would build huge Imperial Offices to center their villages. The Overseer and his Wife reside here, keeping watch over the village day and night. All building plans for the village are fabricated here, as well as additional plans and proposals.
+Kumonjo: 帝国办公室.日本人会在村子的中央修
+建巨大的帝国办公室。监督长和他的妻子住在这
+里，负责监督村子的情况，同时村子的建筑计划
+，物资需求都会记录在这栋房子里。
 NEW_PAGE
 住宅
 
-Shoko: 档案馆. This building has all the information on the villagers in the village.
+Shoko: 档案馆. 这栋建筑里可以查看村民的信
+息数据。
 
-Tansetsu: 军匠铺. A Tansetsu can make All Japanese military weapons and Armour. They can make the Tachi Sword and the lethal Yumi Bow. They can also make a variety of Japanese Armour. They need a man to be the Smith to make the weapons and a wife to sell it.
+Tansetsu: 军匠铺. 军浆铺出产所有的日本武器
+和装备。在这里可以制作太刀以及和弓以及各种
+款式的日本铠甲。这栋建筑需要一个铁匠来居住
+，其妻子则负责销售工作。
 
-Tansetsu: 铁匠铺. This is the place where Iron tools are made and sold. The Kajiya makes the tools needed to do other jobs faster. The player can also buy tools here.
+Tansetsu: 铁匠铺. 加工和销售工具的地方。铁
+匠在这里打造其他职业需要的工具。玩家也可以
+在这里购买需要的工具。
 
-Shugi Ie: 手工艺房子. Produces and sells Paper from rice, it also produces paper walls to be sold in the main building and Timber frames.
+Shugi Ie: 手工艺房子. 生产和销售纸，纸墙，
+木头框架的地方。
 
-Gyogyo and Tsuribori: 渔场. The Ryoushi, or Fisherman, spends his time at this building to catch fish for the village.
+Gyogyo and Tsuribori: 渔场.渔翁住在这里，
+为村民们捕鱼。 
 
-Kodachi: 小树林. The Japanese Kikori cuts down trees here.
+Kodachi: 小树林.日本的伐木工在这里砍树。
 
-Shijin: 旅馆. This is where traders come and rest after they have travelled from another village carrying goods.
+Shijin: 旅馆. 其他村子来销售货物的商人歇脚
+的地方。
 
-Daidokoro: 厨房. This is where the food is cooked and Udon is made. It also sells chicken and fish.
+Daidokoro: 厨房. 做饭以及乌冬面的房子，也
+出售鸡肉和鱼肉。
 
-Kikori Koya: 伐木工的小屋. This is the house in which the Lumberman and his wife reside. He chops wood, brings it home, and the wife delivers it to the village center.
+Kikori Koya: 伐木工的小屋. 伐木工以及其妻
+子的家。伐木工砍树并将木材带回家里，其妻
+子则负责将木材运往村子的中心。
 
-Bourou: 瞭望塔. The Lookout Tower is more a decorative building which is built mostly at the edges of the village. But its  main reason for being built is so the guards can see enemies approaching from afar.
+Bourou: 瞭望塔. 瞭望塔一般算建立在村子边缘
+地带的装饰建筑，但其主要的建筑目的是便于守
+卫发现接近村子的敌人。
 
-Suiden: 稻田. The villagers plant rice on this field. It is cultivated by peasants and women, . Women bring the rice to the centre, where it can be bought by the player.
+Suiden: 稻田. 村民在这里种植水稻。平民以及
+其妻子在这里劳作。女人会负责将稻米带回村子
+中央，用以和玩家的交易中。
 
-Buttou: 宝塔. This is where the villagers come to pray and its where the Souryo lives.
+Buttou: 宝塔. 村民祈祷的地方，也是僧侣居住
+的地方。
 
-Noufu Ie: 平民的房子. This is the home where the Peasant and his wife lives.
+Noufu Ie: 平民的房子. 平民和他的妻子居住的
+地方。
 
-Saisekijou: 采石场. This is where the Koufu and his wife lives. Stone is mined from here and delivered back to the village center.
+Saisekijou: 采石场. 矿工和他的妻子住在这，
+矿工在这里采集石头并运送到村子的中心去。
 
-Heisha: 守卫的房子. In this house lives a warrior or guard with his wife.
+Heisha: 守卫的房子. 这个房子里住着守卫和他
+的妻子。
 
-Noujou Nojo: 小麦农场. This is where The farmer and his wife lives. He will gather and grow wheat here.
+Noujou Nojo: 小麦农场. 农民和他的妻子居住的
+地方，他们播种和收获小麦。
 NEW_PAGE
 装饰建筑
 
-Ike: Pond A decorative building that is nice to walk through.
+Ike: 池塘中的装饰建筑,很适合步行通过.
 
-Torii: 山门. A beautiful gate like structure where the villagers come to pray.
+Soushi: 神社. 这个小神社是村民祈祷用的.

@@ -1,4 +1,4 @@
-version:1.1.4
+version:4.8.0
 Millénaire: Construções Maias
 
 Centros da Aldeia
@@ -31,6 +31,8 @@ Ah Kax Makan: Aviário. Os Maias criavam aves de capoeira principalmente pela su
 Chanan Nah: Casa do Guardião. Os guerreiros Maias, embora em muitos casos fossem simples aldeões que desempenhavam outras tarefas para além desta, por vezes dedicavam-se exclusivamente à arte da caça e da guerra, pelo que as suas casas eram frequentemente ornamentadas com troféus das suas aventuras.
 
 Ah Waay Su'uk: Terrenos do Xamã. A residência do xamã Maia e da sua esposa, frequentemente decorada consoante as crenças do xamã.
+
+Ka'kau' Makan: Plantação de Cacau. É aqui que o agricultor de cacau recolhe os preciosos grãos de cacau e produz o cacahuá.
 
 K'as Koloh-che' / K'as Otoch: Posto / Residência de Bandidos. Eram nestes locais que os Maias expulsos das aldeias residiam. Estas estruturas eram geralmente compostas por uma cabana ou outra, embora por vezes os fugitivos encontrassem ruínas que reconstruíam para criar as suas habitações. É aconselhável permanecer longe destas regiões, visto que os Maias que aqui vivem são capazes de matar para manter estes locais protegidos.
 

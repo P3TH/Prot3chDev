@@ -71,6 +71,9 @@ mayanmarket_A0=Markt
 
 
 mayanplayerpyramid_A0=Spelers Pyramide
+mayancacaofarm_A0=Cacaoplantage
+mayancacaofarm_B0=Cacaoplantage
+
 
 
 lonemayancave_A0=Maya Grot
@@ -91,4 +94,23 @@ lonemayanmining_A0=Eenzame Steengroeve
 
 mayanpyramid_A0=Pyramide
 lonemayanpyramid_A0=Verlaten Pyramide
+gifthouse_a0=Cadeautjeshuis
 
+questpyramid_A0=Vervloekte Piramide
+questpyramid_pit_A0=Vervloekte Piramide
+questpyramid_guards_A0=Vervloekte Piramide
+questpyramid_jail_A0=Vervloekte Piramide
+
+questguardtower_A0=Wachterstoren
+questcamphouse_A0=Barakken
+questbarrack_A0=Barakken
+
+mayancamp_A0=Mayaans Kamp
+mayancamp_outerguard_A0=Mayaans Kamp
+mayancamp_dig_A0=Mayaans Kamp
+mayancamp_wall_A0=Mayaans Kamp
+mayancamp_jail_A0=Mayaans Kamp
+mayancamp_innerguard_A0=Mayaans Kamp
+
+questcave_door_A0=Mayaanse Grot
+questcave_A0=Mayaanse Grot

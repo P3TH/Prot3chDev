@@ -13,6 +13,8 @@ texture=/graphics/mob/norman/ML_Lumberman2.png
 texture=/graphics/mob/norman/ML_Lumberman3.png
 
 goal=gorest
+goal=gosocialise
+goal=chat
 goal=gopray
 goal=goDrink
 
@@ -38,7 +40,7 @@ bringBackHomeGood=ciderapple
 
 startingInv=sapling,10
 
-toolNeeded=normanAxe
+toolneededclass=axes
 
 baseAttackStrength=5
 tag=helpinattacks

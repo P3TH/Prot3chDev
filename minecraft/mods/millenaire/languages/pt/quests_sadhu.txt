@@ -134,7 +134,7 @@ sadhu_9_underwater_1_label=Relato dos Achados
 sadhu_9_underwater_1_description=Então, o que há para ver tão fundo por baixo das ondas?
 sadhu_9_underwater_1_description_success=Diz que não encontrou vestígios de vida independentemente da profundidade... Nem peixes, nem plantas aquáticas? Terei de reflectir bastante sobre isto.
 sadhu_9_underwater_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
-sadhu_9_underwater_1_listing=Preciso de mergulhar até pelo menos 15 metros abaixo da superfície do mar.
+sadhu_9_underwater_1_listing=Preciso de mergulhar até pelo menos 12 metros abaixo da superfície do mar.
 
 sadhu_10_underwaterglass_0_label=A Janela das Profundezas
 sadhu_10_underwaterglass_0_description=Reflecti bastante sobre as suas palavras, $name. Talvez não tenha mergulhado profundo o suficiente. Preciso que regresse ao mar e construa uma sala de observação o mais profundo que conseguir, a partir da qual poderá observar as profundezas em paz.
@@ -144,7 +144,7 @@ sadhu_10_underwaterglass_1_label=Relato dos Achados
 sadhu_10_underwaterglass_1_description=O que viu você, onde nenhum homem foi até agora?
 sadhu_10_underwaterglass_1_description_success=Diz que o fundo do mar é um local infértil, sem vida para além daquelas lulas misteriosas. Não pode ser... Nenhum mar pode ser assim tão vazio, e como poderiam sobreviver tais animais sem qualquer alimento?<ret><ret> Deu-me bastante em que pensar, $name. Regresse mais tarde e talvez já tenha algumas respostas para si.
 sadhu_10_underwaterglass_1_description_refuse=Permanecerei aqui até que mude de ideias, $name.
-sadhu_10_underwaterglass_1_listing=Preciso de construir uma sala de observação com um telhado de vidro a pelo menos 20 metros abaixo da superfície do mar.
+sadhu_10_underwaterglass_1_listing=Preciso de construir uma sala de observação com um telhado de vidro a pelo menos 15 metros abaixo da superfície do mar.
 
 sadhu_11_pujas_0_label=O Conhecimento e os Rituais
 sadhu_11_pujas_0_description=Enquanto explorava o oceano, foquei todos os meus pensamentos neste mistério que me deixou - a mesa de encantamentos. Esforcei-me para decifrar os livros e os segredos da construção da mesa em si, mas nada compreendi. Ainda assim, durante a minha meditação a sabedoria surgiu-me: a mesa e os livros não importam. Um homem prático como você necessita deles, um suporte material no qual se focar. Mas o poder não se encontra neles, mas sim dentro de si e no mundo que nos rodeia. E existem outras formas de cultivá-lo.<ret><ret>Creio que até um sacerdote numa aldeia poderá fazer algo semelhante, com treino adequado. Necessito que se desloque à aldeia Hindu mais próxima e leve este documento ao sacerdote. Com as orações que escrevi nele, o sacerdote será capaz de rezar aos deuses e abençoar qualquer ferramenta que lhe mostre, desde que lhe forneça as oferendas necessárias para os deuses, claro.

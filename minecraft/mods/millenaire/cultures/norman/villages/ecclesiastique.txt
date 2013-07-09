@@ -18,6 +18,10 @@ biome:autumn woods
 biome:green hills
 biome:forested hills
 
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathslabs
+
 //starting buildings:
 centre:abbey
 start:lumbermanhut
@@ -32,6 +36,7 @@ player:playerlargefield
 player:playerlargehouse
 player:playerhugefield
 player:playerestate
+player:gifthouse
 
 //to be built in priority
 core:church
@@ -68,6 +73,7 @@ sellingPrice:parchmentComplete,32
 //Buying prices:
 buyingPrice:bookshelves,12
 buyingPrice:wool_white,8
+buyingPrice:leather,15
 buyingPrice:normanBroadsword,1/0/10
 buyingPrice:normanPickaxe,10/10
 buyingPrice:normanAxe,10/10

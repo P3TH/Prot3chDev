@@ -1,29 +1,49 @@
-//English names are generally already present in the building files themselves
-//So this is almost empty
-//Check the French hindi_buiildings file for an example of the format to use
-
-playerestate_A0=Dvorec
-forge_A0=Kova�nica
-armyforge_A0=Vojaska kova�nica
-scultorhouse_A0=Kamnosekova hi�a
-archives_A0=Arhivi
-brickkiln_A0=Su�ilnica opek
-chiefhouse_A0=Hi�a vodje
-fort_A0=Dvorec
-grove_A0=Zasajen gozd
-lumbermanhouse_A0=Gozdarjeva hi�a
-paddy_A0=Ri�evo polje
-pandithouse_A0=U�enikova hi�a
-peasanthouse_A0=Dom
-peasanthouse_B0=Dom
-peasanthouse_C0=Dom
-playerhugefield_A0=Ogromno igral�evo ozemlje
-playerlargefield_A0=Veliko igral�evo ozemlje
-playersmallfield_A0=Majhno igral�evo ozemlje
-playersmallhouse_A0=Majhna igral�eva hi�a
+﻿playerestate_A0=Dvorec
+forge_A0=Kovačnica
+armyforge_A0=Vojaška kovačnica
+scultorhouse_A0=Hiša klesarja
+archives_A0=Arhiv
+chiefhouse_A0=Poglavarjeva hiša
+chiefhouse_B0=Poglavarjeva hiša
+fort_A0=Utrdba
+fort_A_forge_A0=Kovačnica utrdbe
+fort_A_soldierhouse_A0=Baraka
+peasanthouse_A0=Kmečka hiša
+peasanthouse_B0=Kmečka hiša
+peasanthouse_C0=Kmečka hiša
+lumbermanhouse_A0=Gozdarjeva hiša
 quarry_A0=Kamnolom
 quarry_B0=Kamnolom
-soldierhouse_A0=Stra�arjeva hi�a
-sugarplantation_A0=Nasad sladkornega trsa
-villagetemple_A0=Cerkev
-playerestate_A0=Igralceva nepremi�nine
+soldierhouse_A0=Vojakova hiša
+brickkiln_A0=Sušilnica za opeke
+grove_A0=Nasad
+paddy_A0=Riževo polje
+spicegarden_A0=Vrt začimb
+sugarplantation_A0=Nasad sladkornega trsta
+villagetemple_A0=Vaški tempel
+palace_A0=Palača
+guesthouse_A0=Gostova hiša
+inn_A0=Krčma
+largepeasanthouse_A0=Velika hiša
+largepeasanthouse_A_secondary_A0=Sekundarna hiša
+playerpalace_A0=Igralčeva palača
+playerhugefield_A0=Zelo veliko polje
+playerlargefield_A0=Veliko polje
+playersmallfield_A0=Majhno polje
+playersmallhouse_A0=Majhna hiša
+bazaar_A0=bazar
+tank_A0=Rezervoar
+
+//extra buildings:
+well_A0=Vodnjak
+//lone buildings:
+adivasifarm_A0=Staroselška kmetija
+adivasifarm_B0=Staroselška kmetija
+deserttradeoutpost_A0=Puščavska trgovska postojanka
+ruinedfort_A0=Uničena utrdba
+sandblasted_A0=Puščavska trgovska postojanka
+indiandesertedfarm_A0=Uničena indijska kmetija
+loneshrine_A0=Zapuščena hindujska grobnica
+sadhutree_A0=Sadhujevo drevo
+
+gifthouse_a0=Darilna hiša

@@ -1,4 +1,4 @@
-﻿
+
 abbey_A0=Abbazia
 archives_A0=Archivio cittadino
 armoury_A0=Armeria
@@ -57,7 +57,7 @@ ruinedfarm_A0=Fattoria in rovina
 ruinedfarm_B0=Fattoria in rovina
 ruinedfarm_C0=Fattoria in rovina
 banditlair_A0=Covo dei banditi
-alchemisttower_A0=Torre del alchimista
+alchemisttower_A0=Torre dell'alchimista
 bandittower_A0=Torre dei banditi
 abandonedmill_A0=Mulino abbandonato
 abandonedmine_A0=Miniera abbandonata
@@ -66,3 +66,5 @@ loneinn_A0=Locanda isolata
 lonemill_A0=Mulino ad acqua isolato
 feloncastle_A0=Castello del criminale
 pantheon_A0=Pantheon
+
+gifthouse_a0=Casa Bonus

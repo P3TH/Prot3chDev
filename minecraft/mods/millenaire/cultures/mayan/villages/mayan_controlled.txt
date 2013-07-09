@@ -1,6 +1,10 @@
 name:Player's Jub'uy
 weight:0
 playerControlled:true
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathslabs
 
 //starting buildings:
 centre:mayanplayerpyramid
@@ -17,6 +21,7 @@ core:mayansheepchickenfarm
 core:mayanmining
 core:mayansculptorhouse
 core:mayancornfarm
+core:mayancacaofarm
 core:mayancrafter
 core:mayanobsidiancrafter
 core:mayanarmyforge

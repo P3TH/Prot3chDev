@@ -13,6 +13,8 @@ goal=gopray
 goal=bringBackResourcesHome
 goal=getResourcesForBuild
 goal=construction
+goal=buildpath
+goal=clearoldpath
 
 goal=dryBrick
 goal=gatherBrick
@@ -27,7 +29,8 @@ goal=plantSugarCane
 goal=harvestSugarCane
 goal=cookchicken
 
-toolNeeded=steelHoe
+toolneededclass=hoes
+toolneededclass=meleeweapons
 
 bringBackHomeGood=mudbrick
 bringBackHomeGood=rice

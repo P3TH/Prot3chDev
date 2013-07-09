@@ -22,9 +22,11 @@ clothes=clothes_byz_wool,/graphics/mob/byzanz/male/clothes/byz.sheep.2.B.png
 clothes=clothes_byz_wool,/graphics/mob/byzanz/male/clothes/byz.sheep.2.C.png
 
 toolNeeded=clothes_byz_wool
-toolNeeded=steelAxe
+toolneededclass=axes
 
 goal=gorest
+goal=gosocialise
+goal=chat
 goal=gopray
 goal=goDrink
 goal=bringBackResourcesHome

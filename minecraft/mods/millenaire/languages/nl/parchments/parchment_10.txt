@@ -1,5 +1,5 @@
-version:1.1.4
-Millénaire: Mayan buildings
+version:4.8.0
+Millénaire: Maya gebouwen
 
 Dorpscentra:          
 
@@ -34,6 +34,9 @@ Chanan Nah : Bewakershuis. De Mayaanse krijges, terwijl het in veel gevallen sim
 Ah Waay Su'uk : Shamaangrond. Het huis van de mayaanse Shamaans en hun vrouwen. Vaak gewijd aan het geloof van de Shamaan.
 
 K'as Koloh-che'/K'as Otoch: Bandiet Buitenposten/Huizen. Dit zijn de plekken waar de Mayas die niet langer welkom zijn in de dorpen wonen. Vaak bestaan deze plekken uit een of twee kleine hutten. Soms vonden de bannelingen onbewoonde ruines en herbouwden ze deze in huizen. Het is aangeraden om ver weg te blijven van deze plekken daar het Mayas zijn die hun huizen beschermen en zullen doden om ze veilig te houden.
+
+Ka'kau' Makan: Cacaoboerderij. Hier oogst de boer cacao en maakt hij cacauhaa uit de bonen.
+
 NEW_PAGE
 
 Onbewoonde Gebouwen:

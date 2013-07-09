@@ -38,17 +38,17 @@ mayanplayersmallhouse_A0=Stary dom
 mayanshamangrounds_A0=Teren szamana
 mayansheepchickenfarm_A0=Hodowla kurczakow
 mayantemple_A0=Swiatynia
-mayanwatchtower_A0=Wieza straznizca
+mayanwatchtower_A0=Wieza straznicza
 
-mayanplayerpyramid_A0=Player's Pyramid
+mayanplayerpyramid_A0=Piramida gracza
 
 lonemayancave_A0=Mayan Cave
 lonemayanfarm_A0=Mayan Solitary Farm
-lonemayanshaman_A0=Shaman's Grounds
+lonemayanshaman_A0=Ziemie szamana
 mayanbandits_A0=Bandit Outpost
-mayanruinedpyramid_A0=Lost Pyramid
-mayanbandithome_A0=Bandit Home
-lonemayanruin_A0=Lost Mayan Home
-lonemayancornfarm_A0=Lost Mayan Corn Farm
-lonemayanmining_A0=Lost Stone Mine
-mayanpyramid_A0=Pyramid
+mayanruinedpyramid_A0=Zaginiona Piramida
+mayanbandithome_A0=Chatka Bandytow
+lonemayanruin_A0=Zaginiony Dom Majow
+lonemayancornfarm_A0=Zaginona farma kukurydzy
+lonemayanmining_A0=Zaginiona kopalnia
+mayanpyramid_A0=Piramida

@@ -1,11 +1,15 @@
 name:Chorio orthodoxo
-weight:0
-hillQualifier:goal=stous lofous
+weight:10
+hillQualifier:stous lofous
 lavaQualifier:to hefaisto
 lakeQualifier:limne
 biome:plains
 biome:river
 carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathochretiles
 
 //with extrabiomesxl
 biome:green hills
@@ -28,7 +32,9 @@ start:architectbyzantine
 start:farmbyzantine
 start:grovebyzantine
 
+player:playersmallhouse
 player:villa urbana
+player:gifthouse
 
 //to be built in priority
 

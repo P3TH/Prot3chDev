@@ -1,44 +1,96 @@
-version:1.1.4
-Millénaire: Norman Inhabitants
+version:4.2.1
+Millénaire: 諾曼村民
 
-Village heads
+村莊領袖：
 
-Chevalier: Knight. Lives in the fort, from which he goes out to patrol his land and visit the tavern. Beware meeting him in battle! Head of the Military and Gros Bourg villages.
+Chevalier : 騎士
+住在城堡裡。負責管控軍事城鎮和村莊，有時
+會出來巡邏，並且偶爾會到酒館裡偷懶去。
+如果你自認武藝高超，先打贏他再說！
 
-Moine: Monk. Lives in the abbey, in which he painstakingly copies ancient books on new parchments. An art, according to him. Head of the ecclesiastic hamlets and villages.
+Moine : 修道院長
+住在修道院裡，控管教會村莊。
+常常和僧侶抄寫古文。對他而言，這是一種藝術！
 
-Sénéchal : Seneschal. Oversees the agricultural production of his village from his manor house. Head of the agricultural hamlets and villages.
+Sénéchal : 總管
+負責管控農業村莊，
+並監督他的農莊的農作生產。
 
-Maître de la Guilde : Guild Master. Supervises the production of the artisans from a Guild House. Head of the artisanal hamlets and villages.
+
+Maître de la Guilde : 工會長，監控手工業村莊。
+負責監督屬於工會的工匠生產。
 NEW_PAGE
-Women
+女性 :
 
-Villageoise: Female villager. Almost all adult women are of this type. Their roles include bringing resources gathered by their husbands to the Town Hall, construction work on new buildings and upgrades on old ones, and selling and buying goods from the player at various locations.
+Villageoise : 女性村民
+她們的工作包括把她們丈夫收集起的物資運送到
+城鎮中心，建造新的建築物或升級舊建築，還會
+在某些地方和玩家交易。
+絕大多數的成年女性都是這個樣子。
 
-Dame: Lady. Lives in the fort with her husband, where she makes tapestries from wool to decorate the fort and to sell to the player.
+Dame : 夫人
+跟著丈夫住在城鎮中心裡面。
+她會在城堡裡用羊毛製作掛毯來裝飾或者賣給玩家。
 NEW_PAGE
-Men
+男人 :
 
-Fermier: Male farmer. Lives in a farm, where he grows and harvests crops.
+Fermier : 農夫
+住在農場裡種植和收穫作物。
+他晚上睡覺的時候，是玩家偷作物的好時機。
 
-Bûcheron: Lumberman. Lives in a lumberman's hut. Gathers wood and cider apples from trees in groves he maintains and plant saplings to produce more trees.
+Bûcheron : 樵夫
+住在伐木場的小屋。
+每天在他種植的樹林中收集木頭和釀酒蘋果，
+並收集樹苗來種更多的樹。
+在他砍樹的時候最好離他遠一點，因為他砍樹
+總是連葉子一起剷除，非常的吵！
 
-Garde: Guard. Lives in a guard's house. Does nothing but drink cider and very occasionaly prays, unless a fellow villager is attacked. Not a good enemy to have, especially if he is armed with a fearsome Norman Broadsword.
+Garde : 守衛
+住在守衛小屋，除非村民受到攻擊，否則平
+時只會喝蘋果酒和偶爾祈禱一下，甚麼事也
+不做。
+並不是很強，除非他有一把鋒利的諾曼寬劍。
 
-Prêtre: Priest. Lives alone in a presbytery. When he is not praying in the church, he sleeps.
+Prêtre : 牧師
+獨自住在教會裡。
+當你沒看到他在祈禱時，那他想必是在睡覺。
 
-Forgeron: Smith. Lives in a forge or an armoury.  If iron is available he will make tools if he's in a forge or armour and swords if he's in an armoury.
+Forgeron : 鐵匠
+住在鐵匠舖或軍械庫。
+如果有足夠的鐵，在鐵匠舖他就會打造工具，
+在軍械庫則會打造劍和盔甲。
 
-Eleveur : Animal farmer. Lives in a cattle farm, a pig farm, or a chicken farm. Collects various goods from farm animals and makes steamy Norman tripes and tasty boudin noir.
+Eleveur : 畜牧員
+生活在養牛場、養豬場或者養雞場。
+他會蒐集農場動物的產物，並製作各
+種美味的諾曼豬肚和黑血糕。
 
-Mineur : Miner. Lives and works in a quarry, tirelessly mining stone and sand. When his quarry gets upgraded with furnaces, he smelts them into smooth stone and glass as well.
+Mineur : 礦工
+生活和工作都在採石場，永不倦怠地採集鵝
+軟石和沙子。當他的採石場有了融爐後，他
+會煉製石子和玻璃。
 
-Charpentier : Carpenter. Lives and works in a carpenter's house, where he makes timberframes to use in building construction.
+Charpentier : 木匠
+生活和工作在木工坊。
+他會製作出部份建築所需的木框架。
 
-Marchant : Merchant. Goes from inn to inn, trading goods from one village to an other. It is his job to roam for the good of all the villagers.
+Moine : 僧侶
+和修道院長生活在修道院。
+他和修道院長負責抄寫古文，對他而言，
+這就是藝術！
 
-Marchant étranger : Foreign Merchant. Merchants from far-away places will visit markets to sell their exotic goods, before leaving with your hard-earned deniers.
+Marchant : 商人
+穿梭於旅店之間，
+努力不懈的在村莊之間來回交易。
+他的奮鬥讓所有的村民們受益。
+
+Marchant étranger : 外商
+從遙遠的地方的國度來訪的外地商人。
+他販賣極具異國風情的商品，
+希望能在離開之前賺光你的血汗錢。
 NEW_PAGE
-Children
+孩子 :
 
-Garçon / fille : boy and girl. Live with their parents, growing at night, until they are big enough to move into a free house and become adult.
+Garçon / fille : 男孩和女孩
+與它們的父母住在一起，會在晚上長大，
+直到長大後會搬出到一個空的房子。

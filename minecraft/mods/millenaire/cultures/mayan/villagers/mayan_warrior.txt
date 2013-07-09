@@ -16,13 +16,15 @@ goal=gorest
 goal=gopray
 goal=patrol
 goal=huntmonster
+goal=gosocialise
+goal=chat
 
-
-toolNeeded=stonesword
-toolNeeded=bow
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
+toolneededclass=rangedweapons
+toolneededclass=armour
 
 baseAttackStrength=4
 tag=helpInAttacks
 defaultweapon=woodsword
 startingInv=bow,1
+startingInv=arrow,64

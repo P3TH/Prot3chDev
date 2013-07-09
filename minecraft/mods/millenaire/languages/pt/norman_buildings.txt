@@ -66,3 +66,5 @@ loneinn_A0=Albergaria Normanda Isolada
 lonemill_A0=Azenha Isolada
 feloncastle_A0=Castelo do Barão
 pantheon_A0=Panteão
+
+gifthouse_a0=Casa do Contribuidor

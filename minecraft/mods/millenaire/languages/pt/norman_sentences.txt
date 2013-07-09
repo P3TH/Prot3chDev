@@ -19,7 +19,7 @@ oriental_merchant.greeting=Ce pays est riche, mais fallait il vraiment qu'il soi
 oriental_merchant.greeting=Etes vous allez à Cordoue? Ca, c'est une ville civilisée. / Alguma vez foi a Córdova? Aquela sim era uma vila civilizada.
 art_merchant.greeting=Les gens ici sont des barbares. / As pessoas aqui são bárbaras.
 art_merchant.greeting=Aucune ville dans le monde n'est comparable à Constantinople. / Nenhuma cidade no mundo se pode comparar a Constantinopla.
-art_merchant.greeting=Nous les byzantins sont les derniers vrais romans. Admirez notre civilisation! / Nós Bizantinos somos os únicos Romanos a sério que restam. Admirem a nossa civilização!
+art_merchant.greeting=Nous les byzantins sommes les derniers vrais romans. Admirez notre civilisation! / Nós Bizantinos somos os únicos Romanos a sério que restam. Admirem a nossa civilização!
 wool_merchant.greeting=Les textiles hollandais sont les meilleurs à l'ouest de Cathay. / Os têxteis Holandeses são os melhores no Oeste de Cathay.
 seneschal.greeting=Je gère ces terres pour mon roi. / Eu governo estas terras pelo meu rei.
 seneschal.greeting=J'ai hâte de retourner à la cours du roi. / Mal posso esperar por voltar para a Corte Real.
@@ -46,27 +46,30 @@ farmer.PlantSeeds=Je plante, et je récolterai. / Eu planto, e eu colherei.
 lumberman.BringBackResourcesHome=Même ma femme devra admettre que c’est beaucoup de bois. / Até a minha mulher vai ter de admitir que isto é bastante lenha.
 lumberman.ChopTrees=Regardez-moi couper cet arbre ! / Observe-me enquanto serro esta árvore!
 lumberman.GatherGoods=Bel arbrisseau là-bas. / Que belo rebento ali ao fundo.
-lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperai. / Em breve esta será uma árvore magnífica! E eu cortá-la-ei.
+lumberman.PlantSaplings=Bientôt ce sera un arbre magnifique ! Et je le couperais. / Em breve esta será uma árvore magnífica! E eu cortá-la-ei.
 
-wife.GetHouseTHResources=On dirai que mon mari a travaillé pour une fois. / Parece que o meu marido preguiçoso finalmente fez algum trabalho.
-wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je suis plus forte que j’en ai l’air ! / Vou buscar uma tonelada ou duas de materiais. Eu sou mais forte do que pareço!
+wife.GetHouseTHResources=On dirait que mon mari a travaillé pour une fois. / Parece que o meu marido preguiçoso finalmente fez algum trabalho.
+wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matériaux. Je suis plus forte que j’en ai l’air ! / Vou buscar uma tonelada ou duas de materiais. Eu sou mais forte do que pareço!
 //villager.DeliverResourcesShop=
-wife.MakeBread=Mon pain est le meilleure du village. / O meu pão é o melhor da aldeia.
+wife.MakeBread=Mon pain est le meilleur du village. / O meu pão é o melhor da aldeia.
 //villager.BeSeller=É só um momento, vou já!
 wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Preparar a sidra não é o pior trabalho por aqui.
 wife.MakeCalva=Une boisson d'homme, faite par une femme. / Uma bebida de homem, preparada por uma mulher.
-wife.construction=Je construit, je construit, comme seule une femme le peu ! / Eu construo, eu construo, como só uma mulher pode!
+wife.construction=Je construis, je construis, comme seule une femme le peu ! / Eu construo, eu construo, como só uma mulher pode!
 wife.construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Os homens não têm a subtileza necessária para um trabalho de precisão.
 wife.construction=Ca va être un bâtiment superbe. / Esta vai ser uma construção esplêndida.
 wife.getGoodsHousehold=Pourquoi est ce toujours moi qui doit tout aller chercher ? / Por que é que tenho de ser sempre eu a ir buscar as coisas?
-wife.DeliverGoodsHousehold="Vas chercher ça, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Vai buscar isto, vai buscar aquilo," dizem-me eles. Um dia direi não!
+wife.DeliverGoodsHousehold="Vas chercher ci, vas chercher ça", ils me disent. Un jour je refuserais ! /  "Vai buscar isto, vai buscar aquilo," dizem-me eles. Um dia direi não!
 
 villager.GoPlay=Je vais aller jouer dehors. / Vou brincar lá fora.
 villager.BecomeAdult=Il est l’heure de devenir quelqu’un ! / Está na hora de me tornar alguém!
 
 villager.MakeBoudin=Vous ne le mangeriez pas si vous saviez comment c’est fait. / Não comeria isso se soubesse como é feito.
+
 smith.MakeNormanTools=Les outils normands sont les meilleurs du monde. / Os utensílios Normandos são os melhores do mundo.
-smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par moi. / Nunca tente lutar contra um homem armado com as minhas lâminas.
+smith.MakeNormanWeapons=N'essayez pas d'affronter un homme armé par mes soins. / Nunca tente lutar contra um homem armado com as minhas lâminas.
+
+
 miner.Mining=Miner est un art, vous savez. / A exploração mineira é uma arte, sabia?
 miner.Mining=Personne d’autre dans le village n’a la force et l’endurance nécessaire à ce travail. Et vous pensez qu’ils sont reconnaissants ? / Mais ninguém na aldeia tem a força e a resistência necessárias para este trabalho. Ainda assim, acha que somos reconhecidos?
 miner.Cooking=Ca c’est de la vrai cuisson. / Esta é que é a verdadeira culinária.

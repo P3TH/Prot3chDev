@@ -1,13 +1,6 @@
-note = nil
-noteSide = nil
-for i, side in pairs(rs.getSides()) do
-  if peripheral.getType(side) == "note" then
-    note = peripheral.wrap(side)
-    noteSide = side
-    break
-  end
-end
+os.loadAPI("rom/apis/miscperipheralsutil")
 
+note, noteSide = miscperipheralsutil.getPeripheral("note")
 if note == nil then
   print("No Note peripheral found")
   return

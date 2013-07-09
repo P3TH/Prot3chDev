@@ -6,6 +6,8 @@ firstNameList=men_names
 texture=/graphics/mob/norman/ML_CattleFarmerMale0.png
 
 goal=gorest
+goal=gosocialise
+goal=chat
 goal=gopray
 goal=goDrink
 goal=gatherGoods
@@ -43,7 +45,7 @@ bringBackHomeGood=wool_black
 bringBackHomeGood=wool_brown
 bringBackHomeGood=wool_pink
 
-toolNeeded=normanBroadsword
+toolneededclass=meleeweapons
 
 tag=helpInAttacks
 defaultweapon=woodaxe

@@ -14,11 +14,11 @@ villager.gopray=Watashi wa housaku no tame ni megami Uga-no-Mintama ni inori mas
 villager.gopray=Kami wa watashitachi wo aku kara osukui ni naru. / Kami proteggici dal male. 
 
 villager.BringBackResourcesHome=Cho cho cho... / lavoro, lavoro, lavoro...
-villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Sto andando ad abbattare alcuni alberi.
+villager.ChopTrees=Watashi wa nanbonka no ki wo bassai suru tsumori da. / Sto andando ad abbattere alcuni alberi.
 villager.GatherGoods=Watashi wa ikutuka no souchi ga hituyou da. / Ho bisogno di alcuni rifornimenti.
 villager.PlantSaplings=Watashi wa korera no naegi wo ueru tumori desu. / Pianterò questi semi.
 
-villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Preparerai un buon pasto per qualcuno.
+villager.SlaughterChicken=Anata wa dareka no tame ni subarashii shokuji wo tukuru darou. / Diventerai un buon pasto per qualcuno.
 
 villager.GetHouseResources=Watashi wa ie kara nanika totte konakereba ikenai. / Devo andare a prendere qualcosa a casa.
 villager.GetGoodsHousold=Watashi wa ie ni korera no mono ga hituyou desu. / Ho bisogno di queste cose a casa.
@@ -26,7 +26,7 @@ villager.DeliverGoodsHousold=Watashi wa mise kara syokuryou wo eta. / Ho preso d
 
 villager.GetResourcesForBuild=Watashi wa motto takusan no zairyou ga hituyou desu. / Ho bisogno di più materiali.
 villager.ConstructionStepByStep=Watashi no chichi wa kentiku no houhou ni tuite watashi ni oshieta. / Mio padre mi ha insegnato come costruire.
-villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Spero che a kami piacerà la mia costruzione.
+villager.ConstructionStepByStep=Watashi wa kami ga watashi no kenchiku wo kiniiru koto wo negatte imasu. / Spero che a Kami piacerà la mia costruzione.
 
 villager.GoPlay=watashi wa asobitai desu. / Voglio giocare.
 villager.BecomeAdult=Seityou suru jikan. / È ora di crescere.
@@ -35,7 +35,7 @@ female.BecomeAdult=Watashi wa ituka hahaoya ni naritai desu. / Voglio diventare 
 villager.gopray.chosen=Kokoro wo otitukasete kudasai. / Calma la tua mente.
 
 villager.calltoarms=Mura wo mamore! / Difendi il villaggio!
-villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Loro rimpiangeranno il giorno che ci hanno attaccato!
+villager.calltoarms=Karera wa watashitachi wo kougeki suru hi wo koukai suru darou! / Rimpiangeranno il giorno che ci hanno attaccato!
 villager.calltoarms=Kuki wo mote! / Afferra la tua arma!
 
 villager.MakeTools=Watashi wa naganen no aida saikoukyu no dougu wo koumyou ni tukutte iru. / Ho costruito i migliori strumenti per molti anni.

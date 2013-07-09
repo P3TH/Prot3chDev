@@ -38,3 +38,4 @@ shop.japanesecrafter=Carta
 shop.kitchen=Alimentari
 shop.lonemine=Pietre
 shop.japaneseoutpost=Negozio centrale
+shop.fishery=Pescivendolo

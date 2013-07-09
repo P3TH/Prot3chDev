@@ -54,7 +54,7 @@ wife.GetResourcesForBuild=Je part chercher une tonne ou deux de matérieaux. Je 
 wife.MakeBread=Mon pain est le meilleure du village. / Il mio pane è il migliore nel villaggio.
 //villager.BeSeller=Coming, coming!
 wife.MakeCider=Préparer le cidre n’est pas le pire travail par ici. / Preparare sidro non è il peggior lavoro qui.
-wife.MakeCalva=Une boisson d'homme, faite par une femme. /Una bevanda da uno, fatta da una donna
+wife.MakeCalva=Une boisson d'homme, faite par une femme. /Una bevanda per veri uomini, fatta da una donna
 wife.Construction=Je construit, je construit, comme seule une femme le peu ! / Costruire, costruire, come solo una donna può!
 wife.Construction=Les hommes n’ont pas la finesse nécessaire au travail de précision. / Gli uomini non hanno l'accuratezza necessaria per un lavoro di precisione.
 wife.Construction=Ca va être un bâtiment superbe. / Diventerà un bellissimo edificio.
@@ -94,7 +94,7 @@ oriental_merchant.KeepStall=Venez voir des produits de luxes tels que les gens d
 art_merchant.KeepStall=Des perles pour des cochons, comme ils disent ici. / Perle ai porci, come si dice qui.
 wool_merchant.KeepStall=Toute la laine rose qu’il vous faut ! / Tutta la lana rosa di cui avrai mai bisogno!
 
-villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / Un  bottiglia fatta bene crea una pozione di successo!
+villager.makeglassbottles=Une fiole de qualité, c'est une potion réussie! / Una bottiglia fatta bene per una pozione potente!
 villager.harvestwarts=Heuresement que je porte des gants. / Grazie a Dio sto indossando i guanti.
 villager.plantwarts=Seul Maître Vif-argent aurait pu comprendre comment cultiver ces horreurs. / Solo il maestro Vif-argent potrebbe aver capito come far crescere questi abomini.
 villager.brewpotions=Un jour je serais un maître alchimiste! / Un giorno diventerò un maestro alchimista!

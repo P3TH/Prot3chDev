@@ -9,12 +9,12 @@ tag=localmerchant
 texture=/graphics/mob/indian/ML_merchant0.png
 texture=/graphics/mob/indian/ML_merchant1.png
 
+goal=gosocialise
+goal=chat
 goal=gorest
 goal=gopray
 goal=visitInn
 goal=VisitBuilding
-
-toolNeeded=steelSword
 
 
 tag=helpInAttacks

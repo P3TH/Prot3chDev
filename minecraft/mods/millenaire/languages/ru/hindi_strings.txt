@@ -1,4 +1,4 @@
-culture.hindi=Хинди
+culture.hindi=Хинди (Индусы)
 
 villager.indian_boy=Мальчик
 villager.indian_girl=Девочка
@@ -22,7 +22,14 @@ villager.indian_rani=Королева рани
 villager.indian_merchant=Купец
 villager.indian_lonetrader=Одинокий торговец
 villager.indian_adivasipeasant=Крестьянин абориген
-villager.indian_sadhu=мудрец садху
+villager.indian_adivasipeasantwife=Крестьянка абориген
+villager.indian_sadhu=Мудрец Садху
 villager.merchant_oriental=Персидский купец
 villager.merchant_adivasi=Купец абориген
 villager.merchant_villagewoman=Купчиха
+
+shop.townhall=Главный рынок
+shop.forge=Инструменты
+shop.armyforge=Броня и оружие
+shop.adivasifarm=Продукты Хинди
+shop.deserttradeoutpost=Драгоценности

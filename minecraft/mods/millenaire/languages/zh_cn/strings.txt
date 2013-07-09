@@ -3,6 +3,7 @@ startup.loadproblem=尝试载入 <0> 时发生错误.
 startup.checkload=请检查/minecraft/millenaire/里的'Culture'文件夹
 startup.millenaireloaded=<0>已载入. 在周围探索或按 '<1>' 键来定位村庄.
 startup.radiuswarning=警告: 村庄半径设置这么高并非必要, 且可能造成游戏卡顿. 不建议用超过70的值.
+startup.bonus=开启奖励内容.
 
 command.nogenerate=<0> 在这个世界上将不会再生成村庄.
 command.willgenerate=<0> 将在这个世界上的新的地区生成村庄.
@@ -33,10 +34,11 @@ ui.noneininventory=物品栏中没有所需物品.
 ui.selling=出售
 ui.buying=购买
 ui.buybuilding=购买 <0> (<1>)
-ui.sellercoming=<0>: 要交易吗?我马上就到, $name!
-ui.tradecomplete=<0>: 希望你喜欢和我们交易! 祝你有美好的一天.
-ui.sellerboycott=<0>: 我们再也不会与你交易了, 你这个坏蛋!
-ui.sellernotcurrently possible=<0>: 你怎么会在我们村庄被摧毁的时候还想着交易?
+ui.buybonusbuilding=需要礼物: <0>
+ui.sellercoming=<0>: 想做生意?我马上就到, $name!
+ui.tradecomplete=<0>: 希望你喜欢和我们做生意! 祝你有美好的一天.
+ui.sellerboycott=<0>: 我们再也不会与你做生意了, 你这个坏蛋!
+ui.sellernotcurrently possible=<0>: 你怎么会在我们村庄被摧毁的时候还想着做生意?
 ui.wesell=我们出售
 ui.webuy=我们收购
 ui.isell=我卖
@@ -48,9 +50,10 @@ ui.alreadybuilt=已建造
 ui.alreadyrequested=已申请
 ui.notavailableyet=暂不可用
 ui.available=可用
+ui.bonusavailable=可以(礼物)
 ui.youaremissing=你目前缺少: <0>
 ui.scrollsnoreputation=你的声誉还不足以购买村庄卷轴.
-ui.scrollsnotenoughmoney=要购买村庄卷轴你还缺 <0> 迪奈尔.
+ui.scrollsnotenoughmoney=要购买村庄卷轴你还差 <0> 迪奈尔.
 ui.scrollsok=你可以购买村庄卷轴.
 ui.buyscroll=购买村庄卷轴.
 ui.cost=花费
@@ -119,7 +122,7 @@ ui.constructionforbidden=禁止建设
 ui.locationclash=与另一建筑冲突
 ui.outsideradius=超出村庄范围
 ui.wrongelevation=超出允许高度
-ui.danger=危险方块
+ui.danger=危险区块
 ui.notreachable=无法抵达区域
 ui.unknownerror=未知问题
 ui.controlbuildingprojects=建设项目管理
@@ -148,7 +151,7 @@ ui.relationpraise=赞美
 ui.relationslander=诋毁
 ui.relationpoints=可用外交点数: <0>
 ui.villagerelationsnobutton=你必须拥有点数和好的声誉来影响这个村子.
-ui.relationhelp=外交关系帮助<ret><ret>村庄之间的关系决定了这些村庄是否会互相合作.<ret><ret>携带资源的商人会在关系良好的相同民族村庄之间<ret>或关系极好的不同民族村庄之间出现.<ret><ret>关系非常好而互相拥有市集的不同民族村庄之间<ret>会有另一民族的商人在那里摆地摊.<ret><ret>关系极好的相同民族村庄之间,如果一方有职位空缺,<ret>会接受对方的青年任职.<ret><ret>子村庄和母村庄之间的关系开始於极好,<ret>相同民族的开始於良好,其他为中立.<ret><ret>玩家每天有五点外交点数,可用来影响村庄之间的关系.<ret><ret>赞美或诋毁的成效取决于玩家在村庄里的声誉.
+ui.relationhelp=外交关系帮助<ret><ret>村庄之间的关系决定了这些村庄是否会互相合作.<ret><ret>携带资源的商人会在关系良好的相同民族村庄之间或关系极好的不同民族村庄之间出现.<ret><ret>关系非常好而互相拥有市集的不同民族村庄之间会有另一民族的商人在那里摆地摊.<ret><ret>关系极好的相同民族村庄之间,如果一方有职位空缺,会接受对方的青年任职.<ret><ret>子村庄和母村庄之间的关系开始於极好,相同民族的开始於良好,其他为中立.<ret><ret>玩家每天有五点外交点数,可用来影响村庄之间的关系.<ret><ret>赞美或诋毁的成效取决于玩家在村庄里的声誉.
 ui.relationfriendly=村庄<0>和<1>之间最近的发展改善了它们之间的关系.它们现在的关系是<2>.
 ui.relationunfriendly=村庄<0>和<1>之间最近的摩擦恶化了它们之间的关系.它们现在的关系是<2>.
 ui.cropplantingknowledge=您还不知道如何种植<0>.您需要询问村庄领袖.
@@ -163,6 +166,21 @@ ui.raider=侵略者
 
 ui.communicationexplanations=右键单击村民来与村民交流. <ret>如果村民拥有某些功能(交易, 与村长<ret>交谈, 临时雇佣, 接受任务)那么<ret>一个窗口会打开.
 ui.helpbutton=Millénaire 帮助
+ui.chunkbutton=区块地图
+ui.configbutton=设置
+ui.serverimportforbidden=只有管理员可以在服务器中导入建筑.
+
+ui.controldiplomacy=纵横之策
+ui.raidinprogress=入侵进行中!
+ui.otherraidinprogress=已经在进行入侵.
+ui.otherraidplanned=已经策划了入侵.
+ui.raidcancel=取消入侵.
+ui.raidplanned=策划入侵.
+ui.relgood=和睦
+ui.relneutral=中立
+ui.relbad=冲突
+ui.raid=策划进行入侵
+
 
 help.tab_1=村庄简介
 help.tab_2=贸易
@@ -197,13 +215,13 @@ quest.reputationlost=声誉损失
 quest.creationqueststatus=创世神任务状态
 quest.creationqueststatusshort=创世神任务:
 
-quest.cqchaptersadhu=寻找圣者
+quest.cqchaptersadhu=寻找圣人
 quest.cqsadhustartexplanation=拥有"村庄之友"声誉的印度村庄<ret>找到一个能够引导你的村民<ret>来接受你的第一个任务.
 
 quest.cqchapteralchemist=寻找炼金术师
 quest.cqalchemiststartexplanation=拥有"村庄之友"声誉的诺曼村庄<ret>找到一个能够引导你的村民.
 
-quest.cqallcompleted=恭喜你,你已经完成了目前所有的"创世神"任务!
+quest.cqallcompleted=恭喜你,<ret>你已经完成了目前所有的"创世神"任务!
 quest.cqcheckforupdates=查看www.millenaire.org来获得更多任务.
 quest.cqchapternotstarted=你还没有开始章节<ret>"<0>".
 quest.cqchapterinprogress=你已完成"创天地"章节"<0>"<ret>中<2>个任务其中的<1>个。
@@ -223,10 +241,10 @@ quest.cqcheckquestlistandhelp=点击 '<0>' 获得<ret>更多信息或打开Mill�
 //in other languages
 //I'm putting them for non-Latin alphabet languages,
 //so they can be written in other alphabets
-item.denier=迪奈尔
-item.denierOr=金制迪奈尔
-item.denierArgent=银制迪奈尔
-item.calva=Calva(点心)
+item.denier=迪奈尔铜币
+item.denierOr=迪奈尔金币
+item.denierArgent=迪奈尔银币
+item.calva=苹果白兰地酒
 item.tripes=牛肚
 item.boudin=黑香肠
 
@@ -255,8 +273,8 @@ item.wetbrick=湿砖
 item.cookedbrick=熟砖
 item.mudbrick=泥砖
 item.indianstatue=印度雕像
-item.ciderapple=苹果
-item.cider=苹果酒
+item.ciderapple=青涩苹果
+item.cider=西打酒
 item.villagewand=召唤权杖
 item.negationwand=否定权杖
 item.normanvillagers=诺曼村民
@@ -266,18 +284,18 @@ item.normanfull=完整诺曼卷轴
 item.tapestry=诺曼挂毯
 item.vishnu_amulet=乌鸦护符
 item.alchemist_amulet=炼金术师护符
-item.yddrasil_amulet=世界之树护符
-item.skoll_hati_amulet=Sköll和Hati护符
+item.yddrasil_amulet=世界树护符
+item.skoll_hati_amulet=凶狼护符
 item.villagescroll=村庄卷轴
 item.indianvillagers=印度村民
 item.indianitems=印度物品
 item.indianbuildings=印度建筑
 item.indianfull=完整的印度卷轴
 item.unknownpowder=不明粉末
-item.alchimistexplosive=炼金术士的炸药
+item.alchimistexplosive=炼金术士炸药
 
-item.wah=Wah
-item.masa=Masa
+item.wah=鸡肉卷
+item.masa=玉米面团
 item.maize=玉米
 item.mayangold=玛雅黄金饰品
 item.mayanstatue=玛雅浮雕
@@ -291,6 +309,7 @@ item.mayanAxe=黑曜石斧
 item.mayanShovel=黑曜石锹
 item.mayanHoe=黑曜石锄
 item.obsidianflake=黑曜石片
+item.cacauhaa=Cacauhaa
 
 item.paperwall=纸墙
 item.udon=乌冬面
@@ -300,6 +319,7 @@ item.parchmentsadhu=圣者之书
 
 item.tachisword=太刀
 item.yumibow=和弓
+item.sake=米酒
 
 item.japaneseWarriorBlueLegs=蓝胴丸护腿
 item.japaneseWarriorBlueHelmet=蓝胴丸头盔
@@ -311,10 +331,10 @@ item.japaneseWarriorRedHelmet=红胴丸头盔
 item.japaneseWarriorRedPlate=红胴丸胸甲
 item.japaneseWarriorRedBoots=红胴丸靴子
 
-item.japaneseGuardLegs=Keiko护腿
-item.japaneseGuardHelmet=Keiko头盔
-item.japaneseGuardPlate=Keiko胸甲
-item.japaneseGuardBoots=Keiko靴子
+item.japaneseGuardLegs=和式守卫护腿
+item.japaneseGuardHelmet=和式守卫头盔
+item.japaneseGuardPlate=和式守卫胸甲
+item.japaneseGuardBoots=和式守卫靴子
 
 item.japanesevillagers=日本村民
 item.japaneseitems=日本物品
@@ -327,6 +347,7 @@ item.byzantinebrick=拜占庭砖
 item.byzantineslab=拜占庭瓷板
 item.byzantinemixedbrick=拜占庭石瓷砖
 item.grapes=葡萄
+item.vines=葡萄藤
 item.wine=马尔瓦西亚酒
 item.silk=蚕丝
 item.byzantineiconsmall=小拜占庭图腾
@@ -337,9 +358,22 @@ item.byzantinelegs=拜占庭护腿
 item.byzantinePlate=拜占庭胸甲
 item.byzantineHelmet=拜占庭头盔
 item.byzantinemace=拜占庭权杖
-item.vine=葡萄藤
+item.lambraw=生羊肉
+item.lambcooked=烤羊排
+item.feta=羊乳酪
+item.wineBasic=葡萄酒
+item.clothes_byz_wool=拜占庭羊毛编织布料
+item.clothes_byz_silk=拜占庭丝绸布料
 
+item.souvlaki=羊肉串
+item.purse=钱包
 
+item.pathdirt=泥土路
+item.pathgravel=砂砾路
+item.pathslabs=石板路
+item.pathsandstone=沙石路
+item.pathochretiles=赭色石板路
+item.pathgravelslabs=石板砂砾路
 
 error.unknownitem=未知物品名
 
@@ -377,7 +411,7 @@ panels.woman=女
 panels.children=儿童
 panels.nofemaleresident=这座房子永远也不会有女性居民.
 panels.bachelor=住在这里的男人仍是单身.<ret>成长到青年的女孩会搬进这里并成为成人。
-panels.nomaleresident=这座房子永远也不会有一位男性居民.
+panels.nomaleresident=这座房子永远也不会有男性居民.
 panels.spinster=住在这里的女人仍未结婚.<ret>成长到青年的男孩会搬进这里并成为成人。
 panels.resources=资源
 panels.goodstraded=该村的商品交易
@@ -392,7 +426,7 @@ panels.mapred=红色: 危险区域(岩浆, 仙人掌等等).
 panels.mapyellow=黄色: 禁止建设 (冰, 人工方块).
 panels.maporange=橙色: 禁止建设(离建筑物过近) <ret>橙色:无法到达的区域 (河流和峡谷阻断)
 panels.maplightblue=浅蓝: 水.
-panels.mapbrown=棕色: 其他区域 (如海拔过高等等).
+panels.mapbrown=棕色: 其他区域 (海拔过高等等).
 panels.unreachablebuilding=无法抵达!
 panels.merchantlist=商人列表
 panels.capacity=容量
@@ -429,6 +463,9 @@ panels.unknownattacker=未知地点
 panels.raidsperformed=已进行的侵略
 panels.raidssuffered=已承受的侵略
 panels.nameand=<0> 和
+panels.buildingproject=当前建筑规划:
+panels.currentconstruction=当前建筑:
+panels.villagesummary=重要信息浏览
 
 //Goals (text displayed above the villager when he is doing it)
 goal.gorest=休息中
@@ -441,7 +478,7 @@ goal.huntMonster=与生物战斗
 goal.getGoodsHousehold=把物品从家里带走
 goal.DeliverGoodsHousehold=把物品送回家物品
 goal.GetHouseTHResources=从家里拿取资源
-goal.DeliverResourcesShop=递送资源中
+goal.DeliverResourcesShop=运输物资中
 goal.raidvillage=侵略村庄
 goal.defendvillage=保卫村庄
 goal.hide=避难中
@@ -500,22 +537,28 @@ goal.makeindianstatue=雕刻雕像
 goal.performpujas=礼拜中
 goal.bepujaperformer=允许礼拜
 
-goal.PlantMaize=种植玉米
-goal.HarvestMaize=收割玉米
-goal.makemayanGoldBlock=制作黄金饰品
-goal.makemayanstatue=雕刻雕像
+goal.PlantMaize=种植玉米中
+goal.HarvestMaize=收割玉米中
+goal.makemayanGoldBlock=制作黄金饰品中
+goal.makemayanstatue=雕刻雕像中
 goal.Makestoneaxe=制作石斧中
 goal.Makestonepickaxe=制作石稿中
 goal.Makestoneshovel=制作石锹中
 goal.Makestonehoe=制作石锄中
-goal.Makestonesword=制作石件中
+goal.Makestonesword=制作石剑中
+goal.makeleatherboots=制作皮革靴子中
+goal.makeleatherchest=制作皮革胸甲中
+goal.makeleatherhelmet=制作皮革头盔中
+goal.makeleatherlegs=制作皮革护腿中
 goal.makemayanaxe=制作黑曜石斧中
 goal.makemayanpickaxe=制作黑曜石稿中
 goal.makemayanshovel=制作黑曜石锹中
 goal.makemayanhoe=制作黑曜石锄中
 goal.makemayanmace=制作黑曜石权杖中
-goal.makeobsidianflakes=黑曜石切片中
-
+goal.makeobsidianflake=黑曜石切片中
+goal.harvestcocoa=采摘可可中
+goal.plantcocoa=种植可可中
+goal.makecacauhaa=Preparing cacauhaa
 
 goal.fish=钓鱼中
 goal.makethatch=制作茅草中
@@ -524,9 +567,15 @@ goal.makepaperrice=制作纸张中
 goal.makepaperwoodpulp=制作纸浆中
 goal.makepaperwall=制作纸墙中
 goal.cookfish=烹调鱼类
+goal.cooksteak=烹调牛排
+goal.cooklamb=烹调羊肉
+goal.cookpork=烹调猪骨排
+goal.cookchicken=烹调鸡肉
 goal.makeudon=制作乌冬面
-goal.maketachi=Crafting a Tachi sword
+goal.maketachi=锻造太刀
 goal.makejapaneseweapons=制造日本武器
+goal.makesake=酿造米酒
+
 
 goal.brewpotions=酿造药水
 goal.harvestwarts=收割树瘤
@@ -534,7 +583,7 @@ goal.makeglassbottles=制作玻璃瓶
 goal.plantwarts=种植树瘤
 
 goal.plantvines=葡萄种植
-goal.harvestgrapes=收获葡萄
+goal.harvestvines=收获葡萄
 goal.gathersilk=收集蚕丝
 goal.makeicon=画图腾
 goal.makewine=正在成产酒
@@ -552,12 +601,34 @@ goal.makebyzantineboots=制作拜占庭靴子中
 
 goal.makebow=正在制作一把弓
 goal.makerottenflesh=处理腐烂的肉中
-goal.makearrow=正在制作箭Crafting arrows
-goal.makesteak=烹调牛排中
-
+goal.makearrow=正在锻造箭
 
 goal.sleep=睡眠中
 goal.sleep_travelling=去睡觉
+
+
+goal.makeclothes_byz_wool=纺织衣服
+goal.makemasa=制作masa
+goal.slaughterpig=屠宰一头猪
+goal.makesouvlaki=制作烤肉串
+goal.makewah=制作wah
+goal.makecurry=制作一份素食咖喱
+goal.makeclothes_byz_silk=纺织丝绸衣服
+goal.slaughtersheep=屠宰一只羊
+goal.slaughtercow=屠宰一头牛
+goal.breed=喂养动物
+goal.shearsheep=剪羊毛
+goal.makemurgh=制作鸡肉咖喱
+goal.getitemtokeep=拿起一个物品
+
+goal.buildpath=铺路中
+goal.clearoldpath=清除旧铺路石中
+
+goal.gosocialise=结束聊天中
+goal.chat=聊天中
+
+goal.makedirtwall=制作泥墙中
+goal.makepath=制作铺路石中
 
 //other
 other.west=西
@@ -599,6 +670,8 @@ other.buildinghealing=<0>正在治疗你.
 
 other.localmerchantinteract=这是一个本地商人. 他在村与村之间运送货物. 你不能与他互动.
 
+other.chattosomeone=<0> 与 <1> 聊天
+
 hire.health=生命
 hire.strength=攻击力
 hire.cost=花费 (每天)
@@ -612,8 +685,8 @@ hire.extend=延长
 hire.release=释放
 hire.close=关闭
 hire.hire=雇佣
-hire.hireover=<0> 的雇佣期已到. 他正返回他的村庄.
-hire.hiredied=<0> 已死亡. 他会重生在自己的村庄里, 雇佣关系已取消.
+hire.hireover=<0> 的雇佣期已到. <ret>他正返回他的村庄.
+hire.hiredied=<0> 已死亡. <ret>他会重生在自己的村庄里, 雇佣关系已取消.
 hire.hiredbyotherplayer=<0> 已被 <1> 雇佣.
 hire.hiredby=被<0>雇佣
 
@@ -652,18 +725,19 @@ info.culture=<0> 文化
 info.culturereputation=声誉: <0>
 info.culturelanguage=语言水平: <0>
 
+culturereputation.scourgeofgod=灾难之神
 culturereputation.dreadful=令人恐惧
-culturereputation.bad=不良
-culturereputation.stellar=神圣的
+culturereputation.bad=地痞
+culturereputation.stellar=圣贤
 culturereputation.excellent=优秀
-culturereputation.good=良好
-culturereputation.decent=优良
+culturereputation.good=好人
+culturereputation.decent=良民
 culturereputation.neutral=中立
 
 culturelanguage.fluent=流利
 culturelanguage.moderate=中等
 culturelanguage.beginner=初学者
-culturelanguage.minimal=最低
+culturelanguage.minimal=支支吾吾
 
 
 weapon.criticalstrike=致命一击! <0>倍伤害!
@@ -700,13 +774,13 @@ raid.historydefended=成功阻止了<0>的侵略.
 
 hof.hof=荣耀殿堂
 hof.modcreator=Mod创建者
-hof.creatorofmayan1=玛雅文化
+hof.creatorofmayan1=玛雅文明
 hof.creatorofmayan2=创建者
-hof.creatorofjapanese1=日本文化
+hof.creatorofjapanese1=日本文明
 hof.creatorofjapanese2=创建者
-hof.creatorofbyzantine1=拜占庭文化
+hof.creatorofbyzantine1=拜占庭文明
 hof.creatorofbyzantine2=创建者
-hof.creatorofindianskins1=印度文化
+hof.creatorofindianskins1=印度文明
 hof.creatorofindianskins2=创建者
 
 hof.skinmaker=皮肤制作者
@@ -725,13 +799,13 @@ hof.improvementsjapanese2=的改进
 hof.lonebuildings=孤立建筑物
 hof.obsidiantools1=黑曜石工具
 hof.obsidiantools2=图标
-hof.forgecode1=Forge Sprite API
+hof.forgecode1=Forge贴图API
 hof.forgecode2=源码
 hof.btw=(BTW 制作者)
-hof.forgehelp1=Forge Sprite API
+hof.forgehelp1=Forge贴图API
 hof.forgehelp2=帮助
-hof.hofidea1=提出荣誉
-hof.hofidea2=殿堂想法
+hof.hofidea1=名人堂
+hof.hofidea2=创意
 hof.donor=捐献者
 hof.variousimprovements1=各种
 hof.variousimprovements2=改进
@@ -753,6 +827,7 @@ culture.norman=诺曼
 culture.hindi=印度
 culture.japanese=日本
 culture.mayan=玛雅
+culture.byzantines=拜占庭
 
 export.errornoname=你必须在第一行给出建造计划的名称.
 export.errornoendsigneast=无法找到东边的终止标记. 它必须是从起始点开始有256个方块长度的直线.
@@ -779,3 +854,248 @@ effect.shop=商店: <0>
 effect.irrigation=灌溉: <0>% 农作物
 effect.pujalocation=法会举办于
 effect.healing=治疗玩家
+
+chunk.chunkmap=区块地图
+chunk.caption=说明
+chunk.captiongeneral=每个区块显示为一个2x2的像素区域
+chunk.captiongreen=绿点表示一个已经加载的区块.
+chunk.captionblue=蓝点表示一个村庄的区块.
+chunk.captionpurple=紫点表示孤立建筑的区块.
+chunk.captionwhite=白点表示已被某个mod持续加载的区块<ret>(Millénaire或其他Forge的MOD)
+chunk.playerposition=玩家坐标: <0>
+chunk.settings=村庄加载半径: <0> 米. Forge所允许保存的最大数量区块: <1>.
+chunk.explanations=Millénaire的村庄只会在区块被加载后才会激活.<ret>其他村庄的居民则会被冻结.<ret>Millénaire会试图让Minecraft保持玩家200米<ret>范围内的区块被加载(这个值可以改变).<ret>而应用于此的Forge的机制是有限的,<ret>默认为200个区块.你可以在<ret>minecraft/config/forgeChunkLoading.cfg<ret>里配置这个值.<ret>警告: 增加持续加载的区块数目会导致性能降低.<ret>
+chunk.chunkcoords=区块: <0>
+chunk.village=<0>
+chunk.chunkforced=强制加载
+
+achievementpage.name=村庄
+achievement.firstcontact.name=邂逅
+achievement.firstcontact.desc=与村民的初遇
+achievement.cresus.name=大富豪
+achievement.cresus.desc=咱赚钱啦
+achievement.summoningwand.name=召唤
+achievement.summoningwand.desc=购买召唤之杖并唤出村民
+achievement.villageleader.name=村长
+achievement.villageleader.desc=成为领导者并创建出你统治下的村庄
+achievement.thequest.name=任务
+achievement.thequest.desc=完成村民交付给你的任务
+achievement.maitreapenser.name=领袖
+achievement.maitreapenser.desc=与圣人或炼金术士相见
+achievement.forbiddenknwoledge.name=禁忌的知识
+achievement.forbiddenknwoledge.desc=完成两个章节的创世任务
+achievement.puja.name=来自神灵的些微帮助
+achievement.puja.desc=祭神
+achievement.explorer.name=探索者
+achievement.explorer.desc=探索独立建筑
+achievement.marcopolo.name=马可.波罗
+achievement.marcopolo.desc=至少拜访过三个文明的村庄
+achievement.magellan.name=麦哲伦
+achievement.magellan.desc=拜访过所有文明的村庄
+achievement.selfdefense.name=自卫
+achievement.selfdefense.desc=杀死强盗
+achievement.pantheon.name=万神殿-荣耀殿堂
+achievement.pantheon.desc=参观神秘的万神殿
+
+achievement.darkside.name=堕入黑暗
+achievement.darkside.desc=杀死一个村民
+achievement.scipio.name=隳名城
+achievement.scipio.desc=用否定权杖毁灭村庄
+achievement.attila.name=上帝之鞭
+achievement.attila.desc=至少在三个文明赢得"灾难之神"称号
+
+achievement.cheers.name=为minecraft欢呼三声吧！
+achievement.cheers.desc=喝下特有烈酒
+achievement.hired.name=雇佣人手
+achievement.hired.desc=雇佣一个村民
+achievement.masterfarmer.name=专业老农
+achievement.masterfarmer.desc=种植特有作物
+
+
+config.pagetitle=Millénaire设置
+config.page.uisettings=UI设置
+config.page.worldgeneration=世界生成
+config.page.worldgeneration.desc=这些设置用于本地世界生成(非你所连接的服务器).
+config.page.villagebehaviour=村民行为
+config.page.villagebehaviour.desc=这些设置用于本地村民行为(非你所连接的服务器).
+config.page.devtools=开发者工具
+
+config.village_list_key.label=村庄列表快捷键
+config.village_list_key.desc=显示附近村庄的快捷键. 默认: <0>.
+
+config.quest_list_key.label=信息版快捷键
+config.quest_list_key.desc=显示Millénaire信息版的按键. 默认: <0>.
+
+config.escort_key.label=护卫行为快捷键
+config.escort_key.desc=在进攻和防御之间改变你所雇佣的村民行为. 默认: <0>.
+
+
+config.fallback_language.label=备选语言
+config.fallback_language.desc=次要游戏语言, 当主语言不可用时启用.
+
+config.dynamic_textures.label=高清材质
+config.dynamic_textures.desc=如果MC的材质包是64x材质或以上时,自动切换至64x材质.
+
+config.language_learning.label=语言学习
+config.language_learning.desc=语言是否需要经过"学习" (语言翻译只会在玩家与一个文化有足够接触后才会显示).
+
+config.load_all_languages.label=载入所有语言
+config.load_all_languages.desc=是否载入所有可用语言, 如有翻译需要可使用该功能.
+
+config.display_start.label=显示启动文本
+config.display_start.desc=在启动时显示Millénaire版本和任务创建状态.
+
+config.display_names.label=显示村民姓名
+config.display_names.desc=在村民头上显示姓名, 职业和当前任务.
+
+config.villagers_names_distance.label=显示姓名距离Name Display Distance
+config.villagers_names_distance.desc=姓名可见的距离. 默认: <0>.
+
+config.villagers_sentence_in_chat_distance_client.label=聊天语句 (多人)
+config.villagers_sentence_in_chat_distance_client.desc=多人游戏中,距村民多远才会在聊天栏内显示村民的对话. 默认: <0>.
+
+config.villagers_sentence_in_chat_distance_sp.label=聊天语句 (单人)
+config.villagers_sentence_in_chat_distance_sp.desc=单人游戏中,距离村民多远才会在聊天栏内显示村民的对话. 默认: <0>.
+
+config.generate_villages.label=村庄生成
+config.generate_villages.desc=是否在新区块中生成村庄.
+
+config.generate_lone_buildings.label=孤立建筑物生成
+config.generate_lone_buildings.desc=是否在新的区块中生成孤立建筑物.
+
+config.keep_active_radius.label=区块载入半径
+config.keep_active_radius.desc=在玩家附近多大半径内持续保持村庄区块载入. 默认: <0>.
+
+config.min_village_distance.label=最小村庄距离
+config.min_village_distance.desc=两个村庄之间生成时的最小距离. 默认: <0>.
+
+config.min_village_lonebuilding_distance.label=最小村庄-孤立建筑物距离
+config.min_village_lonebuilding_distance.desc=村庄和孤立建筑物生成时的最小距离. 默认: <0>.
+
+config.min_lonebuilding_distance.label=孤立建筑物最小距离
+config.min_lonebuilding_distance.desc=孤立建筑物之间生成的最小距离. 默认: <0>.
+
+config.spawn_protection_radius.label=出生点保护半径
+config.spawn_protection_radius.desc=出生点附近多大半径内不会生成建筑. 默认: <0>.
+
+config.village_radius.label=村庄半径
+config.village_radius.desc=正常村庄的半径(非小村庄). 默认: <0>.
+
+config.min_distance_between_buildings.label=建筑物之间的最小距离
+config.min_distance_between_buildings.desc=村庄内两个建筑之间的最小距离. 默认: <0>.
+
+config.village_paths.label=建造村庄小径
+config.village_paths.desc=在新村庄中生成道路并且村民会升级它们.
+
+config.max_children_number.label=最大儿童数
+config.max_children_number.desc=村庄可拥有的最大儿童数. 默认: <0>.
+
+config.background_radius.label=村庄关系半径
+config.background_radius.desc=村庄与其他村庄之间拥有联机的半径 (外交, 贸易, 袭击). 默认: <0>. 
+
+config.bandit_raid_radius.label=强盗袭击半径
+config.bandit_raid_radius.desc=强盗会袭击村庄的半径. 默认: <0>.
+
+config.raiding_rate.label=袭击 % 几率
+config.raiding_rate.desc=如果几率为100则村庄和强盗会每天晚上都去袭击. 默认: <0>.
+
+
+
+config.generate_colour_chart.label=生成颜色图示
+config.generate_colour_chart.desc=生成颜色图示在建筑规划中可用.
+
+config.generate_building_res.label=生成资源列表
+config.generate_building_res.desc=生成每个建筑所需要的资源列表.
+
+config.generate_translation_gap.label=生成翻译缺口
+config.generate_translation_gap.desc=为每个载入的语言生成一份未翻译文本的报告.
+
+config.generate_goods_list.label=生成物品列表
+config.generate_goods_list.desc=生成村庄模组中已知物品的列表.
+
+config.valuetrue=是
+config.valuefalse=否
+
+config.page.bonus=贡献者奖励
+config.page.bonus.desc=为村庄模组做出贡献或捐献的人的奖励 <ret>(翻译, 建筑计划, 对话, 材质, wiki贡献等等.) :<ret>可从村长那里获得一个免费的小房子.
+
+config.bonus_code.label=奖励代码
+config.bonus_code.desc=启用奖励的代码. 如果网络连接可用,会自动从因特网上获取.
+
+config.validbonuscode=有效的代码! 奖励已启用.
+config.invalidbonuscode=非法代码. 请检查.
+
+
+tradehelp.title=<0> - 贸易中
+tradehelp.goodssold=出售货物
+tradehelp.goodsbought=购买货物
+tradehelp.buyingprice=收购:
+tradehelp.sellingprice=出售:
+tradehelp.helptitle=一般的贸易
+tradehelp.helptext=你可以在每个商店购买村庄库存的商品.除了一些"免费"的方块(如道路方块)或特殊物品(如权杖),你所购买的产品都是由村民生产且在你购买后村庄会"失去"这些东西.而不像原版游戏中的村民可无限交易.<ret><ret>村民会生产大部分他们缩需要的商品,但是如果你出售给他们则常会帮他们加快村庄的发展.
+
+tradehelp.freeblock=These types of blocks are made for "free" by the village and are therefore available in unlimited quantities.
+tradehelp.wood=The villagers produce wood in groves. They use it to build.
+tradehelp.stone=The villagers produce stone and glass in quarries. If the village does not have one, it is entirely dependent on you for their needs.
+tradehelp.whitewool=White wool is used in some buildings. The villagers dye it automatically if necessary.
+tradehelp.clay=The villagers produce bricks with clay from quarries.
+tradehelp.genericfood=Access to different types of food helps children grow faster.
+tradehelp.genericfoodraw=The villagers cook meat before eating it.
+tradehelp.genericfoodsweet=Alcohol and sweets help increase the villagers' chances of conceiving children.
+tradehelp.seeds=The villagers use seeds to plant wheat and feed chickens.
+tradehelp.carrot=Villagers use carrots to feed their pigs.
+tradehelp.feathers=Feathers are used to make arrows.
+tradehelp.generictools=Tools of different levels make villagers more effective.
+tradehelp.genericweapon=Weapons and armor of different levels make villagers more powerful.
+tradehelp.purse=Bourses à deniers can store deniers and keep track of your funds. They are always available.
+tradehelp.wand=The wand of summoning allows you to create villages. They are always available.
+tradehelp.parchments=Parchments provide information about Millénaire. They are always available.
+
+tradehelp.normanwhitewool=White wool is used in some buildings and is needed to make tapestries in Norman forts.
+tradehelp.normantapestrywool=Gray, light gray, black, and brown wools are required by the lady to make tapestries.
+tradehelp.normanleather=Norman monks use leather to make books.
+tradehelp.normantools=Norman smiths use iron to make Norman weapons and tools of exceptional quality.
+tradehelp.normanbooks=Norman monks produce bookshelves with paper and books. They are used in some buildings.
+tradehelp.normanalchemy=The alchemist produces basic potions.
+tradehelp.normancider=Normans produce cider and calva in taverns from cider apples harvested by loggers. These drinks heal and regenerate the player and help the villagers to have children. Calva also provides a temporary "Strength" bonus.
+tradehelp.normantripesboudin=Normans produce tripes and boudins from cows and pigs. These foods nourish the player and help children grow. Tripes also provide a temporary "Regeneration" bonus.
+tradehelp.normantapestry=Ladies produce these decorative tapestries from white, gray, light gray, brown, and black wool.
+tradehelp.normantimberframes=Norman carpenters produce these timber frames from wood.
+tradehelp.normanwheat=Norman villagers make bread and feed their livestock with wheat.
+
+tradehelp.byzantinetools=Byzantine smiths use iron and leather to produce iron tools and Byzantine armours.
+tradehelp.byzantinefeta=The Byzantines produce feta cheeses from sheep milk. These cheeses heal and regenerate the player and help the villagers to have children.
+tradehelp.byzantinebooks=The Byzantines produce books from wood and leather.
+tradehelp.byzantinewine=The Byzantines produce wine from grapes in taverns. The wine heals the player and helps the villagers have children. It also provides a temporary "Resistance" bonus.
+tradehelp.byzantinesilk=The Byzantine produce silk and use it to make paintings, icons, and luxurious clothes for the rich Byzantines.
+tradehelp.byzantineclothes=The Byzantines produce clothing from wool and silk. They improve the appearance of the villagers who wear them.
+tradehelp.byzantinetiles=The Byzantines produce tiles from stone and clay.
+tradehelp.byzantinefood=The Byzantines cook the lamb chops and mix them with their feta cheeses to make delicious souvlakis. These foods nourish the player and help children grow. Souvlakis also give back health.
+tradehelp.byzantineweapons=Byzantine blacksmiths produce solid, formidable armor from iron and leather.
+tradehelp.byzantinewheat=The Byzantine villagers make bread and feed their livestock with wheat.
+
+tradehelp.hinditools=Indian smiths use iron to produce tools and armor.
+tradehelp.hindigenericfood=Access to different types of food helps children grow faster. Warning: Indians do not eat beef or pork.
+tradehelp.hindigenericfoodsweet=Desserts increase help villagers conceive children. Warning: Indian villagers do not drink alcohol.
+tradehelp.hindirasgulla=The Indians produce delicious rasgullas from sugar. They heal and regenerate the player and help villagers have children. They also provides a temporary "Speed" bonus.
+tradehelp.hindicurry=The Indians cook vegetarian curries with rice and turmeric as well as chicken curries by adding a chicken. These foods nourish the player and help children grow. Chicken curries also provides a temporary "Fire resistance" bonus.
+tradehelp.hindibricks=The Indians leave wet mud bricks in the sun to cook to make dry bricks. You can make them yourself by buying a mould.
+tradehelp.hindistatue=Indian sculptors produce these bas-relief of Hindu gods for adorning Indian temples.
+
+tradehelp.japanesegold=The Japanese use gold to decorate some buildings.
+tradehelp.japaneseudon=The Japanese cook udons from wheat and chicken. They nourish the player and help children grow. They also provide a temporary "Jump Boost" bonus.
+tradehelp.japanesetools=Japanese smiths use iron and leather to produce iron tools and Japanese armor.
+tradehelp.japaneseweapons=Japanese blacksmiths produce beautiful armor and formidable swords from iron, leather, and wool.
+tradehelp.japanesepaper=Japanese artisans produce paper from rice and use it to make translucent walls.
+tradehelp.japaneseframes=Japanese craftsmen produce timber frames from wood to build elegant buildings.
+tradehelp.japaneserice=The Japanese use rice to grow and nourish their children, to produce paper, and to ferment sake.
+tradehelp.japanesewheat=The Japanese cook wheat to make udons.
+tradehelp.japanesethatch=Japanese produce blocks from wheat.
+tradehelp.japanesesake=Japanese sake brewers use rice to brew sake. Sake heals and regenerates the player and helps the villagers have children. It also provides a temporary "Water Breathing" bonus.
+
+tradehelp.mayangold=Mayan artisans need gold to produce decorative blocks. They require players to provide the gold for them.
+tradehelp.mayanfood=The Mayan people grow corn and make masa (maize tortillas) and wah (by adding chicken) from it. They nourish the player and help children grow. Wah also provide a temporary "Haste" bonus.
+tradehelp.mayanobsidian=Mayan artisans produce tools with obsidian sold by the player. These tools are not very effective, but can be enchanted easily.
+tradehelp.mayanstonetools=Mayan artisans produce tools and swords from stone as basic tools in the absence of obsidian.
+tradehelp.mayanweapons=Mayan artisans make stone swords and leather armour. Obsidian craftsmen can make them more powerful and very enchantable obsidian maces.
+tradehelp.mayancocoa=Mayan cocoa farmers harvest cocoa pods and use them to prepare cacauhaa, a chocolate drink. Cacauhaa heals and regenerate the player and helps increase the number of villagers who will have children. It also provides a temporary "Night Vision" bonus.

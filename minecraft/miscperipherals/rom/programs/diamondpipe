@@ -1,3 +1,5 @@
+os.loadAPI("rom/apis/miscperipheralsutil")
+
 directions = {"Down", "Up", "North", "South", "East", "West"}
 directionNames = {down = 0, up = 1, north = 2, south = 3, east = 4, west = 5}
 
@@ -20,16 +22,7 @@ for i = 1, #args, 2 do
   end
 end
 
-interactiveSorter = nil
-interactiveSorterSide = nil
-for i, side in pairs(rs.getSides()) do
-  if peripheral.getType(side) == "interactiveSorter" then
-    interactiveSorter = peripheral.wrap(side)
-    interactiveSorterSide = side
-    break
-  end
-end
-
+interactiveSorter, interactiveSorterSide = miscperipheralsutil.getPeripheral("interactiveSorter")
 if interactiveSorter == nil then
   print("No Interactive Sorter peripheral found")
   return

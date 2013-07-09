@@ -1,12 +1,30 @@
 version:3.4
-<darkblue>Expansion du village
+<darkblue>村莊的發展
 
-<darkred>This section will soon be translated to English in a new update
+所以的村莊一開始規模都很小，只有一些
+房屋或者其他建築物圍繞著中心建築(不同
+的種類：城堡、宮殿、寺廟...等等，通常
+都是被稱為「城鎮中心」)。村民們的主要
+目的是透過選擇建造新建築物來改善現有
+的建築物，來拓展村莊。因此，他們需要
+資源-他們可以自己生產一些 (例如伐木工
+佱木，採礦工去採石塊...)另外一些則需
+要依靠玩家提供。規劃建造建築物所需要
+的物資會在主建築物中發送出來。你可以
+透過出售建設所需的物資來協助村民。
 
-Les villages commencent petits, autour d’un bâtiment central (de type variable : fort, palais, monastère, etc... généralement désignés sous le nom de « mairie »), avec quelques maisons ou autres bâtiments. Le but principal des villageois est d’agrandir leur village, en choisissant de nouveaux bâtiments à construire et des améliorations aux bâtiments existants. Pour ça ils ont besoin de ressources  - ils peuvent en produire certaines eux-mêmes (les bûcherons ramènes du bois, les mineurs de la pierre…) mais dépendent du joueur pour d’autres. Leurs besoins en matériaux pour la construction prévue sont affichés dans le bâtiment central. Vous pouvez les aider en leur vendant ces ressources en priorité.
+村莊的人口也會隨著時間逐漸增加-在晚上
+已婚的村民可以生育孩子。只要長大，
+這些孩子會搬入可用的空房子並成為大人。
 
-La population du village augmente également – la nuit, les couples de villageois peuvent avoir des enfants. Une fois grandis, ces enfants emménageront  dans des maisons libres si disponible et deviendront adultes.
+村莊停止擴展一般有兩種原因：可能是因為
+村莊已經完成了所有需要的建築物，也有可
+能是因為沒有地方來建造。後者情過發生時
+，你可以查看村莊地圖來看哪些地區無法建
+造，這些無法建造的區域有時是可以轉變成
+可建造區域的，例如把一個湖填滿。
 
-L’expansion d’un village s’arrête en générale de deux manières : ou parce que le village a terminé tous les bâtiments qu’il peut construire, ou parce qu’il n’a plus de place. Dans ce dernier cas, vous pouvez regarder la carte du village pour voir quels terrains sont inconstructibles. C’est parfois possible de les rendre constructibles en comblant un lac par exemple.
-
-Parfois, un village a besoin d'un type de bloc que vous ne pouvez pas produire, comme les colombages des normands et japonais. Vous devez attendre que le village construire un atelier pour un artisan en fabriquant et qu'un enfant s'y installe.
+有時，一個村子需要的方塊種類是你無法
+自己採及製作的，例如諾曼和日本的木框。
+你必須等待，直到村裝建立了木工坊，並且
+一個孩子成長為工匠。

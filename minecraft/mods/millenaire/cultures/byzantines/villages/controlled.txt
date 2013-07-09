@@ -4,6 +4,11 @@ hillQualifier:stous lophous
 lavaQualifier:to hephaisto
 lakeQualifier:limne
 playerControlled:true
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathochretiles
 
 //starting buildings:
 centre:playerfortbyzantine
@@ -24,6 +29,7 @@ core:bakerybyzantine
 core:watchtowerbyzantine
 core:chapelbyzantine
 core:forgebyzantine
+core:playersmallhouse
 core:villa urbana
 core:basilkabyzantine
 core:innbyzantine

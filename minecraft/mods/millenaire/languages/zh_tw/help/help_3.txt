@@ -1,34 +1,63 @@
 version:3.4
-<darkblue>Reputation & village chief
+<darkblue>聲譽與村長
+每個 Millénaire 的村莊對玩家都有一個評價，
+都是從中立開始，並且會隨著你的行為而改變。
 
-Each village in Millénaire has a opinion of you, neutral at the start and changing according to your actions. This reputation is very important: many rewards are only possible with a good reputation, and if your reputation gets too bad, villagers can refuse to trade with you. You can check your reputation by speaking (<darkblue>right-click<black>) with the village chief.
+聲譽非常的重要：
+很多將力必須要有一個好聲譽。
+如果你的聲譽變的太差，村民將會拒絕與你交易。
+你可以與村長交談(<darkblue>點擊右鍵交談<black>)
+來查看你的聲譽。
 
-The main way to improve your reputation is to trade with the village. Purchases as well as sales improve your reputation in proportion to the price. You can also improve your reputation by performing quests for them. Conversely, attacking a village or failling certain missions will damage your reputation.
+提高聲譽的主要方法是與村莊貿易，
+販賣物資能夠提高你的信譽從而獲得更好的折扣。
+你還可以透過完成他們的任務來提高玩家的聲譽。
+相反的，攻擊一個村莊或任務失敗會讓你損失聲譽。
 
-You also have a <darkblue>reputation with each culture<black>. This reputation is affected by all your dealings with villages of this culture, and affects your trading with all other villages of the same culture. For example, if you have a very good reputation with a Norman village, other Norman villages will also like you (a little) more. You can check your reputation with every culture in the information screen (“M” key by default).
+每個村莊都有<darkblue>獨立聲譽<black>。
+聲譽影響該文化的村莊與你的所有貿易行動
+，例如，如果你在一個諾曼村莊中擁有很好
+的聲譽，其他的諾曼村莊也會比較喜歡你(一點點)。
+你可以在訊息窗口查看你的每個文化的聲譽
+(默認「M」鍵)。
 
-<darkblue>Actions requiring a certain reputation
+<darkblue>需要一定聲譽的行為：
 
-<darkblue>Buy a village parchment
+<darkblue>購買一個村莊捲軸
 
-With a good enough reputation you can buy a village parchment from the village chief. This scroll includes all the information given by the different panels of the village.
+當你有夠好的聲譽時可以從村莊那裡購買一個村莊捲軸。
+村莊捲軸包含了村裡不同訊息板所提供的內容。
 
-<darkblue>Buying a Home
+<darkblue>購買房子
 
-Once you have a good enough reputation, you can buy a house (or a field to build on) by talking to the village chief. Your home will be built by the village after the ongoing construction is finished. Unlike the rest of the area around the village, this building belongs to you and you can customize it at will.
+只要你擁有夠好的聲譽，你可以與村長交談
+來購買一棟房子(或者建房子的土地)。在所有
+預定建造的建築物完成後就會開始建造你的房子
+不像村莊的其他區域，這個建築物是屬於你的，
+並且可以按造你的喜好去改建它。
 
-<darkblue>Learning to plant a crop 
+(註記:一開始都是買到空地，後面才
+會買到房子，所以買到的空地上牌子所寫的可以無視)
 
-You can learn to plant the Millénaire-specific crops used by some of the culture. Contact the village chief once you have enough reputation.
+<darkblue>學習種植作物
 
-<darkblue>Purchase additional items 
+當你擁有足夠的聲譽時，去和村長交談，就可以學習
+種植Millénaire所特有的，一些被不同文化個別持有的作物。
 
-Some valuable items require having a good reputation in the village. If you do not have the necessary reputation to buy an item this will be indicated in the trade screen.
 
-<darkblue>Additional quests 
+<darkblue>購買額外的物品
 
-Some quests, including the Creation Quest, can only be started with a good reputation (see <darkblue>“quests” <black>).
+一些有價值的物品需要在村裡有個好聲譽才能購買。
+如果你的聲譽不足購買一個物品時，交易窗口會提醒你的。
+ 
 
-<darkblue>Becoming leader in a culture
+<darkblue>額外的任務
 
-Once you have reached the maximum reputation (<darkblue>"natural leader" <black>) you can build a village where you will be the leader (see <darkblue> "creating a village"<black>)
+一些任務，包括創世任務，只能開始於一個好聲譽
+(見 <darkblue>「任務」 <black>)。
+
+<darkblue>成为一个文化的领袖
+
+當你的聲譽達到最高時(<darkblue>「天生领袖」<black>) 
+你就可以創建一個由你領導的村莊。
+(見<darkblue>「創建一個村莊」<black>)

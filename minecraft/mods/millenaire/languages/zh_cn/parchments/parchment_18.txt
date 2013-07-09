@@ -1,38 +1,57 @@
-version:3.1.7
+version:4.8.0
 Millénaire: 日本物品
 
-迪奈尔. When the Japanese come to this new land they changed their currency to the denier. It comes in three values: Denier (bronze), Denier Argent (silver) worth 64 regular ones, and Denier Or (gold) worth 64 silver ones.
+迪奈尔. 日本人来到这片新大陆便开始使用迪奈
+尔作为货币。这种货币有三种面值：青铜币，价
+值64青铜币的白银币，以及价值64白银币的黄金
+币。
 NEW_PAGE
 食物
 
-Rice. Bland and tasteless but the Japanese harvest it like there's no tomorrow. If the japanese have rice in their chests they have more children. It is also used in the making of paper.
+稻米. 淡淡的没有啥味道，但日本人就像再也看
+不到明天似地种植和收获这种粮食作物。它也能
+用于造纸。
 
-Udon. This mysterious food item is made by the japanese in their kitchen.
+乌冬面. 日本人在厨房里加工出的神秘食物。
 NEW_PAGE
 工具和武器
 
-Tachi sword. This sword does the same damage as the iron sword but does critical hits with 3X damage. Its good at taking down tough enemies.
+太刀. 和铁剑的伤害一样，但又几率暴击造成三
+倍伤害。专门用于对付棘手的敌人。
 
-Yumi Bow. Bigger than the English longbow this was and is still the largest bow in history with some being 2.2 metres long. This bow shoots further and faster this gives greater accuracy over a long distance. It also reloads faster and does more damage than a normal bow.
+和弓. 比英式长弓还大，至今仍是历史上最大的
+有2.2米长的巨弓，相比普通的弓，射程更远，
+射速很高，长距离范围的精准度也更好。重新上
+弦的速度以及造成的伤害也更高。
 
-Keiko Armour. This is the Soldier's armour similar to chain mail armour with leather in between. It's as strong as iron armour and more durable. it is made out of iron and leather.
+武士甲衣. 一种用皮革垫底的链甲，防御同铁制
+套装，但耐久更高。用铁和皮革制成。
 
-O-Yoroi Armour. This armour comes in two designs one being red and the other blue. This is stronger than iron armour and as durable as diamond. the village leaders wear this armour.
+武士大铠. 有红色和蓝色两种款式。比铁制套装
+防御稍高，耐久和钻石套装一样。村子的领导会
+穿这种铠甲。
 NEW_PAGE
 建筑和装饰材料
 
-Thatch. This is made out of wheat and is used for the roofs of buildings. Its also rather comfy to sleep on.
+草垛. 用小麦做成，可以做屋顶的建筑材料，躺
+在上面很舒服。
 
-Paper Wall. This is a thin sheet of paper stretched by four sticks. Light can shine through it but you can't see through it. It is for decorating buildings. It is made from paper and the paper is made fro rice.
+纸墙. 一种用木棍加固的纸片。不透明，但可以
+透光。用作装饰和建筑材料。用纸做成的。而纸
+用稻米来做。
 
-Timber Frames. The Japanese make Plain and cross timber frames for their buildings. It is made from dirt and dark wood.
+木头框架. 日本人制作这种朴素交错的木头框架
+来用作建筑材料，原料是泥土和黑暗料理。
 New_PAGE
 羊皮纸
 
-Japanese Villagers. A parchment outlining the various kinds of villagers that will probably kill you if you touch one them.
+日本村民. 这个卷轴描述里各种如果你触犯他们
+可能就会被杀死的日本村民。
 
-Japanese Buildings. A description of the different buildings you can see the villagers get stuck making.
+日本建筑. 描述你可能看到的以及日本村民可能
+建造的各式各样的日本建筑。
 
-Japanese Items. Your reading it right now.
+日本物品. 你正在阅读的物品.
 
-Complete Japanese Scroll. The content of the previous three, in one easy scroll for easier carrying.
+完整的日本卷轴. 拥有其他三种卷轴的全部内容
+，便于携带。

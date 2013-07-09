@@ -1,54 +1,132 @@
-version:3.1.7
-Millénaire: Japanese Inhabitants
+﻿version:3.1.7
+Millénaire : 日本村民
 
-Village heads
+村莊領袖
 
-Shuken しゅくん: Lord. This man lives in a walled fort in which he rules his people from. He comes out to patrol and kill monsters. He will also defend his village to the death and kill anyone who endangers his village.
+Shuken しゅくん : 領主
+這個男子住在堅固的堡壘裡面統治他的人民。
+他會出來巡邏並殺死怪物。
+他誓死捍衛自己的村莊，並殺死所有會危及
+自己村莊的人。
 
-Kokushi こくし: Overseer. The Kokushi will run a a village from the imperial office. He makes the village work hard and encourages them to pray. He also demands high taxes from the villagers but they are very religious and at peace with themselves so there are no complaints.
+Kokushi こくし : 監督者
+國司待在帝國指揮部裡讓村莊運作。
+他得讓村莊努力工作，並鼓勵村民們參拜。
+他還要求村民支付高額的稅收，但老實的村民
+們是非常虔誠的，所以沒有任何怨言。
 
-Chōkan ちょうかん: Chief. This man is really a peasant but the Japanese need plenty of food so someone has to lead an agricultural village. He is one of the elders chosen to lead the village. He will give advice to the villagers on farming techniques and defend it from monsters.
+Chōkan ちょうかん : 族長
+這個人其實是一個農民，但日本需要大量的食
+物，所以必須有個人來領導一個農業村莊。
+他是長老之中被推舉來領導村莊的人。
+他會提供村民們有關農業技術和抵禦怪物的
+指導。
 NEW_PAGE
-Women
+女性 :
 
-Jojoufu じょじょうふ: Brave woman. This is the wife of a guard or soldier. She will do normal tasks such as farming in the fields or making thatch. But when the men are out fighting she gets tasked with defending the village to her last breath. Be careful how you look at her as one wrong movement of the eyes and you've had it.
+Jojoufu じょじょうふ: 勇敢的女人
+她是一名守衛或武士的妻子。
+她會做正常的任務，比如說在田間務農或
+製作茅草。
+但是，當男人外出打仗時，她會誓死保衛村莊。
+要小心點，要是你眼睛看錯她的動作的話就完
+蛋了。
 
-Reifujin れいふじん: Lady. This women is the wife of a rich man usually the village leader. She tries to make herself look beautiful and doesn't do much else... at all.
+Reifujin れいふじん : 女士
+這個女人是一個富人的妻子，通常都是成為領
+導的富人。
+她努力的讓自己變得更美麗，所以在其他方面
+並不會做太多的事...或者該說是完全不做事。
 
-Tsuma つま: Wife. These women do the tasks that the men don't want to do like tend to the fields, make thatch and cook food. This is boring, backbreaking work but they can't complain without certain repercussions. However without these women the village will starve.
+Tsuma つま : 妻子
+這些婦女們要做男人不想幹的苦差事，比如到
+田裡務農、製作茅草和煮飯。
+這些工作都很無趣且累人，而且她們的抱怨迴
+響要是不夠大的話就會被無視。
+但要是沒有這些婦女，村莊可能會陷入飢荒。
 NEW_PAGE
-Men
+男子 :
 
-Kikori きこり: Lumberman. This man knows his trees and knows which ones to cut down for building. He raises each tree from a sapling till they are tall enough to be chopped down for wood. He will also take part in raiding other villages.
+Kikori きこり : 樵夫
+這個人對他所種植的樹瞭若指掌，知道哪些
+樹適合砍來作為建材。他會細心照顧每棵樹，
+並等到它們長得夠高了才砍倒它們。
+他偶爾還會參加與其他村莊的戰爭。
 
-Saikushi さいくし: Craftsman. This man creates paper from rice and makes paper walls from that. he will also make timber frames for the village as well. Without him the village will look horribly dull and there will be nothing to distract people raiding the village as they pass through.
+Saikushi さいくし : 工匠
+這個人用紙和糯米製作紙牆，他也會製作
+村莊所需要的木框架。
+沒有了他，這個村莊就會沉悶的可怕，
+而且也不能讓那些襲擊村莊的人們分心。
 
-Hyakushou ひゃくしょう: Wheat farmer. This man plants wheat on his farm to store for food. He has his own plot of land and looks after it well.
+Hyakushou ひゃくしょう : 小麥農夫 
+這名男子會在他的農場上種植小麥以作為
+儲備糧食。
+他有一塊土地，而且也照顧的很好。
 
-Kaji かじ: Army smith. The Kaji is a soldier himself. Skilled in the art of crafting weapons and armour he has been given the position of blacksmith to make weapons that do not break on impact and armour that can stop the sharpest of weapons.
+Kaji かじ : 軍匠 
+軍匠自己就是一名武士。
+他精通於鍛造武器和盔甲的藝術，他製作
+的武器可以在碰撞中不被打壞，而他
+的盔甲能擋下最銳利的武器，這讓他在鐵
+匠中擁有一定的地位。
 
-Kajiya かじや: Smith. The Kajiya is a villager that knows his way around a furnace and how to make the tools for everyday jobs in the village. This man can get very wealthy if his tools are quality and have a high demand.
+Kajiya かじや : 鐵匠 
+村民們都知道他總是待在火爐旁，並製作
+日常生活所需的工具。
+如果他的工具的品質很好，又廣受大家愛用，
+這個人會變得很有錢。
 
-Bushi ぶし: Warrior. The Bushi class are all the educated warriors in a Heian period army. They go to war with other villages and have a Yumi Bow or a Tachi Sword as their weapons. They show no mercy and accept any challenge. 
+Bushi ぶし : 武士
+這些武士都是在平安時代受過教育的軍人。
+他們主要是參與對其他村莊的戰爭，他們以
+和弓或太刀做為武器。
+他們接受任何挑戰並且不會有任何憐憫。
 
-Keibou けいぼう: Guard. The Keibou guards the village from invaders. They can also go to war with other villages if needs be. They have a Yumi Bow or a Tachi Sword as their weapons. I wouldn't mess with these guys.
+Keibou けいぼう : 守衛
+這些守衛會從侵略者手中保衛村莊。
+需要的話，他們也可以參予與其他村莊的戰爭。
+他們以和弓或太刀做為武器。
+要是我，我絕對不會去招惹這些傢伙。
+ 
+Chounin ちょうにん : 商人
+商人會交易商品（建材，食品等）到其他村莊，
+並換取極需的商品。經過漫長的一天的旅行，
+商人們喜歡到熱情好客的旅店休息。
 
-Chounin ちょうにん: Merchant. The Chounin trades goods (building materials, food etc) with other villages and gets much needed goods in return. After a long day traveling the Chounin likes to relax in the hospitable Inn.
+Ryoushi りょうし : 漁夫 
+漁夫們住在村子裡，他們會到房子外面的水塘
+裡釣魚。
+有時漁夫的捕魚運不是很好，讓他不能達到
+每日要求的魚數量的配額。
 
-Ryoushi りょうし: Fisherman. Ryoushi are the fishermen in the village and go fishing in the lake outside his house. The Ryoushi sometimes has no luck fishing and can't reach his daily quota.
+Koufu こうふ : 礦工
+礦工努力的開採石頭和沙子。
+他還會用火爐來將沙子燒製成玻璃、將鵝軟石
+燒製成石頭。
 
-Koufu こうふ: Miner. The Koufu slaves away mining stone and sand. He also makes glass from sand and stone from cobblestone with his furnace.
+Souryo そうりょ : 僧侶
+僧侶是一個非常值得尊敬的人，通曉佛教大部
+分的經典。村民們常請教他如何和平解決事情。
 
-Souryo そうりょ: Monk. The Souryo is a very respectable man and knows the way of Buddhism deeply. Villagers come to this man for advice on how to be at peace with themselves.
+Noufu のうふ : 農民 
+這些農民會在村莊和水稻農場上建造建築物。
+他還會殺雞來作為食物。農民們是沒有休息
+時間的。
 
-Noufu のうふ: Peasant. Peasants build buildings in the village and farm on the rice paddy. He will also slaughter chickens for food. There is no rest for the peasants.
 NEW_PAGE
-Children
+孩子
 
-Danshi だんし: Teen boy. Old enough to move in to a building and have their own profession. Every Danshi dreams of becoming a warrior but most of the time thier dream doesn't come true.
+Danshi だんし : 十幾歲的男孩
+年紀夠大到可以搬進屋子裡並擁有自己的職業。
+每個男孩都夢想成為武士，但大多沒有成真。
 
-Jou じょう: Teen girl. She is old enoungh to move away from home and get married where she will then use the skills she learnt from her mother in the real world.
+Jou じょう : 十幾歲的女孩 
+她的年紀夠大到可以離開家鄉去結婚，然後她
+會將她從母親那裡學到的技巧付諸於實際。
 
-Otokonoko おとこのこ: Boy. Plays around the village and slower grows older.
+Otokonoko おとこのこ : 男孩
+他們在村莊四處遊玩，並且慢慢長大。
 
-Onnanoko おんなのこ: Girl. Plays around the village and slower grows older.
+Onnanoko おんなのこ : 女孩
+她們在村莊四處遊玩，並且慢慢長大。

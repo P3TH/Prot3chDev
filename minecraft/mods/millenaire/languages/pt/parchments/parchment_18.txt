@@ -1,4 +1,4 @@
-version:3.1.7
+version:4.8.0
 Millénaire: Objectos Japoneses
 
 Denier: Quando os Japoneses surgiram neste novo mundo, eles mudaram a sua moeda para o denier. Está dividido em três valores: deniers (bronze), deniers argent (prata), que valem 64 deniers, e deniers or (ouro), que valem 64 deniers argent, ou 4096 deniers.
@@ -8,6 +8,9 @@ Alimentos
 Arroz: Insípido e sem paladar, mas os Japoneses produzem-no como se não houvesse amanhã. Se os Japoneses tiverem uma boa dose de arroz nos seus armazéns, conseguirão criar mais crianças. É também utilizado na produção de papel de arroz.
 
 Udon: Este prato misterioso é produzido pelos Japoneses nas suas cozinhas.
+
+Saqué: Esta aguardente de arroz é produzida exclusivamente pelas aldeias comerciantes e rejuvenesce o jogador e aumenta a probabilidade da concepção de crianças nas aldeias.
+
 NEW_PAGE
 Ferramentas e Armas
 
@@ -18,6 +21,7 @@ Arco Yumi: Maior do que um arco Inglês, este foi e ainda é o maior arco na His
 Armadura Keikō: Esta é a armadura dos soldados, semelhante à cota de malha com couro pelo meio. É tão forte quanto a armadura de ferro, mas mais durável. É produzida com ferro e couro.
 
 Armadura Ō-yoroi: Esta armadura é produzida em dois formatos, um vermelho e outro azul. É mais forte do que a armadura de ferro, e tão durável quanto a de diamante. É utilizada exclusivamente pelos chefes da aldeia.
+
 NEW_PAGE
 Construção e Decoração
 
@@ -26,6 +30,7 @@ Colmo: Este material é produzido através do trigo e é utilizado na construç�
 Papel de Arroz: Esta é uma fina folha de papel esticada com quatro estacas. Embora não seja transparente, a luz consegue atravessar o papel e iluminar o interior. É utilizado para decorar as construções e é fabricado com papel, este, por sua vez, produzido através do arroz.
 
 Armação de Madeira: Os Japoneses produzem armações de madeira simples e cruzadas para as suas construções, a partir de terra e madeira escura.
+
 NEW_PAGE
 Pergaminhos
 

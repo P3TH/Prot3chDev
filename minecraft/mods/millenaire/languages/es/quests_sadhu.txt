@@ -134,7 +134,7 @@ sadhu_9_underwater_1_label=Reporta tus descubrimientos
 sadhu_9_underwater_1_description=¿Entonces qué es lo que yace allá, bajo las olas, que debe ser visto?
 sadhu_9_underwater_1_description_success=¿Dices que tan profundo como fuiste, no hubo señales de ningún tipo de vida...? ¿Ni peces, ni niguna vida marina? Esto requerirá que reflexione mucho durante un tiempo.
 sadhu_9_underwater_1_description_refuse=Me quedaré a rezar hasta que cambies de paracer, $name.
-sadhu_9_underwater_1_listing=Sumérgete al menos 15 metros bajo la superficie del mar.
+sadhu_9_underwater_1_listing=Sumérgete al menos 12 metros bajo la superficie del mar.
 
 sadhu_10_underwaterglass_0_label=Ventana en las profundidades
 sadhu_10_underwaterglass_0_description=He reflexionado mucho sobre tu reporte, $name. Quizás no viste lo suficientemente bien, en una de tus sumergidas fugaces. Necesito que regreses al mar – y construyas una cámara de observación tan profundo como puedas, de donde puedas estudiar las profundidades en paz.
@@ -144,7 +144,7 @@ sadhu_10_underwaterglass_1_label=Reporta tus descubrimientos
 sadhu_10_underwaterglass_1_description=¿Qué has visto, donde ningún otro hombre ha visto antes?
 sadhu_10_underwaterglass_1_description_success=Entonces el fondo del mar es en verdad un lugar sin vida, desprovisto de vida más allá de esos misteriosos calamares. Esto no puede ser... Ningún mar puede estar tan vacío, ¿y cómo pueden tan enormes animales sobrevivir sin ninguna presa? <ret><ret>Me has dado mucho en que pensar, $name. Regresa luego y tal vez tenga algunas respuestas para ti.
 sadhu_10_underwaterglass_1_description_refuse=Me quedaré aquí a rezar porque cambies de parecer, $name.
-sadhu_10_underwaterglass_1_listing=Construye una cámara de observación con vidrio al menos 20 metros bajo la superficie.
+sadhu_10_underwaterglass_1_listing=Construye una cámara de observación con vidrio al menos 15 metros bajo la superficie.
 
 sadhu_11_pujas_0_label=Conocimientos y rituales
 sadhu_11_pujas_0_description=Mientras explorabas los mares, enfoqué todos mis pensamientos en ese misterio que dejaste - la mesa de hechizos. He luchado para descifrar la escritura del libro y los secretos tras la construcción de la mesa en sí, y no pude entender nada. Pero la sabiduría vino en mis meditaciones: la mesa y el libro no importan. Un hombre práctico como tú los necesita, pues son un soporte material en el que enfocarse. Pero el poder no esta en ellos, está en ti y el mundo. Y hay otras formas de aprovecharlo.<ret><ret>Incluso creo que un aldeano pandit puede hacer lo mismo, con entrenamiento suficiente. Quiero que vayas a la aldea hindú más cercana y lleves este pergamino a su sacerdote. Con los cánticos que escribí en él, debería poder pedirle a los dioses que bendigan las herramientas que le des, siempre y cuando ofrezcas ofrendas apropiadas para las deidades.

@@ -9,6 +9,8 @@ hiringcost=20
 texture=/graphics/mob/byzanz/soldier0.png
 
 goal=gorest
+goal=gosocialise
+goal=chat
 goal=gopray
 goal=goDrink
 goal=getGoodsHousehold
@@ -18,19 +20,9 @@ goal=patrol
 goal=training
 goal=huntmonster
 
-toolNeeded=steelSword
-toolNeeded=steelhelmet
-toolNeeded=steelchest
-toolNeeded=steellegs
-toolNeeded=steelboots
-
-toolNeeded=bow
-
-toolNeeded=byzantineMace
-toolNeeded=byzantinelegs
-toolNeeded=byzantineboots
-toolNeeded=byzantineplate
-toolNeeded=byzantinehelmet
+toolneededclass=armour
+toolneededclass=meleeweapons
+toolneededclass=rangedweapons
 
 baseAttackStrength=12
 tag=helpInAttacks

@@ -30,8 +30,11 @@ villager.japanese_merchant_food=Comerciante de Mantimentos
 villager.japanese_merchant_blacksmith=Comerciante de Utensílios
 villager.japanese_bravewoman=Mulher Corajosa
 villager.japanese_bandit=Bandido Japonês
+villager.japanese_brewer=Chefe Cervejeiro
+villager.japanese_brewerwife=Cervejeira
 
 shop.armyforge=Armas e Armaduras
+shop.fishery=Peixe Cozido
 shop.forge=Ferramentas
 shop.japanesecrafter=Papel
 shop.japaneseoutpost=Loja Central

@@ -29,7 +29,6 @@ basilkabyzantine_A0=市场大厅
 barracksbyzantine_A0=兵营
 barracksbyzantine_A_bed_A0=床
 presbyterybyzantine_A0=长老会
-cattlebyzantine_A0=养牛场
 fortbyzantine_A_forge_A0=铁匠铺
 playerfortbyzantine_A_forge_A0=铁匠铺
 well_A0=井

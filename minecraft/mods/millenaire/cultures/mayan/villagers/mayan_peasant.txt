@@ -13,16 +13,18 @@ goal=gopray
 goal=bringBackResourcesHome
 goal=getResourcesForBuild
 goal=construction
+goal=buildpath
+goal=clearoldpath
 
 goal=slaughterChicken
 goal=harvestMaize
 goal=plantMaize
 goal=cookchicken
+goal=gosocialise
+goal=chat
 
-toolNeeded=stonehoe
-toolNeeded=stonesword
-toolNeeded=mayanhoe
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
+toolneededclass=hoes
 
 bringBackHomeGood=chickenmeat
 bringBackHomeGood=maize

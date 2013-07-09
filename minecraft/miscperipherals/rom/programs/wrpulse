@@ -1,3 +1,5 @@
+os.loadAPI("rom/apis/miscperipheralsutil")
+
 args = {...}
 if #args < 1 then
   print("Usage: wrpulse frequency")
@@ -10,16 +12,7 @@ if frequency == nil or frequency < 1 or frequency > 5000 then
   return
 end
 
-rether = nil
-retherSide = nil
-for i, side in pairs(rs.getSides()) do
-  if peripheral.getType(side) == "wirelessRedstone" then
-    rether = peripheral.wrap(side)
-    retherSide = side
-    break
-  end
-end
-
+rether, retherSide = miscperipheralsutil.getPeripheral("wirelessRedstone")
 if rether == nil then
   print("No REther peripheral found")
   return

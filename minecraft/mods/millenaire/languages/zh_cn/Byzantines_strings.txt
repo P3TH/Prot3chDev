@@ -1,6 +1,5 @@
 culture.byzantines=拜占庭文明
 
-//Norman:
 villager.teenagerMale=青年
 villager.teenagerFemale=青年
 villager.boy_byzantine=男孩
@@ -32,8 +31,6 @@ villager.architect_byzantine=建筑师
 villager.silkfarmer_byzantine=织工
 villager.silkfarmerwife_byzantine=织工
 villager.armysmith_byzantine=军械士
-villager.cowherd_byzantine=牧牛者
-villager.cowherd_female_byzantine=牧牛者
 
 villager.smuggler_silk=丝绸商人
 villager.merchant_art=艺术商人
@@ -56,4 +53,5 @@ shop.tavernbyz=酒
 shop.lonesheep=羊毛
 shop.bakery=面包店
 shop.fishery=鱼
-shop.cattlefarm=牛肉和皮革
+shop.sheepfarm=羊羔,皮革和羊乳酪
+shop.clothing=衣服

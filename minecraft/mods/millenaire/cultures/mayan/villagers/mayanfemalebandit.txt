@@ -8,6 +8,7 @@ health=15
 model=femaleasymmetrical
 tag=archer
 tag=raider
+tag=noteleport
 
 texture=/graphics/mob/mayan/mayanfemalebandit0.png
 texture=/graphics/mob/mayan/mayanfemalebandit1.png
@@ -17,12 +18,12 @@ goal=goDrink
 goal=patrol
 goal=huntmonster
 
-toolNeeded=stonesword
-toolNeeded=bow
-toolNeeded=mayanmace
+toolneededclass=meleeweapons
+toolneededclass=rangedweapons
 
 baseAttackStrength=6
 tag=helpInAttacks
 defaultweapon=woodsword
 startingInv=bow,1
+startingInv=arrow,64
 experiencegiven=10

@@ -1,4 +1,4 @@
-version:3.1.7
+version:4.8.0
 Millénaire: Construções Japonesas
 
 Centros da Aldeia
@@ -8,6 +8,9 @@ Shuudannoujou: Fazenda. O centro de uma aldeia agrícola onde o chefe agricultor
 Bousai: Castelo. Este edifício é onde reside o samurai e a sua esposa e pode ser melhorado e transformado numa fortaleza impressionante, rodeada de muralhas e de torres de vigia.
 
 Kumonjo: Palácio Imperial. Os Japoneses construíam sedes imperiais enormes onde centravam as suas aldeias. O imperador e a sua esposa residem aqui, vigiando a sua aldeia de dia e de noite. Todos os projectos de construção são criados aqui, bem como outras propostas e planos adicionais.
+
+Tsukurizakaya: Fábrica de Saqué. Este edifício complexo é dedicado à produção do famoso saqué a partir do arroz. O chefe cervejeiro e a sua esposa trabalham aqui, e em redor da fábrica desenvolve-se uma aldeia comerciante.
+
 NEW_PAGE
 Habitações
 
@@ -42,9 +45,10 @@ Saisekijou: Pedreira. É aqui que o mineiro e a sua esposa vivem, e de onde é r
 Heisha: Casa do Guerreiro. Nesta habitação reside um guerreiro ou um guarda junto com a sua esposa.
 
 Noujou Nojo: Plantação de Trigo. É aqui que o agricultor e a sua esposa vivem, e onde produzirão e recolherão o trigo para a aldeia.
+
 NEW_PAGE
 Construções Decorativas
 
 Ike: Charco. Uma construção decorativa que dá um ar apelativo à aldeia.
 
-Torii: Portal Torii. Uma bela estrutura até onde os aldeões se deslocam para rezar.
+Soushi: Santuário Xintoísta. Este pequeno santuário é utilizado pelos aldeões para as suas orações.

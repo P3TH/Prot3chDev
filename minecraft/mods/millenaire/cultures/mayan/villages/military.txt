@@ -11,6 +11,9 @@ biome:lush swampland
 biome:jungle
 biome:rainforest
 
+pathmaterial:pathdirt
+pathmaterial:pathslabs
+
 //starting buildings:
 centre:mayanpyramid
 start:mayanhouse
@@ -25,6 +28,7 @@ player:mayanplayerlargefield
 player:mayanplayerhugefield
 player:mayanplayerestate
 player:mayanplayerlargehouse
+player:gifthouse
 
 //to be built in priority
 core:mayancrafter
@@ -40,10 +44,10 @@ secondary:mayanalter
 secondary:mayansheepchickenfarm
 secondary:mayansculptorhouse
 secondary:mayanmarket
+secondary:mayancacaofarm
+secondary:mayanshamangrounds
 
 //never for this type of village
-never:mayanshamangrounds
 never:mayantemple
 never:mayancistern
-never:mayanshamangrounds
 never:mayancalendar

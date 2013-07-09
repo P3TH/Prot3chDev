@@ -62,3 +62,4 @@ loneinn_A0=Afgelegen Herberg
 lonemill_A0=Afgelegen WaterMolen
 feloncastle_A0=Felonkasteel
 pantheon_A0=Pantheon
+gifthouse_a0=Cadeautjeshuis

@@ -22,6 +22,7 @@ villager.mayan_merchant=Comerciante
 villager.mayan_chickenfarmer=Avicultor
 villager.mayan_farmer=Agricultor
 villager.mayan_obsidiancrafter=Artesão de Obsidiana
+villager.mayan_cocoafarmer=Agricultor de Cacau
 
 villager.lonemayanfarmer=Agricultor
 villager.lonemayanpeasantwife=Agricultora
@@ -35,8 +36,16 @@ villager.merchant_mayanfarmer=Comerciante Agricultor
 villager.merchant_mayanhunter=Comerciante Caçador
 villager.merchant_mayanshaman=Comerciante Xamã
 
-shop.lonemayanfarm=Productos Agrícolas
+villager.questfallenking=Rei Caído
+villager.questkingelitewarrior=Guerreiro de Elite
+villager.questkinglieutnant=Tenente
+villager.questkingscout=Batedor
+villager.questkingwarrior=Guerreiro
+villager.questshaman=Xamã
+
+shop.lonemayanfarm=Produtos Agrícolas
 shop.mayanarmyforge=Armas e Armaduras
+shop.mayancocoa=Cacau e Cacahuá
 shop.mayancrafter=Ferramentas
 shop.mayanobsidiancrafter=Objectos de Obsidiana
 shop.mayansheepchickenfarm=Produtos de Aves

@@ -1,9 +1,9 @@
 version:3.4
 <darkblue>Combattimenti e raid
 
-Millénaire non è smepre pacifica: puoi combattere i cittadini, i villaggi possono fare raid contro altri, i mostri attaccano i villaggi e alcuni edifici isolati sono abitati da banditi. Quale che siano le circostanze certi principio non cambiano: <darkblue>gli abitanti sono vulnerabili solo ad attacchi diretti (spade, frecce, pozioni)<black>. Sono immuni a fuoco, cadute e cactus. Questa limitazion  è per evitare che siano uccisi da un giocatore senza che loro possano reagire.
+Millénaire non è sempre una mod pacifica: puoi combattere i cittadini, i villaggi possono fare raid contro altri, i mostri attaccano i villaggi e alcuni edifici isolati sono abitati da banditi. Quale che siano le circostanze, certi principi non cambiano: <darkblue>gli abitanti sono vulnerabili solo ad attacchi diretti (spade, frecce, pozioni)<black>. Sono immuni a fuoco, cadute e cactus. Questa limitazione è per evitare che siano uccisi da un giocatore senza che loro possano reagire.
 
-I cittadini non hannon tutti la stessa forza e possono diventare più pericolosi in base al loro equipaggiamento.
+I cittadini non hanno tutti la stessa forza e possono diventare più pericolosi in base al loro equipaggiamento.
 
 <darkblue>Rigenerazione degli abitanti
 
@@ -19,9 +19,9 @@ Gli abitanti di alcuni edifici solitari attaccano senza preavviso. La reputazion
 
 <darkblue>Raid tra villaggi
 
-In Millénaire i rapporti tra villaggi vicini possono essere positivi o negativi. Queste relazioni cambiano casualmente e possono essere influenzate dal giocatore parlando con i capovillaggio. Se i rapporti sono negativi e ci sono abbstanza combattenti, un villaggio può fare un incursione ad un altro villaggio ed un messaggio sarà visualizzato. Durante un raid gli attacnti cercheranno di uccidere tutti gli uomini del villaggio. In caso di successo ruberanno alcune delle risorse come bottino. Il giocatore può aiutare una delle due fazioni.
+In Millénaire i rapporti tra villaggi vicini possono essere positivi o negativi. Queste relazioni cambiano casualmente e possono essere influenzate dal giocatore parlando con i capovillaggio. Se i rapporti sono negativi e ci sono abbastanza combattenti, un villaggio può fare un'incursione in un altro villaggio ed un messaggio sarà visualizzato. Durante un raid gli attaccanti cercheranno di uccidere tutti gli uomini del villaggio. In caso di successo ruberanno alcune delle risorse come bottino. Il giocatore può aiutare una delle due fazioni.
 
-Può essere utile incoraggiare un villaggio ad attaccare i vicini per incrementare le proprie risorse. Più cinicamente, incoraggiando le incursioni permette di rubare risorse qunado i difensori sono morti.
+Può essere utile incoraggiare un villaggio ad attaccare i vicini, per incrementarne le proprie risorse. Più cinicamente, incoraggiare le incursioni permette di rubare le risorse qunado i difensori sono morti.
 
 <darkblue>Arruolare una guardia
 

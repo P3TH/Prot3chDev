@@ -36,6 +36,7 @@ locale {
             S:msg.nc.HowlerAlarmSoundRange=Sound range: %s
             S:msg.nc.InfoPanelEnergy=Energy: %s
             S:msg.nc.InfoPanelEnergyCounter=Energy: %sEU
+            S:msg.nc.InfoPanelEnergyCounterMJ=Energy: %sMJ
             S:msg.nc.InfoPanelEnergyFree=Free: %s
             S:msg.nc.InfoPanelEnergyFreeN=#%d Free: %s
             S:msg.nc.InfoPanelEnergyN=#%d Energy: %s
@@ -53,10 +54,14 @@ locale {
             S:msg.nc.InfoPanelMaxHeat=MaxHeat: %s
             S:msg.nc.InfoPanelMelting=Melting: %s
             S:msg.nc.InfoPanelNoTarget=Target Not Found
+            S:msg.nc.InfoPanelNotFoundN=#%d Not Found
             S:msg.nc.InfoPanelOff=Off
             S:msg.nc.InfoPanelOn=On
             S:msg.nc.InfoPanelOutOfRange=Out Of Range
+            S:msg.nc.InfoPanelOutOfRangeN=#%d Out Of Range
             S:msg.nc.InfoPanelOutput=Output: %sEU/t
+            S:msg.nc.InfoPanelOutputMJ=Output: %sMJ/t
+            S:msg.nc.InfoPanelOutputSteam=Output: %smB/t
             S:msg.nc.InfoPanelTime=Time: %s
             S:msg.nc.InfoPanelTimeRemaining=Remaining: %s
             S:msg.nc.None=N/A
@@ -85,6 +90,8 @@ locale {
             S:msg.nc.cbInfoPanelOnOff=On/Off status
             S:msg.nc.cbInfoPanelOutput=Output (EU/t)
             S:msg.nc.cbInfoPanelTimeRemaining=Time to cycle end
+            S:tile.blockAdvancedInfoPanel.name=Advanced Information Panel
+            S:tile.blockAdvancedInfoPanelExtender.name=Advanced Panel Extender
             S:tile.blockAverageCounter.name=Average Counter
             S:tile.blockEnergyCounter.name=Energy Counter
             S:tile.blockHowlerAlarm.name=Howler Alarm

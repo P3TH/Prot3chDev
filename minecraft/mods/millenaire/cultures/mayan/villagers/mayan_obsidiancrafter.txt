@@ -13,11 +13,12 @@ goal=makemayanpickaxe
 goal=makemayanshovel
 goal=makemayanhoe
 goal=makeobsidianflake
+goal=gosocialise
+goal=chat
 
 toolNeeded=obsidian
 
-toolNeeded=stoneaxe
-toolNeeded=mayanaxe
+toolneededclass=axes
 
 tag=helpInAttacks
 defaultweapon=woodaxe

@@ -1,5 +1,5 @@
 name:Gros Bourg
-weight:30
+weight:10
 qualifier:le-bourg
 radius:55
 carriesraid:true
@@ -17,6 +17,10 @@ biome:river
 biome:autumn woods
 biome:green hills
 biome:forested hills
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathslabs
 
 //hamlets to be generated around:
 hameau:hameau_agricole
@@ -36,6 +40,7 @@ player:playerlargefield
 player:playerlargehouse
 player:playerhugefield
 player:playerestate
+player:gifthouse
 
 //to be built in priority
 core:forge

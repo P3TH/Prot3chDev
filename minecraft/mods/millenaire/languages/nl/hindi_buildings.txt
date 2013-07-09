@@ -72,3 +72,4 @@ sandblasted_A0=Verlaten Handelspost
 indiandesertedfarm_A0=Vernietigde Indiaanse Boerderij
 loneshrine_A0=Eenzame Hindu Tempel
 sadhutree_A0=Sadhus Boom
+gifthouse_a0=Cadeautjeshuis

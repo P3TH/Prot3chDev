@@ -134,7 +134,7 @@ sadhu_9_underwater_1_label=Rapporteer bevinden
 sadhu_9_underwater_1_description=En wat was er te zien zo diep onder de golven?
 sadhu_9_underwater_1_description_success=You say that as deep as you went, there was no sign of life... No fish, and no aquatic plants? This will require much thought on my part.Je zegt dat zo diep als je ging, er was geen teken van leven... Geen vis of waterplanten? Dit geeft ne veel om over te denken. 
 sadhu_9_underwater_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
-sadhu_9_underwater_1_listing=Duik teminste 15 meter onder het zeeoppervlak.
+sadhu_9_underwater_1_listing=Duik teminste 12 meter onder het zeeoppervlak.
 
 sadhu_10_underwaterglass_0_label=Raam in de diepte
 sadhu_10_underwaterglass_0_description=Ik heb lang gedacht over je rapport, $name. Misschien heb je niet genoeg gezien in je duiktochten. Ik wil at je terug gaat naar de zee en een observatiekamer bouwt zo diep als je kunt, waar je de diepten in vrede kunt verkennen.
@@ -144,7 +144,7 @@ sadhu_10_underwaterglass_1_label=Meld bevindingen
 sadhu_10_underwaterglass_1_description=Wat heb je gezien, waar geen man ooit is geweest?
 sadhu_10_underwaterglass_1_description_success=Dus de zeebodem is echt een kale plek, zonder leven afgezien van die mysterieuse inktvissen. Dit kan niet zijn... Geen zee is leeg en hoe kunnen zulke machtige beesten leven zonder prooi?<ret><ret>Je hebt me veel gegeven om over te denken. Kom over een poosje terug en ik bid dat ik dan de antwoorden voor je heb.
 sadhu_10_underwaterglass_1_description_refuse= Ik blijf hier en zal ervoor bidden dat je van gedachten verandert, $name
-sadhu_10_underwaterglass_1_listing=Bouw een observatiekamer met een glazen plafond ten minste 20 meter beneden het wateroppervlak.
+sadhu_10_underwaterglass_1_listing=Bouw een observatiekamer met een glazen plafond ten minste 15 meter beneden het wateroppervlak.
 
 sadhu_11_pujas_0_label=Kennis en rituelen
 sadhu_11_pujas_0_description=Terwijl je de zee verkende, heb ik me gefocust op het mysterie dat je achterliet – de magische tafel. Ik heb geworstelt om de boeken en de geheimen van de tafel zelf te ontcijferen, maar begreep niks. De kennis echter kwam in mijn meditatie: de tafel en boeken maken niet uit. Een praktische man als jij hebt ze nodig, een materiële ondersteuning voor je om je op te focussen. Maar de kracht zit niet in hen. Die zit in jou en in de wereld. En er zijn andere manieren om die te krijgen.<ret><ret>Ik geloof dat zelfs een dorps pandit iets vergelijkbaars kan doen, met goede training. Ik wil dat je naar een nabijgelegen Indiaas dorp gaat en deze perkamenten aan een priester geeft. Met de versen die ik geschreven heb, zou hij naar de goden moeten kunnen bidden om te werktuigen te zegenen die je hem geeft, maar dan wel de juiste om een offer uit te voeren.

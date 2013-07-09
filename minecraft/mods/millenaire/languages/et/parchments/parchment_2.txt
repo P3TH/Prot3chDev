@@ -1,26 +1,58 @@
-﻿version:1.1.4
-Millénaire: Normannide ehitisedKüla keskväljakud
+﻿version:1.1.4 
+Millénaire: Normannide ehitised 
 
-Loss. Sõja külades, see väike puit kindlus on nagu küla raekoda. Rüütel ja tema naine elavad seal. Piisava juurdepääsu kivile, muutub küla sõjakindluseks.Klooster : Klooster. Vaimulikud külad on keskendunud selle asemel õppele ja pühendumisele, kus munk kirjutab väsimatult käsikirju, neid hoitakse kenades raamaturiiulites. On seal ju, et kohalikud talunikud lähevad maksma oma tänu - kaupade ja tasuta töö eest Pühas kirikus. See kõik tasutakse tagasi järgmises elus. Mõis : Mõis. Põllumajandus külade keskel, on kilteri hoone,hoolitsedes et talupojad maksavad oma maksud mõisniku juurde ja temale ka.
+Küla keskväljakud 
 
- Gildi saal : Gildi maja. Testament oskustöölistele kes selle ehitasid, käesolev gild maja toimib peakorterina kohalike käsitöömeistritele kes teenivad Gildi isanda all.
-NEW_PAGE
-ElamispindRelvad : Seppikoda. Kui on asustatud sepa poolt, toimib see rüüde ja mõõkade valmistajana.Loomakasvatus : Veise farm. Lehmi kasvatatakse seal, et saada nahka ja piima. Normannide pump.
+Loss. Sõjalistes külades, see väike puidust kindlus on nagu küla raekoda. Rüütel ja tema naine elavad seal. Piisav juurdepääs kivile, muutub küla sõjakindluseks. 
 
-Aretusaed : Sigala. Siin sead on muutunud suurteks hunnikuteks karbonaadtideks ja suurepäraseks Elevage Porcin-deks.Tõulambad : Lamba farm. Lambaid kasvatatakse seal villa saamiseks. Väiksem tarastatud alal on kanad, kelle mune ja sulgi korjatakse.
+Abbaye : Klooster. Vaimulikud külad on keskendunud õppele ja on pühendunud, seal munk kirjutab väsimatult käsikirju, neid hoitakse kenades raamaturiiulites. On seal ju kohalikud talunikud lähevad maksma oma tänu - kaupade ja tasuta töö eest Pühas kirikus. See kõik tasutakse tagasi järgmises elus. 
 
-Talu : Farm. Teravilja farm, kus talunik toodab teravilja pagariäri jaoks.
+Manoir : Mõis. Põllumajandus külade keskel, on kiltri hoone,hoolitseb et talupojad maksavad oma maksud mõisniku juurde ja temale ka. 
 
-Sepikoda :  Sepikoda. Kui on asustatud toimib see tootmis keskusena Normannnide töövahenditele, saavad kasutada ka teised külaelanikud ja müüb ka mängijale .Vahtkonnahoone : Vahimaja. Asustatud valvuri ta tema naise poolt.Puuraiduri onn : Puuraiduri maja. Asustatud puuraiduri ja tema naise poolt.Pihi kamber : Pihi kamber. Asustatud preestri poolt.
+Hall de la Guilde : Gildi maja. Testament oskustöölistele kes selle ehitasid, käesolev gild maja toimib peakorterina kohalike käsitöömeistritele kes teenivad Gildi isanda all. 
+NEW_PAGE 
+Elamispind 
 
-Karjäär : Karjäär. Asustatud kaevuri ja tema naisepoolt, ja kust ta kaevab näiliselt lõpmatut olevaid kivive ja liiva resursse.Puusepa maja : Puusepa maja. Asustatud puusepa ja tema naisepoolt.Võõrastemaja : Võõrastenaja. Külastavad kaupmehed, hõivavad koha, kui nad koguvad ressurse külast. Kui see on tühi, siis teismeline poiss võib saada kaupmees.
+Armurerie : Relvistu. Kui on asustatud sepa poolt, toimib see rüüde ja mõõkade valmistajana. 
 
-Relais : Külalistemaja. Väiksem kui võõrastemaja, see koht majutab külalis kaupmeest, aga ükski teismeline ei hõiva seda kohta.Turg : Turg. Iga korralik küla lõppkokkuvõttes tahab kohta kus välis kaupmehed saavad tulla eksootilisi kaupu müüma!
-NEW_PAGEAsustamatta EhitisedArhiivide küla : Linnaarhiiv. Näitab märki iga külaelaniku kohta, mis annab teavet, mida nad teevad ja nende perekonna ajalugu.
+Elevage Bovin : Veise farm. Kasvatatakse lehmi, et saada nahka ja piima. Normannide pump. 
 
-Pagaritooted : Pagar. Kasutatud küla naise poolt, et teha leiba, teraviljast mis on korjatud külaelanike poolt. Oluline hoone, leiva olemasolul suurendab laste kasvu kiirust.
+Elevage Porcin : Sigala. Siin sead on muutunud suurteks hunnikuteks karbonaadtideks ja suurepäraseks Elevage Porcin-deks. 
 
-Kabel / Kirik : Kabel / Kirik. Kabel hiljem uuendatakse kirikuks, külastavad külaelanikud, kes tunnevad vajadust palvetada.Kõrts : Kõrts.Küla naine toodab siidrit, ja hiljem, kui alembic on paigaldatud, calva. Külaelanik jäheb sinna ka jooma.
+Elevage Ovin : Lamba farm. Lambaid kasvatatakse seal villa saamiseks. Väiksemal tarastatud alal on kanad, kelle mune ja sulgi korjatakse. 
 
-Tour de guet : Vaitorn .  Vaatlus punkt patrulliva sõduri poolt.
-NEW_PAGEDekoratiiv ehitisedPurskkaev / Suur purskkaev / Kaev. Purskkaev / Suur purskkaev /Kaev : pelgalt dekoratiivsed hooned.
+Ferme : Farm. Teravilja farm, kus talunik toodab teravilja pagariäri jaoks. 
+
+Forge :  Sepikoda. Kui on asustatud toimib see tootmis keskusena Normannnide töövahenditele, saavad kasutada ka teised külaelanikud ja müüb ka mängijale. 
+
+Maison du garde : Vahimaja. Asustatud valvuri ta tema naise poolt. 
+
+Hutte du bûcheron: Puuraiduri hütt. Asustatud puuraiduri ja tema naise poolt. 
+
+Prestitèrer : Pihi kamber. Asustatud preestri poolt. 
+
+Carrière : Kaevandus. Asustatud kaevuri ja tema naisepoolt, ja kust ta kaevab näiliselt lõpmatut olevaid kivive ja liiva kuhjasid. 
+
+Maison du charpentier : Puusepa maja. Asustatud puusepa ja tema naisepoolt. 
+
+Auberge : Võõrastenaja. Külastavad kaupmehed, hõivavad koha, kui nad koguvad ressurse külast. Kui see on tühi, siis teismeline poiss võib saada kaupmees. 
+
+Relais : Külalistemaja. Väiksem kui võõrastemaja, see koht majutab külalis kaupmeest, aga ükski teismeline ei hõiva seda kohta. 
+
+Marché : Turg. Iga korralik küla lõppkokkuvõttes tahab kohta kus välis kaupmehed saavad tulla eksootilisi kaupu müüma! 
+NEW_PAGE 
+Asustamatta Ehitised 
+
+Archives du village : Linnaarhiiv. Näitab märki iga külaelaniku kohta, mis annab teavet, mida nad teevad ja nende perekonna ajalugu. 
+
+Boulangerie : Pagarikoda. Kasutatud küla naise poolt, et teha leiba, teraviljast mis on korjatud külaelanike poolt. Oluline hoone, leiva olemasolul suurendab laste kasvu kiirust. 
+
+Chapelle / Eglise : Kabel / Kirik. Kabel hiljem uuendatakse kirikuks, külastavad külaelanikud, kes tunnevad vajadust palvetada. 
+
+Taverne : Kõrts.Küla naine toodab siidrit, ja hiljem, kui alembic on paigaldatud siis ka calva. Külaelanik jäheb sinna ka jooma. 
+
+Tour de guet : Vahitornn. Vaatlus punkt patrulliva sõduri poolt. 
+NEW_PAGE 
+Dekoratiiv ehitised 
+
+Fontaine / Grande Fontaine / Puit. Purskkaev / Suur purskkaev /Kaev : pelgalt dekoratiivsed hooned.

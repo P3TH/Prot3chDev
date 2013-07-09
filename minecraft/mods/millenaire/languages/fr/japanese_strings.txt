@@ -10,7 +10,7 @@ villager.japanese_loneminer=Mineur
 villager.japanese_monk=Moine
 villager.japanese_peasant=Paysan
 villager.japanese_peasantwife=Paysanne
-villager.japanese_samuraigeneral=Général samouraï
+villager.japanese_samuraigeneral=Seigneur
 villager.japanese_richwoman=Dame
 villager.japanese_samurai=Samouraï
 villager.japanese_emperor=Empereur
@@ -30,6 +30,8 @@ villager.japanese_merchant_food=Marchant de nourriture
 villager.japanese_merchant_blacksmith=Marchant d'outils
 villager.japanese_bravewoman=Femme courageuse
 villager.japanese_bandit=Bandit japonais
+villager.japanese_brewer=Maître brasseur
+villager.japanese_brewerwife=Brasseuse
 
 shop.japanesetownhall=Magasin central
 shop.forge=Outils

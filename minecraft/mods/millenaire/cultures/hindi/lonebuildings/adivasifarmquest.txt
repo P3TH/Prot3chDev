@@ -1,14 +1,14 @@
 name:Adivasi ka Ghar
-weight:100
+weight:0
 radius:25
 biome:swampland
+//biome:Jungle
 
 //extraBiomes mod
 biome:lush swamplands
 
-requiredtag:sadhu_5b_start
 max:1
-keyLoneBuilding:true
+keyLoneBuildingGenerateTag:adivasifarmquest_generate
 
 //starting buildings:
 centre:adivasifarm
