@@ -7,13 +7,13 @@ INFORMATION:
 
 
 Install instructions:
-1: Download the files
-2: Use multimc http://forkk.net/MultiMC4.html and click add instance
-3: select the appropriate minecraft version and logo.
-4: View your github folder and paste the contents into the instance.
-5: Click force update when running, and your done.
+- 1: Download the files
+- 2: Use multimc http://forkk.net/MultiMC4.html and click add instance
+- 3: select the appropriate minecraft version and logo.
+- 4: View your github folder and paste the contents into the instance.
+- 5: Click force update when running, and your done.
 
-Exta: You may need to increase permgen size or increase RAM when running the pack, for more
+- Exta: You may need to increase permgen size or increase RAM when running the pack, for more
 information I reccomend you google it :).
 
 
